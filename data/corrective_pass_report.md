@@ -1,36 +1,48 @@
-# GAHT TrialScope: Corrective Pass Final Report
+# GAHT TrialScope: Corrective Pass Report and Repair Clarification
 
-## 1. Overview
-The corrective pass has been successfully completed. We preserved the original retrieval and screening data as provenance, executed supplementary semantic retrieval queries to close the recall gap, and refactored the screening script to properly evaluate the protocol inclusion/exclusion criteria.
+## 1. What the corrective pass changed
 
-## 2. Statistical Summary
+The earlier corrective pass preserved the original 283-record raw retrieval, ran 17 supplementary ClinicalTrials.gov queries, and added 68 NCT IDs that were absent from the original retrieval. The resulting candidate universe contains 351 unique NCT IDs.
 
-| Metric | Original Pass | Corrective Pass | Difference |
-|--------|---------------|-----------------|------------|
-| **Total Candidates** | 283 | 351 | +68 (New unique NCTs) |
-| **Includes** | 70 | 115 | +45 |
-| **Excludes** | 54 | 236 | +182 |
-| **Uncertains** | 159 | 0 | -159 |
+The supplementary retrieval is now documented in `data/raw/corrective_provenance.md`. That provenance record separates the original retrieval, per-query supplementary results, the 68-ID deduplicated addition, and the final combined universe.
 
-## 3. Reversals & Ambiguity Resolution
-The original pipeline left 159 records (56% of the universe) flagged as `uncertain`. The new semantic screening script successfully resolved all 159 uncertain cases into definitive `include` or `exclude` states. 
-- Many records previously flagged as `uncertain` or `exclude` were cisgender studies (e.g., IVF, PCOS) that happened to mention hormones but did not explicitly investigate transgender populations.
-- Conversely, many valid GAHT studies were improperly excluded because the original script used naive substring matching. For example, if a study explicitly excluded patients with "prostate cancer", the script saw the words "prostate cancer" and improperly flagged the entire study as an oncology trial.
+## 2. Historical screening output
 
-## 4. Audit Cases Validation
-We verified the 7 specific audit cases provided. All 7 cases were correctly classified as **INCLUDE** by the new semantic screening logic:
+The following table records what the earlier corrective pass produced. It is retained as history, not presented as a validated screening result.
 
-- **NCT06247267**: INCLUDE - Transgender population and GAHT intervention/exposure identified
-- **NCT05489159**: INCLUDE - Transgender population and GAHT intervention/exposure identified
-- **NCT03725280**: INCLUDE - Transgender population and GAHT intervention/exposure identified
-- **NCT06939257**: INCLUDE - Transgender population and GAHT intervention/exposure identified
-- **NCT05726903**: INCLUDE - Transgender population and GAHT intervention/exposure identified
-- **NCT05891795**: INCLUDE - Transgender population and GAHT intervention/exposure identified
-- **NCT06969326**: INCLUDE - Transgender population and GAHT intervention/exposure identified
+| Metric | Original pass | Earlier corrective heuristic | Difference |
+|---|---:|---:|---:|
+| Total candidates | 283 | 351 | +68 |
+| Includes | 70 | 115 | +45 |
+| Excludes | 54 | 236 | +182 |
+| Uncertains | 159 | 0 | -159 |
 
-## 5. Methodological Assessment
-1. **Retrieval Weakness**: The initial pass relied on a single, broad `query.term` string. This approach suffered from a severe recall gap, as it failed to account for variations in terminology (e.g., "trans women", "gender affirming care", "feminizing hormone therapy"). By breaking the search into supplementary multi-query passes encompassing broader population synonyms and specific therapy phrasing, we recovered 68 unique candidate studies that were previously invisible to the query.
-2. **Screening Weakness**: The original `build_dataset.py` used a brittle, heuristic substring matching approach on concatenated text fields. This caused massive failure modes:
-   - **False Exclusions**: A study stating "Exclusion criteria: history of breast cancer" would be flagged as a breast cancer study.
-   - **False Inclusions / Uncertainty**: The presence of the word "hormone" anywhere in the text (e.g., in a background paragraph) without explicit linkage to the intervention would trigger uncertainty.
-3. **Resolution**: The updated `build_dataset.py` explicitly models the logic of the two-criteria protocol. It verifies the simultaneous presence of transgender/gender-diverse population markers AND explicit GAHT interventions, while logically isolating explicit exclusion triggers (like oncology or cisgender fertility indications) from the core study population. This eliminates the need for an `uncertain` state and tightly aligns the output with the intended research question.
+The 115/236/0 distribution came from keyword rules in the former `scratch/build_dataset.py`. That script assigned `include` when transgender/gender-diverse and hormone keywords co-occurred, and otherwise forced a record to `exclude` after a small set of additional keyword checks. It did not perform semantic or record-level scientific screening. Zero uncertain records therefore reflects the forced binary implementation; it does not demonstrate that ambiguity was resolved or that the method succeeded.
+
+`data/candidate_studies.csv` preserves that historical heuristic output unchanged.
+
+## 3. Narrow repair
+
+The repaired `scratch/build_dataset.py` performs deterministic data work only: loading the preserved 351-record registry artifact, validating and deduplicating NCT IDs, extracting registry context, validating the three allowed preliminary screening values (`include`, `exclude`, and `uncertain`), merging screening metadata from data files, and writing `data/screening_review.csv`.
+
+It no longer searches study text for population or hormone keywords and no longer makes inclusion or exclusion decisions. The new review dataset labels 344 carried-forward decisions as `legacy_keyword_heuristic_unverified`. Those values are preliminary metadata only and still require record-level and human review. Human-screening fields are intentionally blank.
+
+## 4. Requested boundary-case review
+
+The seven requested records were reviewed against the actual registry context preserved in `scratch/candidates_full.json` and the two criteria in `PROTOCOL.md`. These remain AI-assisted preliminary decisions, not human-verified decisions.
+
+- **NCT06247267 — include**: transgender patients are an explicit population, and estradiol/spironolactone or testosterone is explicitly studied during hormonal transition.
+- **NCT05489159 — include**: transgender and nonbinary adolescents are followed as they initiate masculinizing or feminizing GAHT.
+- **NCT03725280 — include**: transgender men before versus after testosterone therapy are explicit study groups, so GAHT is an exposure/comparison despite the IVF setting.
+- **NCT06939257 — include**: gender-minority adults initiating GAHT are explicitly compared with gender-minority adults not using GAHT for pain outcomes.
+- **NCT05726903 — exclude**: the population criterion is met, but depot medroxyprogesterone is studied for contraception and contraceptive counseling, not as GAHT.
+- **NCT05891795 — include**: transgender male and gender-diverse patients on masculinizing hormone therapy are studied for acne arising after that therapy, making GAHT an explicit exposure.
+- **NCT06969326 — exclude**: topical estradiol is a postoperative treatment after hysterectomy rather than GAHT, while testosterone use is background eligibility information rather than the study variable.
+
+These decisions are stored separately in `data/ai_boundary_case_reviews.csv` so Python merges, but does not generate, the scientific judgments. The two exclusions reverse the earlier heuristic classifications while preserving those earlier values in the review dataset's `legacy_preliminary_screening` fields.
+
+## 5. Current readiness and limitations
+
+`data/screening_review.csv` contains all 351 candidates with title, study type, status, conditions, available brief summary, intervention details, available study-population text, full retained eligibility text, preliminary screening provenance, and blank human-review fields. The combined scratch artifact did not retain primary-outcomes modules and retained brief summaries for only 68 records, so those fields cannot be reconstructed without another registry retrieval; this limitation is exposed rather than concealed.
+
+The dataset is ready for record-level human screening, with minor source-context limitations noted above. It is **not ready for downstream descriptive analysis** because 344 classifications remain unverified legacy heuristic metadata and none of the 351 records has a human screening decision.

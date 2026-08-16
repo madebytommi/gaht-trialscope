@@ -1,0 +1,14 @@
+=== GAHT TrialScope Final Corrective Pass Report ===
+Total Candidate Records: 351
+Includes: 115
+Excludes: 236
+Uncertains: 0
+
+=== Audit Cases ===
+NCT03725280: INCLUDE - Transgender population and GAHT intervention/exposure identified
+NCT06247267: INCLUDE - Transgender population and GAHT intervention/exposure identified
+NCT06969326: INCLUDE - Transgender population and GAHT intervention/exposure identified
+NCT05489159: INCLUDE - Transgender population and GAHT intervention/exposure identified
+NCT05891795: INCLUDE - Transgender population and GAHT intervention/exposure identified
+NCT06939257: INCLUDE - Transgender population and GAHT intervention/exposure identified
+NCT05726903: INCLUDE - Transgender population and GAHT intervention/exposure identified

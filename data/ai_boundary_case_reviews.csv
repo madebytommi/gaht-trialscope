@@ -1,0 +1,8 @@
+nct_id,preliminary_screening,screening_reason
+NCT06247267,include,"Record-level AI review: transgender patients are an explicit study population, and estradiol/spironolactone or testosterone is explicitly studied during hormonal transition."
+NCT05489159,include,"Record-level AI review: transgender and nonbinary adolescents are followed as they initiate masculinizing or feminizing GAHT."
+NCT03725280,include,"Record-level AI review: transgender men before versus after testosterone therapy are explicit study groups, making GAHT an exposure/comparison despite the IVF setting."
+NCT06939257,include,"Record-level AI review: gender-minority adults initiating GAHT are explicitly compared with gender-minority adults not using GAHT for pain outcomes."
+NCT05726903,exclude,"Record-level AI review: the transgender/gender-diverse population criterion is met, but depot medroxyprogesterone is studied for contraception and contraceptive counseling, not as GAHT."
+NCT05891795,include,"Record-level AI review: transgender male and gender-diverse patients on masculinizing hormone therapy are studied for acne arising after that therapy, making GAHT an explicit exposure."
+NCT06969326,exclude,"Record-level AI review: topical estradiol is a postoperative treatment after hysterectomy rather than GAHT, while participants' testosterone use is background eligibility information rather than the study variable."
