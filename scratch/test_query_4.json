@@ -1,0 +1,492 @@
+{
+  "totalCount": 7,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06234488",
+          "briefTitle": "Multi-Institutional Transgender & Gender-Diverse Breast Cancer Study"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "There is no granular retrospective data on breast cancer in transgender and gender-diverse (TGD) persons from a contemporary and diverse American cohort. The purpose of this investigation is to aggregate data from multiple institutions to describe the risk, diagnosis, management, and outcomes of TGD persons with breast cancer in effort to identify opportunities for future intervention studies to eliminate breast cancer disparities for this population."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Breast Cancer",
+            "Breast Neoplasms",
+            "Breast Adenocarcinoma",
+            "Breast Cancer Stage",
+            "Breast Cancer Stage IV",
+            "Breast Cancer Invasive",
+            "Breast Cancer in Situ"
+          ],
+          "keywords": [
+            "Transgender",
+            "Breast Cancer",
+            "Nonbinary",
+            "Gender Diverse",
+            "Gender-Affirming Hormone Therapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "RETROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Transgender and Gender-Diverse Persons with Breast Cancer",
+              "description": "Patients who had a breast cancer diagnosis (including those with ductal carcinoma in situ (DCIS)), who were age \u226518 years at the time of diagnosis and identify as a gender and/or sex that is different from their sex assigned at birth (e.g., transgender, nonbinary, genderqueer, etc.) between 1/1/1990 - 7/1/2023."
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age 18 years of age or older\n2. Breast cancer diagnosis (including DCIS)\n3. Persons who identify as gender and/or sex that is different from the sex they were assigned at birth\n\nExclusion Criteria:\n\n1. Age \\<18 at time of breast cancer diagnosis\n2. Cis-gendered persons",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Transgender and gender-diverse persons (TGD)",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Eligible patients are those who had a breast cancer diagnosis (including those with ductal carcinoma in situ (DCIS), who were age \u226518 years at the time of diagnosis and identify as a gender and/or sex that is different from the sex they were assigned at birth (e.g., transgender, nonbinary, genderqueer, etc.) between 1/1/1990 - 7/1/2023.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02119377",
+          "briefTitle": "First Australian National Trans Mental Health Study"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "This is an Internet-based survey of transgender and transsexual (trans) people aged 18 years and older living in Australia. This population has received limited attention from public health researchers, planners, and practitioners. However, a growing body of evidence suggests that trans people experience disparities in several important areas of health compared with the population generally. In particular, trans people are more likely to experience mental health problems (notably depression and anxiety disorders), use alcohol, tobacco, and illicit drugs, and think about or attempt suicide. Additionally, trans people commonly report that their physical and mental health needs are not met, and underutilise preventive health care.\n\nParticipants were recruited using several non-probability sampling techniques, (including purposive sampling and snowball sampling), because random sampling is not possible with this population. Medical, social, support, and advocacy networks used by trans people were used to promote the study. A mixed quantitative and qualitative methodology was used. Validated quantitative instruments were used to obtain measures of health and well-being, which will be compared against population norms. Qualitative items complement these measures, providing rich experiential data.\n\nThe investigators hypothesised that:\n\n* the prevalence of depressive and anxiety disorders will be higher than for the population generally, and that these conditions will commonly be undiagnosed and untreated;\n* depressive and anxiety disorders will be associated with risky behaviours, such as tobacco, alcohol, and illicit drug use; and,\n* trans people will report poor relationships with medical practitioners.\n\nThe investigators hypothesised that poor mental health is a consequence of several interrelated factors: body dysphoria (as a consequence of experiencing difficulty accessing medical treatment to alter sexual characteristics); societal discrimination and stigma (including harassment and violence); institutionalised discrimination (including difficulty changing identifying documents, and exclusion of surgical procedures and related treatments from public and private health systems); social isolation; and the belief held by many clinicians that transsexualism is a mental disorder (which may be a barrier to trans people forming trusting relationships with medical practitioners)."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transsexualism"
+          ],
+          "keywords": [
+            "trans",
+            "transsexual",
+            "transgender",
+            "sistergirl",
+            "brotherboy",
+            "androgynous",
+            "genderqueer"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "CASE_ONLY",
+            "timePerspective": "CROSS_SECTIONAL"
+          },
+          "enrollmentInfo": {
+            "count": 946,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Transgender and Transsexual People",
+              "description": "Transgender and transsexual (trans) people aged 18 years or older living in Australia were invited to complete a questionnaire assessing a range of mental and physical health domains.",
+              "interventionNames": [
+                "Other: questionnaire"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "questionnaire",
+              "armGroupLabels": [
+                "Transgender and Transsexual People"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Live in Australia\n* Self-identify as trans\n\nExclusion Criteria:\n\n* Aged less than 18 years",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "This is a study of trans people living in Australia aged 18 years or older. The investigators used the term trans in an inclusive way, and included people who use (or used) words like transsexual, transgender, sistergirl, brotherboy, androgynous, or genderqueer to describe themselves. All trans people, including those who just describe themselves as men or women were encouraged to participate.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05602805",
+          "briefTitle": "BariaPSY: the Data Bank"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Multimorbidity, the co-occurrence of several chronic conditions, is a growing phenomenon that poses new challenges for clinicians and researchers. The association between a mental health disorder and a physical health disorder represents a particularly frequent subtype of multimorbidity and is associated with greater severity and higher consumption of care. It is essential and urgent to explore the specific pathophysiology of this subtype of multimorbidity in order to develop adapted therapeutic strategies.\n\nPsychiatric disorders, such as mood disorders, anxiety disorders, attention deficit disorder and binge eating disorder, are common in people with obesity. For example, although most of these disorders may improve after bariatric surgery, some components of these disorders, such as emotional dysregulation and impulsivity, need to be addressed as they appear to be involved in the development of addiction and suicidality after bariatric surgery. Therefore, screening and vigilance of these risks appear increasingly necessary.\n\nTo address this challenge, the BariaPsy databank aims to explore the screening of certain mental health disorders frequently observed in adults with obesity through an innovative approach that explores behaviors in the form of dimensions. It will help clinicians to quickly identify markers of certain disorders, thus helping them to further investigate the problem and provide personalized resources to their patient."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Bariatric Surgery Candidate",
+            "Obesity"
+          ],
+          "keywords": [
+            "Obesity",
+            "Mental Health",
+            "Bariatric Surgery",
+            "Eating Disorder"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": true,
+          "targetDuration": "9 Months",
+          "designInfo": {
+            "observationalModel": "CASE_ONLY",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 10000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Be a patient referred to the IUCPQ for management of overweight or obesity\n* Have a body mass index (BMI) \u226525 kg/m2\n* Be 18 years old or older\n\nExclusion Criteria:\n\n* Be an incapacitated or protected adult as defined by law\n* Not registered or eligible for RAMQ",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "All patients referred to the IUCPQ for management of overweight or obesity, thus having a body mass index (BMI) \u226525 kg/m2, and older than 18 years of age can be included in the database. This therefore implies, but is not limited to, the bariatric surgery, medicine, and psychiatry tracks of the IUCPQ. It is not necessary to have a psychiatric diagnosis according to the Diagnostic and Statistical Manual of Mental Disorders 5 (DSM-5) to be eligible.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03528135",
+          "briefTitle": "Project PRIDE (Promoting Resilience In Discriminatory Environments)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "The specific aims are to:\n\n1. Pilot test a randomized controlled trial of Project PRIDE for feasibility for subsequent research projects. A sample of 123 men aged 18-25 who identify as gay, bisexual, queer, or some other non-heterosexual identity, who are HIV negative, who report at least once instance of condomless anal sex in the absence of PrEP in the past 60 days, and who report drug use at least once in the past 60 days will be recruited and randomized to one of two conditions:\n\n   1. Project PRIDE: an eight-session primary HIV-prevention intervention; or\n   2. Wait-list control condition: after approximately 5 months, participants will receive Project PRIDE.\n2. Test the feasibility of obtaining biological measures of stress, drug use, and HIV/sexually transmitted infection (STI) status. To examine the impact of the intervention on stress physiology, participants will provide saliva samples that will be used to assess diurnal stress (i.e., cortisol) at pre-test, post-test, and 3-month follow-up. To substantiate self-report measures, participants will provide urine samples that will be used to assess drug use. Participants will be tested for gonorrhea, and chlamydia at each time point by providing a separate urine sample, HIV via oral swab and for syphilis by providing a blood sample.\n3. It is hypothesized that, compared to the wait-list control group, those in the treatment group will report significant reductions in mental health problems (depression, anxiety. loneliness), minority stressors (internalized homonegativity, sexual orientation concealment), substance use (drug and alcohol), condomless anal sex, number of sex partners, and stress-related biomarkers (salivary cortisol). In addition, compared to the wait-list control group, those in the treatment group will report significant improvements in self-esteem."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Human Immunodeficiency Virus",
+            "Sexually Transmitted Infections",
+            "Anxiety",
+            "Depression",
+            "Substance Use Disorders"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "interventionModelDescription": "The study includes a randomized controlled trial with one intervention condition and one wait-list control condition. All participants will complete the pre-test and be randomized to receive Project PRIDE immediately or to wait approximately 5 months before receiving it. Randomization will occur as follows: for each recruitment wave (n = 41 per wave), 41 sealed envelopes, each containing a card with the condition (14 cards labeled \"wait-list\" for the wait-list control group; 27 labeled \"group to start shortly\" for the intervention group), will be pinned to a foam board. Each participant will choose one card and open it. Those in the intervention group will be assigned to one of two groups of 13-14 participants. After completing the 8 sessions, those in the intervention and those in the matched control will complete the post-test. Approximately 3 months later, these participants will complete the follow-up; those in the control will then receive Project PRIDE.",
+            "primaryPurpose": "PREVENTION",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 17,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Project PRIDE",
+              "type": "EXPERIMENTAL",
+              "description": "Those in the Project PRIDE condition will receive 8 weekly sessions, each lasting 2.5 hours and consisting of approximately 10 men (estimated number given expected attrition). Each session will be co-led by two trained group facilitators. The intervention sessions are described in the \"Detailed Description\" section. The will complete a pre-test, post-test, and follow-up assessment.",
+              "interventionNames": [
+                "Behavioral: Project PRIDE"
+              ]
+            },
+            {
+              "label": "Wait-list",
+              "type": "NO_INTERVENTION",
+              "description": "Those in the wait-list arm will wait approximately 5 months before receiving the intervention. They will complete the same pre-test, post-test, and follow-up assessments as those in the PRIDE arm. After they have completed the follow-up assessment, they will be offered the intervention."
+            }
+          ],
+          "interventions": [
+            {
+              "type": "BEHAVIORAL",
+              "name": "Project PRIDE",
+              "description": "See arms section.",
+              "armGroupLabels": [
+                "Project PRIDE"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Self-identification as male\n* Self-identification as gay, bisexual, queer, or some other non-heterosexual identity\n* Aged 18-25\n* HIV-negative as assessed via OraQuick\n* Self-report of at least one instance of condomless anal or vaginal sex (insertive or receptive) while not taking Truvada for pre-exposure prophylaxis (PrEP) in the past 60 days\n* Self-report of drug use in the past 60 days\n* Willingness to complete HIV/STI test, drug test, questionnaires, and randomization\n* Willingness to collect and return saliva\n* Ability and willingness to stop prescription medication on the day of saliva collection\n* Proficient in English\n\nExclusion Criteria:\n\n* Failure to meet any inclusion criterion will result in exclusion from the study",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Participants who self-identify as male (regardless of sex assigned at birth) are eligible.",
+          "minimumAge": "18 Years",
+          "maximumAge": "25 Years",
+          "stdAges": [
+            "ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05583058",
+          "briefTitle": "Sex Hormone Overdose and Misuse in Chinese Transgender and Gender Non-conforming Population"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "The investigators propose to investigate the definition of hormone overdose and misuse (HODM) in Chinese transgender and gender nonconforming population (TGNCs), address the incidence of HODM in Chinese TGNC population, related factors and risks, identify the probable causes of HODM, and follow up HODM individuals to explore long-term effects.\n\nThe research questions are:\n\nQ1 What is the definition and the criteria of HODM in Chinese TGNC population? Q2 What is the prevalence of HODM in Chinese TGNC population? Q3 What factors and risks are relevant to HODM? Q4 What are the causes? Q5 What are the long-term effects of HODM in Chinese TGNC population, compared to those who enroll in regular GAHT regimens?\n\nThe investigators decide to employ a mixed-methods design to construct a full research framework on HODM. A prospective cohort study is a component of the study.\n\nThe study can be divided into four stages to address research questions. Stage I will establish a precise definition and eligibility criteria of HODM through expert panel meeting and stakeholder engagement. Subsequently, a cross-sectional study will be conducted to evaluate the rate, subtypes, and related factors of HODM in Chinese TGNCs. In Stage III, semi-structured interviews and focus groups for TGNCs who are identified as HODM will be employed to investigate the causes, motivations and personal impact factors. This stage will be divided into two phases, Stage III-a before the cross-sectional study to provide a brief picture of HODM behaviors, and Stage III-b after the cross-sectional study to draw an overall pattern. Lastly, all participants of Stage II or III who would like to participate in our follow-up will be included in prospective cohorts to assess long-term effects.\n\nAmong the stages, the cohort study is the subject of the registration. The investigators propose two cohorts in the study. Participants who are identified as HODM will be assigned to cohort 1 \\[HODM cohort\\], and those who are identified as regular GAHT use will be assigned to cohort 2 \\[non-HODM cohort\\]. Participants will be asked to report their gender-related and hormone use-related conditions, and mental health-related conditions at specific timepoints. The investigators will compare the HODM cohort to the non-HODM cohort to see if the overall incidence of adverse effects, gender-related, hormone-related, and mental health-related conditions differ in the cohorts."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Incongruence",
+            "Gender Dysphoria"
+          ],
+          "keywords": [
+            "Transgender Persons",
+            "Gender Affirming Hormone Therapy",
+            "Gender Dysphoria",
+            "Drug Overdose"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": true,
+          "targetDuration": "5 Years",
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 260,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Hormone Overdose and Misuse Group",
+              "description": "Transgender and gender non-conforming individuals who have been identified as hormone overdose and misuse (HODM) at start of the cohorts according to the criteria established by the study.",
+              "interventionNames": [
+                "Other: Hormone Overdose and Misuse"
+              ]
+            },
+            {
+              "label": "Non-Hormone Overdose and Misuse Group",
+              "description": "Transgender and gender non-conforming individuals who have been identified as without hormone overdose or misuse (HODM) at start of the cohorts according to the criteria established by the study."
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "Hormone Overdose and Misuse",
+              "description": "This is an observational study. Hormone Overdose and Misuse is an exposure.",
+              "armGroupLabels": [
+                "Hormone Overdose and Misuse Group"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Individuals with Chinese nationality (excluding Hong Kong SAR, Macau SAR, and Taiwan).\n* Aged over 12.\n* Identify themselves as TGNCs of any subtypes, including transgender female, transgender male, genderqueer, gender non-binary, crossdresser, or other subtypes.\n* have experienced at least one month of GAHT of any regimens and frequency in the last one year, or is taking hormones during the period of the study.\n* Hormones taken include androgen, estrogen, progesterone, anti-androgen, and anti-estrogen of any chemical structures, trade names, or regimens.\n\nExclusion Criteria:\n\n* Individuals who undertake GAHT in the absence of self-consciousness due to mental disorders, or under external coercion/abuse.\n* Refuse to sign or unable to understand the informed consent.",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Only individuals who identified themselves as transgender female, transgender male, genderqueer, gender non-binary, crossdresser, or any other subgroups of Transgender and Gender Non-conforming population (TGNCs) will be recruited.",
+          "minimumAge": "12 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "We will disseminate a questionnaire among online TGNC communities, social medias, under the help of TGNC-related non-government organizations (NGO). Each participant will be asked to share the link to other TGNCs. Only the completers of the questionnaire who agree to be followed up will be eligible for the cohort study. However, if needed, we will also recruit more TGNCs from outside previous participants via social media.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03191474",
+          "briefTitle": "Linkage of Transgender Individuals to PrEP"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "CCTG 602 is a multisite demonstration project to evaluate the effectiveness of facilitated linkage to PrEP using a community-based transgender PrEP outreach worker (T-POWr) versus standard of care (SOC)."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HIV Seronegativity",
+            "Linkage"
+          ],
+          "keywords": [
+            "PrEP",
+            "Pre-exposure Prophylaxis",
+            "Truvada",
+            "Client-centered case management",
+            "Transgender",
+            "Gender non-conforming"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "SUPPORTIVE_CARE",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 202,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Standard of Care Arm",
+              "type": "NO_INTERVENTION",
+              "description": "Participants will receive standard of care HIV risk assessment, PrEP education, and an appointment for a PrEP evaluation visit at an affiliated clinic."
+            },
+            {
+              "label": "T-POWr Intervention Arm",
+              "type": "EXPERIMENTAL",
+              "description": "Participants will receive the same HIV risk assessment, PrEP education, and appointment for a PrEP evaluation visit as the Control Arm. Participants in the Intervention Arm will also receive a thorough client-centered case management evaluation that will assess needs including access to health insurance, general health care, assessment of current hormone administration, housing, mental health care, domestic violence care, substance use treatment, and other services.",
+              "interventionNames": [
+                "Behavioral: T-POWr Intervention"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "BEHAVIORAL",
+              "name": "T-POWr Intervention",
+              "description": "All participants will be asked to complete a secure confidential online survey focusing on needs assessment.\n\nParticipants in the T-POWr Intervention Arm will receive a client-centered case management consultation based on how the participant responds to the online survey. The T-POWr will refer participants to assistance services based on the needs assessment, including accessing general health care, health insurance, hormone replacement therapy, housing, mental health care, domestic violence care, substance use treatment, etc. Each resource is extensively vetted to assure a trans-friendly experience and will be tailored to each geographic area across the project enrollment sites. The study facilitates referrals for services but will not provide extensive and ongoing case management.",
+              "armGroupLabels": [
+                "T-POWr Intervention Arm"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Self-identifies as a transgender or gender non-conforming person\n* Self-identifies as HIV-negative or unknown status\n* Ability to provide informed consent\n* English or Spanish speaking\n\nExclusion Criteria:\n\n* Severe active substance abuse or mental illness that the investigator feels will interfere with the ability to provide informed consent",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Transgender or Gender Non-conforming, defined as identifying with a gender different from sex assigned at birth.",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03836027",
+          "briefTitle": "Fertility Desires and Reproductive Needs of Transgender People"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "Majority of transgender and gender nonconforming people seeking medical care are in pubertal and reproductive age. Cross-sex hormones may compromise fertility especially when preceded by puberty blocking regimen. Our current understanding on reproductive needs of transgender persons is insufficient.\n\nThe guidelines of Endocrine Society and the World Professional Association for Transgender Health prompt the health professionals to provide information on fertility risk and fertility preservation options before initiating hormonal treatment. Currently, no clear tools are available for healthcare professionals. Among several challenges for clinical care are a low clinical awareness, a lack of suitable psycho-educational instruments addressing fertility values that can be used to facilitate discussion between transgender persons and healthcare providers, a lack of established methods for fertility preservation in prepubertal youth, and a lack of long-term data regarding reproductive function, psychological and societal outcomes in this population. Likewise, current data are sparse regarding the experience of transgender and gender nonconforming people with fertility preservation.\n\nOur aim is to describe desires, attitudes and knowledge of transgender and gender nonconforming people regarding fertility preservation wishes and reproductive needs."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Fertility Preservation",
+            "Parenting",
+            "Gender Dysphoria"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "No intervention",
+              "description": "No intervention"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years\n* Follow-up in the Department of Endocrinology, Diabetology and Nutrition of the University Hospital of Nancy\n* Gender dysphoria according to the ICD 11\n* Voluntary, informed consent to participate in research\n* Compulsory affiliation to the social security system\n\nExclusion Criteria:\n\n-Refusal or incapacity to be involved in the study",
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Participation to the study will be proposed consecutively to all subjects, fulfilling inclusion criteria, attending in-office follow-up visit for gender dysphoria in the Department of Endocrinology, Diabetology and Nutrition of the University Hospital of Nancy",
+          "samplingMethod": "PROBABILITY_SAMPLE"
+        }
+      }
+    }
+  ]
+}

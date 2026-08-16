@@ -1,0 +1,2988 @@
+{
+  "totalCount": 21,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00188708",
+          "briefTitle": "Effect of Casodex on Tumour Hypoxia - Prostate Cancer"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "Prostate cancers, in common with many other tumours, are often hypoxic; that is, they have low levels of oxygen. It is thought that tumour hypoxia may hasten the progression of cancers and make them more resistant to treatment. One previous study has suggested that hormone therapy, such as Casodex, may improve the prostate oxygen level. This study is designed to test that finding."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostatic Neoplasms"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "primaryPurpose": "DIAGNOSTIC",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "hypoxia measurement",
+              "type": "EXPERIMENTAL",
+              "description": "Patients undergoing or planning to receive combined anti-androgen (Casodex) and radiotherapy",
+              "interventionNames": [
+                "Procedure: hypoxia measurement"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "PROCEDURE",
+              "name": "hypoxia measurement",
+              "description": "transrectal oxygen measurement",
+              "armGroupLabels": [
+                "hypoxia measurement"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Men with histologically proven prostatic carcinoma, stage cT2, N0, M0, receiving neoadjuvant bicalutamide plus conformal radiotherapy in study 9907, who have previously participated in the prostate cancer hypoxia project\n* informed consent\n\nExclusion Criteria:\n\n* Coagulopathy",
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07145281",
+          "briefTitle": "Comparing the Effects of Sublingual Estradiol Treatment Versus Oral Estradiol With Cyproterone Acetate (CPA) Treatment on The Coagulation System in Transgender Women: A Prospective, Controlled Cohort Study"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "The goal of this clinical trial is to learn about the effects of different routes of estradiol administration on blood clotting in transgender women starting gender-affirming hormone therapy. The main questions it aims to answer are:\n\nDoes sublingual estradiol reduce free Protein S levels compared to oral estradiol with cyproterone acetate?\n\nDoes sublingual estradiol accelerate activation of the clotting system, as measured by thrombin generation?\n\nResearchers will compare sublingual estradiol to oral estradiol plus cyproterone acetate to see if the way estradiol is taken changes blood clotting risk.\n\nParticipants will:\n\nTake either sublingual estradiol (2 mg daily in divided doses) or oral estradiol (2 mg daily) with cyproterone acetate (10 mg daily) for 6 months\n\nProvide blood samples at baseline and after 6 months to measure hormone levels and clotting factors\n\nAttend clinic visits for monitoring, including safety checks and routine laboratory tests"
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Dysphoria, Adult",
+            "Blood Coagulation",
+            "Coagulation Factors",
+            "Transgender Persons, M01.777.500",
+            "Hemostasis",
+            "Transgender Women"
+          ],
+          "keywords": [
+            "Transgender women",
+            "sublingual estradiol",
+            "procoagulant effect",
+            "Protein S",
+            "Thrombin generation assay (TGA)",
+            "Gender-affirming hormone therapy (GAHT)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NON_RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "BASIC_SCIENCE",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Sublingual Estradiol",
+              "type": "EXPERIMENTAL",
+              "description": "Participants receive sublingual estradiol 2 mg per day divided into 4 doses, without an anti-androgen, for 6 months.",
+              "interventionNames": [
+                "Drug: Estradiol (E2)"
+              ]
+            },
+            {
+              "label": "Oral Estradiol + Cyproterone Acetate (CPA)",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Participants receive oral estradiol 2 mg once daily combined with cyproterone acetate 10 mg once daily for 6 months. This represents the standard regimen used in routine care.",
+              "interventionNames": [
+                "Drug: Estradiol (E2)",
+                "Drug: Cyproterone Acetate (Androcur, BAY94-8367)"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Estradiol (E2)",
+              "description": "Participants receive estradiol 2 mg/day. In the experimental arm, estradiol is administered sublingually in four divided doses (0.5 mg each).\n\nIn the active comparator arm, estradiol is administered orally, in combination with cyproterone acetate, for 6 months.\n\nAll participants are treatment-naive.",
+              "armGroupLabels": [
+                "Oral Estradiol + Cyproterone Acetate (CPA)",
+                "Sublingual Estradiol"
+              ],
+              "otherNames": [
+                "Estrofem"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Cyproterone Acetate (Androcur, BAY94-8367)",
+              "description": "Participants in the active comparator arm receive cyproterone acetate (CPA) 10 mg orally, once daily, in combination with oral estradiol, for 6 months.\n\nAll participants are treatment-naive.",
+              "armGroupLabels": [
+                "Oral Estradiol + Cyproterone Acetate (CPA)"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Self-identified transgender women\n* Aged 18 to 45 years\n* Healthy individuals\n* Treatment-na\u00efve (not previously exposed to gender-affirming hormone therapy)\n* Presenting for gender-affirming hormone therapy (GAHT)\n* Provided written informed consent\n\nExclusion Criteria:\n\n* Active smokers\n* Personal or family history of venous thromboembolism (VTE) or thrombophilia\n* History of malignancy in the past 5 years\n* Chronic liver disease\n* Chronic kidney disease\n* Hyperlipidemia",
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "genderBased": true,
+          "genderDescription": "Self-identified transgender women (individuals assigned male at birth who identify as female) were eligible to participate in this study. Eligibility was limited to this gender identity.",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years",
+          "stdAges": [
+            "ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00831233",
+          "briefTitle": "Symptomatic Study Investigating Degarelix in Patients Suffering From Prostate Cancer"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED"
+        },
+        "descriptionModule": {
+          "briefSummary": "The purpose of this trial was to see how well a new trial drug (degarelix) worked on lower urinary tract symptoms (also known as LUTS) in prostate cancer patients as compared to how a standard drug hormonal treatment worked on the same symptoms. The advancement/worsening of prostate cancer may be associated with LUTS and the symptoms may impact the ability to urinate normally and thereby the quality of life for these patients.\n\nPatients were randomly selected (like flipping a coin) to receive either degarelix or standard hormone therapy (combination of goserelin and bicalutamide) for a 3 month treatment period. During this period the relief of urinary symptoms was evaluated via a questionnaire filled in by patients and addressing the severity and frequency of their symptoms."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostate Cancer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Degarelix 240 mg/80 mg",
+              "type": "EXPERIMENTAL",
+              "description": "Degarelix 240 mg (40 mg/mL) + 80 mg (20 mg/mL)",
+              "interventionNames": [
+                "Drug: Degarelix"
+              ]
+            },
+            {
+              "label": "Goserelin (3.6 mg) + bicalutamide (50 mg)",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Goserelin (3.6 mg) + bicalutamide (50 mg)",
+              "interventionNames": [
+                "Drug: Goserelin",
+                "Drug: Bicalutamide"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Degarelix",
+              "description": "The degarelix doses were administered into the abdominal wall every 28 days. A starting dose of 240 mg (40 mg/mL) degarelix was administered on Day 0 as two 3 mL subcutaneous (s.c.) injections. The second and third doses of 80 mg (20 mg/mL) degarelix were administered as single 4 mL s.c. injections on Days 28 and 56, respectively.",
+              "armGroupLabels": [
+                "Degarelix 240 mg/80 mg"
+              ],
+              "otherNames": [
+                "FE200486"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Goserelin",
+              "description": "Goserelin implants (3.6 mg) were inserted s.c. into the abdominal wall every 28 days. The second and third doses of goserelin were administered on Days 31 and 59, respectively.",
+              "armGroupLabels": [
+                "Goserelin (3.6 mg) + bicalutamide (50 mg)"
+              ],
+              "otherNames": [
+                "Zoladex"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Bicalutamide",
+              "description": "On Day 0, three days before the first dose of goserelin on Day 3, patients began once-daily per-oral (p.o.) treatment with bicalutamide (50 mg) as anti-androgen flare protection; this treatment continued for 14 days after the first dose of goserelin.",
+              "armGroupLabels": [
+                "Goserelin (3.6 mg) + bicalutamide (50 mg)"
+              ],
+              "otherNames": [
+                "Casodex"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient has given written informed consent before any trial-related activity is performed\n* Has a confirmed prostate cancer in which this type of treatment is needed.\n\nExclusion Criteria:\n\n* Previous treatment for prostate cancer\n* Previous trans-urethral resection of the prostate\n* Current use of 5-alpha reductase inhibitor or \u03b1-adrenoceptor antagonist.\n* Patients in need of external beam radiotherapy to be started at the same time as hormone therapy\n* Certain risk factors for abnormal heart rhythms/QT prolongation (corrected QT interval over 450 msec., Torsades de Pointes or use of certain medications with potential risk)\n* History of severe untreated asthma, anaphylactic reactions, or severe urticaria and/or angioedema.\n* Hypersensitivity towards any component of the investigational product\n* Other previous cancers within the last five years with the exception of prostate cancer and some types of skin cancer.\n* Clinical disorders other than prostate cancer including but not limited to renal, haematological, gastrointestinal, endocrine, cardiac, neurological, psychiatric disease, alcohol or drug abuse or other conditionals as judged by the investigator.",
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00146146",
+          "briefTitle": "Testosterone and Its Metabolites in GID"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "The purposes of this study are:\n\n* to determine the role of testosterone versus dihydrotestosterone with respect to the following physiological functions: bone metabolism, body composition, insulin resistance and lipid profile\n* to determine the role of testosterone and dihydrotestosterone versus estradiol with respect to the following physiological functions: bone metabolism, body composition, insulin resistance and lipid profile"
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transsexualism"
+          ],
+          "keywords": [
+            "transsexualism",
+            "testosterone",
+            "dihydrotestosterone",
+            "estradiol"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 15,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "testosterone undecanoate alone",
+              "description": "1000 mg/12 weeks",
+              "otherNames": [
+                "Nebid"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "testosterone undecanoate plus letrozole",
+              "description": "TU 1000 mg/12 weeks Letrozole 2.5 mg/day",
+              "otherNames": [
+                "Nebid"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "testosterone undecanoate plus dutasteride",
+              "description": "TU 1000 mg/12weeks Dutasteride 0.5 mg/day",
+              "otherNames": [
+                "Nebid",
+                "Avodart"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\nHealthy biological females, between 18 and 45 years of age:\n\n* SR surgery performed\n* Body Mass Index (BMI) between 20 and 29 kg/m\u00b2; (body weight in kilograms divided by body height in meters squared)\n* Clinical examination without pathological findings relevant to the study\n* Clinico-chemical laboratory values do not suggest an illness\n* Written Consent Form has been signed\n* High probability of a good compliance and termination of the study\n\nExclusion Criteria:\n\nSubjects cannot be enrolled in this study if one or more of the following criteria apply:\n\n* Participation in another clinical trial within the 30 days preceding the first administration\n* Simultaneous participation in another clinical trial\n* Subjects institutionalized or imprisoned by order of the court\n* Subject who compete in sports which use IOC drug monitoring\n* Serious organic or psychic disease suspected from history and/or clinical examination\n* Diseases (especially tumors) that might represent an actual contraindication for testosterone\n* Past or present history of thrombotic or embolic diseases\n* Hypertension requiring therapy (BP 140/90 mmHg)\n* Diabetes mellitus requiring therapy\n* Acute or chronic hepatic diseases\n* Manifest renal diseases with renal dysfunction\n* Severe internal diseases as well as use of any medication to treat such\n* Biochemical and/or hematological laboratory values beyond normal ranges unless the Investigator confirms that the deviations are of no clinical relevance\n* Any indication of chronic use of drugs, alcohol, opiates or recreational drugs\n* Use of any drug known to affect biotransformation of testosterone and/or progestin, e.g. chlorcycline, phenobarbital, phenylbutazone, aminophenazone within the 30 days preceding the first administration of the test medication and during the study\n* Use of oral anticoagulatory drugs within the 30 days preceding the first administration of the test medication and during the study\n* Any oral or transdermal hormone medication within the 12 weeks preceding the first administration and during the study\n* Probability of poor compliance and termination of the study",
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "45 Years",
+          "stdAges": [
+            "ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01534351",
+          "briefTitle": "Comparison of Finasteride and Tamsulosin for Treatment of Benign Prostatic Hyperplasia (BPH) (MK-0906A-149 AM2)"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED"
+        },
+        "descriptionModule": {
+          "briefSummary": "This study is designed to compare safety and efficacy of monotherapy finasteride to combination therapy (finasteride and tamsulosin) in Asian men with benign prostatic hyperplasia (BPH) who are at least 50 years of age or older. The primary hypotheses are that concomitantly-dosed finasteride 5 mg and tamsulosin 0.2 mg will be superior with respect to BPH symptoms compared to monotherapy with finasteride 5 mg as measured by change from baseline on the International Prostate Symptoms Score (IPSS) and will be superior with respect to prostate volume reduction compared to montherapy with tamsulosin 0.2 mg as measured by percent change from baseline in prostate volume."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Benign Prostatic Hyperplasia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "DOUBLE",
+              "whoMasked": [
+                "PARTICIPANT",
+                "INVESTIGATOR"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 1,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Finasteride",
+              "type": "EXPERIMENTAL",
+              "description": "Finasteride 5 mg taken orally once daily and tamsulosin-matching placebo taken orally once daily for 12 months. The tamsulosin-matching placebo will be taken approximately one half hour following the same meal each day. Medications may be taken separately or together.",
+              "interventionNames": [
+                "Drug: Finasteride",
+                "Drug: Tamsulosin-matching placebo"
+              ]
+            },
+            {
+              "label": "Tamsulosin",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Tamsulosin 0.2 mg taken orally once daily and finasteride-matching placebo taken orally once daily for 12 months. The tamsulosin will be taken approximately one half hour following the same meal each day. Medications may be taken separately or together.",
+              "interventionNames": [
+                "Drug: Tamsulosin",
+                "Drug: Finasteride-matching placebo"
+              ]
+            },
+            {
+              "label": "Finasteride and Tamsulosin",
+              "type": "EXPERIMENTAL",
+              "description": "Finasteride 5 mg orally once daily and tamsulosin 0.2 mg orally once daily for 12 months, taken concomitantly. The tamsulosin will be taken approximately one half hour following the same meal each day. Medications may be taken separately or together.",
+              "interventionNames": [
+                "Drug: Finasteride",
+                "Drug: Tamsulosin"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Finasteride",
+              "description": "Finasteride 5 mg oral tablet taken once daily.",
+              "armGroupLabels": [
+                "Finasteride",
+                "Finasteride and Tamsulosin"
+              ],
+              "otherNames": [
+                "Proscar\u00ae"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Tamsulosin",
+              "description": "Tamsulosin 0.2 mg oral capsule taken once daily.",
+              "armGroupLabels": [
+                "Finasteride and Tamsulosin",
+                "Tamsulosin"
+              ],
+              "otherNames": [
+                "Flomax\u00ae"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Finasteride-matching placebo",
+              "description": "Matching placebo to finasteride 5 mg oral tablet taken once daily.",
+              "armGroupLabels": [
+                "Tamsulosin"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Tamsulosin-matching placebo",
+              "description": "Matching placebo to tamsulosin 0.2 mg oral capsule taken once daily.",
+              "armGroupLabels": [
+                "Finasteride"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Possess a clinical diagnosis of BPH.\n* Able to read, understand, and complete the study questionnaire.\n\nExclusion Criteria:\n\n* History or recurrent evidence of any condition, therapy, lab abnormality or other circumstance that might confound the results of the study, or interfere with participation for the full duration of the study.\n* History of malignancy \u2264 5 years prior to signing informed consent, except for adequately treated basal cell or squamous cell skin cancer, including prostate cancer of any duration, evidence or suspicion of prostate cancer on a previous biopsy.\n* History of prostatic surgery or other invasive procedures to treat BPH or history of bladder neck obstruction, bladder cancer, and/or pelvic irradiation, urinary incontinence, recurrent urinary tract infection, urethral stricture, or bacterial prostatitis.\n* History of acute urinary retention (ie, inability to fully empty bladder).\n* Had invasive urinary bladder procedures (ie, cystoscopy) within 7 days prior to screening.\n* Had phytotherapy within 2 weeks of screening and may need phytotherapy during the study.\n* History of low blood pressure (orthostatic hypotension, hypotension \\[supine blood pressure less than 90/70 mm Hg\\]), unstable angina, or a cardiovascular or cerebral vascular event (ie, transient ischemic attack \\[TIA\\], stroke) within the previous 3 months prior to enrollment, OR a history of dizziness, vertigo or any other typical signs and symptoms of low blood pressure.\n* Recent history (ie, within the past year) or active addiction, abuse, misuse of and/or dependence on drugs and/or alcohol.\n* Use of herbal therapies that may impact the study (eg, Saw Palmetto) within 2 weeks of screening and/or is predicted to need herbal therapies during the study. Individuals currently taking herbal therapies may be eligible for study if willing to complete a 2-week washout period.\n* Use of finasteride or a drug with a similar action during the 12 months prior to study screening. Individuals treated for short periods with 5-alpha reductase inhibitors (5ARIs) or drugs with antiandrogenic properties within 12 months of screening may be eligible for study.\n* Use of a non-approved (investigational) drug within the last 4 weeks prior to enrollment, or current participation in another clinical study.\n* Allergic or intolerant to finasteride and/or tamsulosin.",
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "50 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05175170",
+          "briefTitle": "Fertility Decision-Making in Youth and Young Adults"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "The aim of this study is to test if using a web-based medical decision-making tool on the topics of fertility and fertility-preservation increases knowledge among transgender youth and young adults."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transgender Adolescents & Young Adults"
+          ],
+          "keywords": [
+            "fertility",
+            "decision-making"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "primaryPurpose": "SUPPORTIVE_CARE",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Decision-aid",
+              "type": "EXPERIMENTAL",
+              "description": "Participants will spend up to one hour freely navigating the web-based decision aid. They will complete pre- and post-test measures to determine if using the decision-aid website increased knowledge and impacted decision self-efficacy regarding fertility and fertility preservation.",
+              "interventionNames": [
+                "Behavioral: Decision-aid"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "BEHAVIORAL",
+              "name": "Decision-aid",
+              "description": "The decision aid consists of domains related to human reproduction, fertility, and fertility preservation. The domains address priority learning objectives in each domain to increase knowledge on the impact of gender-affirming medical interventions on fertility and fertility preservation options.",
+              "armGroupLabels": [
+                "Decision-aid"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* (1) youth is between the ages of 8-14 years\n* (2) youth self-asserts a transgender identity\n* (3) youth has expressed interest in GnRHa or is currently on GnRHa treatment; or\n* (1) AYA is between the ages of 13-24 years,\n* (2) AYA self-asserts a transgender identity, and\n* (3) AYA has expressed interest in gender-affirming hormone (GAH) or is currently on GAH treatment.\n* Parents of eligible youth will be eligible to participate.\n\nExclusion Criteria:\n\n* (1) youth/parents are unable to read, speak or understand English\n* (2) youth/parents are unable or unwilling to provide consent/assent/parental permission for study participation.",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Youth and young adults who identify as transgender, trans, nonbinary, gender fluid, or genderqueer",
+          "minimumAge": "8 Years",
+          "maximumAge": "24 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00805701",
+          "briefTitle": "Study Assessing The Efficacy And Safety Of Avodart (Dutasteride) At Improving Urinary Symptoms In Men With Prostate Cancer Who Are Undergoing Seed Implantation"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "Avodart (dutasteride) reduces the male hormone (DHT) that leads to prostate growth and stimulates cancerous growth. Avodart is currently approved by the FDA to treat men with symptoms of an enlarged prostate. Avodart works by reducing DHT and prostate size; therefore, the drug may be useful in improving lower urinary tract symptoms (LUTS) such as frequency, urgency, weak stream, and urination difficulty (dysuria), among others, in men with prostate cancer. Avodart may be effective in men with prostate cancer who are being treated with hormonal therapy with one injection of Zolodex (goserelin) followed one month later with a trans-urethral incision of the prostate (TUIP), and three months after that, seed implantation (SI) of the prostate.\n\nThe purpose of this study is to test whether Avodart (dutasteride) is effective on LUTS and dysuria in men with localized prostate cancer being treated with single-dose goserelin, TUIP, and interval SI."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostate Cancer"
+          ],
+          "keywords": [
+            "prostate",
+            "cancer",
+            "avodart",
+            "dutasteride",
+            "mitcheson"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "SINGLE_GROUP",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "TRIPLE",
+              "whoMasked": [
+                "PARTICIPANT",
+                "CARE_PROVIDER",
+                "INVESTIGATOR"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "0.5mg Avodart",
+              "type": "ACTIVE_COMPARATOR",
+              "description": ".5mg avodart capsule orally once a day during 13 months",
+              "interventionNames": [
+                "Drug: avodart"
+              ]
+            },
+            {
+              "label": "Placebo",
+              "type": "PLACEBO_COMPARATOR",
+              "description": "placebo capsule orally daily for 13 months",
+              "interventionNames": [
+                "Drug: Placebo"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "avodart",
+              "description": "0.5 avodart once daily for 13 weeks",
+              "armGroupLabels": [
+                "0.5mg Avodart"
+              ],
+              "otherNames": [
+                "dutasteride"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Placebo",
+              "description": "placebo",
+              "armGroupLabels": [
+                "Placebo"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:A subject will be eligible for inclusion in this study only if all of the following criteria apply:\n\n1. Must be male \u226535 and \u226490 years of age\n2. Have biopsy proven, localized prostate cancer\n3. Gleason score \u2264 8\n4. Clinical stage T1c-T2b\n5. Serum PSA (prostate specific antigen) \u226410ng/mL within the 12 months period prior to positive prostate biopsy.\n6. Able to swallow and retain oral medication\n7. Able and willing to participate in the full duration of the study\n8. Able to read and write (health outcomes questionnaires are self-administered), understand instructions related to study procedures and give written informed consent.\n\nExclusion Criteria:\n\n1. Subject has ever been treated for prostate cancer with any of the following:\n\n   * Radiotherapy (external beam or brachytherapy)\n   * Chemotherapy\n   * Hormonal therapy (e.g., megestrol, medroxyprogesterone, cyproterone, diethyl-stilbestrol (DES)\n   * Oral glucocorticoids\n   * Gonadotropin Releasing Hormone (GnRH) analogues (e.g., leuprolide, goserelin) other than the single-dose gosereline given as treatment in this study.\n2. Glucocorticoids, except inhaled or topical, are not permitted within 3 months prior to visit one\n3. Current and/or previous use of the following medications:\n\n   * Finasteride (Proscar, Propecia), or Dutasteride (Avodart) exposure within 6 months prior to study entry are excluded.\n   * Any other investigational 5-reductase inhibitors within the past 12 months.\n   * Anabolic steroids (subject must discontinued for 6 months prior to study entry to be eligible)\n   * Drugs with antiandrogenic properties within the past 6 months (e.g,. spironolactone, flutamide, bicalutamide, \\*cimetidine, \\*ketoconazole, progestational agents) \\*The use of cimetidine is permitted prior to study entry. The use of topical ketoconazole is permitted prior to and during the study.",
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "35 Years",
+          "maximumAge": "90 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03878524",
+          "briefTitle": "Serial Measurements of Molecular and Architectural Responses to Therapy (SMMART) PRIME Trial"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED"
+        },
+        "descriptionModule": {
+          "briefSummary": "This phase Ib trial determines if samples from a patient's cancer can be tested to find combinations of drugs that provide clinical benefit for the kind of cancer the patient has. This study is also being done to understand why cancer drugs can stop working and how different cancers in different people respond to different types of therapy."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Accelerated Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+            "Anatomic Stage IV Breast Cancer AJCC v8",
+            "Anemia",
+            "Ann Arbor Stage III Hodgkin Lymphoma",
+            "Ann Arbor Stage III Non-Hodgkin Lymphoma",
+            "Ann Arbor Stage IV Hodgkin Lymphoma",
+            "Ann Arbor Stage IV Non-Hodgkin Lymphoma",
+            "Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative",
+            "Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+            "Castration-Resistant Prostate Carcinoma",
+            "Chronic Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+            "Hematopoietic and Lymphoid System Neoplasm",
+            "Locally Advanced Pancreatic Adenocarcinoma",
+            "Metastatic Breast Carcinoma",
+            "Metastatic Malignant Solid Neoplasm",
+            "Metastatic Pancreatic Adenocarcinoma",
+            "Myelodysplastic/Myeloproliferative Neoplasm With Ring Sideroblasts and Thrombocytosis",
+            "Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable",
+            "Primary Myelofibrosis",
+            "Recurrent Acute Lymphoblastic Leukemia",
+            "Recurrent Acute Myeloid Leukemia",
+            "Recurrent Chronic Lymphocytic Leukemia",
+            "Recurrent Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+            "Recurrent Hematologic Malignancy",
+            "Recurrent Hodgkin Lymphoma",
+            "Recurrent Myelodysplastic Syndrome",
+            "Recurrent Myelodysplastic/Myeloproliferative Neoplasm",
+            "Recurrent Myeloproliferative Neoplasm",
+            "Recurrent Non-Hodgkin Lymphoma",
+            "Recurrent Plasma Cell Myeloma",
+            "Recurrent Small Lymphocytic Lymphoma",
+            "Refractory Acute Lymphoblastic Leukemia",
+            "Refractory Acute Myeloid Leukemia",
+            "Refractory Chronic Lymphocytic Leukemia",
+            "Refractory Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+            "Refractory Chronic Myelomonocytic Leukemia",
+            "Refractory Hematologic Malignancy",
+            "Refractory Hodgkin Lymphoma",
+            "Refractory Malignant Solid Neoplasm",
+            "Refractory Myelodysplastic Syndrome",
+            "Refractory Myelodysplastic/Myeloproliferative Neoplasm",
+            "Refractory Non-Hodgkin Lymphoma",
+            "Refractory Plasma Cell Myeloma",
+            "Refractory Primary Myelofibrosis",
+            "Refractory Small Lymphocytic Lymphoma",
+            "Stage II Pancreatic Cancer AJCC v8",
+            "Stage III Pancreatic Cancer AJCC v8",
+            "Stage IV Pancreatic Cancer AJCC v8",
+            "Stage IV Prostate Cancer AJCC v8",
+            "Unresectable Pancreatic Adenocarcinoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 2,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Treatment (biospecimen collection, 2 drug combination)",
+              "type": "EXPERIMENTAL",
+              "description": "TUMOR BIOPSY: Patients undergo collection of tissue samples. Clinical analytics are performed on the samples and analyzed by a clinical tumor board to recommend a treatment option based on those analytics.\n\nSMMART-PRIME TREATMENT: Patients receive a combination of 2 drugs (Drug A and Drug B, selected from interventions below). Doses will be escalated within individual patients over time. As described in detail below, escalation will occur monthly and is anticipated to occur as follows: first month - 100% FDA approved dose Drug A + 25% FDA approved dose Drug B; second month -- 100% dose Drug A + 50% dose Drug B; third month -- 100% dose Drug A + 100% dose Drug B. All dose-escalations will be reviewed and approved by an independent consultant outside of Oregon Health \\& Science University (OHSU).\n\nTreatment will continue for up to the end of 6 treatment cycles (cycle length is between 21-28 days) in the absence of disease progression or unacceptable toxicity.",
+              "interventionNames": [
+                "Drug: Abemaciclib",
+                "Drug: Abiraterone",
+                "Drug: Afatinib",
+                "Biological: Bevacizumab",
+                "Drug: Bicalutamide",
+                "Procedure: Biospecimen Collection",
+                "Drug: Bortezomib",
+                "Drug: Cabazitaxel",
+                "Drug: Cabozantinib",
+                "Drug: Capecitabine",
+                "Drug: Carboplatin",
+                "Drug: Celecoxib",
+                "Drug: Cobimetinib",
+                "Drug: Copanlisib",
+                "Drug: Dabrafenib",
+                "Drug: Dacomitinib",
+                "Drug: Darolutamide",
+                "Drug: Dasatinib",
+                "Drug: Doxorubicin",
+                "Biological: Durvalumab",
+                "Drug: Enasidenib",
+                "Drug: Entrectinib",
+                "Drug: Enzalutamide",
+                "Drug: Erlotinib",
+                "Drug: Everolimus",
+                "Drug: Fluorouracil",
+                "Drug: Idelalisib",
+                "Drug: Imatinib",
+                "Biological: Ipilimumab",
+                "Drug: Lenvatinib",
+                "Drug: Leucovorin",
+                "Drug: Lorlatinib",
+                "Drug: Losartan",
+                "Drug: Nab-paclitaxel",
+                "Drug: Neratinib",
+                "Biological: Nivolumab",
+                "Drug: Olaparib",
+                "Drug: Oxaliplatin",
+                "Drug: Palbociclib",
+                "Drug: Panobinostat",
+                "Biological: Pembrolizumab",
+                "Biological: Pertuzumab",
+                "Drug: Ponatinib",
+                "Other: Quality-of-Life Assessment",
+                "Drug: Regorafenib",
+                "Drug: Ruxolitinib",
+                "Drug: Sirolimus",
+                "Drug: Sorafenib",
+                "Drug: Sunitinib",
+                "Drug: Trametinib",
+                "Biological: Trastuzumab Emtansine",
+                "Drug: Tretinoin",
+                "Drug: Vemurafenib",
+                "Drug: Venetoclax",
+                "Drug: Vismodegib",
+                "Drug: Vorinostat"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Abemaciclib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "LY-2835219",
+                "LY2835219",
+                "Verzenio"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Abiraterone",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "CB 7598"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Afatinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "BIBW 2992",
+                "BIBW2992"
+              ]
+            },
+            {
+              "type": "BIOLOGICAL",
+              "name": "Bevacizumab",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "ABP 215",
+                "Anti-VEGF",
+                "Anti-VEGF Humanized Monoclonal Antibody",
+                "Anti-VEGF rhuMAb",
+                "Avastin",
+                "Bevacizumab awwb",
+                "Bevacizumab Biosimilar ABP 215",
+                "Bevacizumab Biosimilar BEVZ92",
+                "Bevacizumab Biosimilar BI 695502",
+                "Bevacizumab Biosimilar CBT 124",
+                "Bevacizumab Biosimilar CT-P16",
+                "Bevacizumab Biosimilar FKB238",
+                "Bevacizumab Biosimilar GB-222",
+                "Bevacizumab Biosimilar HD204",
+                "Bevacizumab Biosimilar HLX04",
+                "Bevacizumab Biosimilar IBI305",
+                "Bevacizumab Biosimilar LY01008",
+                "Bevacizumab Biosimilar MIL60",
+                "Bevacizumab Biosimilar Mvasi",
+                "Bevacizumab Biosimilar MYL-1402O",
+                "Bevacizumab Biosimilar QL 1101",
+                "Bevacizumab Biosimilar RPH-001",
+                "Bevacizumab Biosimilar SCT501",
+                "Bevacizumab Biosimilar Zirabev",
+                "Bevacizumab-awwb",
+                "Bevacizumab-bvzr",
+                "BP102",
+                "BP102 Biosimilar",
+                "HD204",
+                "Immunoglobulin G1 (Human-Mouse Monoclonal rhuMab-VEGF Gamma-Chain Anti-Human Vascular Endothelial Growth Factor), Disulfide With Human-Mouse Monoclonal rhuMab-VEGF Light Chain, Dimer",
+                "Mvasi",
+                "MYL-1402O",
+                "Recombinant Humanized Anti-VEGF Monoclonal Antibody",
+                "rhuMab-VEGF",
+                "SCT501",
+                "Zirabev",
+                "Anti-VEGF Monoclonal Antibody SIBP04",
+                "SIBP 04",
+                "SIBP-04",
+                "SIBP04"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Bicalutamide",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Casodex",
+                "Cosudex",
+                "ICI 176,334",
+                "ICI 176334"
+              ]
+            },
+            {
+              "type": "PROCEDURE",
+              "name": "Biospecimen Collection",
+              "description": "Undergo collection of biospecimens (including tissue, blood, or previously collected archival specimens)",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Biological Sample Collection",
+                "Specimen Collection"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Bortezomib",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "[(1R)-3-Methyl-1-[[(2S)-1-oxo-3-phenyl-2-[(pyrazinylcarbonyl)amino]propyl]amino]butyl]boronic Acid",
+                "LDP 341",
+                "MLN341",
+                "PS-341",
+                "PS341",
+                "Velcade"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Cabazitaxel",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Jevtana",
+                "RPR-116258A",
+                "Taxoid XRP6258",
+                "XRP-6258"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Cabozantinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Capecitabine",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Ro 09-1978/000",
+                "Xeloda"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Carboplatin",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Blastocarb",
+                "Carboplat",
+                "Carboplatin Hexal",
+                "Carboplatino",
+                "Carboplatinum",
+                "Carbosin",
+                "Carbosol",
+                "Carbotec",
+                "CBDCA",
+                "Displata",
+                "Ercar",
+                "JM-8",
+                "Nealorin",
+                "Novoplatinum",
+                "Paraplatin",
+                "Paraplatin AQ",
+                "Paraplatine",
+                "Platinwas",
+                "Ribocarbo"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Celecoxib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Benzenesulfonamide, 4-[5-(4-methylphenyl)-3-(trifluoromethyl)-1H-pyrazol-1-yl]-",
+                "Celebrex",
+                "SC-58635",
+                "YM 177"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Cobimetinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Cotellic",
+                "GDC-0973",
+                "MEK Inhibitor GDC-0973",
+                "XL518",
+                "934660-93-2"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Copanlisib",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "BAY 80-6946",
+                "PI3K Inhibitor BAY 80-6946"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Dabrafenib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "BRAF Inhibitor GSK2118436",
+                "GSK-2118436",
+                "GSK-2118436A",
+                "GSK2118436"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Dacomitinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "EGFR Inhibitor PF-00299804",
+                "PF-00299804",
+                "PF-00299804-03",
+                "PF-299804",
+                "Vizimpro"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Darolutamide",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Antiandrogen ODM-201",
+                "BAY 1841788",
+                "BAY-1841788",
+                "BAY1841788",
+                "Nubeqa",
+                "ODM 201",
+                "ODM-201",
+                "1297538-32-9"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Dasatinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "BMS-354825",
+                "Dasatinib Hydrate",
+                "Dasatinib Monohydrate",
+                "Sprycel"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Doxorubicin",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Adriablastin",
+                "Hydroxydaunomycin",
+                "Hydroxyl Daunorubicin",
+                "Hydroxyldaunorubicin"
+              ]
+            },
+            {
+              "type": "BIOLOGICAL",
+              "name": "Durvalumab",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Imfinzi",
+                "Immunoglobulin G1, Anti-(Human Protein B7-H1) (Human Monoclonal MEDI4736 Heavy Chain), Disulfide with Human Monoclonal MEDI4736 Kappa-chain, Dimer",
+                "MEDI-4736",
+                "MEDI4736",
+                "1428935-60-7"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Enasidenib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "AG-221",
+                "CC-90007 Free Base"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Entrectinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Rozlytrek",
+                "RXDX 101",
+                "RXDX-101",
+                "RXDX101"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Enzalutamide",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "ASP9785",
+                "MDV3100",
+                "Xtandi"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Erlotinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Everolimus",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "42-O-(2-Hydroxy)ethyl Rapamycin",
+                "Afinitor",
+                "Certican",
+                "RAD 001",
+                "RAD001",
+                "Votubia",
+                "Zortress"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Fluorouracil",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "5 Fluorouracil",
+                "5 Fluorouracilum",
+                "5 FU",
+                "5-Fluoro-2,4(1H, 3H)-pyrimidinedione",
+                "5-Fluorouracil",
+                "5-Fluracil",
+                "5-Fu",
+                "5FU",
+                "AccuSite",
+                "Carac",
+                "Fluoro Uracil",
+                "Fluouracil",
+                "Flurablastin",
+                "Fluracedyl",
+                "Fluracil",
+                "Fluril",
+                "Fluroblastin",
+                "Ribofluor",
+                "Ro 2-9757",
+                "Ro-2-9757"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Idelalisib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "CAL-101",
+                "GS 1101",
+                "GS-1101",
+                "Phosphoinositide-3 Kinase Delta Inhibitor CAL-101",
+                "Zydelig"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Imatinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ]
+            },
+            {
+              "type": "BIOLOGICAL",
+              "name": "Ipilimumab",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Anti-Cytotoxic T-Lymphocyte-Associated Antigen-4 Monoclonal Antibody",
+                "BMS-734016",
+                "Ipilimumab Biosimilar CS1002",
+                "MDX-010",
+                "MDX-CTLA4",
+                "Yervoy"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Lenvatinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "E7080",
+                "ER-203492-00",
+                "Multi-Kinase Inhibitor E7080"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Leucovorin",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Folinic acid"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Lorlatinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "2H-4,8-Methenopyrazolo(4,3-H)(2,5,11)benzoxadiazacyclotetradecine-3-carbonitrile, 7-amino-12-fluoro-10,15,16,17-tetrahydro-2,10,16-trimethyl-15-oxo-, (10R)-",
+                "Lorbrena",
+                "PF-06463922"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Losartan",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Nab-paclitaxel",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "ABI 007",
+                "ABI-007",
+                "Abraxane",
+                "Albumin-bound Paclitaxel",
+                "Albumin-Stabilized Nanoparticle Paclitaxel",
+                "Nanoparticle Albumin-bound Paclitaxel",
+                "Nanoparticle Paclitaxel",
+                "Paclitaxel Albumin",
+                "paclitaxel albumin-stabilized nanoparticle formulation",
+                "Protein-bound Paclitaxel"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Neratinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "(2E)-N-(4-((3-chloro-4-((pyridin-2-yl)methoxy)phenyl)amino)-3-cyano-7-ethoxyquinolin-6-yl)-4-(dimethylamino)but-2-enamide",
+                "HKI 272",
+                "HKI-272",
+                "PB 272",
+                "PB-272"
+              ]
+            },
+            {
+              "type": "BIOLOGICAL",
+              "name": "Nivolumab",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "BMS-936558",
+                "CMAB819",
+                "MDX-1106",
+                "NIVO",
+                "Nivolumab Biosimilar CMAB819",
+                "ONO-4538",
+                "Opdivo"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Olaparib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "AZD 2281",
+                "AZD-2281",
+                "AZD2281",
+                "KU-0059436",
+                "Lynparza",
+                "PARP Inhibitor AZD2281"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Oxaliplatin",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "1-OHP",
+                "Ai Heng",
+                "Aiheng",
+                "Dacotin",
+                "Dacplat",
+                "Diaminocyclohexane Oxalatoplatinum",
+                "Eloxatin",
+                "Eloxatine",
+                "JM-83",
+                "Oxalatoplatin",
+                "Oxalatoplatinum",
+                "RP 54780",
+                "RP-54780",
+                "SR-96669"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Palbociclib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "6-Acetyl-8-cyclopentyl-5-methyl-2-((5-(piperazin-1-yl)pyridin-2-yl)amino)-8h-pyrido(2,3-d)pyrimidin-7-one",
+                "Ibrance",
+                "PD 0332991",
+                "PD 332991",
+                "PD 991",
+                "PD-0332991"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Panobinostat",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Faridak",
+                "LBH589"
+              ]
+            },
+            {
+              "type": "BIOLOGICAL",
+              "name": "Pembrolizumab",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Keytruda",
+                "Lambrolizumab",
+                "MK-3475",
+                "SCH 900475"
+              ]
+            },
+            {
+              "type": "BIOLOGICAL",
+              "name": "Pertuzumab",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "2C4",
+                "2C4 Antibody",
+                "HS627",
+                "MoAb 2C4",
+                "Monoclonal Antibody 2C4",
+                "Omnitarg",
+                "Perjeta",
+                "Pertuzumab Biosimilar HS627",
+                "rhuMAb2C4",
+                "RO4368451",
+                "HLX11"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Ponatinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "AP-24534",
+                "AP24534"
+              ]
+            },
+            {
+              "type": "OTHER",
+              "name": "Quality-of-Life Assessment",
+              "description": "Ancillary studies",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Quality of Life Assessment"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Regorafenib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "BAY 73-4506",
+                "REGORAFENIB ANHYDROUS",
+                "Stivarga"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Ruxolitinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "INCB-18424",
+                "INCB18424",
+                "Jakafi",
+                "Oral JAK Inhibitor INCB18424"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Sirolimus",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "AY 22989",
+                "RAPA",
+                "Rapamune",
+                "Rapamycin",
+                "SILA 9268A",
+                "WY-090217"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Sorafenib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "BA4 43 9006",
+                "BAY 43-9006",
+                "Bay-439006"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Sunitinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Trametinib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "GSK1120212",
+                "JTP-74057",
+                "MEK Inhibitor GSK1120212"
+              ]
+            },
+            {
+              "type": "BIOLOGICAL",
+              "name": "Trastuzumab Emtansine",
+              "description": "Given IV",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Ado Trastuzumab Emtansine",
+                "ADO-Trastuzumab Emtansine",
+                "Kadcyla",
+                "PRO132365",
+                "RO5304020",
+                "T-DM1",
+                "Trastuzumab-DM1",
+                "Trastuzumab-MCC-DM1",
+                "Trastuzumab-MCC-DM1 Antibody-Drug Conjugate",
+                "Trastuzumab-MCC-DM1 Immunoconjugate"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Tretinoin",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "2,4,6,8-Nonatetraenoic acid, 3, 7-dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-, (all-E)-",
+                "Aberel",
+                "Airol",
+                "Aknoten",
+                "all trans-Retinoic acid",
+                "All-trans Retinoic Acid",
+                "All-trans Vitamin A Acid",
+                "all-trans-Retinoic acid",
+                "all-trans-Vitamin A acid",
+                "ATRA",
+                "Avita",
+                "beta-Retinoic Acid",
+                "Cordes Vas",
+                "Dermairol",
+                "Epi-Aberel",
+                "Eudyna",
+                "Renova",
+                "Retin-A",
+                "Retin-A MICRO",
+                "Retin-A-Micro",
+                "Retinoic Acid",
+                "Retisol-A",
+                "Ro 5488",
+                "Stieva-A",
+                "Stieva-A Forte",
+                "Trans Retinoic Acid",
+                "Trans Vitamin A Acid",
+                "trans-Retinoic Acid",
+                "Tretinoinum",
+                "Vesanoid",
+                "Vitamin A Acid",
+                "Vitamin A acid, all-trans-",
+                "Vitinoin"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Vemurafenib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "BRAF (V600E) kinase inhibitor RO5185426",
+                "BRAF(V600E) Kinase Inhibitor RO5185426",
+                "PLX-4032",
+                "PLX4032",
+                "RG 7204",
+                "RG7204",
+                "RO 5185426",
+                "Zelboraf"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Venetoclax",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "ABT-0199",
+                "ABT-199",
+                "ABT199",
+                "GDC-0199",
+                "RG7601",
+                "Venclexta",
+                "Venclyxto"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Vismodegib",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "Erivedge",
+                "GDC-0449",
+                "Hedgehog Antagonist GDC-0449"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Vorinostat",
+              "description": "Given PO",
+              "armGroupLabels": [
+                "Treatment (biospecimen collection, 2 drug combination)"
+              ],
+              "otherNames": [
+                "L-001079038",
+                "MSK-390",
+                "SAHA",
+                "Suberanilohydroxamic Acid",
+                "Suberoylanilide Hydroxamic Acid",
+                "Zolinza"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Ability to understand and the willingness to sign a written informed consent document\n* Participants \\>= 21 years old at time of informed consent. Both men and women and members of all races and ethnic groups will be included\n* Participants, both men and women, must agree to use an adequate method of contraception prior to study entry, for the duration of study participation, and for 4 months after completion of study\n* Women of childbearing potential must have a negative serum or urine pregnancy test within 14 days prior to start of study drug administration\n* Patients must have a histologically or cytologically-confirmed metastatic solid tumor or hematological malignancy that has progressed as follows:\n\n  * Patients with a solid tumor must have metastatic disease and have progressed on at least 1 line of established therapy that is known to provide clinical benefit, or for whom no standard curative therapy exists. Participants with newly diagnosed, unresectable, locally-advanced or metastatic pancreatic adenocarcinoma and are beginning first-line treatment with a course of chemotherapy are eligible OR\n  * Participants must have a hematological malignancy that is advanced, relapsed, or refractory to at least 1 line of established therapy that is known to provide clinical for the treatment of their disease. Hematological disease included in this study are as follows:\n\n    * Acute myelogenous leukemia (AML), or\n    * Myelodysplastic syndrome (MDS), or\n    * MDS/myeloproliferative neoplasms (MDS/MPN), or\n    * Primary myelofibrosis (PMF)\n    * Acute lymphoblastic leukemia (ALL)\n    * Chronic myelogenous leukemia (CML)\n    * Non-Hodgkin lymphoma (NHL) or Hodgkin's disease (HD)\n    * Chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL)\n    * Multiple myeloma (MM)\n* Participants with a metastatic solid tumor or advanced hematological malignancy whom, due to medical issues cannot receive standard therapy shown to prolong survival, will be eligible, if other eligibility criteria are met\n\n  * Patients with a metastatic solid tumor or advanced hematological malignancy that actively refuse chemotherapy that is considered standard treatment for their cancer, despite being informed by the investigator about the treatment options, are eligible for this study on a case-by-case basis (in consultation with the principal investigator \\[PI\\]). Potential participants actively refusing chemotherapy must have had progression or refractory disease prior to starting study treatment, and their refusal must be documented\n* Participants must have measurable disease:\n\n  * Patients with solid tumors must have measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1. At least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded for non-nodal lesions and short axis for nodal lesions) as \\>= 20 mm with conventional techniques or as \\>= 10 mm with spiral computed tomography (CT) scan, per RECIST (v1.1)\n  * Note: Participants with lesions on a bone scan that are considered distinctly metastatic will also be included\n  * Patients with lymphoma must have at least one non-irradiated tumor mass \\> 15 mm (long axis of lymph node) or \\> 10 mm (short axis of lymph node or extranodal lesions) on spiral CT-scan\n  * Patients with CLL must have presence of radiographically measurable lymphadenopathy (defined as the presence of \\>= 1 nodal lesion that measures \\>= 2.0 cm in the longest diameter \\[LD\\] and \\>= 1.0 cm in the longest perpendicular diameter \\[LPD\\] as assessed by CT or magnetic resonance imaging \\[MRI\\])\n  * Patients with MM must have at least one of the following: serum monoclonal component \\> 1 g/dL (IgG), or \\> 0.5 g/dL (IgA), or Bence-Jones (BJ) proteinuria \\> 200 mg/24 hour, or measurable plasmacytoma (not previously irradiated)\n* Participants with a hematological malignancy must have their bone marrow biopsy and aspirate reviewed at Oregon Health \\& Science University (OHSU)\n* Participants with a solid tumor must have lesions meeting the above criteria also and must be amenable to biopsy procedures performed per institutional standards\n* Participants must not currently be receiving any other investigational agents\n* Participants must have Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2 and a physician assessed life expectancy of \\>= 6 months\n* Absolute neutrophil count (ANC) \\>= 1,500/mcL (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n\n  * Waived for those with hematological malignancy; and may be waived on a case-by-case basis for patient populations recognized to have normal baseline values below this level\n* Platelets \\>= 100,000/mcL (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n\n  * Waived for those with hematological malignancy\n* Hemoglobin \\>= 9 g/dL or \\>= 5.6 mmol/L (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n\n  * Waived for those with hematological malignancy\n* Creatinine =\\< 1.5 x upper limit of normal (ULN) OR measured or calculated creatinine clearance (glomerular filtration rate \\[GFR\\] can also be used in place of creatinine or creatinine clearance \\[CrCl\\]) \\>= 60 mL/min/1.73 m\\^2 for participants with creatinine levels \\> 1 x institutional ULN (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n\n  * Waived for those with hematological malignancy; and may be waived on a case-by-case basis for patient populations recognized to have normal baseline values below this level\n* Total bilirubin =\\< 1.5 x ULN OR direct bilirubin =\\< ULN for participants with total bilirubin levels \\> 1.5 x ULN (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n\n  * Creatinine clearance should be calculated per institutional standard. For participants with a baseline calculated creatinine clearance below normal institutional laboratory values, a measured baseline creatinine clearance should be determined. Individuals with higher values felt to be consistent with inborn errors of metabolism will be considered on a case-by-case basis\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\]) and alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 3 x ULN (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n* International normalized ratio (INR) or prothrombin time (PT) =\\< 1.5 x ULN unless participant is receiving anticoagulant therapy as long as PT or partial thromboplastin time (PTT) is within therapeutic range of intended use of anticoagulants (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n* Activated partial thromboplastin time (aPTT) or PTT =\\< 1.5 x ULN unless participant is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n* Body mass index (BMI) \\> \\> 16.0 and \\< 35.0 kg/m\\^2 (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n\n  * Participants with a BMI of \\>= 30.0 will use ideal body weight indices in calculating the delivery of agents that are dosed based upon body surface area (i.e., mg agent/meter squared) or weight (i.e., mg agent/kg body weight)\n* Any prior therapy, radiotherapy (except palliative radiation therapy of 30 Gy or less), or major surgery must have been completed \\>= 4 weeks prior to start of study treatment. All adverse events due to prior therapy must have resolved to a grade 1 or better (except alopecia and lymphopenia for all disease cohorts, and hematologic toxicity for those with a hematological malignancy) by start of treatment. Palliative radiation therapy must have been completed at least 2 weeks prior to start of treatment. The radiotherapy must not be to a lesion that is included as measurable disease\n* Additional cancer-specific inclusion criteria must also be met\n\nKey Exclusion Criteria:\n\n* Participants with metastases to the central nervous system that are considered uncontrolled and/or were diagnosed within the past 4 weeks of screening for this study\n* Participants cannot have an active malignancy of another cancer. Those with a history of prior malignancy will be considered on a case-by-case basis. Guiding examples for those who can be enrolled include: individuals who have been disease free for \\> 5 years; individuals who are considered to have a high likelihood of being cured (e.g., prior history of stage 1 rectal cancer and currently otherwise disease free); adequately treated localized non-melanomatous skin cancer\n* Participants cannot be on other forms of anti-cancer therapy at the same time, except as described within this protocol. There must be at least a washout period that accounts for 5 half-lives (or \\>= 21 days, whichever is longer) of last therapy\n\n  * Participants with prostate cancer (PCa) will continue treatment with androgen deprivation therapy, either by prior castration or treatment with luteinizing hormone-releasing hormone (LHRH) antagonists or agonists, as is standard practice\n  * Participants with breast cancer (BCa) who are HER2 positive may continue to receive anti-HER2 therapy per standard practice guidelines, while participants who are hormone receptor positive may continue to receive hormone therapy per standard practice guidelines\n  * Participants with a hematological malignancy may continue to receive hydroxyurea or other hypomethylating agent for two cycles of SMMART-PRIME therapy, as described in this protocol\n* Uncontrolled intercurrent illness including, but not limited to, symptomatic congestive heart failure, unstable angina pectoris, serious cardiac arrhythmia, myocardial infarction within 6 months prior to enrollment, New York Heart Association (NYHA) class III or IV heart failure\n* Chronic graft versus host disease (GVHD) or on immunosuppressive therapy for the control of GVHD\n* Participants with uncontrolled infection will not be enrolled until infection is treated\n* Participant is seropositive with human immunodeficiency virus (HIV) or has active infection with hepatitis B virus (HBV) or hepatitis C virus (HCV)\n\n  * HIV-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial\n  * For patients with evidence of chronic HBV infection, the HBV viral load must be undetectable on suppressive therapy, if indicated\n  * Individuals with a history of HCV infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load\n* Participants with medical conditions, inclusive of psychiatric, that in the opinion of the investigators would jeopardize the patient or the study will be excluded\n* Participants that are pregnant or breast feeding\n* ON-TREATMENT: Individuals that have medical and/or psychiatric conditions that in the opinion of investigators would jeopardize participant safety or study integrity if they were to receive on-study treatment will not proceed further treatment and will be removed from study\n* ON-TREATMENT: If performance status is ECOG \\> 2\n* ON-TREATMENT: History of allergic reaction to a recommended study agent or its excipients\n* Additional cancer-specific exclusion criteria requirements",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "21 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04590417",
+          "briefTitle": "Assessment of Drug-drug Interactions Between Feminizing Hormone Therapy and Emtricitabine/Tenofovir Alafenamide Concomitantly for Pre-exposure Prophylaxis Among Transgender Women"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Recent studies have showed that there were significant drug-drug interactions (DDI) from feminizing hormone therapy (FHT) towards emtricitabine/tenofovir disoproxil fumarate (F/TDF)-based pre-exposure prophylaxis (PrEP) among transgender women (TGW). New strategies for PrEP among TGW who use FHT are urgently needed. Because tenofovir alafenamide (TAF) can achieve higher intracellular TFV-DP levels with lower tenofovir plasma concentrations, it is promising that both plasma TFV and intracellular TFV-DP levels might not be significantly affected by FHT. The current study aims to determine the pharmacokinetics DDI between FHT and F/TAF-based PrEP among TGW."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Drug Interaction"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "primaryPurpose": "PREVENTION",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "20 HIV-negative TGW",
+              "type": "OTHER",
+              "description": "A single-arm prospective PK study of HIV-negative TGW taking FHT and daily PrEP.",
+              "interventionNames": [
+                "Drug: Estradiol valerate 2 mg, cyproterone acetate 25 mg"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Estradiol valerate 2 mg, cyproterone acetate 25 mg",
+              "description": "The entire study period will be approximately 1 year, which will include around 2 months of document preparation, 5 months of recruitment, 3 months of follow-up, and 2 months of data analysis.",
+              "armGroupLabels": [
+                "20 HIV-negative TGW"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. Thai nationality\n2. Age 18-40 years old\n3. Transgender women\n4. HIV-negative\n5. Body mass index 18.5-24.9 kg/m2\n6. Calculated creatinine clearance (CrCl) \u226560 mL/min, as estimated by the Cockcroft-Gault equation\n7. Alanine aminotransferase (ALT) \u22642.5 x ULN\n8. Signed the informed consent form\n\nExclusion Criteria:\n\n1. Known history of allergy to hormonal component to be used in the study\n2. Male-to-female transgender who underwent orchiectomy\n3. Use of pre-exposure prophylaxis or post-exposure prophylaxis in the past 30 days\n4. Use of injectable FHT in the past 3 months\n5. Evidence of current hepatitis B virus infection (HBV) - i.e. hepatitis B surface antigen (HBsAg) positive\n6. Evidence of current hepatitis C virus infection (HCV) - i.e. HCV antibody positive\n7. Current use of any of the following:\n\n   * Anticonvulsants: carbamazepine, felbamate, oxcarbazepine, phenytoin, phenobarbital, primidone or topiramate\n   * Herbs: gingko biloba, St John's wort or milk thistle\n   * Anti-infective agents: azole antifungals, macrolides, griseofulvin, protease inhibitors, rifampicin or rifabutin\n8. Participant-reported active rectal infection requiring treatment\n9. History of gastrointestinal tract surgery that alter gastrointestinal tract and/or drug absorption\n10. Alcohol or drug use that, in the opinion of the investigator, would interfere with completion of study procedures",
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years",
+          "stdAges": [
+            "ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01065220",
+          "briefTitle": "Sex Steroids and the Serotonin Transporter"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "The aim of this study is to prove the influence of the sex steroid hormones estrogen, progesterone and testosterone on the serotonin transporter (5-HTT) binding using positron emission tomography (PET) and the selective radioligand \\[11C\\]DASB. Specifically, the 5-HTT binding will be quantified before and after hormone therapy underwent by 10 male-to-female (MtF) and 10 female-to-male (FtM) transsexuals urging for hormone treatment. The high-level, long-term administration of opsite sex steroid hormones in transsexuals provide the unique opportunity to investigate the influence of sex steroid hormones on the serotonergic system. Since the serotonin transporter serves as a primary target molecule for antidepressant treatment, the results of the study will be of benefit for the assessment of the clinical relevance of estrogen and testosterone as modulatory and neuroactive agents."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transsexualism"
+          ],
+          "keywords": [
+            "Serotonin Transporter",
+            "Hormone therapy",
+            "Gender Dysphoria",
+            "Transsexualism"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ],
+          "designInfo": {
+            "allocation": "NON_RANDOMIZED",
+            "interventionModel": "SINGLE_GROUP",
+            "primaryPurpose": "BASIC_SCIENCE",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 32,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "hormone treatment for MtF",
+              "type": "EXPERIMENTAL",
+              "description": "* cyproterone acetate\n* estradiol\n* alpha-5-reductase-inhibitor",
+              "interventionNames": [
+                "Drug: Cyproterone Acetate",
+                "Drug: Estradiol",
+                "Drug: 5-alpha reductase inhibitor"
+              ]
+            },
+            {
+              "label": "hormone treatment for FtM",
+              "type": "EXPERIMENTAL",
+              "description": "* testosterone undecanoate\n* lynestrenol",
+              "interventionNames": [
+                "Drug: Testolactone undecanoate",
+                "Drug: Lynestrenol"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Testolactone undecanoate",
+              "description": "4ml i.m.",
+              "armGroupLabels": [
+                "hormone treatment for FtM"
+              ],
+              "otherNames": [
+                "Nebido\u00ae"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Lynestrenol",
+              "description": "2/day",
+              "armGroupLabels": [
+                "hormone treatment for FtM"
+              ],
+              "otherNames": [
+                "Orgametril\u00ae"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Cyproterone Acetate",
+              "description": "50mg per day",
+              "armGroupLabels": [
+                "hormone treatment for MtF"
+              ],
+              "otherNames": [
+                "Androcur\u00ae"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Estradiol",
+              "description": "100 microgram TTS twice a week",
+              "armGroupLabels": [
+                "hormone treatment for MtF"
+              ],
+              "otherNames": [
+                "Estradot\u00ae"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "5-alpha reductase inhibitor",
+              "description": "1mg daily",
+              "armGroupLabels": [
+                "hormone treatment for MtF"
+              ],
+              "otherNames": [
+                "Finasterid\u00ae"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* somatic health\n* no previous sex hormone medication\n* willingness to sign the written informed consent\n\nExclusion Criteria:\n\n* severe diseases\n* steroid hormone treatment within 6 months prior inclusion\n* treatment with psychotropic agents such as selective serotonin reuptake inhibitors (SSRIs)\n* any implant or stainless steel graft\n* positive urine pregnancy test in women at the screening visit at each PET day",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years",
+          "stdAges": [
+            "ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06291675",
+          "briefTitle": "Gender-Affirming Hormone Therapy and Its Impact on Myocardial Mass and Cardiac Function, Heart, Liver and Pancreatic Fat Content"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Background: Gender affirming hormone therapy (GAHT) leads to profound changes in sex hormone levels, carrying a wide range of implications for major physiological processes in the body. GAHT has been shown to be associated with changes in cardiovascular parameters, the insulin system, body composition, and the psychological state. However, despite the fact that GAHT is usually a long-term intervention, the majority of the research concerns itself with an overall short duration of the therapy and the data on the mid- to long-term effects of GAHT is scarce.\n\nObjectives: The study aims to investigate the effects of gender affirming hormone therapy on the cardiovascular risk profile, insulin system, body composition, various metabolic parameters, and the psychological state after 2, 5, and 10 years of the treatment.\n\nStudy design: The study is designed as an observational longitudinal monocentric study, which includes transgender men and transgender women who have been taking gender affirming hormone therapy during the past 2 years and took part in our pilot study. Our probands will undergo a magnetic resonance scan, extensive bloodwork, an oral glucose tolerance test, and a psychological self-assessment after 2, 5, and 10 years of the treatment.\n\nMaterials and methods: The magnetic resonance imaging and spectroscopy will be performed with a 3-Tesla magnetic resonance device. We will also perform an extensive blood analysis and an 75g- 2h oral glucose tolerance test. Additionally, the psychological state of the probands will be assessed with 3 questionnaires.\n\nStudy population: 30 transgender men 30 transgender women who participated in our pilot study and have been taking the gender affirming hormone therapy for the past 2 years.\n\nRelevance and implications of the study: The majority of previous research has focused on the short-term effects of gender affirming hormone therapy. Contrastingly, our study aims to focus on the effects of hormone therapy at 2, 5 and 10 years after the beginning of the treatment. Moreover, our study group utilizes measurements of myocardial, hepatic, and pancreatic fat content as well as an MR-assisted measurement of cardiac function, which is a topic that has not been present in research into the effects of gender affirming hormone therapy outside of our pilot study."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Dysphoria",
+            "Hormone Therapy Induced Morphologic Change"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 50,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Transgender women",
+              "description": "Transgender women included in this study receive estrogen, either transdermally (Estrogel-Gel\u00ae, Estradot\u00ae or Estramon\u00ae) or orally (Estrofem\u00ae). If needed, the treatment can be supplemented by cyproterone acetate (Androcur\u00ae), and/or an alpha-5-reductase inhibitor (Finasterid Actavis/Arcana/Aurobindo\u00ae). The GAHT of our probands is prescribed and managed independently of the study, and the study has no effect on the treatment.",
+              "interventionNames": [
+                "Drug: gender-affirming hormone therapy"
+              ]
+            },
+            {
+              "label": "Transgender men",
+              "description": "The cohort of transgender men are persons who receive testosterone either intramuscularly (Nebido\u00ae) or transdermally (Testogel\u00ae or Testavan\u00ae). The GAHT of our probands is prescribed and managed independently of the study, and the study has no effect on the treatment.",
+              "interventionNames": [
+                "Drug: gender-affirming hormone therapy"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "gender-affirming hormone therapy",
+              "description": "We are not technically involved in the prescription of gender-affirming hormone therapy. We merely aim at observing effects of GAHT on MRI measured organ lipid content, myocardial mass and function.",
+              "armGroupLabels": [
+                "Transgender men",
+                "Transgender women"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* participation in our pilot study\n\n  * ongoing gender affirming hormone therapy during the last 2 years\n  * willingness and competence to sign the informed consent form.\n\nExclusion Criteria:\n\n* age \\< 18 years\n\n  * non-MRI conditional implants, grafts, and/or devices\n  * non-MRI conditional tattoos\n  * claustrophobia\n  * current substance abuse\n  * pregnancy\n  * failure to comply with the study protocol and/or not following the instructions of the study team.",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Transgender men and transgender women are selected according to their experienced gender",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Our study aims to enroll transgender probands who took part in our pilot study. 30 transgender women and 30 transgender men will be recruited from the pool of participants in the previous pilot study (EK 1629/2017). The study will include transgender participants between 18 and 99 years of age, who have been taking gender affirming hormone therapy for the past 2 years. The study will not include a placebo group or a control group, and it will not interfere with the gender affirming hormone therapy in any way regarding composition and time course of the treatment.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00884273",
+          "briefTitle": "Investigation of the Effect of Degarelix in Terms of Prostate Volume Reduction in Prostate Cancer Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "This was a Phase 3b clinical study in prostate cancer patients which aimed to compare the current standard therapy of a gonadotrophin releasing hormone (GnRH) agonist, goserelin (3.6 mg; plus anti-androgen flare protection, bicalutamide), to a novel GnRH antagonist, degarelix (240 mg starting dose/80 mg maintenance dose) with respect to mean percentage reduction in prostate volume.\n\nThe hypothesis was that degarelix could decrease prostate size at least as effectively as the combination of a GnRH agonist with an anti-androgen for flare protection."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostate Cancer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 182,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Degarelix 240 mg/80 mg",
+              "type": "EXPERIMENTAL",
+              "description": "The degarelix doses were administered into the abdominal wall every 28 days. A starting dose of 240 mg (40 mg/mL) degarelix was administered on Day 0 as two 3 mL subcutaneous (s.c.) injections. The second and third doses of 80 mg (20 mg/mL) degarelix were administered as single 4 mL s.c. injections on Days 28 and 56, respectively.",
+              "interventionNames": [
+                "Drug: Degarelix"
+              ]
+            },
+            {
+              "label": "Goserelin (3.6 mg) + bicalutamide (50 mg)",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Goserelin implants (3.6 mg) were inserted s.c. into the abdominal wall every 28 days. The first dose was administered on Day 0. The second and third doses of goserelin were administered on Days 28 and 56, respectively.\n\nOn Day 0, participants began once-daily per-oral (p.o.) treatment with bicalutamide (50 mg) as anti-androgen flare protection; this treatment continued for 28 days after the first dose of goserelin.",
+              "interventionNames": [
+                "Drug: Goserelin",
+                "Drug: Bicalutamide"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Degarelix",
+              "description": "The degarelix doses were administered into the abdominal wall every 28 days. A starting dose of 240 mg (40 mg/mL) degarelix was administered on Day 0 as two 3 mL subcutaneous (s.c.) injections. The second and third doses of 80 mg (20 mg/mL) degarelix were administered as single 4 mL s.c. injections on Days 28 and 56, respectively.",
+              "armGroupLabels": [
+                "Degarelix 240 mg/80 mg"
+              ],
+              "otherNames": [
+                "FE200486",
+                "FIRMAGON"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Goserelin",
+              "description": "Goserelin implants (3.6 mg) were inserted s.c. into the abdominal wall every 28 days. The first dose was administered on Day 0. The second and third doses of goserelin were administered on Days 28 and 56, respectively.",
+              "armGroupLabels": [
+                "Goserelin (3.6 mg) + bicalutamide (50 mg)"
+              ],
+              "otherNames": [
+                "ZOLADEX"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Bicalutamide",
+              "description": "On Day 0, participants began once-daily per-oral (p.o.) treatment with bicalutamide (50 mg) as anti-androgen flare protection; this treatment continued for 28 days after the first dose of goserelin.",
+              "armGroupLabels": [
+                "Goserelin (3.6 mg) + bicalutamide (50 mg)"
+              ],
+              "otherNames": [
+                "CASODEX"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. Patient has given written informed consent\n2. Patient is 18 years or older\n3. Patient has histologically confirmed prostate cancer\n4. Patient has a serum prostate-specific antigen (PSA) level at screening \\>2 ng/mL\n5. The prostate size is \\>30 cubic centimetres (cc), measured by TRUS\n6. Patient has had a bone-scan within 12 weeks before inclusion\n7. Patient must be able to undergo transrectal examinations\n8. Patient has an estimated life expectancy of at least 12 months\n\nExclusion Criteria:\n\n1. Any previous treatments for prostate cancer\n2. Previous trans-urethral resection of the prostate (TURP)\n3. Is not considered a candidate for medical castration\n4. Use of urethral catheter\n5. Is currently treated with a 5-alpha reductase inhibitor\n6. Is currently treated with an alpha-adrenoceptor antagonist\n7. Treatment with botulinum toxin A (Botox)\n8. Require radiotherapy during the trial\n9. History of severe untreated asthma, anaphylactic reactions, or severe urticaria and/or angioedema\n10. Hypersensitivity towards any component of the investigational products or excipients\n11. Previous history or presence of another malignancy\n12. A clinically significant disorder\n13. A corrected QT interval over 450 msec\n14. Mental incapacity or language barrier precluding adequate understanding or co-operation\n15. Receipt of an investigational drug within the last 28 days proceeding screening\n16. Previous participation in any degarelix trial",
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05663892",
+          "briefTitle": "Drug-Drug Interaction Study in Trans Women Living With HIV"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Introduction: Transgender (trans) women have been found to be at higher risk of and to be disproportionally affected by HIV. Trans women with HIV have also been found to have low usage and adherence rates to antiretroviral therapy (ART). Both healthcare providers and trans women, themselves, have expressed concerns of drug-drug interactions (DDIs) between ART drugs and feminizing hormones, which have in turn been shown to contribute to low rates of ART usage amongst trans women with HIV. The objective of this DDI study is to investigate the pharmacokinetic effects of the common feminizing hormone regimens (oral estradiol with an anti-androgen (pharmaceutical and/or surgical and/or medical) on the antiretroviral combination bictegravir/emtricitabine/tenofovir alafenamide (B/F/TAF) and vice versa.\n\nMethods and Analysis: Participants will be assigned to three groups: group 1 will include 15 trans women with HIV who are taking feminizing hormones and ART (investigational group); group 2 will include 15 premenopausal cis women with HIV taking ART (ART control group); group 3 will include 15 trans women without HIV taking feminizing hormones (hormone control group). Women with HIV will have to be virally suppressed for at least three months and they will have to already be taking B/F/TAF or have their current ART regimen switched to B/F/TAF at baseline. Trans women participants will be required to be on 2 mg oral estradiol or higher and an anti-androgen (pharmaceutical, medical or surgical). Plasma ART drug concentrations will be sampled at the 2-month visit and compared among trans women with HIV on feminizing hormones and premenopausal cis women with HIV. Serum estradiol and total testosterone concentrations will be sampled at the baseline and month 2 visits and compared among trans women with and without HIV. If successful, this trial will serve to provide empirical evidence regarding a lack of, or presence of DDIs between B/F/TAF and feminizing hormones.\n\nDissemination: The findings will be disseminated through publication in peer-reviewed journals as well as presented at national and international conferences and community groups."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hiv",
+            "Transgenderism"
+          ],
+          "keywords": [
+            "HIV",
+            "Feminizing Hormone Therapy",
+            "Transgender Women",
+            "Antiretroviral Therapy",
+            "Drug-Drug Interaction"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ],
+          "designInfo": {
+            "allocation": "NON_RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "OTHER",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Investigational Population (Group 1) - Trans women living with HIV",
+              "type": "EXPERIMENTAL",
+              "description": "Trans women living with HIV, taking:\n\n* Biktarvy\n* Oral 17(Beta)-Estradiol",
+              "interventionNames": [
+                "Drug: Biktarvy 50/200/25 Tab",
+                "Drug: Estradiol Tablets"
+              ]
+            },
+            {
+              "label": "Comparator Population (Group 2) - Cis Women Living with HIV",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Cis women living with HIV, taking:\n\n-Biktarvy",
+              "interventionNames": [
+                "Drug: Biktarvy 50/200/25 Tab"
+              ]
+            },
+            {
+              "label": "Comparator Population (Group 3) - Trans Women Living without HIV",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Trans women living without HIV, taking:\n\n-Oral 17(Beta)-Estradiol",
+              "interventionNames": [
+                "Drug: Estradiol Tablets"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Biktarvy 50/200/25 Tab",
+              "description": "As the HIV ART, the combination of B/F/TAF, known as Biktarvy\u00ae, which is a widely available Single Tablet Regimen (STR) approved by Health Canada is the drug under investigation. Participants in groups 1 and 2 will either have to already be taking B/F/TAF or will be required to switch to it at baseline and they will self-administer B/F/TAF once daily in the morning, with or without food. Participants taking their dosage at night will be required to switch to a morning dose at the screening visit.",
+              "armGroupLabels": [
+                "Comparator Population (Group 2) - Cis Women Living with HIV",
+                "Investigational Population (Group 1) - Trans women living with HIV"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Estradiol Tablets",
+              "description": "Oral 17(beta)-estradiol as the estrogen and an anti-androgen (pharmaceutical \\[e.g., spironolactone, cyproterone, finasteride, leuprolide, bicalutamide, dutasteride\\] and/or surgical \\[orchiectomy\\] and/or medical \\[hypogonadism\\]).Doses of estradiol range from 1 mg to a maximum of 6 mg per day.\n\nParticipants must take 2 mg until the Month 2 Visit. Trans women participants in both groups 1 and 3 must divide their dose to twice a day (BID) if they are taking \\> 2 mg per day and take 2 mg in the morning and the rest of the dosing in the evening. Participants who are only taking 2mg of estradiol once daily at night must switch their dosing to the morning. Participants who either crush or take the oral estradiol sublingually must switch to swallowing the tablet orally from the day after the screening visit until the Month 2 visit, otherwise the estradiol concentrations will be markedly higher.",
+              "armGroupLabels": [
+                "Comparator Population (Group 3) - Trans Women Living without HIV",
+                "Investigational Population (Group 1) - Trans women living with HIV"
+              ],
+              "otherNames": [
+                "Oral 17(beta)-estradiol"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Investigational Population (Group 1) - Trans Women Living with HIV\n\nInclusion Criteria\n\n1. Is a trans woman or person with transfeminine experience (individual assigned male sex at birth who currently identifies as a woman or person with transfeminine experience and is at any stage of medical, social, or legal transition);\n2. Is 18 years of age or older;\n3. Is living with HIV;\n4. Is currently taking combination ART and has been taking these medications for at least 3 months prior to the screening visit;\n5. Is willing to adjust their ART dosing to the morning if they are currently taking it at night for at least 28 days before the baseline visit until the completion of the Month 2 visit;\n6. Has had an undetectable viral load for at least 3 months on at least two occasions, where most recent (within 12 months including screening) VL\\<40 copies/mL and second (within 24 months) VL\\<200 copies/mL with no suggestion of relevant ART drug resistance prior to screening;\n7. Is willing to switch to or stay on B/F/TAF for the duration of the study (i.e., 6 months);\n8. Is currently taking oral estradiol (2 mg or higher) and an anti-androgen (pharmaceutical \\[e.g., spironolactone, cyproterone, finasteride, leuprolide, bicalutamide, dutasteride\\] and/or surgical \\[orchiectomy\\] and/or medical \\[hypogonadism\\]) and has been taking these medications together at the current dose for at least 3 months prior to the screening visit; AND:\n\n   1. Is willing to adjust their oral estradiol dosing to twice a day if they are taking \\> 2 mg per day (which is currently recommended as best practice) for at least 28 days before the baseline visit until the completion of the Month 2 visit, with the morning dose set at 2 mg (remaining dose can be taken at night), OR;\n   2. If their estradiol dosing is 2 mg per day and they are currently taking their estradiol at night, they must be willing to switch their dosing to the morning for at least 28 days before the baseline visit until the completion of the Month 2 visit;\n   3. Is willing to swallow their oral estradiol if they are currently taking it sublingually or crushing it for at least 28 days before the baseline visit and until the completion of the Month 2 visit;\n   4. Is willing to keep their anti-androgen (if applicable) medication(s) unchanged until the completion of the Month2 visit;\n9. If taking progesterone, is willing to keep the same medication/dose until the completion of the Month 2 visit and must have been taking that dose for at least 3 months prior to the screening visit;\n10. Is willing and able to provide full consent for their participation.\n\nExclusion Criteria\n\n1. Is clinically unable to switch ART to B/F/TAF based on their physician's opinion;\n2. Is taking hormonal non-prescription or natural health products in addition to feminizing hormone therapy;\n3. Has significant underlying diseases which could worsen due to their participation, or affect their ability to follow the study procedures;\n4. Has kidney or liver impairment (ALT \\> 5X normal; serum creatinine \\[eGFR\\] \\< 30 mL per minute);\n5. Is taking medications known to interact with feminizing hormones, B/F/TAF, or its individual components or has taken such medications within the past 28 days prior to baseline (List of prohibited medications in Appendix B1).\n6. Has a known hypersensitivity to bictegravir (BIC), emtricitabine (FTC), tenofovir alafenamide (TAF) or to any ingredient in the formulation.\n\nComparator Population (Group 2) - Cis Women Living With HIV Inclusion Criteria\n\n1. Is a cis woman (individual assigned female sex at birth who currently identifies as a woman);\n2. Is of reproductive age and 18 years of age or older;\n3. Is living with HIV;\n4. Has a regular period (every 24 - 35 days), or if period is irregular or absent, it is due to the administration of a progesterone only hormone contraceptive (see Appendix B1); or if uterus removed (hysterectomy), ovarie(s) remain functional (FSH level\\<27.0 IU/L);\n5. Is currently taking combination ART and has been taking these medications for at least 3 months prior to screening;\n6. Is willing to adjust their ART dosing to the morning if they are currently taking it at night for at least 28 days before the baseline visit until the completion of the Month 2 visit;\n7. Has had an undetectable viral load for at least 3 months on at least two occasions, where most recent (within 12 months including screening) VL\\<40 copies/mL and second (within 24 months) VL\\<200 copies/mL with no suggestion of relevant ART drug resistance prior to screening;\n8. Is willing to switch to or stay on B/F/TAF for the duration of the study (i.e., 6 months);\n9. Is willing and able to provide full consent for their participation.\n\nExclusion Criteria\n\n1. Is clinically unable to switch B/F/TAF based on their physician's opinion;\n2. Is pregnant or is planning on getting pregnant for the duration of the study;\n3. Has undergone surgery to remove their ovaries (i.e. oophorectomy) or has a condition in which their ovaries produce little or no estrogen (i.e. primary ovarian insufficiency, hypogonadism) or does not have ovaries naturally (i.e. unilateral ovarian absence); total hysterectomy is allowed as long as ovaries are intact and functional;\n4. Is taking an estrogen containing or conjugated estrogens hormonal therapies; IUD and progesterone only contraception are allowed (See Appendix B1/2 for list for both prohibited and allowed contraceptives);\n5. Has significant underlying diseases which could worsen due to their participation, or affect their ability to follow the study procedures;\n6. Has kidney or liver impairment (ALT \\> 5X normal; serum creatinine \\[eGFR\\] \\< 30 mL per minute);\n7. Has a known hypersensitivity to bictegravir (BIC), emtricitabine (FTC), tenofovir alafenamide (TAF) or to any ingredient in the formulation.\n8. Is taking medications known to interact with B/F/TAF, or its individual components or has taken such medications within the past 28 days prior to baseline (List of prohibited medications in Appendix B1/2).\n\nComparator Population (Group 3) - Trans Women Living Without HIV Inclusion Criteria\n\n1. Is a trans woman or person with transfeminine experience (defined as individual assigned male sex at birth who currently identifies as a woman or person with transfeminine experience irrespective of medical, social, or legal transition);\n2. Is 18 years of age or older;\n3. Is HIV negative at screening;\n4. Is currently taking oral estradiol (2mg or higher) and an anti-androgen (pharmaceutical \\[i.e., spironolactone, cyproterone, finasteride, leuprolide, bicalutamide, dutasteride\\] and/or surgical \\[orchiectomy\\] and/or medical \\[hypogonadism\\]) and has been taking these medications at the current dose for at least 3 months prior to the screening visit, AND:\n\n   1. Is willing to adjust their oral estradiol dosing to twice a day if they are taking \\> 2 mg per day (which is currently recommended as best practice) for at least 28 days before the baseline visit until the completion of the Month 2 visit, with the morning dose set at 2 mg (remaining dose can be taken at night) OR;\n   2. If their estradiol dosing is 2 mg per day and they are currently taking their estradiol at night, they must be willing to switch their dosing to the morning for at least 28 days before the baseline visit until the completion of the Month 2 visit;\n   3. Is willing to swallow their oral estradiol if they are currently taking it sublingually or crushing it for at least 28 days before the baseline visit until the completion of the Month 2 visit;\n   4. Is willing to keep their anti-androgen (if applicable) medication(s) unchanged until the completion of the Month2 visit;\n5. If taking progesterone, is willing to keep their dose the same until the Month 2 visit and must have been taking that dose for at least 3 months prior to the screening visit;\n6. Is willing and able to provide full consent for their participation.\n\nExclusion Criteria\n\n1. Is taking hormonal non-prescription or natural health products in addition to feminizing hormone therapy;\n2. Has taken HIV pre-exposure prophylaxis (PrEP) (i.e, TDF/FTC or TAF/FTC) or HIV post-exposure prophylaxis (PEP) in the prior 28 days from baseline and plans to continue during the study;\n3. Has significant underlying diseases which could worsen due to their participation, or affect their ability to follow the study procedures;\n4. Has kidney or liver impairment (ALT \\> 5X normal; serum creatinine \\[eGFR\\] \\< 30 mL per minute);\n5. Is taking medications known to interact with feminizing hormones or has taken such medications within the past 28 days prior to baseline (List of prohibited medications in Appendix B1).",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "This study is open to:\n\n* Transgender women or persons with transfeminine experience, taking feminizing hormone therapy (oral estradiol)\n* Cisgender women.",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02715232",
+          "briefTitle": "Effects of Sex Steroids on the Serotonin System"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN"
+        },
+        "descriptionModule": {
+          "briefSummary": "The aim of this study is to prove the modulatory influence of sex hormones on serotonergic neurotransmission by determining the enzymatic processes involved in serotonin synthesis and degradation using positron emission tomography (PET) in humans in vivo with the radiotracers \\[11C\\]AMT and \\[11C\\]harmine."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Dysphoria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ],
+          "designInfo": {
+            "allocation": "NON_RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "BASIC_SCIENCE",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 92,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Female-to-Males",
+              "type": "EXPERIMENTAL",
+              "description": "Female-to-Male Transsexuals receiving Testosterone treatment",
+              "interventionNames": [
+                "Drug: Testosterone",
+                "Drug: Lynestrenol",
+                "Drug: Triptorelin acetate"
+              ]
+            },
+            {
+              "label": "Male-to-Females",
+              "type": "EXPERIMENTAL",
+              "description": "Male-to-Female Transsexuals receiving Estradiol and Anti-androgen treatment",
+              "interventionNames": [
+                "Drug: Cyproterone Acetate",
+                "Drug: Estradiol",
+                "Drug: Triptorelin acetate"
+              ]
+            },
+            {
+              "label": "Female Controls",
+              "type": "NO_INTERVENTION",
+              "description": "Female Controls receiving no intervention"
+            },
+            {
+              "label": "Male Controls",
+              "type": "NO_INTERVENTION",
+              "description": "Male controls receiving no intervention"
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Testosterone",
+              "description": "100mg testosterone undecanoat every 8-12 weeks, or alternatively 50mg testosterone transdermally, or 50mg testosterone creme",
+              "armGroupLabels": [
+                "Female-to-Males"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Lynestrenol",
+              "description": "2-3 tablets/day, if menstruation still occurs",
+              "armGroupLabels": [
+                "Female-to-Males"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Cyproterone Acetate",
+              "description": "25mg daily",
+              "armGroupLabels": [
+                "Male-to-Females"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Estradiol",
+              "description": "75 microgram transdermal therapeutic system twice a week, or p.o. estradiol 2x2mg/day, or estradiol gel 1,5-3mg",
+              "armGroupLabels": [
+                "Male-to-Females"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Triptorelin acetate",
+              "description": "4,12mg every 4-6 weeks (powder for suspension for injection s.c. or i.m.",
+              "armGroupLabels": [
+                "Female-to-Males",
+                "Male-to-Females"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* DSM-5 diagnosis of Gender Dysphoria (DSM-5: 302.85; ICD-10: F64.1) (for transsexuals only)\n* Somatic health based on history, physical examination, ECG, laboratory screening, SCID\n* willingness and competence to sign the informed consent form\n\nExclusion Criteria:\n\n* concomitant major medical or neurological illness\n* internal or neurologic medical histories as well as pregnancy (positive urine pregnancy test) or breastfeeding\n* other DSM-5 Axis-I comorbidities, determined by a structured clinical interview (SCID), especially body dysphoric disorder (DSM-5: 300.7; ICD-10: F45.22), schizophrenia spectrum and other psychotic disorders\n* steroid hormone treatment within 6 months prior to inclusion\n* treatment with psychotropic agents such as SSRIs\n* any implant or stainless steel graft\n* abnormal values in routine laboratory screening or general physical examination\n* current substance abuse or current or past substance related disorder\n* for participants who participated in an earlier neuroimaging study using ionizing radiation, the total radiation exposure dose of 20 mSv over the last 10 years must not be exceeded, as specified in the legislation on radiation protection (Allg. Strahlenschutzverordnung 2010; www.ris.bka.gv.at)\n* failure to comply with the study protocol or to follow the instructions of the investigating team",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years",
+          "stdAges": [
+            "ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00833248",
+          "briefTitle": "Neoadjuvant Study Investigating Degarelix in Patients Suffering From Prostate Cancer"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "The purpose of this phase 3B trial was to see how well a new trial drug (degarelix) works in terms of reducing the size of the prostate volume in prostate cancer patients who were scheduled to undergo subsequent radiotherapy for treatment of their prostate cancer. Prior to receiving radiotherapy, it is recommended that patients with intermediate to high risk prostate cancer are pre-treated with hormone therapy (so-called neoadjuvant therapy) which is known to reduce the size of the prostate and thereby decrease the required radiation field and enable a more safe and effective treatment. In this trial, participants were randomly selected (like flipping a coin) to receive either degarelix given alone or a standard hormone therapy (combination of goserelin and bicalutamide. The treatment was given for three months and the prostate size was measured by ultra sound at the beginning and at the end of the trial. The participants were required to come to the clinic for 5 or 6 visits during the three months."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostate Cancer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 246,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Degarelix 240 mg/80 mg",
+              "type": "EXPERIMENTAL",
+              "description": "The degarelix doses were administered into the abdominal wall every 28 days. A starting dose of 240 mg (40 mg/mL) degarelix was administered on Day 0 as two 3 mL subcutaneous (s.c.) injections. The second and third doses of 80 mg (20 mg/mL) degarelix were administered as single 4 mL s.c. injections on Days 28 and 56, respectively.",
+              "interventionNames": [
+                "Drug: Degarelix"
+              ]
+            },
+            {
+              "label": "Goserelin (3.6 mg) + bicalutamide (50 mg)",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "On Day 0, the participants began once-daily oral (p.o.) treatment with bicalutamide as anti-androgen flare protection. This treatment continued for 2 weeks after the first dose of goserelin (i.e. 17 days in total).\n\nOn Day 3, the first goserelin implant was inserted s.c. into the abdominal wall. The second and third doses of goserelin were administered on Days 31 and 59, respectively.",
+              "interventionNames": [
+                "Drug: Goserelin",
+                "Drug: Bicalutamide"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Degarelix",
+              "description": "The degarelix doses were administered into the abdominal wall every 28 days. A starting dose of 240 mg (40 mg/mL) degarelix was administered on Day 0 as two 3 mL subcutaneous (s.c.) injections. The second and third doses of 80 mg (20 mg/mL) degarelix were administered as single 4 mL s.c. injections on Days 28 and 56, respectively.",
+              "armGroupLabels": [
+                "Degarelix 240 mg/80 mg"
+              ],
+              "otherNames": [
+                "FE200486",
+                "Firmagon"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Goserelin",
+              "description": "Goserelin implants (3.6 mg) were inserted s.c. into the abdominal wall every 28 days. The first dose was administered on Day 3. The second and third doses of goserelin were administered on Days 31 and 59, respectively.",
+              "armGroupLabels": [
+                "Goserelin (3.6 mg) + bicalutamide (50 mg)"
+              ],
+              "otherNames": [
+                "Zoladex"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Bicalutamide",
+              "description": "On Day 0, participants began once-daily per-oral (p.o.) treatment with bicalutamide (50 mg) as anti-androgen flare protection; this treatment continued for 14 days after the first dose of goserelin.",
+              "armGroupLabels": [
+                "Goserelin (3.6 mg) + bicalutamide (50 mg)"
+              ],
+              "otherNames": [
+                "Casodex"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient has given written informed consent before any trial-related activity is performed.\n* Has a confirmed prostate cancer in which this type of treatment is needed.\n\nExclusion Criteria:\n\n* Previous treatment for prostate cancer\n* Previous trans-urethral resection of the prostate\n* Patients who are lymph node positive or have other metastatic disease\n* Use of urethral catheter\n* Current treatment with a 5-alpha reductase inhibitor or \u03b1-adrenoceptor antagonist.\n* History of severe untreated asthma, anaphylactic reactions, or severe urticaria and/or angioedema.\n* Hypersensitivity towards any component of the investigational product\n* Other previous cancers within the last five years with the exception of prostate cancer and some types of skin cancer.\n* Certain risk factors for abnormal heart rhythms/QT prolongation (corrected QT interval over 450 msec., Torsades de Pointes or use of certain medications with potential risk)\n* Clinical disorders other than prostate cancer including but not limited to renal, haematological, gastrointestinal, endocrine, cardiac, neurological, psychiatric disease, alcohol or drug abuse or other conditionals as judged by the investigator.",
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01292785",
+          "briefTitle": "Effects of Sex Steroid Hormones on Human Brain Function, Structure and Connectivity"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "This ultrahigh-field MRI study gives us the unique opportunity to measure changes in brain function and structure induced by long-term opposite-sex steroid hormone administration in transsexual subjects. Our aim is 1. to prove the influence of high-dose, long-term opposite-sex steroid hormone treatment on functional brain response in transsexuals. 2. to investigate the influence of hormone treatment on resting state functional connectivity and brain morphology. 3. to investigate differences between transsexuals and healthy control subjects in brain function and functional connectivity, brain morphology and structural connectivity. In this longitudinal study, transsexuals and healthy control subjects will undergo three 7 Tesla ultrahigh-field MRI scan sessions: 1. baseline (before hormone treatment), 2. after 4 weeks of treatment and 3. after 4 months of treatment."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Identity Disorder"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "designInfo": {
+            "observationalModel": "CASE_CONTROL",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Transsexual",
+              "description": "Female-to-Male and Male-to-Female Transsexuals receiving hormonal therapy",
+              "interventionNames": [
+                "Drug: Hormones"
+              ]
+            },
+            {
+              "label": "Healthy control subjects",
+              "description": "receiving no hormonal therapy"
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Hormones",
+              "description": "FtM will receive\n\n* 1000mg testosterone undecanoate every 12 weeks (Nebido\u00ae 4ml i.m.), or alternatively 50mg testosterone transdermally (Testogel\u00ae 5g-bag per day) and\n* if menstruation still occurs, additionally either lynestrenol Orgametril\u00ae (2-3 tablets/day) or in some cases 0.075mg desogestrel (Cerazette\u00ae, 1 tablet/day).\n\nMtF will receive\n\n* 50mg cyproterone acetate daily (Androcur\u00ae)\n* estradiol 100\u00b5g transdermal therapeutic system (TTS) twice a week (Estradot\u00ae, Estramon\u00ae), especially if subjects age is \\> 40 years, or p.o. estradiol 2x2mg (Estrofem\u00ae) if subjects age is \\< 40 years; alternatively estradiol 0,75-1,5mg (1-2 hubs) transdermally (Estrogel-Gel\u00ae) and\n* 2,5mg alpha-5-reductase-inhibitor every 2nd day (Finasterid Actavis/ Arcana/ Aurobindo\u00ae) in case of extensive hair loss.",
+              "armGroupLabels": [
+                "Transsexual"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion criteria for transsexuals are:\n\n* DSM-IV diagnosis of Gender Identity Disorder (DSM-IV: 302.85, 302.6; ICD-10: F64.9, F64.8) by a structured clinical interview (SCID)\n* general health based on history, physical examination, ECG, laboratory screening, SCID\n* willingness and competence to sign the informed consent form\n\nExclusion criteria for transsexuals are:\n\n* severe neurological or internal diseases\n* steroid hormone treatment within 2 months prior to inclusion (including birth control pill, phytohormones)\n* treatment with psychotropic agents such as SSRIs\n* any implant or stainless steel graft\n* abnormal values in routine laboratory screening or general physical examination\n* current substance abuse (determined using drug screening at the screening visit)\n* pregnancy (determined at screening visit and first MRI scan)\n* failure to comply with the study protocol or to follow the instructions of the investigating team.\n\nInclusion criteria for healthy controls are:\n\n* general health based on history, physical examination, ECG, laboratory screening, SCID\n* willingness and competence to sign the informed consent form\n\nExclusion criteria for healthy controls are:\n\n* severe diseases\n* any implant or stainless steel graft\n* steroid hormone treatment within 2 months prior to inclusion (including birth control pill, phytohormones)\n* abnormal values in routine laboratory screening or general physical examination\n* current substance abuse (determined using drug screening at the screening visit)\n* pregnancy (determined at screening visit and first MRI scan)\n* failure to comply with the study protocol or to follow the instructions of the investigating team",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "55 Years",
+          "stdAges": [
+            "ADULT"
+          ],
+          "studyPopulation": "Transsexuals urging sex reassignment in a clinical setting will be enrolled at the Unit for Gender Identity Disorder at the General Hospital in Vienna. 20 female-to-male (FtM) and 20 male-to-female (MtF) transsexuals will be asked to undergo this fMRI, MRI, DTI and resting-state functional connectivity study. Transsexual subjects are aged between 18 and 50 years old and free from hormone-treatment at baseline.\n\n40 healthy control subjects, matched for age, sex and sexual orientation to transsexual subjects will be recruited.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01653925",
+          "briefTitle": "Molecular Mechanisms of Dutasteride and Dietary Interventions to Prevent Prostate Cancer and Reduce Its Progression"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "The purpose of this study is to determine whether marine omega-3 fatty acids and 5-alpha-reductase inhibitor are effective in the progression of prostate cancer for low-risk prostate cancer patients."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostatic Neoplasms",
+            "Low Grade Prostate Cancer"
+          ],
+          "keywords": [
+            "Prostatic Neoplasms",
+            "Low grade prostate cancer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "FACTORIAL",
+            "primaryPurpose": "PREVENTION",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 120,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Dietary intervention first",
+              "type": "EXPERIMENTAL",
+              "description": "The dietary intervention will be aimed to increase intake of \u03c9-3 long chain fatty acids and to reduce intake of saturated and trans fatty acids.",
+              "interventionNames": [
+                "Other: Dietary intervention first"
+              ]
+            },
+            {
+              "label": "Drug intervention first",
+              "type": "EXPERIMENTAL",
+              "description": "Intake of 5\u03b1-Reductase Inhibitor",
+              "interventionNames": [
+                "Drug: Drug (Dutasteride) intervention first"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "Dietary intervention first",
+              "description": "The dietary intervention will be aimed to increase intake of \u03c9-3 long chain fatty acids and to reduce intake of saturated and trans fatty acids. Three consultations with a nutritionist experienced in clinical trials will be planned over a 6-month period. An additional 2 consultations in the last 6 months with the study nutritionist will be planned for men allocated to the dietary fat intervention arm first. Then, after the 6 months of diet intervention, drug intervention with 5\u03b1-Reductase Inhibitor will be add to diet for the 6 following months.",
+              "armGroupLabels": [
+                "Dietary intervention first"
+              ],
+              "otherNames": [
+                "Dutasteride"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Drug (Dutasteride) intervention first",
+              "description": "5\u03b1-Reductase Inhibitor will be taken daily in tablet dosage form (0.5 mg) taken orally for 12 months depend of the group. After 6 months of drug intake, dietary fat intervention will be add to treatment for the following 6 months. Three consultations with a nutritionist experienced in clinical trials will be planned over this 6-month period.",
+              "armGroupLabels": [
+                "Drug intervention first"
+              ],
+              "otherNames": [
+                "Dutasteride"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Low-risk prostatic neoplasms\n* Candidate for active surveillance\n* Informed consent\n\nExclusion Criteria:\n\n* Current fish oil supplementation\n* Current NSAID use",
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "35 Years",
+          "maximumAge": "75 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07187947",
+          "briefTitle": "Cardiovascular Health of Transgender Individuals During the Gender-affirming Pathway"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Gender incongruence, now classified in ICD-11 as a \"marked and persistent incongruence between an individual's experienced gender and the gender assigned at birth,\" is managed in dedicated, multidisciplinary centres that coordinate psychological support with medical-surgical care.\n\nGender-affirming hormone therapy (GAHT) is central to this care pathway. In particular, masculinising GAHT for people assigned female at birth (AFAB) relies mainly on testosterone, and feminising or demasculinising GAHT for people assigned male at birth (AMAB) combines oestradiol with androgen-lowering agents such as cyproterone acetate or GnRH analogues (triptorelin, leuprorelin). In addition, Gender-affirming surgery (GAS) offers further individualised options: \"Top\" procedures- chest masculinisation for AFAB or breast augmentation for AMAB, and \"Bottom\" procedures\\*\\* such as hysterectomy with or without oophorectomy, phalloplasty or metoidioplasty for AFAB; orchiectomy or vaginoplasty for AMAB. Other ancillary interventions include facial feminisation or voice surgery.\n\nGAHT aims to suppress endogenous sex-hormone levels and secondary sex characteristics while inducing those consistent with the affirmed gender. Despite its widespread use, cardiovascular (CV) safety data are scant and largely observational. Sex-steroid receptors are ubiquitous in the vasculature and contribute to the sex-dimorphic patterns of CV risk seen in cisgender populations; GAHT is therefore biologically plausible as a modifier of CV outcomes in transgender people, yet robust evidence remains limited.\n\nCurrent literature suggests that AFAB individuals on testosterone exhibit an up to 2.66-fold higher composite CV risk than cisgender AFAB comparators. The most consistent changes are higher blood pressure and lower HDL cholesterol; clinically significant polycythaemia is uncommon and treatable. Instead, AMAB individuals on feminising therapy do not show a clearly increased overall CV risk compared with cisgender AMAB peers, though data are inconsistent. An observational study reported that within four months of GAHT initiation, systolic blood pressure rose by 2.6 mmHg in trans men and fell by 4 mmHg in trans women, with no diastolic change in either group.\n\nThe current evidence base is weakened by small cohorts, inadequate control groups, and reliance on surrogate biochemical markers rather than hard clinical endpoints. Many studies also overlook GAHT exposure altogether, hampering meaningful interpretation. Moreover, social determinants-mental-health burden, substance use, and healthcare inequities-compound CV risk but are seldom accounted for.\n\nKey unanswered questions include the long-term CV effects of GAHT, age-specific interactions with blood pressure and lipids, optimal therapeutic targets, and underlying mechanisms. Addressing these gaps demands rigorously designed, large-scale, prospective studies that actively involve transgender participants.\n\nIn summary, while GAHT is indispensable for gender affirmation, its cardiovascular implications-especially for AFAB individuals-warrant caution and systematic monitoring. Future evidence should inform tailored protocols that balance gender-affirming benefits against potential CV risks and integrate biomedical parameters with the broader social context impacting transgender health."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Incongruence",
+            "Cardiovascular (CV) Risk",
+            "Cardiovascular Disease Risk Factor",
+            "Cardiovascular Disease Acute",
+            "Cardiovascular Health Status",
+            "Cardiovascular Disease (CVD)",
+            "Cardiovascular Disease Prevention"
+          ],
+          "keywords": [
+            "cardiovascular risk",
+            "transgender",
+            "GAHT",
+            "GAS",
+            "hormones"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "OTHER"
+          },
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "AMAB",
+              "description": "Individuals assigned male at birth, who will take on feminising gender-affirming care (i.e. cyproterone acetate/leuprorelin/triptorelin + estradiol/estradiol valerate, or estradiol/estradiol valerate alone after undergoing orchiectomy).",
+              "interventionNames": [
+                "Drug: Feminizing GAHT"
+              ]
+            },
+            {
+              "label": "AFAB",
+              "description": "Individuals assigned male at birth, who will take on masculinizing gender-affirming care (i.e. testosterone, either before and after the hysterectomy with our without oophorectomy, if desired).",
+              "interventionNames": [
+                "Drug: Masculinizing GAHT"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Feminizing GAHT",
+              "description": "Before gender-affirming surgery, the regimen consists of an antiandrogen (cyproterone acetate or leuprorelin or triptorelin) plus estradiol (estradiol or estradiol valerate), whereas after an oophorectomy, estradiol/estradiol valerate can be administered alone.",
+              "armGroupLabels": [
+                "AMAB"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Masculinizing GAHT",
+              "description": "Before and after gender-affirming surgery, the regimen consists of the administration of testosterone or its esters (testosterone undecanoate, testosterone enanthate)",
+              "armGroupLabels": [
+                "AFAB"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of gender incongruence\n* Age 18 years or older at the start of therapy\n* Undergoing gender-affirming (replacement or suppressive) hormone therapy with testosterone or with estradiol plus anti-androgens for at least 12 months\n* Provision of informed consent for study participation and for the processing of personal and sensitive data\n\nExclusion Criteria:\n\n* Any hormone therapy received before recruitment\n* History of cardiovascular events prior to the initiation of hormone therapy",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Transgender AFAB and AMAB individuals diagnosed with gender incongruence who received medical therapy between January 2000 and December 2027 at the Gynecology and Reproductive Physiology Unit of the IRCCS AOU Bologna, Sant'Orsola University Hospital.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05318755",
+          "briefTitle": "China Gender-affirming Hormone Therapy Study"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Data about transgender medical care, especially the gender-affirming hormone therapy (GAHT) is extremely insufficient in China. Few evidence exists in the physical and psychological effects of the hormonal treatment in Chinese transgender population. CGAHT is designed to describe the social and mental condition of transgender people who are seeking for formal GAHT, and to investigate the physical and psychological effects of GAHT on this population in China."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transgender",
+            "Gender Incongruence"
+          ],
+          "keywords": [
+            "Transgender Persons",
+            "Gender-affirming Hormone Therapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "Blood, urine and stool sample will be taken before and during the course of GAHT."
+          },
+          "enrollmentInfo": {
+            "count": 240,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "transgender men",
+              "description": "People whose sex assigned at birth is female but whose self-identified gender is male.",
+              "interventionNames": [
+                "Drug: GAHT for transgender men"
+              ]
+            },
+            {
+              "label": "transgender women",
+              "description": "People whose sex assigned at birth is male but whose self-identified gender is female.",
+              "interventionNames": [
+                "Drug: GAHT for transgender women"
+              ]
+            },
+            {
+              "label": "Healthy cisgender people",
+              "description": "People whose sex assigned at birth corresponds with their self-identified gender."
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "GAHT for transgender men",
+              "description": "Testosterone undecanoate",
+              "armGroupLabels": [
+                "transgender men"
+              ],
+              "otherNames": [
+                "Testosterone"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "GAHT for transgender women",
+              "description": "Estradiol and antiandrogens (Spironolactone or Cyproterone acetate)",
+              "armGroupLabels": [
+                "transgender women"
+              ],
+              "otherNames": [
+                "Feminizing drugs"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Transgender men and women\n* Meet criteria of Diagnostic and Statistical Manual of Mental Disorders (Fifth Edition) for gender dysphoria\n* Aged between 18 to 40 years\n* People desire to start the GAHT\n* No previous history of gender-affirming interventions\n* Having full ability to make informed consent\n* Dextromanual\n\nExclusion Criteria:\n\n* Disorders of sex development\n* Who has fertility demand but have not made fertility preservation\n* With contradictions of GAHT\n* Comorbid diseases are not under control\n* Alcohol or drug abuse\n* Hormonal and chromosomal disorders\n* History of gender affirming surgery\n* Current psychiatric disorders\n* History of brain trauma or neurological pathologies\n* Current use of medications with psychotropic effects within two weeks (antipsychotic or antiepileptic agents, lithium, benzodiazepines or opioid analgesics)\n* Claustrophobia\n* Implanted metal and medical devices (pacemakers, ceramic teeth, etc.),\n* Tattoos or eyebrow tattooing (heavy metal dye)",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Men and women are based on self-representation of gender identity",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years",
+          "stdAges": [
+            "ADULT"
+          ],
+          "studyPopulation": "100 transgender men, 100 trangender women, 20 healthy cisgender men and 20 healthy cisgender women",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00985738",
+          "briefTitle": "Role of Dutasteride in Patients Undergoing 3D Mapping Biopsy in Early Stage Prostate Cancer"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED"
+        },
+        "descriptionModule": {
+          "briefSummary": "The purpose of this study is to determine the effect of short-term intake of daily Dutasteride in patients with prostate cancer."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostate Cancer"
+          ],
+          "keywords": [
+            "Prostate Cancer",
+            "Early Stage Prostate Cancer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "DOUBLE",
+              "whoMasked": [
+                "PARTICIPANT",
+                "INVESTIGATOR"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 16,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Dutasteride",
+              "type": "EXPERIMENTAL",
+              "description": "The drug, Dutasteride, will be administered at 0.5 mg dose and given everyday (QD), for 3 months.",
+              "interventionNames": [
+                "Drug: Dutasteride"
+              ]
+            },
+            {
+              "label": "Placebo",
+              "type": "PLACEBO_COMPARATOR",
+              "description": "The placebo group will receive a placebo drug for 3 months, instead of the intervention drug, Dutasteride.",
+              "interventionNames": [
+                "Other: Placebo"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Dutasteride",
+              "description": "Dutasteride will be administered at 0.5 mg dose and it will be given every day (QD), for approximately 3 months, followed by 3D mapping biopsy.",
+              "armGroupLabels": [
+                "Dutasteride"
+              ],
+              "otherNames": [
+                "Avodart"
+              ]
+            },
+            {
+              "type": "OTHER",
+              "name": "Placebo",
+              "description": "The placebo group will receive the same standard of care as the intervention group, but instead of receiving the intervention drug, Dutasteride, participants will receive a placebo drug for the same 3 month period.",
+              "armGroupLabels": [
+                "Placebo"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* 40-85 year old males\n* Patient is newly diagnosed with clinical Stage T1a-T2c prostate cancer based on transrectal guided extended prostate biopsy of at least 10 cores.\n* Patient elects to undergo 3D mapping biopsy at our center as part of prostate cancer management.\n* Patient will read, understand and sign the informed consent agreement\n* Patients must have a life expectancy of at least one year.\n* Gleason score \u2264 7 (low to moderate risk 2-7) 7= 3+4\n* Percentage positive core rate \\< 50% based on sextant or extended biopsy technique.\n* Prostate Volume (PV) \\>15 grams.\n* Negative imaging studies ( if available) during the staging period such as Bone scan, MRI and CT scan if PSA\\> 10 ng.dl before initiation of the study drug\n\nExclusion Criteria:\n\n* Any 5\u03b1-reductase inhibitors medications within the past 12 months before enrollment.\n* Known hypersensitivity to dutasteride, or other 5\u03b1-reductase inhibitors.\n* Anticipated blood donation within the next 90 days.\n* Serum PSA levels of \\>20ng/dl.\n* Clinical evidence of metastatic prostate cancer.\n* Two documented urinary tract infections in the past year\n* CHF, MI (within 6 months) or other symptomatic CVS disease\n* Other serious diseases (hematological, hepatic, renal, respiratory or psychiatric)\n* Enrollment in other studies for any disease in the past 30 days\n* Significant urinary incontinence\n* Diagnosis of cancer that in not considered cured, except BCC of skin\n* Prior transurethral resection of the prostate with a large tissue defect.\n* History of abdominoperineal resection for rectal cancer, rectal stenosis, or other major rectal pathology\n* Previous or concurrent radiotherapy, hormonal therapy or chemotherapy",
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "40 Years",
+          "maximumAge": "85 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00866554",
+          "briefTitle": "Efficacy and Toxicity of Bicalutamide and Dutasteride vs. Standard Care for Prostate Cytoreduction for Brachytherapy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "The purpose of this study is to determine if a combination of neoadjuvant dutasteride and bicalutamide has the same efficacy and less toxicity than standard treatment with an LHRH agonist and bicalutamide for prostate cytoreduction prior to permanent implant brachytherapy."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostate Cancer",
+            "Erectile Dysfunction",
+            "Lower Urinary Tract Symptoms"
+          ],
+          "keywords": [
+            "Prostate",
+            "Brachytherapy",
+            "Cytoreduction",
+            "Sexual function",
+            "Toxicity"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "SINGLE",
+              "whoMasked": [
+                "INVESTIGATOR"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "LHRH agonist",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Administration of a 3-month treatment with an LHRH agonist (chosen by the treating radiation oncologist) and Bicalutamide 50 mg daily for the first month of treatment with the LHRH agonist.",
+              "interventionNames": [
+                "Drug: administration of a LHRH agonist and Bicalutamide"
+              ]
+            },
+            {
+              "label": "Dutasteride, Bicalutamide, Tamoxifen",
+              "type": "EXPERIMENTAL",
+              "description": "Administration of Dutasteride given at dose of 0.5 mg daily starting three months prior to day of implant procedure and continued for 3 months up until procedure.\n\nBicalutamide: given at a dose of 50 mg daily for 3 the same 3 month period as dutasteride\n\nTamoxifen: given at dose of 10 mg daily for 3 months that dutasteride and bicalutamide are administered.",
+              "interventionNames": [
+                "Drug: administration of Bicalutamide, Dutasteride and Tamoxifen"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "administration of a LHRH agonist and Bicalutamide",
+              "description": "3-month treatment with an LHRH agonist chosen by the treating radiation oncologist and Bicalutamide 50 mg daily for the first month of treatment with the LHRH agonist.",
+              "armGroupLabels": [
+                "LHRH agonist"
+              ],
+              "otherNames": [
+                "Bicalutamide(Casodex)"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "administration of Bicalutamide, Dutasteride and Tamoxifen",
+              "description": "Dutasteride given at dose of 0.5 mg daily starting three months prior to day of implant procedure and continued for 3 months up until procedure.\n\nBicalutamide: given at a dose of 50 mg daily for 3 the same 3 month period as dutasteride\n\nTamoxifen: given at dose of 10 mg daily for 3 months that dutasteride and bicalutamide are administered.",
+              "armGroupLabels": [
+                "Dutasteride, Bicalutamide, Tamoxifen"
+              ],
+              "otherNames": [
+                "Bicalutamide (Casodex)",
+                "Dutasteride (Avodart)",
+                "Tamoxifen (Nolvadex)"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Male sex\n* Diagnosis of prostate adenocarcinoma as confirmed by prostate biopsy\n* Prostate cancer with stage T1a, T1b T2a or T2b Nx Mx as determined by clinical examination\n* Gleason score of 6 or less or 7 (3+4)\\*\n\n  \\* If Gleason score is 7(3+4) patient must have less than 30% of biopsied tissue positive\n* Serum PSA of \u2264 15ng/ml during the month before study entry\n* Prostate volume \u2265 45cc\n* Normal serum testosterone during the month before study entry\n* Availability for treatment and follow-up visits\n* Having signed required consent form before study entry\n\nExclusion Criteria:\n\n* Abnormal Liver Function tests (\\>2x normal AST or ALT and/or \\>1.5x normal bilirubin)\n* Prostate volume less than 50 cc\n* History of hormonal treatment including any of the above: LHRH agonists, antiandrogens during the year before study entry\n* Use of a 5 alpha reductase inhibitor for more than one month during the year prior to study entry\n* History of pelvic irradiation\n* History of past chemotherapy\n* History of TURP\n* History of past treatment for prostate cancer\n* Known hypersensitivity to Dutasteride or Bicalutamide\n* Co-morbid disease possibly compromising treatment compliance\n* History of DVT or pulmonary embolism\n* Anticoagulation with coumarin\n* Inability to give consent",
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    }
+  ]
+}
