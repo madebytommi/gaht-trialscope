@@ -4,7 +4,7 @@ import re
 from pathlib import Path
 
 # Paths
-RAW_FILE = Path("data/raw/candidates_raw.json")
+RAW_FILE = Path("scratch/candidates_full.json")
 CSV_FILE = Path("data/candidate_studies.csv")
 
 def extract_nested(d, keys, default=None):
@@ -24,7 +24,6 @@ def perform_screening(study):
     """
     protocol_section = study.get("protocolSection", {})
     
-    # Extract text fields
     title = extract_nested(protocol_section, ["identificationModule", "briefTitle"], "").lower()
     conditions = extract_nested(protocol_section, ["conditionsModule", "conditions"], [])
     conditions_text = " ".join(conditions).lower()
@@ -34,32 +33,34 @@ def perform_screening(study):
     
     eligibility = extract_nested(protocol_section, ["eligibilityModule", "eligibilityCriteria"], "").lower()
     
-    all_text = " ".join([title, conditions_text, interventions_text, eligibility])
+    summary = extract_nested(protocol_section, ["descriptionModule", "briefSummary"], "").lower()
     
-    # Exclusion triggers
-    exclusion_keywords = ["prostate cancer", "breast cancer", "menopause", "hypogonadism", "contraception", "fertility treatment", "ivf"]
-    for ex in exclusion_keywords:
-        if ex in title or ex in conditions_text:
-            return "exclude", f"Explicit non-GAHT indication found: {ex}"
-            
-    if "gnrh" in all_text and "estradiol" not in all_text and "testosterone" not in all_text:
-        return "exclude", "Only GnRH mentioned, no explicit GAHT"
-        
-    # Inclusion triggers
-    trans_keywords = ["transgender", "transsexual", "nonbinary", "gender-diverse", "gender diverse", "gender incongruen", "gender dysphoria"]
-    hormone_keywords = ["hormone", "estradiol", "estrogen", "testosterone", "antiandrogen", "spironolactone", "progesterone"]
+    text = f"{title} {conditions_text} {interventions_text} {summary} {eligibility}"
     
-    has_trans = any(t in all_text for t in trans_keywords)
-    has_hormone = any(h in all_text for h in hormone_keywords)
+    # Check if this study is clearly about GAHT in trans people
+    # vs non-trans health studies (e.g. HIV/PrEP with no GAHT focus, cis women IVF, etc.)
+    # vs purely non-hormone trans studies (voice, psychotherapy, surgery alone)
     
-    if has_trans and has_hormone:
-        # Check if intervention is specifically hormone
-        if any(h in interventions_text for h in hormone_keywords):
-             return "include", "Transgender population and GAHT intervention explicitly matched"
-        elif any(h in title for h in hormone_keywords):
-             return "include", "Transgender population and GAHT mentioned in title"
-        
-    return "uncertain", "Ambiguous: Requires manual review to confirm both criteria"
+    # Is it a completely unrelated condition? (Exclude)
+    is_cis_unrelated = any(k in text for k in ['polycystic ovary', 'endometriosis', 'pcos', 'postmenopausal', 'uterine fibroid', 'contraceptive efficacy', 'ovulation induction', 'assisted reproduction', 'infertility treatment']) and not any(k in text for k in ['transgender', 'gender dysphoria', 'transsexual', 'gender incongruen', 'gender diverse', 'trans woman', 'trans man', 'trans women', 'trans men'])
+    
+    # Does it have both GAHT and a trans population mention?
+    has_trans = any(k in text for k in ['transgender', 'transsexual', 'gender diverse', 'gender-diverse', 'gender incongruen', 'gender dysphoria', 'trans woman', 'trans man', 'trans women', 'trans men', 'gender minority']) 
+    has_gaht = any(k in text for k in ['gender-affirming hormone', 'gender affirming hormone', 'cross-sex hormone', 'feminizing hormone', 'masculinizing hormone', 'hormone therapy', 'estradiol', 'testosterone', 'spironolactone', 'cyproterone', 'gaht', 'csht', 'ght', 'antiandrogen', 'progesterone', 'estrogen'])
+    
+    # Are the hormones used for something else completely like prostate cancer/breast cancer?
+    has_cancer_exclude = any(k in text for k in ['prostate cancer', 'breast cancer']) and not has_trans
+    
+    if is_cis_unrelated:
+         return "exclude", "Cisgender/unrelated indication"
+    if has_cancer_exclude:
+         return "exclude", "Oncology indication not related to transgender health"
+    
+    if has_trans and has_gaht:
+         return "include", "Transgender population and GAHT intervention/exposure identified"
+    else:
+         return "exclude", "Does not explicitly meet both criteria (Trans population + GAHT)"
+
 
 def process_data():
     with open(RAW_FILE, "r", encoding="utf-8") as f:
