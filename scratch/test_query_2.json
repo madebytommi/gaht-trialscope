@@ -1,0 +1,1572 @@
+{
+  "totalCount": 20,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04478760",
+          "briefTitle": "Trans & Non-binary Reference Intervals While on Hormone Therapy Study"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "This study will find out what the reference intervals are for common blood tests in transgender people taking hormone therapy.\n\nReference intervals help doctors interpret blood test results. They are expressed as two numbers, and most normal results fall between them. If a results fall outside of them, it may be because of a disease. Some blood tests are also affected by normal difference between people, such as age, sex or ethnicity. For these tests, different reference intervals are given for each group of people. Having accurate reference intervals benefits patients because it allows doctors to identify disease faster.\n\nTransgender people have a gender identity which does not match their sex characteristics at birth. Gender identity is the feeling of being a gender, and sex is the biological aspects of growing up male or female. Transgender people may use hormone therapy to help change their appearance to fit their gender identity. This involves taking either oestrogen or testosterone.\n\nFor blood tests which are affected by sex, it is not clear what reference intervals should be used for transgender people who are on hormone therapy. This is because they have a mixture of male and female sex characteristics. Answering this question will allow doctors to identify disease in them faster.\n\nThe study will take place at cliniQ, at King's College Hospital, which provides health services to transgender people. It will recruit healthy transgender people who attend the clinic for blood tests to monitor their hormone therapy. Participants will fill out a questionnaire, give a urine sample, then have their appointment as normal. Extra tests will also be performed on their blood sample. The aim is to recruit 240 participants. Participant's tests results will then be used to calculate reference intervals.\n\nThe study is funded by Viapath Group LLP."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transgender Persons",
+            "Hormone Replacement Therapy",
+            "Reference Values"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "ECOLOGIC_OR_COMMUNITY",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Masculinising therapy",
+              "description": "Healthy transgender (including non-binary) adults who are on testosterone-containing hormone therapies."
+            },
+            {
+              "label": "Feminising therapy",
+              "description": "Healthy transgender (including non-binary) adults who are on oestrogen-containing hormone therapies."
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Transgender or nonbinary people.\n* Aged 18 or older.\n* Taking testosterone or oestrogen therapy.\n* For 12 months or more.\n* Having routine hormone therapy monitoring at the clinic.\n\nExclusion Criteria:\n\n* Unable to give informed consent (including participants who cannot communicate in English).\n* History of chronic liver disease, chronic kidney disease, diabetes, or severe cardiovascular disease (including myocardial infection, deep vein thrombosis, stroke and pulmonary embolism).\n* Blood test results that indicate severe disease.\n* Pregnant or within one year after childbirth.\n* Other conditions which could put participants at risk by participating, or which could influence the results of the study.",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Patients are eligible if they are transgender, that is, their gender is different from their sex assigned at birth.",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Healthy transgender adults who have been taking masculinising for feminising hormone therapy for at least 12 months.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05863676",
+          "briefTitle": "Ovarian Tissue Cryopreservation in the Setting of Gender-affirming Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "The goal of this study is to learn about fertility preservation in the gender-diverse community. The main objectives it aims to understand are to:\n\n1. To optimize techniques for cryopreservation of ovarian tissues, including determining efficacy of cryopreservation techniques.\n2. To investigate factors affecting ovarian tissue and follicles, such as previous treatment with leuprolide acetate, or hormone therapy"
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Dysphoria",
+            "Transgender"
+          ],
+          "keywords": [
+            "Fertility",
+            "Fertility Preservation",
+            "Infertility",
+            "Gender Affirming",
+            "Gender Diverse",
+            "Non-Binary",
+            "Ovary"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "CASE_ONLY",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "Ovarian Tissue"
+          },
+          "enrollmentInfo": {
+            "count": 20,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Cryopreservation",
+              "description": "Participants will have their gonadal tissue cryopreserved.",
+              "interventionNames": [
+                "Procedure: Oophorectomy",
+                "Diagnostic Test: Infectious Disease Testing"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "PROCEDURE",
+              "name": "Oophorectomy",
+              "description": "Ovary will be removed for fertility preservation.",
+              "armGroupLabels": [
+                "Cryopreservation"
+              ]
+            },
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Infectious Disease Testing",
+              "description": "Infectious Disease Testing will be done on participants.",
+              "armGroupLabels": [
+                "Cryopreservation"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:Two Categories of participants will be eligible for this study.\n\nCategory 1 participants must have all criteria listed below:\n\n* Patient with ovaries over the age of 9\n* Diagnosed with gender dysphoria; currently on or imminently planning to start gender affirming treatment (hormone blockers or gender-affirming hormones)\n* Have a clinical referral for fertility preservation from their primary care physician\n* Unwilling to undergo natal puberty or, for patients who have gone through puberty, unwilling to discontinue hormone suppression and/or hormone replacement therapy.\n\nCategory 2 participants only fall into this category if they are undergoing gender-affirming surgery. They must have all criteria listed below:\n\n* Patient is 18+ years old\n* Diagnosed with gender dysphoria\n* Unwilling to undergo natal puberty, or for patients who have gone through puberty, be unwilling to discontinue hormone suppression and/or sex steroid (estrogen) therapy.\n* Will be undergoing gender affirming surgery that involves removal of the ovaries.\n\nExclusion Criteria:\n\n* Diagnosed with psychological, psychiatric, or other conditions which prevent giving fully informed consent.\n* Diagnosed with an underlying medical condition that significantly increases their risk of complications from anesthesia and surgery.",
+          "sex": "FEMALE",
+          "minimumAge": "9 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Eligible patients who will undergo gender-affirming treatments and for whom standard of care fertility preservation procedures are not available.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06774053",
+          "briefTitle": "Swiss ProspectivE Cohort of TRAnsgender and Gender Diverse Individuals - The SPECTRA Study"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "The goal of this observational study is to understand the factors influencing the well-being and health of transgender and gender-diverse (TGD) individuals undergoing gender-affirming therapies in Switzerland. The study population includes TGD individuals aged 16 and older, at various stages of their medical transition, including those who have discontinued or detransitioned.\n\nThe main question is:\n\nWhat are the key factors influencing the well-being and health outcomes of transgender and gender-diverse individuals undergoing gender-affirming therapies?\n\nResearchers will compare health outcomes across different subgroups, such as those at different stages of transition or detransition, to examine the effects of gender-affirming therapies.\n\nParticipants will:\n\nComplete electronic questionnaires assessing gender congruence, quality of life, mental health, and other outcomes.\n\nProvide biological samples (e.g., blood, urine, stool, and skin swabs) for laboratory analysis.\n\nUndergo clinical evaluations related to endocrinology, fertility, dermatology, and urology as part of their routine follow-up."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transgender Individuals",
+            "Gender Incongruence"
+          ],
+          "keywords": [
+            "Gender Affirming Hormone Therapy (GAHT)",
+            "Gender Affirming Surgery (GAS)",
+            "Transgender and Gender Diverse (TGD)"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "Biobank blood sampling; 24h-Urine; Scalp hair analysis; Spermanalysis; Stool sampling"
+          },
+          "enrollmentInfo": {
+            "count": 600,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Group A: Cohort of Transgender and Gender Diverse individuals in Switzerland",
+              "description": "Individuals who present before they start GAHT are included in group A",
+              "interventionNames": [
+                "Other: Group A (start of GAHT)"
+              ]
+            },
+            {
+              "label": "Group B: Cohort of Transgender and Gender Diverse individuals in Switzerland",
+              "description": "Individuals who are already on GAHT are included in group B",
+              "interventionNames": [
+                "Other: Group B (on-going GAHT)"
+              ]
+            },
+            {
+              "label": "Group C: Cohort of Transgender and Gender Diverse individuals in Switzerland",
+              "description": "Individuals who undergo gender affirming surgery are (additionally or exclusively) included in group C",
+              "interventionNames": [
+                "Other: Group C (GAS)"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "Group A (start of GAHT)",
+              "description": "The study program consists of assessments at baseline (before the start of GAHT) and subsequent follow-up visits scheduled at routine intervals which are typically every three months for the first year, every six months for the second year and every twelve months thereafter. Participants' data collection includes a mix of digital and in-person methods. Demographical information, clinical and laboratory parameters such as hormone levels which are part of standard clinical care",
+              "armGroupLabels": [
+                "Group A: Cohort of Transgender and Gender Diverse individuals in Switzerland"
+              ]
+            },
+            {
+              "type": "OTHER",
+              "name": "Group B (on-going GAHT)",
+              "description": "The study program consists of a yearly assessment as part of the long-term routine follow-up. Participants' data collection includes a mix of digital and in-person methods. Demographical information, clinical and laboratory parameters such as hormone levels which are part of standard clinical care",
+              "armGroupLabels": [
+                "Group B: Cohort of Transgender and Gender Diverse individuals in Switzerland"
+              ]
+            },
+            {
+              "type": "OTHER",
+              "name": "Group C (GAS)",
+              "description": "If GAS is administered, additional assessments are performed preoperatively, and postoperatively in analogy with routine clinical visits, e.g. one week after surgery and then three, six and twelve months later (then once yearly) (e.g. type of surgery, outcome, patient' satisfaction). If participants undergo gender-affirming genital surgery, a genital swab and urine analysis (from the urine sample taken for routine testing) will additionally be performed for microbiome analyses as part of the study assessment.",
+              "armGroupLabels": [
+                "Group C: Cohort of Transgender and Gender Diverse individuals in Switzerland"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 16 years and above.\n* Established diagnosis of gender incongruence\n* Indication for gender affirming therapy or ongoing or discontinued gender affirming therapy\n\nExclusion Criteria:\n\n* Unable to give informed consent\n* Missing commitment or ability to study protocol adherence",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "The project population will consist of TGD individuals above age 16 who are diagnosed with gender incongruence and who wish medical transition or are on medical transition (at any stage of their transition, including individuals who interrupt/-ed medical transition or detransition/-ed). Recruitment for the study will initially take place at the University Hospital of Basel and the Cantonal Hospital of Luzern, with plans to expand to additional centers (e.g. University Hospital of Zurich, University Hospital of Geneva and Cantonal Hospital of St Gallen) as the study progresses. The study targets individuals at various stages of medical transition, including those initiating, continuing, or discontinuing gender-affirming therapies. Efforts will ensure inclusion of all gender identities to comprehensively address their unique healthcare needs.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06234488",
+          "briefTitle": "Multi-Institutional Transgender & Gender-Diverse Breast Cancer Study"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "There is no granular retrospective data on breast cancer in transgender and gender-diverse (TGD) persons from a contemporary and diverse American cohort. The purpose of this investigation is to aggregate data from multiple institutions to describe the risk, diagnosis, management, and outcomes of TGD persons with breast cancer in effort to identify opportunities for future intervention studies to eliminate breast cancer disparities for this population."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Breast Cancer",
+            "Breast Neoplasms",
+            "Breast Adenocarcinoma",
+            "Breast Cancer Stage",
+            "Breast Cancer Stage IV",
+            "Breast Cancer Invasive",
+            "Breast Cancer in Situ"
+          ],
+          "keywords": [
+            "Transgender",
+            "Breast Cancer",
+            "Nonbinary",
+            "Gender Diverse",
+            "Gender-Affirming Hormone Therapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "RETROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 125,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Transgender and Gender-Diverse Persons with Breast Cancer",
+              "description": "Patients who had a breast cancer diagnosis (including those with ductal carcinoma in situ (DCIS)), who were age \u226518 years at the time of diagnosis and identify as a gender and/or sex that is different from their sex assigned at birth (e.g., transgender, nonbinary, genderqueer, etc.) between 1/1/1990 - 7/1/2023."
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. Age 18 years of age or older\n2. Breast cancer diagnosis (including DCIS)\n3. Persons who identify as gender and/or sex that is different from the sex they were assigned at birth\n\nExclusion Criteria:\n\n1. Age \\<18 at time of breast cancer diagnosis\n2. Cis-gendered persons",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Transgender and gender-diverse persons (TGD)",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Eligible patients are those who had a breast cancer diagnosis (including those with ductal carcinoma in situ (DCIS), who were age \u226518 years at the time of diagnosis and identify as a gender and/or sex that is different from the sex they were assigned at birth (e.g., transgender, nonbinary, genderqueer, etc.) between 1/1/1990 - 7/1/2023.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04742816",
+          "briefTitle": "Renal Effects of Hormones/Biomarkers in Transgender PrEP Recipients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "Will use a subset of the main study cohort of transgender or non-binary individuals to evaluate the relationships between self-reported exogenous hormone use, endogenous hormone values, renal biomarkers, drug levels and directly measured renal function."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transgender",
+            "Renal Function",
+            "Hormone Replacement Therapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "interventionModelDescription": "iohexol",
+            "primaryPurpose": "DIAGNOSTIC",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 42,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Iohexol injection",
+              "type": "OTHER",
+              "description": "The research pharmacist will prepare the iohexol injection in a 1cc tuberculin syringe, consisting of 0.5cc sterile water for injection (SWFI) and 0.5cc iohexol (Omnipaque 300). The study coordinator/personnel (licensed RN) will inject the iohexol dose into the subcutaneous tissue on the opposite arm used for blood sampling; the time will be recorded. The participant will be monitored for adverse events 30 minutes post iohexol administration at the AVRC. If the participant has not had any adverse event within 30 minutes, they will be asked to leave the AVRC and return within 2 hours and 55 minutes post Iohexol injection for lab collection.",
+              "interventionNames": [
+                "Diagnostic Test: IHX-CL measurements",
+                "Drug: Iohexol"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "IHX-CL measurements",
+              "description": "The distribution of measured IHX-CL values and other continuous variables will be assessed to ensure a parametric distribution.",
+              "armGroupLabels": [
+                "Iohexol injection"
+              ],
+              "otherNames": [
+                "OMNIPAQUE",
+                "Iohexol"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Iohexol",
+              "description": "Iohexol clearance measurement",
+              "armGroupLabels": [
+                "Iohexol injection"
+              ],
+              "otherNames": [
+                "OMNIPAQUE"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* HIV-uninfected\n* Identifying as transgender or nonbinary (TG/NB)\n* Age \u2265 18 years (adult)\n* At risk of acquiring HIV\n* Calculated creatinine clearance (CRCL) \u2265 60 mL/minute\n* Taking emtricitabine/tenofovir alafenamide\n* Willing to receive a small dose of iohexol\n* Willing to provide 30 mL blood and a urine sample\n\nExclusion Criteria:\n\n* Allergy to iohexol\n* Use of concurrent medications that may interfere with iohexol such as metformin, amiodarone or beta-blockers\n* Anuric or unable to produce 30 mL of urine\n* Other condition that, in the opinion of the investigator, would put the participant at risk, complicate interpretation of study outcome data, or would otherwise interfere with participation or achieving the study objectives",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "100 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06987045",
+          "briefTitle": "Trans and Non-binary Prostate-Specific Antigen Reference Interval Determination Study"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "The prostate specific antigen (PSA) blood test can help diagnose prostate problems, including cancer.\n\nThe prostate is an organ in the pelvis. It is found in cisgender men, transgender (trans) women and some non-binary people.\n\nAnyone with a prostate can get prostate cancer. The prostate remains after genital (lower) surgery. The hormones and surgeries that trans women and non-binary people might have can lower the PSA. We do not have good data on the normal PSA levels are for this group\n\nTransPRIDE is a research study that will help us find the normal levels of PSA in trans women and non-binary people with prostates.\n\nResearchers will ask 500 trans women and non-binary people with prostates to take part. They will need to be aged 40 or over. They will need to be on hormones or have had lower surgery. They will be called after 6 months to recheck their health. If a person has a high PSA, they may be sent for more tests.\n\nKnowing the normal PSA level for trans women and non-binary people will help doctors to find and treat their prostate cancer more quickly."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostate CA"
+          ],
+          "keywords": [
+            "Prostate Cancer",
+            "Transwomen",
+            "Non-binary",
+            "prostate"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "blood samples"
+          },
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "40-49 year olds"
+            },
+            {
+              "label": "50-59 year olds"
+            },
+            {
+              "label": "60-79 year olds"
+            },
+            {
+              "label": "70+ year olds"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* \u2022 Aged \\>40\n\n  * Transgender or non-binary (identify with a gender other than the one assigned at birth)\n  * With a prostate\n  * Fulfills at least one of the following 3 criteria with regards to gender-affirming medical care:\n\n    * Taking oestradiol for at least the last 3 months\n    * Taking anti-androgens for at least the last 3 months\n    * Ever had bilateral orchidectomy\n  * Eligible for National Health Service (NHS) treatment\n\nExclusion Criteria:\n\n* \u2022 History of prostate cancer (Prostate cancer) at any time\n\n  * History of prostate surgery at any time\n  * History of prostate radiotherapy at any time\n  * History of benign prostatic hypertrophy (enlarged prostate) at any time\n  * Vaginoplasty within 12 months\n  * Orchidectomy or vulvoplasty within three months\n  * Sexually Transmitted Infection (STI) within 6 weeks of blood sample\n  * Active urinary infection or within 6 weeks of blood sample\n  * Prostatitis within 6 weeks of blood sample\n  * Urological intervention (e.g. prostate biopsy) within 6 weeks of blood sample\n  * Unwilling to give consent\n  * Lacking capacity to give consent\n  * In the secure estate",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "40 Years",
+          "maximumAge": "100 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Trans and non-binary people with a prostate (TNBPP) who are taking Gender-Affirming Hormone Therapy (GAHT) and/or have had bilateral orchidectomy.",
+          "samplingMethod": "PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04254354",
+          "briefTitle": "Transgender Men, Non-binary Persons and Testosterone Treatment BODY IDENTITY CLINIC"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "The aim of this study is to investigate transgender men and non-binary persons before and during testosterone treatment. The study will focus on:\n\n* Cardiovascular status\n* Muscle strenght and power\n* Aggression and quality of life\n* Cardiac and respiratory function"
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transgenderism"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "blood, urine, hair"
+          },
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "transgender men",
+              "description": "no intervention"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\nTransgender men\n\nExclusion Criteria:\n\nnone",
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Persons assigned female at birth (+18 years) that either use or want to use testosterone with the purpose of undergoing gender transformation. -",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05602805",
+          "briefTitle": "BariaPSY: the Data Bank"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Multimorbidity, the co-occurrence of several chronic conditions, is a growing phenomenon that poses new challenges for clinicians and researchers. The association between a mental health disorder and a physical health disorder represents a particularly frequent subtype of multimorbidity and is associated with greater severity and higher consumption of care. It is essential and urgent to explore the specific pathophysiology of this subtype of multimorbidity in order to develop adapted therapeutic strategies.\n\nPsychiatric disorders, such as mood disorders, anxiety disorders, attention deficit disorder and binge eating disorder, are common in people with obesity. For example, although most of these disorders may improve after bariatric surgery, some components of these disorders, such as emotional dysregulation and impulsivity, need to be addressed as they appear to be involved in the development of addiction and suicidality after bariatric surgery. Therefore, screening and vigilance of these risks appear increasingly necessary.\n\nTo address this challenge, the BariaPsy databank aims to explore the screening of certain mental health disorders frequently observed in adults with obesity through an innovative approach that explores behaviors in the form of dimensions. It will help clinicians to quickly identify markers of certain disorders, thus helping them to further investigate the problem and provide personalized resources to their patient."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Bariatric Surgery Candidate",
+            "Obesity"
+          ],
+          "keywords": [
+            "Obesity",
+            "Mental Health",
+            "Bariatric Surgery",
+            "Eating Disorder"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": true,
+          "targetDuration": "9 Months",
+          "designInfo": {
+            "observationalModel": "CASE_ONLY",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 10000,
+            "type": "ESTIMATED"
+          }
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Be a patient referred to the IUCPQ for management of overweight or obesity\n* Have a body mass index (BMI) \u226525 kg/m2\n* Be 18 years old or older\n\nExclusion Criteria:\n\n* Be an incapacitated or protected adult as defined by law\n* Not registered or eligible for RAMQ",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "All patients referred to the IUCPQ for management of overweight or obesity, thus having a body mass index (BMI) \u226525 kg/m2, and older than 18 years of age can be included in the database. This therefore implies, but is not limited to, the bariatric surgery, medicine, and psychiatry tracks of the IUCPQ. It is not necessary to have a psychiatric diagnosis according to the Diagnostic and Statistical Manual of Mental Disorders 5 (DSM-5) to be eligible.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07252687",
+          "briefTitle": "The Effect of Gender-affirmative Measures on Breast Perception in Trans Men"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Breast dysphoria in transmasculine or genderdiverse individuals is a distinct psychological burden associated with depression, anxiety and suicidality. The aim is to systematically investigate the effect of GAHT (gender-affirming hormone therapy) and mastectomy on this form of dysphoria.\n\nThe primary objective of this study is to analyse and investigate the psychological and physical effects of breast development on trans men or genderdiverse individuals.\n\nA secondary objective is to determine the extent to which the stress affects the well-being of trans men depending on the coping strategies used (binding vs. taping)."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transgender",
+            "Gender Dysphoria in Adolescents and Adults"
+          ],
+          "keywords": [
+            "transgender",
+            "breastdysphoria",
+            "trans male",
+            "non binary",
+            "genderdiverse"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "quality of life questionnaire- iTransQoL, chest dysphoria measure",
+              "description": "Before starting treatment, participants should complete the Chest Dysphoria Measure and iTransQoL questionnaires (=time point 0). The second time point for completing the questionnaires again is 3 months after starting hormone therapy. Subsequently, the questionnaires should be completed a third time after breast-affirming surgery. The final survey takes place two years after time point 0, or 6 months after the previous survey."
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* AFAB (Assigned Female At Birth)\n* before starting GAHT\n* before mastectomy\n\nExclusion Criteria:\n\n* Ongoing GAHT\n* Mastectomy already performed\n* Lack of capacity to give consent\n* Insufficient knowledge of German",
+          "sex": "FEMALE",
+          "genderBased": true,
+          "genderDescription": "trans men and gender diverse persons",
+          "minimumAge": "16 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Referral to the medical University of Innsbruck Hospital or a cooperating center",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04050371",
+          "briefTitle": "Study of Truvada for HIV Pre Exposure Prophylaxis Using Daily Directly Observed Therapy to Look at Potential Interactions Between Truvada and Hormone Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "Truvada (Emtricitabine or FTC and tenofovir disoproxil fumarate or TDF) has been approved for HIV prevention since 2012. Drug concentrations after receipt of oral Truvada for HIV Pre Exposure Prophylaxis (or PrEP) appeared to be lower in transgender women compared to Men who Have Sex with Men (MSM) in the iPrEx study, the landmark study of PrEP for HIV prevention. Concentrations were especially low among transgender women (TGW) reporting use of feminizing hormones. Reasons for the lower drug concentrations may be behavioral or biomedical, or a combination of both. While there are no systemic drug-drug interactions between TDF and oral contraception, there are known interactions involving these classes of medications with drug transporters that could affect drug concentrations in target tissues. Drug-drug interactions with natural estrogens and anti-androgenic agents used for gender affirming hormone therapy among transgender women have not been studied, neither have interactions between emtricitabine and female hormones. Concerns about the impact of PrEP on gender affirming hormone therapy is the main barrier for uptake of PrEP among transgender women. In addition, very little is known about TDF/FTC pharmacokinetics in transgender men using testosterone hormonal therapy. Drug-drug interactions with masculinizing hormones have never been properly investigated as trans gender men have not been formally involved in PrEP clinical trials or demonstrations projects.This small study will assess pharmacokinetic drug-drug interactions between tenofovir disoproxil fumarate/emtricitabine and cross-sex hormone therapy. The I-BrEATHe study is a substudy of the Triumph study, a culturally-relevant community-led PrEP demonstration project in transgender communities. The I- BrEATHe pharmacokinetic substudy will provide Truvada daily using directly observed therapy in 24 transgender women and 24 transgender men over a one month period, and will measure drug and hormone therapy levels in blood collected from participants."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HIV Prevention",
+            "Transgender Health"
+          ],
+          "keywords": [
+            "Pre Exposure Prophylaxis",
+            "HIV prevention",
+            "Emtricitabine, Tenofovir Disoproxil Fumarate",
+            "transgender health",
+            "transgender persons",
+            "drug combination",
+            "androgens",
+            "estrogens",
+            "drug combinations",
+            "transmen",
+            "non binary",
+            "Truvada",
+            "daily observed therapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "interventionModelDescription": "All participants will receive Truvada for study duration and will take pills using daily observed therapy.",
+            "primaryPurpose": "BASIC_SCIENCE",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "TRUVADA DOT",
+              "type": "EXPERIMENTAL",
+              "description": "one tablet containing 200 mg of emtricitabine and 300 mg of tenofovir disoproxil fumarate as single dose with daily observed therapy performed either via video calling, or at study visit, for a total of 28 to 30 days",
+              "interventionNames": [
+                "Drug: 200 mg emtricitabine and 300 mg tenofovir disoproxil fumarate"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "200 mg emtricitabine and 300 mg tenofovir disoproxil fumarate",
+              "description": "All study participants received daily observed therapy with FTC/TDF.",
+              "armGroupLabels": [
+                "TRUVADA DOT"
+              ],
+              "otherNames": [
+                "Truvada"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\nAll subjects:\n\n* HIV antibody seronegative (negative HIV rapid test),\n* 18 years or older,\n* Has a smart phone with access to two-way video call capability,\n* Willingness to be contacted for a short call every day for 4 weeks,\n* Adequate renal function (creatinine clearance \u2265 60 ml/min estimated by the Cockcroft Creatinine Clearance Formula),\n* Provides written informed consent,\n\nFor Transgender women:\n\n* Male assigned sex at birth, and self-reported current gender identity as \"woman\" or \"transgender women\", or other trans-feminine spectrum identity,\n* Current feminizing Hormone Therapy (HT) use for at least 6 months,\n\nFor Transgender men:\n\n* Female assigned sex at birth, and self-reported current gender identity as \"man\" or \"transgender man\", or other trans-masculine spectrum identity,\n* Current masculinizing Hormone Therapy (HT) use for at least 6 months with testosterone\n\nExclusion Criteria\n\n* Expects to change or discontinue current HT use during the 4 weeks study period,\n* Signs of symptoms of acute viral syndrome,\n* Use of FTC or TDF in the past 90 days\n* Receiving ongoing therapy with any of the following:\n\nAntiRetroviral Therapy, including nucleoside analogs, non-nucleoside reverse transcriptase inhibitors, protease inhibitors or investigational antiretroviral agents interferon (alpha, beta, or gamma) or interleukin (e.g., IL-2) therapy, aminoglycoside antibiotics, amphotericin B, cidofovir, systemic chemotherapeutic agents, other agents with significant nephrotoxic potential, other agents that may inhibit or compete for elimination via active renal tubular secretion (e.g., probenecid), and/or other investigational agents\n\n* Renal insufficiency documented as Creatinine Clearance \\< 60 ml/min\n* For masculine-spectrum identifying persons, positive pregnancy test at screening\n* At enrollment, has any other condition or factor that, based on the opinion of the investigator or designee, would preclude provision of informed consent; make participation in the study unsafe; complicate interpretation of study outcome data; or otherwise interfere with achieving the study objectives.",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "transmen, transwomen and gender non conforming",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05442463",
+          "briefTitle": "Hormone Therapy and Angiotensin-Dependent Arterial and Renal Vasoconstriction in Humans"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "1. to investigate the association between route of administration of exogenous estrogen (transdermal vs. oral) and cardiorenal risk in cisgender (gender identity aligning with sex at birth) and transgender (gender identity not aligning with sex at birth) women.\n2. to investigate the association between exogenous testosterone exposure and cardiorenal risk in cisgender (gender identity aligning with sex at birth) and transgender (gender identity not aligning with sex at birth) men."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hormone Therapy"
+          ],
+          "keywords": [
+            "post menopausal hormone replacement therapy",
+            "transgender men",
+            "transgender women",
+            "nonbinary",
+            "cis gender",
+            "post menopause",
+            "HRT",
+            "hormone replacement therapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "CASE_CONTROL",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "Urine, blood samples"
+          },
+          "enrollmentInfo": {
+            "count": 200,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Cisgender and transgender women",
+              "description": "Iohexol 5 ml IV push followed 10 ml IV flush of normal saline is administered to establish baseline GFR (glomerular filtration rate). FF (filtration fraction) is calculated as follows: GFR/RPF=FF. Captopril 25 mg is given orally.\n\nBlood will be collected at specific time points, pulse wave velocity testing 3 times throughout morning, Holter monitor and bioelectrical impedance testing.",
+              "interventionNames": [
+                "Drug: Captopril Tablets",
+                "Drug: Iohexol"
+              ]
+            },
+            {
+              "label": "Cisgender and transgender men",
+              "description": "Iohexol 5 ml IV push followed 10 ml IV flush of normal saline is administered to establish baseline GFR (glomerular filtration rate). FF (filtration fraction) is calculated as follows: GFR/RPF=FF. Captopril 25 mg is given orally.\n\nBlood will be collected at specific time points, pulse wave velocity testing 3 times throughout morning, Holter monitor and bioelectrical impedance testing.",
+              "interventionNames": [
+                "Drug: Captopril Tablets",
+                "Drug: Iohexol"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Captopril Tablets",
+              "description": "Captorpril challenge to each participant",
+              "armGroupLabels": [
+                "Cisgender and transgender men",
+                "Cisgender and transgender women"
+              ],
+              "otherNames": [
+                "Capoten"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Iohexol",
+              "description": "Iohexol infusion to evaluate measured GFR",
+              "armGroupLabels": [
+                "Cisgender and transgender men",
+                "Cisgender and transgender women"
+              ],
+              "otherNames": [
+                "Omnipaque"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 to 90 years\n* Taking hormones orally or non-orally (either estrogen, progesterone or testosterone)\n\nExclusion Criteria:\n\n* Cardiovascular disease (symptoms consistent with myocardial ischemia, previously documented myocardial ischemia, cardiac arrhythmias or valve abnormalities, or abnormal ECG at screening)\n* Cerebrovascular disease (transient ischemic attacks or stroke)\n* History of hypertension (BP\\>140/90 or use of antihypertensive medications)\n* Estimated glomerular filtration rate (eGFR) \\< 60 ml/min/1.73m2\n* Diabetes mellitus (defined by history, use of hypoglycaemic agents or a fasting glucose \\>7mmol/L)\n* Current smoker\n* Previous history of preeclampsia\n* Anabolic steroids, cortical steroids, or non-steroidal anti-inflammatory medications, or at the discretion of the investigator.",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "transgender women, transgender men, cisgender women, cisgender men on oral and non oral hormone therapy",
+          "minimumAge": "18 Years",
+          "maximumAge": "90 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Healthy adult ages 18 - 90 years cisgender (gender identity that aligns with sex at birth) and transgender (gender identity that does not align with sex at birth) adult women and men who are on oral, non-oral or no hormone therapy.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05169762",
+          "briefTitle": "Feminizing Treatment in Transgender Women and Non-binary Persons"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Cohort study in 100 transgender women treated with gender affirming hormone treatment. Follow up affter 1year, 3 years, 5 years and 10 years, Outcomes regarding cardiovascular effects of hormone treatment."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transgenderism"
+          ],
+          "keywords": [
+            "gender affirming hormone treatment",
+            "estrogen",
+            "cardiovascular risk"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "Blood samples"
+          },
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "transgender women",
+              "description": "transgender women eligeble to start gender affirming hormone treatment",
+              "interventionNames": [
+                "Other: standard treatment"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "standard treatment",
+              "description": "starndard treatment for transgender women",
+              "armGroupLabels": [
+                "transgender women"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* assigned male at birth and eligeble for gender affirming feminizing treatment\n\nExclusion Criteria:\n\nnone\n\n\\-",
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "genderBased": true,
+          "genderDescription": "assigned male at birth, identifiing as transgender women",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "transgender women",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04616963",
+          "briefTitle": "Emtricitabine/Tenofovir Alafenamide Switch Study for Transgender Individuals for HIV Pre-exposure Prophylaxis"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "The purpose of this study is to evaluate Pre-Exposure Prophylaxis (PrEP) levels in transgender-identifying or gender non-binary individuals taking versus not taking gender affirming hormone therapy. Subjects who have previously taken F/TDF as PrEP will continue with a fixed dose combination of daily oral F/TAF substituting for F/TDF. Subjects will receive the iTAB text messaging adherence reminders to provide personalized, automated text messages to support and monitor adherence that will vary by participant choice until 12 weeks after switching medication. This study will enroll 60 individuals to take F/TAF as PrEP for 48 weeks."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hiv",
+            "Hormone Therapy"
+          ],
+          "keywords": [
+            "Pre-exposure Prophylaxis",
+            "PrEP",
+            "Hormone Therapy",
+            "HT"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SEQUENTIAL",
+            "interventionModelDescription": "Following Phase I lead-in, all participants will continue PrEP with fixed dose combination daily oral F/TAF substituting for F/TDF in Phase II. Participants will continue to receive PrEP in accordance with standardized comprehensive methods of prescribing, which includes risk reduction counseling, adherence counseling, and clinical assessments with safety monitoring, as well as HIV and STI screening. Participants will receive daily adherence-supporting text message reminders through 12 weeks after F/TAF initiation.",
+            "primaryPurpose": "PREVENTION",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 64,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "FTC 200 mg / TDF 300 mg and FTC 200 mg / TAF 25 mg",
+              "type": "OTHER",
+              "description": "Phase I: Participants will continue or initiate F/TDF for PrEP for a minimum 12-week lead-in period prior to switching to F/TAF.\n\nPhase II: Participants will be switched to study-provided F/TAF for PrEP until 48 weeks after initiation. Participants will receive study treatment for the duration of the study unless they meet criteria for discontinuation.",
+              "interventionNames": [
+                "Drug: Emtricitabine / Tenofovir Disoproxil Oral Tablet 200/300 mg",
+                "Drug: Emtricitabine Tenofovir Alafenamide 200/25 mg"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Emtricitabine / Tenofovir Disoproxil Oral Tablet 200/300 mg",
+              "description": "Following Phase I lead-in, all participants will continue PrEP with fixed dose combination daily oral F/TAF substituting for F/TDF in Phase II. Participants will continue to receive PrEP in accordance with standardized comprehensive methods of prescribing, which includes risk reduction counseling, adherence counseling, and clinical assessments with safety monitoring, as well as HIV and STI screening. Participants will receive daily adherence-supporting text message reminders through 12 weeks after F/TAF initiation.",
+              "armGroupLabels": [
+                "FTC 200 mg / TDF 300 mg and FTC 200 mg / TAF 25 mg"
+              ],
+              "otherNames": [
+                "Truvada 200Mg-300Mg Tablet"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Emtricitabine Tenofovir Alafenamide 200/25 mg",
+              "description": "Following Phase I lead-in, all participants will continue PrEP with fixed dose combination daily oral F/TAF substituting for F/TDF in Phase II. Participants will continue to receive PrEP in accordance with standardized comprehensive methods of prescribing, which includes risk reduction counseling, adherence counseling, and clinical assessments with safety monitoring, as well as HIV and STI screening. Participants will receive daily adherence-supporting text message reminders through 12 weeks after F/TAF initiation",
+              "armGroupLabels": [
+                "FTC 200 mg / TDF 300 mg and FTC 200 mg / TAF 25 mg"
+              ],
+              "otherNames": [
+                "Descovy 200Mg-25Mg Tablet"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. Transgender or non-binary, defined as identifying with a gender differently from sex assigned at birth\n2. Age 18 years or older\n3. Currently eligible to take F/TDF for PrEP and willing to switch to F/TAF\n4. Negative for HIV infection\n5. Acceptable renal function as measured by calculated creatinine clearance of at least 60 mL/min by the Cockcroft-Gault formula in the past 30 days\n\nExclusion Criteria:\n\n1. Unable to give informed consent\n2. Active hepatitis B defined by a positive hepatitis B surface antigen (HBsAg)\n3. Substantial medical condition that, in the opinion of the investigator, would preclude participation, as defined by\n\n   * gastrointestinal condition that would impair absorption of study drugs\n   * known condition of reduced bone density (e.g. osteoporosis or osteogenesis imperfect) that significantly elevate the risk of bone fracture\n   * neurological or severe psychiatric condition that would significantly impair the ability to adhere to PrEP\n   * tubular or glomerular kidney disease that could be exacerbated by tenofovir\n   * other medical condition that would unacceptably increase the risk of harm from study drug or significantly impair the ability to adhere to PrEP\n4. Suspected sensitivity or allergy to the study drug or any of its components\n5. Currently using an essential product or medication that interacts with the study drug such as the following:\n\n   * other antiretroviral agent other than F/TDF (including nucleoside analogs, non-nucleoside reverse transcriptase inhibitors, integrase inhibitors, protease inhibitors or investigational antiretroviral agents)\n   * agents with known nephrotoxic potential:\n\n     * aminoglycoside antibiotics (including gentamicin)\n     * IV amphotericin B\n     * cidofovir\n     * cisplatin\n     * foscarnet\n     * IV pentamidine\n     * IV vancomycin\n     * oral or IV gancyclovir\n     * other agents with significant nephrotoxic potential\n\n       \\- drugs that slow renal excretion\n     * probenecid\n\n       \\- immune system modulators\n     * systemic chemotherapeutic agents (i.e. cancer treatment medications)\n     * ongoing systemic corticosteroids (with the exception of short courses of tapering steroid doses for asthma or other self- limited condition).\n     * interleukin-2 (IL-2)\n     * interferon (alpha, beta, or gamma)\n\n       \\- other agent known to have a significant interaction with TDF, TAF, or FTC\n     * the following table includes medications/herbal supplements to be excluded or should be used with caution while participants are taking study drugs due to potential drug-drug interactions with F/TAF.\n6. Proteinuria 2+ or greater by urine dipstick\n7. Pregnancy (if applicable)\n8. Other condition that, in the opinion of the investigator, would put the participant at risk, complicate interpretation of study outcome data, or would otherwise interfere with participation or achieving the study objectives",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07092527",
+          "briefTitle": "Androgen Effects on the Reproductive Neuroendocrine Axis, 2025 Version"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "This research study investigates whether male-level exogenous androgens inhibit the reproductive neuroendocrine axis in otherwise healthy (non-PCOS) females."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transgenderism",
+            "Reproductive Issues"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ],
+          "designInfo": {
+            "allocation": "NON_RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "BASIC_SCIENCE",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Transgender Men (TGM) initiating Testosterone Replacement Therapy (TRT)",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Transgender men/non-binary/non-gender-conforming initiating testosterone replacement therapy",
+              "interventionNames": [
+                "Drug: Testosterone Cypionate 50 milligrams per millileter (mg/mL) Injectable Solution"
+              ]
+            },
+            {
+              "label": "Cisgender Female (CGF) control group",
+              "type": "NO_INTERVENTION",
+              "description": "Cisgender females serving as a control group"
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Testosterone Cypionate 50 milligrams per millileter (mg/mL) Injectable Solution",
+              "description": "Participants in the initiating group will receive weekly doses of testosterone for gender-affirming care.",
+              "armGroupLabels": [
+                "Transgender Men (TGM) initiating Testosterone Replacement Therapy (TRT)"
+              ],
+              "otherNames": [
+                "Testosterone Replacement Therapy"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria: Transgender/Non-binary Group, Initiating Testosterone Group\n\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Aged 18-35\n* Plan to initiate testosterone therapy\n* History of regular menstrual cycles (every 24-35 days) at baseline, before beginning TRT\n\nInclusion Criteria: Cisgender Female Group\n\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Aged 18-35\n* Having regular menstrual cycles (every 24-35 days)\n\nExclusion Criteria: All\n\n* Pregnant\n* Incarcerated\n* Known cognitive impairment or institutionalized\n* Hemoglobin less than 11 gm/dl at screening evaluation\n* Weight less than 110 pounds\n* BMI \\<18 or \\>35\n* Current endocrine disease- including untreated thyroid abnormalities, pituitary or adrenal disease, polycystic ovary syndrome, or androgen producing tumor\n* Current or recent pregnancy within two months of study enrollment\n* Current or recent breast feeding within two months of study enrollment\n* Diabetes, or renal, liver, or heart disease\n* History of oophorectomy or hysterectomy\n* History of radiation or surgery involving brain structures and/or pelvis/pelvic organs\n* Currently taking any medications that may affect their reproductive hormones, such as contraceptive medications, androgens, estrogens, progestins, gonadotropin-releasing hormone (GnRH) antagonists, insulinomimetics, and metformin.\n* History of prior testosterone therapy",
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "genderBased": true,
+          "genderDescription": "Cisgender females; Transgender males/non-binary/gender non-conforming initiating testosterone replacement therapy",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years",
+          "stdAges": [
+            "ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04195659",
+          "briefTitle": "Chest Dysphoria in Transmasculine Spectrum Adolescents"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "The investigators hypothesize that masculinizing top surgery (e.g., mastectomy and chest masculinization) leads to an improvement in self-report chest dysphoria, gender dysphoria, and gender congruence in assigned-female-at-birth, transgender and non-binary youth and young adults. This is a prospective, observational study that will enroll assigned-female-at-birth, transmasculine spectrum individuals age 13 to 25 years old who are or are not undergoing top surgery. Participants will complete a set of standard of care questionnaires regarding their chest dysphoria (e.g., distress about the chest), gender dysphoria (e.g., distress about a gender identity that does not match assigned sex), and gender congruence (e.g., degree to which an individual feels they are living in their authentic appearance and gender identity). They will complete this same set of questionnaires either three months after their top surgery or three months after the initial set of surveys."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Dysphoria"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 81,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Top Surgery",
+              "description": "Individuals assigned the female sex at birth, who identify as a gender other than female, are between the ages of 13 and 25 years, and who are undergoing mastectomy and chest masculinization in one of three plastic surgery practices in Chicago.",
+              "interventionNames": [
+                "Procedure: Mastectomy and chest masculinization"
+              ]
+            },
+            {
+              "label": "Control",
+              "description": "Individuals assigned the female sex at birth, who identify as a gender other than female, are between the ages of 13 and 25 years, were seen in a gender development clinic in Chicago, and who are not planning to undergo top surgery. Controls will be matched with top surgery patients on age and number of months of testosterone."
+            }
+          ],
+          "interventions": [
+            {
+              "type": "PROCEDURE",
+              "name": "Mastectomy and chest masculinization",
+              "description": "A surgical procedure in which the breasts are removed and the chest is given a masculine contour.",
+              "armGroupLabels": [
+                "Top Surgery"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Assigned the female sex at birth\n* Affirmed gender identity of male, non-binary, or gender other than female\n* English-speaking\n* Undergoing top surgery or matches a top surgery participant on age and number of months on testosterone\n\nExclusion Criteria:\n\n* Non English speaking\n* Unable to complete self-report questionnaires",
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "genderBased": true,
+          "genderDescription": "Participants must identify as a gender other than female",
+          "minimumAge": "13 Years",
+          "maximumAge": "25 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ],
+          "studyPopulation": "Top surgery participants will be recruited from plastic surgery practices at Northwestern University, the Ann and Robert H Lurie Children's Hospital of Chicago, and the University of Illinois Chicago. Matched controls will be recruited from the Lurie Children's Hospital Gender and Sex Development Program.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04128488",
+          "briefTitle": "Effects of Gender-Affirming Hormone Therapy Among Transgender Women"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "In this study, investigators plan to evaluate the cardiometabolic effects of initiating gender-affirming hormone therapy among transgender women with and without HIV. As part of this study, participants will undergo cardiovascular and metabolic phenotyping within 3 months of starting and after 12 months of gender-affirming hormone therapy. Cardiovascular phenotyping will include cardiac MRI/MRS imaging to evaluate cardiac function and structure. Metabolic phenotyping will include oral glucose tolerance testing, abdominal MR imaging to evaluate visceral adiposity, and whole body, lumbar, and hip DEXA imaging to evaluate fat and lean body mass as well as bone mineral density, respectively. Traditional markers of CVD risk as well as immune, hormonal, and coagulation parameters will also be assessed longitudinally."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transgender Women",
+            "HIV/AIDS",
+            "Cardiovascular Diseases",
+            "Metabolic Disease",
+            "Coagulopathy"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 33,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Transgender women and non-binary individuals without HIV",
+              "interventionNames": [
+                "Other: Abdominal MR Imaging",
+                "Other: Cardiac MRI/MRS",
+                "Other: Oral Glucose Tolerance Testing",
+                "Other: Whole Body, Lumbar Spine, and Hip DEXA Imaging"
+              ]
+            },
+            {
+              "label": "Transgender women and non-binary individuals with HIV",
+              "interventionNames": [
+                "Other: Abdominal MR Imaging",
+                "Other: Cardiac MRI/MRS",
+                "Other: Oral Glucose Tolerance Testing",
+                "Other: Whole Body, Lumbar Spine, and Hip DEXA Imaging"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "Abdominal MR Imaging",
+              "description": "Imaging to evaluate visceral adipose tissue and hepatic lipid content",
+              "armGroupLabels": [
+                "Transgender women and non-binary individuals with HIV",
+                "Transgender women and non-binary individuals without HIV"
+              ]
+            },
+            {
+              "type": "OTHER",
+              "name": "Cardiac MRI/MRS",
+              "description": "Imaging to evaluate cardiac function and structure",
+              "armGroupLabels": [
+                "Transgender women and non-binary individuals with HIV",
+                "Transgender women and non-binary individuals without HIV"
+              ]
+            },
+            {
+              "type": "OTHER",
+              "name": "Oral Glucose Tolerance Testing",
+              "description": "Blood testing to evaluate changes in glucose and insulin in response to oral glucose load",
+              "armGroupLabels": [
+                "Transgender women and non-binary individuals with HIV",
+                "Transgender women and non-binary individuals without HIV"
+              ]
+            },
+            {
+              "type": "OTHER",
+              "name": "Whole Body, Lumbar Spine, and Hip DEXA Imaging",
+              "description": "Imaging to evaluate fat and lean body mass as well as bone mineral density",
+              "armGroupLabels": [
+                "Transgender women and non-binary individuals with HIV",
+                "Transgender women and non-binary individuals without HIV"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* transgender women or non-binary individual\n* age \u226516\n* For women with HIV only: on ART therapy for \u22653 months\n* initiation of testosterone suppression with spironolactone or leuprolide and estrogen therapy with oral 17-\u03b2 estradiol, transdermal 17\u03b2 estradiol, sublingual estradiol, intramuscular estradiol, or subcutaneous estradiol by medical provider\n\nExclusion Criteria:\n\n* For women with HIV only: CD4 count\\<50\n* history of CAD, ACS, ASCVD risk score \u2265 7.5%, LDL-C \u2265 190, or angina (e.g. current indication for statin use)\n* history of heart failure\n* history of diabetes\n* eGFR \\< 30 ml/min/1.73m2\n* standard contraindication to MRI, including history of severe allergy to gadolinium or Dotarem\n* prior orchiectomy\n* gender-affirming hormone therapy for greater than 5 months directly prior to enrollment\n* current or past anti-platelet therapy or anti-coagulant therapy within the last 6 months \u2022current or past statin therapy within the last 6 months\n* concurrent enrollment in conflicting research study",
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "genderBased": true,
+          "genderDescription": "Transgender Women",
+          "minimumAge": "16 Years",
+          "maximumAge": "99 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Transgender Women and Non-Binary Individuals",
+          "samplingMethod": "PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06239766",
+          "briefTitle": "BC Risk Assessment Before Top Surgery"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "The population of transgender and gender-diverse (TGD) persons in Wisconsin and the U.S. is steadily increasing. As this population grows, the number of individuals seeking gender-affirming therapies, including gender-affirming operations and gender-affirming hormone therapy, is also growing. An example of gender-affirming surgery is chest masculinization surgery, in which most breast tissue is removed in a person assigned female or intersex at birth to allow the chest to appear masculine. Gender-affirming chest masculinization surgery is not generally considered equivalent to an oncologic mastectomy, which aims to removal all breast tissue for future breast cancer reduction or current breast cancer treatment.\n\nThe goals of this investigation are to 1) determine the percent of TGD persons considering chest masculinization surgery who have an elevated lifetime risk of breast cancer development and/or a pathogenic genetic mutation; 2) measure the percent who are at risk and choose to undergo risk-reducing mastectomies as part of chest masculinization surgery; and 3) assess and compare self-perceived breast cancer risk with calculated risk.\n\nThe results of this study will substantially inform TGD patients and surgeons on the utility of personalized breast cancer risk assessment prior to chest masculinization surgery and the accuracy of self-perceived breast cancer risk in TGD persons."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Breast Cancer",
+            "Risk Reduction"
+          ],
+          "keywords": [
+            "Transgender",
+            "Gender Diverse",
+            "Nonbinary",
+            "Risk Assessment",
+            "Mastectomy",
+            "Top Surgery"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 25,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Non-Cisgender Adults Considering Chest Masculinization Surgery",
+              "description": "Persons assigned female or intersex at birth who identify as TGD and are considering gender-affirming chest masculinization surgery.",
+              "interventionNames": [
+                "Diagnostic Test: Breast Cancer Risk Assessment"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "Breast Cancer Risk Assessment",
+              "description": "Gail and IBIS Tools will be utilized to calculate mean lifetime breast cancer risk",
+              "armGroupLabels": [
+                "Non-Cisgender Adults Considering Chest Masculinization Surgery"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. \u226518 years old.\n2. Assigned female or intersex at birth and identify as non-cisgender.\n3. Any individual considering undergoing gender-affirming chest masculinization surgery\n4. Ability to communicate in English.\n5. Ability to understand a written informed consent document, and the willingness to sign it.\n\nExclusion Criteria:\n\n1. \\<18 years old.\n2. Assigned male sex at birth.\n3. Previously underwent chest masculinization surgery or any form of oncological mastectomy for the purposes of risk-reduction or cancer treatment.\n4. Any previous or current history of breast cancer, including ductal carcina in situ (DCIS).\n5. Inability to communicate in English.",
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "genderBased": true,
+          "genderDescription": "Persons who identify as transgender, nonbinary, and/or gender-diverse (TGD) who were assigned female and/or intersex at birth.",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "TGD persons considering chest masculinization surgery.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04977765",
+          "briefTitle": "Cardiometabolic Health in Transgender Males"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Transgender individuals are those with a gender identity opposite the sex they were assigned at birth. Approximately 1% of the population is transgender, equating to \\~60,000 transgender Wisconsinites. A transgender boy or man is someone with a 46,XX karyotype and typical female genitalia but a male gender identity and desire for more male-typical gender expression. Gender-affirming testosterone (hormonal) treatment (GAHT) is the cornerstone of masculinizing therapy for transgender men and boys, resulting in estrogen (E2) suppression and circulating testosterone (T) levels equivalent to cisgender males. Historically, GAHT was initiated after an E2-driven puberty, but the last decade has seen an explosion of referrals for GAHT in transboys, many of whom are exposed to only low E2 levels before puberty is halted with blocker therapy. Knowledge of risks incurred by GAHT rely on low-quality studies, precluding conclusive assessment of GAHT's long-term impact on cardiometabolic outcomes. Data on transboys receiving GAHT before completion of E2-driven puberty are sparser and no studies have addressed mechanisms by which GAHT may affect vascular physiology. The investigators aim to determine the cardiometabolic impact of GAHT in transboys/men and to determine if any differences identified are mechanistically dependent on the timing of GAHT relative to puberty."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transgender",
+            "Transgenderism"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "Plasma from participants will be stored and analyzed in labs on the Medical College of Wisconsin campus. All samples will be stored and labeled with coded study identification numbers. Only de-identified samples and data will be shared. The use of these samples will be subject to Medical College of Wisconsin IRB policies and procedures. All specimens and records will be held for a minimum of 10 years from the date of the last entry in the record of the last subject enrolled in the study"
+          },
+          "enrollmentInfo": {
+            "count": 90,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Transgender Males",
+              "description": "Individuals assigned female gender at birth but considering gender-affirming testosterone therapy. May self-identify as transgender or nonbinary etc."
+            },
+            {
+              "label": "Cisgender Controls",
+              "description": "Individuals assigned male or female at birth. May identify as cisgender or nonbinary etc. These individuals should not be undergoing or considering any form of hormone therapy."
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* INCLUSION CRITERIA FOR TRANSGENDER BOYS AND TRANSGENDER MEN\n\n  1. Sex assigned female at birth and a male gender identity (i.e., transgender male)\n  2. Aged 12-30 years\n  3. Have a care provider in the Children's Wisconsin Gender Health Clinic or Froedtert Hospital Inclusion Clinic who has determined the individual meets clinical criteria to start testosterone therapy and plans to initiate this therapy\n  4. Na\u00efve to testosterone or other masculinizing medical therapy\n  5. Cisgender girls/women and transgender boys/men of child-bearing potential (defined as having achieved menarche (first menses), excluding those who have had a hysterectomy or are on GnRH agonist therapy (puberty blockers)) must be willing to use effective birth control (which may include abstinence)) from screening visit until final study visit\n  6. Willing and able to give informed consent or have parent or legal guardian provide informed consent if the subject is \\< 18 years of age\n\nINCLUSION CRITERIA FOR CISGENDER INDIVIDUALS\n\n1. Gender identity concordant with sex assigned at birth (i.e., cisgender)\n2. Aged 12-30 years\n3. Not related to a transgender participant enrolled in the study\n4. Na\u00efve to any sex hormone or pubertal blocker therapy or, specific to cisgender girls/women only, must be \u2265 1 year from use of oral contraceptive or other contraceptive technique (intrauterine device, medroxyprogesterone injections)\n5. Willing and able to give informed consent or have parent or legal guardian provide informed consent if the subject is \\< 18 years of age\n\nINCLUSION CRITERIA FOR OPTIONAL NITROGLYCERIN ENDOTHELIUM-INDEPENDENT VASCULAR FUNCTION STUDY\n\n1. Aged \u2265 18 years\n2. No history of migraine headaches\n3. Systolic blood pressure \u2265 110 mm Hg\n4. No prior past adverse reaction to nitroglycerin\n5. Has not used a PDE5 inhibitor (i.e., sildenafil, tadalafil, vardenafil) in the past 7 days\n\nExclusion Criteria:\n\n\\-",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Transgender individuals must have been assigned female at birth but identify as transgender/non-binary and interested in gender-affirming testosterone therapy.",
+          "minimumAge": "12 Years",
+          "maximumAge": "30 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ],
+          "studyPopulation": "EXCLUSION CRITERIA FOR TRANSGENDER AND CISGENDER INDIVIDUALS\n\n1. Any disease affecting glucose, sex steroid, or fat metabolism such as diabetes, polycystic ovary syndrome, or clinical suspicion of insulin resistance)\n2. Any medication use that may affect glucose, sex steroid, or fat metabolism such as metformin or glucocorticoids\n3. Known cardiovascular disease such as hypertension or atherosclerosis\n4. Raynaud's phenomenon or other vascular disease\n5. BMI \\> 40 kg/m2 for those aged \u2265 18 years or \\> 95% percentile for age- and sex-assigned at birth in those aged \\< 18 years\n6. Pregnancy or lactation\n7. Any condition that, in the investigator's opinion, may compromise study participation or may confound the interpretation of the study results.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06436560",
+          "briefTitle": "Support for Transgender and Non-Binary Individuals Seeking Vaginoplasty Study"
+        },
+        "statusModule": {
+          "overallStatus": "ENROLLING_BY_INVITATION"
+        },
+        "descriptionModule": {
+          "briefSummary": "The STRIVE study is the first national randomized trial to focus on improving well-being, access to surgical care and other health outcomes for transgender and nonbinary (referred to as trans) people seeking genital gender-affirming surgery (GGAS). Trans people have gender identities that are different from the sex they were assigned at birth. Due to discrimination based on their gender identity in settings such as schools, the workplace, housing and health care, trans people face much higher rates of distress as well as poorer health and quality of life. Trans people are often unable to access necessary surgeries and hormone therapy to help align their bodies with their gender identities due to a lack of trained medical providers and limited insurance coverage for gender-affirming care.\n\nThe most common GGAS that trans people seek is vaginoplasty, which is the surgical creation of vaginal anatomy. Because of the high demand for this surgery and limited number of medical centers that offer it, trans people face lengthy wait times and complicated health system processes, increasing stress, negative mental health effects and social isolation. Social and peer-support interventions have been shown to decrease isolation and improve health. Social support during the GGAS process was also identified by the Transgender and Non-Binary Surgery - Allied Research Collective (TRANS-ARC) as the top research priority. Due to limited information on this topic, the STRIVE study was developed to meet this need.\n\nThe research team's goals are to:\n\n* Compare the effectiveness of two approaches to presurgical preparation for vaginoplasty: a virtual group-based peer support intervention led by trans peers who have had GGAS, or usual care delivered by gender-affirming surgical teams, enhanced with patient education materials.\n* Determine if the intervention improves meeting presurgical criteria for vaginoplasty.\n* Evaluate if patients, peer supporters and healthcare staff find the intervention acceptable.\n\nThe research team will conduct a pragmatic randomized controlled trial, meaning participants will be assigned by chance to one of two groups: peer-support group or usual care enhanced with written and web-based education materials. This study is pragmatic because it is happening under real-life conditions to understand if the intervention will work in practice.\n\nThe research team will work with five academic gender-affirming surgery programs across the country to recruit and enroll 290 trans adults ages 18 and older who are seeking vaginoplasty. Participants assigned to the peer support group will receive the intervention virtually over the course of three months, facilitated by peer facilitators trained in collaboration with Trans Lifeline. The usual care group will receive education from their gender-affirming surgical team, with in-depth materials that cover the same topics as the virtual course.\n\nThe primary outcome to be measures at six months is coping self-efficacy, reported by patients, using a survey which assesses perceived ability to deal with stressors. The research team will explore additional outcomes at 12 months, including meeting GGAS presurgical criteria and other outcomes deemed important to trans community partners, surgeons and other gender-affirming providers (e.g., psychological stress, social support, resilience, quality of life, presurgical knowledge, surgical delays and cancellations). Postsurgical outcomes, including surgical satisfaction and other related outcomes, will be measured at 24 months. Finally, the team will conduct in-depth interviews with participants who undergo the intervention to understand their experiences at the beginning of the study and after six months. Researchers will also interview peer supporters and clinicians to understand how to improve and implement the support intervention more broadly.\n\nIn designing this study, the research team worked closely with trans community members and patients, health services and policy researchers, gender-affirming surgeons, advocates, gender program administrators and representatives from social support organizations. Collaboration with and input from the trans community during the conduct of this study will be critical to ensure that the STRIVE study is patient centered. Results from this study will be shared in multiple forms, including clinical guideline recommendations, policy briefs, patient-centered reports, web-based information and summaries for clinicians and researchers. Trans people seeking gender-affirming surgery can use the study findings to understand options for social support to improve quality of life and health outcomes. Clinicians, gender program administrators, health insurance companies and health policy advisors can use the findings from this study to better support and prepare patients who are seeking gender-affirming surgery."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Affirmation Surgery",
+            "Perioperative Care",
+            "Transgender Health"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 290,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "STRIVE Peer Support Intervention",
+              "type": "EXPERIMENTAL",
+              "description": "A virtual group-based peer support intervention led by trans peers who have had genital gender-affirming surgery.",
+              "interventionNames": [
+                "Other: STRIVE Peer Support Intervention"
+              ]
+            },
+            {
+              "label": "Enhanced Usual Care",
+              "type": "NO_INTERVENTION",
+              "description": "Usual care enhanced with written and web-based education materials."
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "STRIVE Peer Support Intervention",
+              "description": "A virtual group-based peer support intervention led by trans peers who have had genital gender-affirming surgery.",
+              "armGroupLabels": [
+                "STRIVE Peer Support Intervention"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Self-identified trans or non-binary individual\n* Seeking vaginoplasty\n* Completed consultation with gender-affirming surgeon for vaginoplasty\n* Documented recommendation by surgeon for vaginoplasty\n* Can complete survey responses online, by phone or on paper.\n* Willing and able to participate in virtual peer support intervention\n* Aged 18 or older\n* English speaking\n* Able to provide independent written consent\n\nExclusion Criteria:\n\n* Do not speak English\n* Cannot complete survey responses online, by phone, or on paper\n* Are unwilling to participate in a virtual peer support intervention\n* Have co-morbidities or other conditions that exclude them from candidacy for vaginoplasty\n* Are currently involved in delivery of the STRIVE Intervention\n* Are unable or unwilling to participate.",
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "genderBased": true,
+          "genderDescription": "Transgender and nonbinary persons seeking gender-affirming vaginoplasty.",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06450405",
+          "briefTitle": "Androgen Effects on the Reproductive Neuroendocrine Axis"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED"
+        },
+        "descriptionModule": {
+          "briefSummary": "This research study investigates whether male-level exogenous androgens inhibit the reproductive neuroendocrine axis in otherwise healthy (non-PCOS) females."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transgenderism",
+            "Reproductive Issues"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ],
+          "designInfo": {
+            "allocation": "NON_RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "BASIC_SCIENCE",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 2,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "TGM initiating TRT",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Transgender men/non-binary/non-gender-conforming initiating testosterone replacement therapy",
+              "interventionNames": [
+                "Drug: Testosterone Cypionate 50 MG/ML Injectable Solution"
+              ]
+            },
+            {
+              "label": "CGF control group",
+              "type": "NO_INTERVENTION",
+              "description": "Cisgender females serving as a control group"
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Testosterone Cypionate 50 MG/ML Injectable Solution",
+              "description": "Participants in the initiating group will receive weekly doses of testosterone for gender-affirming care.",
+              "armGroupLabels": [
+                "TGM initiating TRT"
+              ],
+              "otherNames": [
+                "Testosterone Replacement Therapy"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria: Transgender/Non-binary Group, Initiating Testosterone Group\n\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Aged 18-35\n* Plan to initiate testosterone therapy\n* History of regular menstrual cycles (every 24-35 days) at baseline, before beginning TRT\n\nInclusion Criteria: Cisgender Female Group\n\n* Provision of signed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Aged 18-35\n* Having regular menstrual cycles (every 24-35 days)\n\nExclusion Criteria: All\n\n* Pregnant\n* Incarcerated\n* Known cognitive impairment or institutionalized\n* Hemoglobin less than 11 gm/dl at screening evaluation\n* Weight less than 110 pounds\n* BMI \\<18 or \\>35\n* Current endocrine disease- including untreated thyroid abnormalities, pituitary or adrenal disease, polycystic ovary syndrome, or androgen producing tumor\n* Current or recent pregnancy within two months of study enrollment\n* Current or recent breast feeding within two months of study enrollment\n* Diabetes, or renal, liver, or heart disease\n* History of oophorectomy or hysterectomy\n* History of radiation or surgery involving brain structures and/or pelvis/pelvic organs\n* Currently taking any medications that may affect their reproductive hormones, such as contraceptive medications, androgens, estrogens, progestins, GnRH antagonists, GnRH agonists, insulinomimetics, and metformin.\n* History of prior testosterone therapy",
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "genderBased": true,
+          "genderDescription": "Cisgender females; Transgender males/non-binary/gender non-conforming initiating testosterone replacement therapy",
+          "minimumAge": "18 Years",
+          "maximumAge": "35 Years",
+          "stdAges": [
+            "ADULT"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1125 @@
+{
+  "totalCount": 14,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05454579",
+          "briefTitle": "The South-East Asian Transgender Health Cohort"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "This is a prospective observational cohort study that will enroll 300 HIV-negative transgender people and 150 transgender people living with HIV from 4 community health centers in Thailand, Vietnam, and the Philippines. Each participant will be followed-up until the completion of 24 months."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HIV",
+            "STIs",
+            "HCV"
+          ],
+          "keywords": [
+            "HIV"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 450,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "- 150 HIV-positive participants, both who were diagnosed with HIV infection and new cases.",
+              "description": "Newly diagnosed HIV-infected participants will be linked to care to start ART. Known HIV-positive participants will be linked to care if they are not in care already. All HIV-positive participants will undergo viral load and CD4 testing at screening/baseline, and be invited back every 6 months for assessment of adherence, viral load testing, STI testing, FBS and lipid profile. A CD4 count will be repeated at Month 12 and Month 24."
+            },
+            {
+              "label": "- 150 HIV-negative participants who are already receiving PrEP or who will accept PrEP.",
+              "description": "HIV-negative participants will be offered PrEP. Those who accept PrEP will enroll in the PrEP program in each country, undergo creatinine testing at screening/baseline and be invited back at Month 1, Month 3, and every three months thereafter for HIV testing and assessment of adherence. STI testing, FBS, creatinine and lipid profile will be repeated every 6 months."
+            },
+            {
+              "label": "- 150 HIV-negative participants who will refuse PrEP.",
+              "description": "HIV-negative participants who do not wish to start PrEP will be invited back at every three months for HIV-testing. STI-testing, FBS and lipid profile will be repeated every 6 months."
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Thai/Vietnamese/Filipino nationality\n* Aged \u2265 18 years old\n* Self-identify as a transgender woman or transgender man\n* Have signed consent form\n\nExclusion Criteria:\n\n* None",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "* transgender woman or\n* transgender man",
+          "samplingMethod": "PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06741319",
+          "briefTitle": "Behavioral and Psychosocial Characteristics of Clients Accessing Services at IHRI"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "This protocol describes a 20-year prospective cohort study, gathering behavioral and psychosocial information on clients who access services of the Institute of HIV Research and Innovation (IHRI) and the Thai Red Cross AIDS Research Centre through the Thai Red Cross Anonymous Clinic, the Thai Red Cross Mobile Clinics, Affiliated Health Clinics, The gender and immunity clinic and Pribta Tangerine Polyclinic. Services provided through these sites include VCT, STD screening and treatment, anal and cervical Pap smears, general health checkups, sexual health education, and sexual health communication, gender-affirmative hormone therapy (GAHT) and risk-reduction via web boards and chat rooms.\n\nBehavioral and psychosocial information will be collected using validated questionnaires and from data collection forms routinely used when providing services in different service sites of IHRI and the TRC-ARC. The information will be collected anonymously at baseline and at follow-up visits, according to type of services each client receives. Clients at the Thai Red Cross Anonymous Clinic, Thai Red Cross Mobile Health Clinics, Affiliated Health Clinics and Pribta Tangerine Polyclinic will be given an identification number.\n\nQualitative methods, including focus group discussions (FGD) and in-depth interviews (IDI) will be conducted with clients and healthcare providers to examine the facilitators, barriers, feasibility and acceptability of service implementation."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HIV"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 300000,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "type": "BEHAVIORAL",
+              "name": "Demographic characteristics",
+              "description": "* Gender identity\n* Sex assigned at birth\n* Age\n* Address\n* History of study enrollment(s)"
+            },
+            {
+              "type": "BEHAVIORAL",
+              "name": "Social and sexual behaviors",
+              "description": "* Places where clients go for shopping, dining out, exercise, entertainment\n* Places where clients meet their sexual partner(s)\n* Places where clients obtain condoms and lubricants\n* Social networking and other online services clients regularly use and purposes of using\n* Lifetime and current sexual practices and condom use\n* Number and types of sexual partners\n* Self-perceived HIV risk level\n* Disclosure of HIV or sexual orientation status"
+            },
+            {
+              "type": "BEHAVIORAL",
+              "name": "Psychosocial characteristics",
+              "description": "* Sexual orientation\n* Educational level\n* Occupation and income\n* Attitude towards and use of HIV testing and sexual health services\n* Use of injecting drugs, recreational drugs, and alcohol"
+            },
+            {
+              "type": "BEHAVIORAL",
+              "name": "Clinical characteristics",
+              "description": "* Medical history, including gender dysphoria and hormone therapy\n* HIV counseling and testing\n* Diagnosis and treatment of sexually transmitted diseases (STD)\n* Sample collection information\n* Laboratory results\n* Gender dysphoria and mental health history\n* Body hair pattern\n* Bridging therapy\n* Fertility and reproductive issues\n* Gender transition effects"
+            },
+            {
+              "type": "BEHAVIORAL",
+              "name": "Referral and linkage to care for HIV-positive clients",
+              "description": "* Health insurance scheme\n* Initiation and continuation of antiretroviral treatment"
+            },
+            {
+              "type": "BEHAVIORAL",
+              "name": "Characteristics associated with service implementation",
+              "description": "\\- Facilitators, barriers, feasibility and acceptability of and satisfaction with service implementation as identified by clients and healthcare providers"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. 18 years or 16 and 17 years of age with parental or guardian consent In non- or pre-SRS cases\n2. Recommendation1 by counsellor based on:\n\n   A) Presence of GD history B) Understanding of risks and benefits of GAHT D) Practice and readiness for gender transition E) Availability of social support F) Ability to take hormones as instructed\n3. Verbal informed consent or signed informed consent on file\n4. No exclusionary medical conditions\n5. Approved by physician\n\nIn SRS- and post-SRS cases2\n\n1. Verbal informed consent or signed informed consent on file\n2. No exclusionary medical conditions\n3. Approved by physician\n\nExclusion Criteria:\n\nNone",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "16 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Study population: Clients accessing services of the Pribta Tangerine Polyclinic, the Thai Red Cross Anonymous Clinic, the Thai Red Cross Mobile Clinics and Affiliated Health Clinics.",
+          "samplingMethod": "PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04077151",
+          "briefTitle": "Transgender Youth and PrEP: PK, Safety, Uptake & Adherence - Demonstration Project"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "To address the critical scientific gaps in PrEP safety for transgender youth and to plan for appropriate implementation of PrEP in transgender youth communities, the study will be conducted in 3 integrated phases. In Phase 1, a pharmacokinetic (PK) study exploring the interactions of cs-HT for both TW and TM youth on TDF/FTC will be conducted. Simultaneously, in Phase 2, ethnographic data via focus groups (FGs) and in-depth interviews (IDIs) to inform the development of a tailored intervention to improve uptake and adherence to PrEP for transgender youth will be collected. In Phase 3, a small demonstration trial of PrEP use in transgender youth, utilizing the ethnographically developed intervention to improve uptake and adherence, while also monitoring renal and bone safety outcomes will be implemented.\n\nThe project has the following important specific aims:\n\nAim 1: To evaluate the differential PK of TDF/FTC in a cohort of transgender youth on cs-HT by conducting a PK trial of daily TDF/FTC among 24 TW taking estradiol and 24 TM taking testosterone (ages 15-24 years) using video-based directly observed therapy (DOT) to insure daily adherence and maximize drug exposure.\n\nAim 2: To develop a culturally, developmentally, and gender-affirmative intervention to increase uptake of and adherence to PrEP among TW and TM youth that is grounded in theory (Information-Motivation-Behavioral Skills Model of Behavior Change, Gender Affirmation, Empowerment Theory) and incorporates the PK data from Aim 1. Investigators will conduct FGs with young TW (N=20-30) and TM (N=20-30) and conduct IDIs with participants from the PK study (Total N=10-14). Investigators will solicit continuous input and feedback from TW and TM on the project's Youth Advisory Board.\n\nAim 3: To conduct a small randomized controlled trial within a PrEP demonstration project comparing the newly developed intervention with standard of care (SOC) in TW (N=50) and TM (N=50) ages 15-24 years."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HIV/AIDS",
+            "Gender",
+            "Behavior and Behavior Mechanisms"
+          ],
+          "keywords": [
+            "Transgender",
+            "Pre-exposure Prophylaxis (PrEP)",
+            "HIV Prevention",
+            "Tenofovir Disoproxil Fumarate/Emtricitabine (TDF/FTC)",
+            "Cross-sex Hormone Therapy",
+            "Adherence",
+            "Behavior Change",
+            "Gender Affirmation"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "primaryPurpose": "PREVENTION",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 51,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Intervention Recipients",
+              "type": "EXPERIMENTAL",
+              "description": "PrEP Demonstration Project intervention will be given",
+              "interventionNames": [
+                "Behavioral: PrEP Demonstration Project"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "BEHAVIORAL",
+              "name": "PrEP Demonstration Project",
+              "description": "In phase 2, a culturally, developmentally, and gender-affirmative intervention to increase uptake of and adherence to PrEP among TW and TM youth will be developed by incorporates the PK data from phase 1 and data gathered from focus groups and in-depth interviews with young transgender women and transgender men. During phase 3, this intervention will be given to the experimental arm and tested versus a standard-of-care control group.",
+              "armGroupLabels": [
+                "Intervention Recipients"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Self-identification as a transgender individual \\[As determined by the two-step process of gender identification whereby potential participants will be asked their gender identity and sex assigned at birth\\]\n* HIV-uninfected by EIA and viral load within 7 days of study entry\n* Creatinine clearance \u2265 60 mL/min by Cockroft Gault for ages \u226518 years (Schwartz equation for those \\<18)\n* Willing to comply with all study procedures\n* On a stable dose of cs-HT for at least 2 months verified by clinical chart review and willing to not change doses for duration of PK study\n\nExclusion Criteria:\n\n* Hospitalization within 30 days of study entry (elective procedures okay with team approval)\n* Condition (medical, psychological, or social) that, in the opinion of the study investigators, would preclude the participant from completing study-required procedures\n* Previous participation in an HIV vaccine study, unless the participant can document placebo arm assignment\n* Use of TDF/FTC in the past 3 months",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Self-identification as a transgender individual",
+          "minimumAge": "15 Years",
+          "maximumAge": "24 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04077138",
+          "briefTitle": "Transgender Youth and PrEP: PK, Safety, Uptake & Adherence - Intervention Development"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "To address the critical scientific gaps in PrEP safety for transgender youth and to plan for appropriate implementation of PrEP in transgender youth communities, the study will be conducted in 3 integrated phases. In Phase 1, a pharmacokinetic (PK) study exploring the interactions of cs-HT for both TW and TM youth on TDF/FTC will be conducted. Simultaneously, in Phase 2, ethnographic data via focus groups (FGs) and in-depth interviews (IDIs) to inform the development of a tailored intervention to improve uptake and adherence to PrEP for transgender youth will be collected. In Phase 3, a small demonstration trial of PrEP use in transgender youth, utilizing the ethnographically developed intervention to improve uptake and adherence, while also monitoring renal and bone safety outcomes will be implemented.\n\nThe project has the following important specific aims:\n\nAim 1: To evaluate the differential PK of TDF/FTC in a cohort of transgender youth on cs-HT by conducting a PK trial of daily TDF/FTC among 24 TW taking estradiol and 24 TM taking testosterone (ages 15-24 years) using video-based directly observed therapy (DOT) to insure daily adherence and maximize drug exposure.\n\nAim 2: To develop a culturally, developmentally, and gender-affirmative intervention to increase uptake of and adherence to PrEP among TW and TM youth that is grounded in theory (Information-Motivation-Behavioral Skills Model of Behavior Change, Gender Affirmation, Empowerment Theory) and incorporates the PK data from Aim 1. Investigators will conduct FGs with young TW (N=20-30) and TM (N=20-30) and conduct IDIs with participants from the PK study (Total N=10-14). Investigators will solicit continuous input and feedback from TW and TM on the project's Youth Advisory Board.\n\nAim 3: To conduct a small randomized controlled trial within a PrEP demonstration project comparing the newly developed intervention with standard of care (SOC) in TW (N=50) and TM (N=50) ages 15-24 years."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HIV/AIDS",
+            "Gender",
+            "Behavior and Behavior Mechanisms"
+          ],
+          "keywords": [
+            "Transgender",
+            "Pre-exposure Prophylaxis (PrEP)",
+            "HIV Prevention",
+            "Tenofovir Disoproxil Fumarate/Emtricitabine (TDF/FTC)",
+            "Cross-sex Hormone Therapy",
+            "Adherence",
+            "Behavior Change",
+            "Gender Affirmation"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "CASE_ONLY",
+            "timePerspective": "CROSS_SECTIONAL"
+          },
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Focus Groups",
+              "description": "Ten focus groups with transgender women and transgender men will be conducted. . The structure of the focus groups will utilize an interactive \"Rapid Approach\", which differs from traditional focus groups by asking fewer questions and tightly focusing on specific areas of inquiry."
+            },
+            {
+              "label": "In-Depth Interviews",
+              "description": "Participants for the IDIs, 10-15 TW and TM, will be selected from among Phase 1 participants. We will create a purposive sample that represents a range of experiences that occurred during Phase 1."
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* HIV uninfected\n* Able to provide informed consent in English\n* Self-reports HIV transmission risk behavior including one or more of the following: a) condomless anal or vaginal intercourse, b) 3 or more sexual partners in the past 3 months, c) any diagnosis by self-report of a STI in the past 12 months, and e) any history of transactional sex work\n\nExclusion Criteria:\n\n* Hospitalization within 30 days of study entry (elective procedures okay with team approval)\n* Condition (medical, psychological, or social) that, in the opinion of the study investigators, would preclude the participant from completing study-required procedures\n* Previous participation in an HIV vaccine study, unless the participant can document placebo arm assignment\n* Use of TDF/FTC in the past 3 months",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Self-identification as a transgender individual",
+          "minimumAge": "15 Years",
+          "maximumAge": "24 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ],
+          "studyPopulation": "Transgender women youth and transgender men youth at high-risk of acquiring HIV",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03652623",
+          "briefTitle": "Transgender Youth and PrEP: PK, Safety, Uptake & Adherence - PK Study"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "To address the critical scientific gaps in PrEP safety for transgender youth and to plan for appropriate implementation of PrEP in transgender youth communities, the study will be conducted in 3 integrated phases. In Phase 1, a pharmacokinetic (PK) study exploring the interactions of cs-HT for both TW and TM youth on TDF/FTC will be conducted. Simultaneously, in Phase 2, ethnographic data via focus groups (FGs) and in-depth interviews (IDIs) to inform the development of a tailored intervention to improve uptake and adherence to PrEP for transgender youth will be collected. In Phase 3, a small demonstration trial of PrEP use in transgender youth, utilizing the ethnographically developed intervention to improve uptake and adherence, while also monitoring renal and bone safety outcomes will be implemented.\n\nThe project has the following important specific aims:\n\nAim 1: To evaluate the differential PK of TDF/FTC in a cohort of transgender youth on cs-HT by conducting a PK trial of daily TDF/FTC among 24 TW taking estradiol and 24 TM taking testosterone (ages 15-24 years) using video-based directly observed therapy (DOT) to insure daily adherence and maximize drug exposure.\n\nAim 2: To develop a culturally, developmentally, and gender-affirmative intervention to increase uptake of and adherence to PrEP among TW and TM youth that is grounded in theory (Information-Motivation-Behavioral Skills Model of Behavior Change, Gender Affirmation, Empowerment Theory) and incorporates the PK data from Aim 1. The investigators will conduct FGs with young TW (N=20-30) and TM (N=20-30) and conduct IDIs with participants from the PK study (Total N=10-14). Investigators will solicit continuous input and feedback from TW and TM on the project's Youth Advisory Board.\n\nAim 3: To conduct a small randomized controlled trial within a PrEP demonstration project comparing the newly developed intervention with standard of care (SOC) in TW (N=50) and TM (N=50) ages 15-24 years."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HIV/AIDS",
+            "Gender",
+            "Behavior and Behavior Mechanisms"
+          ],
+          "keywords": [
+            "Transgender",
+            "Pre-exposure Prophylaxis (PrEP)",
+            "HIV Prevention",
+            "Tenofovir Disoproxil Fumarate/Emtricitabine (TDF/FTC)",
+            "Cross-sex Hormone Therapy",
+            "Adherence",
+            "Behavior Change",
+            "Gender Affirmation"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "primaryPurpose": "PREVENTION",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 49,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "TDF/FTC and cs-HT",
+              "type": "EXPERIMENTAL",
+              "description": "Transgender youth will simultaneously take TDF/FTC and cs-HT. TW will take oral estradiol +/- spironolactone and TM will take subcutaneous testosterone. In order to ensure adherence to TDF/FTC, daily DOT procedures will be employed.",
+              "interventionNames": [
+                "Drug: TDF/FTC"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "TDF/FTC",
+              "description": "In Phase 1, a PK study will be conducted to evaluate the differential PK of TDF/FTC in a cohort of transgender youth on cs-HT by conducting a PK trial of daily TDF/FTC among transgender women taking estradiol and transgender men taking testosterone (ages 15-24 years) using video-based directly observed therapy (DOT) to insure daily TDF/FTC adherence and maximize drug exposure.",
+              "armGroupLabels": [
+                "TDF/FTC and cs-HT"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Self-identification as a transgender individual \\[As determined by the two-step process of gender identification whereby potential participants will be asked their gender identity and sex assigned at birth\\]\n* HIV-uninfected by EIA and viral load within 7 days of study entry\n* Creatinine clearance \u2265 60 mL/min by Cockroft Gault for ages \u226518 years (Schwartz equation for those \\<18)\n* Willing to comply with all study procedures\n* On a stable dose of cs-HT for at least 2 months verified by clinical chart review and willing to not change doses for duration of PK study\n\nExclusion Criteria:\n\n* Hospitalization within 30 days of study entry (elective procedures okay with team approval)\n* Condition (medical, psychological, or social) that, in the opinion of the study investigators, would preclude the participant from completing study-required procedures\n* Previous participation in an HIV vaccine study, unless the participant can document placebo arm assignment\n* Use of TDF/FTC in the past 3 months",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Self-identification as a transgender individual",
+          "minimumAge": "15 Years",
+          "maximumAge": "24 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06230770",
+          "briefTitle": "Impact of Progestin-only Contraception on Bleeding Patterns in Individuals Initiating GATT"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Gender diverse individuals who use gender-affirming testosterone therapy (GATT) to reduce gender dysphoria may also use progestins for contraception and to manage or suppress uterine bleeding. Research is limited, however, regarding expected bleeding patterns for individuals who choose to initiate GATT concurrently with a progestin. Clinicians who prescribe GATT do not have sufficient data to adequately counsel patients on side effects of concurrent progestin use and therefore extrapolate from studies conducted in cisgender women. This study is a prospective cohort study evaluating bleeding patterns and satisfaction among patients initiating GATT with or without concurrent initiation of a progestin contraceptive. The results from this study will enable clinicians to more accurately counsel patients using GATT on how the use of a progestin might affect their bleeding and whether this differs by progestin method."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender",
+            "Contraception"
+          ],
+          "keywords": [
+            "progestin",
+            "testosterone",
+            "gender-affirming",
+            "bleeding"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 160,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "type": "BEHAVIORAL",
+              "name": "Bleeding data",
+              "description": "Participants will report their daily bleeding patterns"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* English-speaking currently have a uterus and ovaries\n* desire to initiate GATT\n* potential desire to initiate a progestin (within 14 days of GATT initiation)\n\nExclusion Criteria:\n\n* previous gender-affirming surgery to remove their uterus and/or ovaries",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "50 Years",
+          "stdAges": [
+            "ADULT"
+          ],
+          "studyPopulation": "We will enroll 160 participants who are English-speaking, at least 18 years old, currently have a uterus and ovaries, desire to initiate GATT, and potentially desire to initiate a progestin (within 14 days of GATT initiation). To ensure generalizability of results, participants with baseline irregular bleeding will not be excluded.\n\nParticipants who have recently initiated a progestin may be eligible for inclusion. Participants who have had gender-affirming surgery to remove their uterus and/or ovaries will not be eligible for inclusion.\n\nWe will recruit participants from clinics in San Diego that prescribe GATT, including the UCSD OBGYN clinic, two UCSD Gender Health program affiliated clinics, and UCSD Student Health Services.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03081559",
+          "briefTitle": "Improving Engagement in HIV Care for High-risk Women"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "Transgender women (assigned 'male' at birth but who do not identify as male) are disproportionately impacted by HIV and have culturally unique barriers and facilitators to engagement in HIV care. Transgender women living with HIV (TWH) are less likely than others to take antiretroviral therapy (ART), and those who initiate ART have lower rates of ART adherence, lower self-efficacy for integrating ART into daily routines, and report fewer positive interactions with health care providers than non-transgender adults. As a result, TWH have an almost three-fold higher viral load than non-transgender adults in San Francisco; in Los Angeles, TWH are less likely to be virally suppressed than any other behavioral risk group. In formative work, the investigators have identified culturally-specific and modifiable barriers to HIV treatment engagement among TWH, including prioritization of transition-related health care (i.e. hormone therapy) at the expense of HIV treatment, avoidance of HIV care settings due to past negative health care experiences, misinformation about ART including potential drug interactions with hormones, intensified HIV stigma, low levels of social support, and poor coping skills. There are both individual and public health consequences to poor engagement in care among TWH stemming from high transmission risk factors, including substance abuse, high numbers of sex partners, engagement in sex work, and high rates of mental illness. These findings strongly suggest that TWH face unique challenges to engaging in and adhering to HIV treatment, and that the public health consequences for poor engagement in this population are of grave concern. Interventions to mitigate these barriers to engagement in care are critical in efforts to alter the pattern of HIV-related disparities that lead to disproportionately poor health outcomes for this highly vulnerable and marginalized population. The investigators are conducting a randomized controlled trial of a theory-driven, population-specific, piloted intervention to improve engagement in care for TWH. Grounded in the investigators' Models of Gender Affirmation and Health Care Empowerment, the proposed research is the first to systematically intervene on complex barriers to optimal engagement in HIV care for TWH. The investigators have developed and piloted the Healthy Divas intervention to optimize engagement in HIV care for TWH at elevated risk for treatment failure and consequential morbidity, mortality, and transmission of HIV."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HIV/AIDS",
+            "Adherence, Medication"
+          ],
+          "keywords": [
+            "transgender",
+            "women"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 278,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Intervention",
+              "type": "EXPERIMENTAL",
+              "description": "Healthy Divas intervention",
+              "interventionNames": [
+                "Behavioral: Healthy Divas"
+              ]
+            },
+            {
+              "label": "Control",
+              "type": "NO_INTERVENTION",
+              "description": "Treatment as usual"
+            }
+          ],
+          "interventions": [
+            {
+              "type": "BEHAVIORAL",
+              "name": "Healthy Divas",
+              "description": "Peer-based counseling to improve medication adherence and engagement in care",
+              "armGroupLabels": [
+                "Intervention"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. 18+ years old; and\n2. Assigned male sex at birth but does not currently identify as male; and\n3. English- or Spanish-speaking; and\n4. HIV+ confirmed via antibody testing; and\n5. Evidence of suboptimal engagement in HIV care, as indicated by one or more of the following:\n\n   1. Not on ART; (b) If on ART, reporting less than perfect adherence on a validated adherence rating scale; or (c) Reporting no HIV primary care appointments in the prior 6 months.\n\nExclusion Criteria:\n\nEvidence of severe cognitive impairment or active psychosis, as determined by the Project Director in consultation with the Principal Investigator.",
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "genderBased": true,
+          "genderDescription": "Transgender women",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05166083",
+          "briefTitle": "Investigation of the Perceptual and Acoustic Voice in Trans Man"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "The aim of the study is to follow acoustic and perceptual voice changes in trans men during hormone therapy and to examine the relationship between psychosocial and vocal characteristics and testosterone measured in routine follow-up in accordance with international follow-up guidelines."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Dysphoria",
+            "Voice Disorder Due to Transsexualism",
+            "Transgender Persons",
+            "Hormone Replacement Therapy"
+          ],
+          "keywords": [
+            "Trans man voice, hormon therapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": true,
+          "targetDuration": "8 Months",
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 26,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Trans man",
+              "description": "\"Trans man\" is assigned female at birth and identify as man",
+              "interventionNames": [
+                "Other: Testosterone Hormon Therapy"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "Testosterone Hormon Therapy",
+              "description": "Testosterone isocaproate, ... ml, 8 doses, once per 21 days",
+              "armGroupLabels": [
+                "Trans man"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Being diagnosed with \"Gender Dysphoria\" according to DSM 5\n* Having decided to start hormone therapy\n\nExclusion Criteria:\n\n* Diagnosis of vocal fold lesion in videolaryngostroboscopy evaluation\n* Having previously received voice therapy or undergone voice surgery\n* Having a systematic/or neurological disorder that may affect voice quality\n* Having had hormone therapy or still on hormone therapy",
+          "healthyVolunteers": true,
+          "sex": "FEMALE",
+          "genderBased": true,
+          "genderDescription": "\"Trans man\" is a person whose assigned sex at birth is female and who identifies himself as male.",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years",
+          "stdAges": [
+            "ADULT"
+          ],
+          "studyPopulation": "Trans men who are followed in Hacettepe University Hospital Endocrinology and Psychiatry Clinics.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05663892",
+          "briefTitle": "Drug-Drug Interaction Study in Trans Women Living With HIV"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Introduction: Transgender (trans) women have been found to be at higher risk of and to be disproportionally affected by HIV. Trans women with HIV have also been found to have low usage and adherence rates to antiretroviral therapy (ART). Both healthcare providers and trans women, themselves, have expressed concerns of drug-drug interactions (DDIs) between ART drugs and feminizing hormones, which have in turn been shown to contribute to low rates of ART usage amongst trans women with HIV. The objective of this DDI study is to investigate the pharmacokinetic effects of the common feminizing hormone regimens (oral estradiol with an anti-androgen (pharmaceutical and/or surgical and/or medical) on the antiretroviral combination bictegravir/emtricitabine/tenofovir alafenamide (B/F/TAF) and vice versa.\n\nMethods and Analysis: Participants will be assigned to three groups: group 1 will include 15 trans women with HIV who are taking feminizing hormones and ART (investigational group); group 2 will include 15 premenopausal cis women with HIV taking ART (ART control group); group 3 will include 15 trans women without HIV taking feminizing hormones (hormone control group). Women with HIV will have to be virally suppressed for at least three months and they will have to already be taking B/F/TAF or have their current ART regimen switched to B/F/TAF at baseline. Trans women participants will be required to be on 2 mg oral estradiol or higher and an anti-androgen (pharmaceutical, medical or surgical). Plasma ART drug concentrations will be sampled at the 2-month visit and compared among trans women with HIV on feminizing hormones and premenopausal cis women with HIV. Serum estradiol and total testosterone concentrations will be sampled at the baseline and month 2 visits and compared among trans women with and without HIV. If successful, this trial will serve to provide empirical evidence regarding a lack of, or presence of DDIs between B/F/TAF and feminizing hormones.\n\nDissemination: The findings will be disseminated through publication in peer-reviewed journals as well as presented at national and international conferences and community groups."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hiv",
+            "Transgenderism"
+          ],
+          "keywords": [
+            "HIV",
+            "Feminizing Hormone Therapy",
+            "Transgender Women",
+            "Antiretroviral Therapy",
+            "Drug-Drug Interaction"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ],
+          "designInfo": {
+            "allocation": "NON_RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "OTHER",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 45,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Investigational Population (Group 1) - Trans women living with HIV",
+              "type": "EXPERIMENTAL",
+              "description": "Trans women living with HIV, taking:\n\n* Biktarvy\n* Oral 17(Beta)-Estradiol",
+              "interventionNames": [
+                "Drug: Biktarvy 50/200/25 Tab",
+                "Drug: Estradiol Tablets"
+              ]
+            },
+            {
+              "label": "Comparator Population (Group 2) - Cis Women Living with HIV",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Cis women living with HIV, taking:\n\n-Biktarvy",
+              "interventionNames": [
+                "Drug: Biktarvy 50/200/25 Tab"
+              ]
+            },
+            {
+              "label": "Comparator Population (Group 3) - Trans Women Living without HIV",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Trans women living without HIV, taking:\n\n-Oral 17(Beta)-Estradiol",
+              "interventionNames": [
+                "Drug: Estradiol Tablets"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Biktarvy 50/200/25 Tab",
+              "description": "As the HIV ART, the combination of B/F/TAF, known as Biktarvy\u00ae, which is a widely available Single Tablet Regimen (STR) approved by Health Canada is the drug under investigation. Participants in groups 1 and 2 will either have to already be taking B/F/TAF or will be required to switch to it at baseline and they will self-administer B/F/TAF once daily in the morning, with or without food. Participants taking their dosage at night will be required to switch to a morning dose at the screening visit.",
+              "armGroupLabels": [
+                "Comparator Population (Group 2) - Cis Women Living with HIV",
+                "Investigational Population (Group 1) - Trans women living with HIV"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Estradiol Tablets",
+              "description": "Oral 17(beta)-estradiol as the estrogen and an anti-androgen (pharmaceutical \\[e.g., spironolactone, cyproterone, finasteride, leuprolide, bicalutamide, dutasteride\\] and/or surgical \\[orchiectomy\\] and/or medical \\[hypogonadism\\]).Doses of estradiol range from 1 mg to a maximum of 6 mg per day.\n\nParticipants must take 2 mg until the Month 2 Visit. Trans women participants in both groups 1 and 3 must divide their dose to twice a day (BID) if they are taking \\> 2 mg per day and take 2 mg in the morning and the rest of the dosing in the evening. Participants who are only taking 2mg of estradiol once daily at night must switch their dosing to the morning. Participants who either crush or take the oral estradiol sublingually must switch to swallowing the tablet orally from the day after the screening visit until the Month 2 visit, otherwise the estradiol concentrations will be markedly higher.",
+              "armGroupLabels": [
+                "Comparator Population (Group 3) - Trans Women Living without HIV",
+                "Investigational Population (Group 1) - Trans women living with HIV"
+              ],
+              "otherNames": [
+                "Oral 17(beta)-estradiol"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Investigational Population (Group 1) - Trans Women Living with HIV\n\nInclusion Criteria\n\n1. Is a trans woman or person with transfeminine experience (individual assigned male sex at birth who currently identifies as a woman or person with transfeminine experience and is at any stage of medical, social, or legal transition);\n2. Is 18 years of age or older;\n3. Is living with HIV;\n4. Is currently taking combination ART and has been taking these medications for at least 3 months prior to the screening visit;\n5. Is willing to adjust their ART dosing to the morning if they are currently taking it at night for at least 28 days before the baseline visit until the completion of the Month 2 visit;\n6. Has had an undetectable viral load for at least 3 months on at least two occasions, where most recent (within 12 months including screening) VL\\<40 copies/mL and second (within 24 months) VL\\<200 copies/mL with no suggestion of relevant ART drug resistance prior to screening;\n7. Is willing to switch to or stay on B/F/TAF for the duration of the study (i.e., 6 months);\n8. Is currently taking oral estradiol (2 mg or higher) and an anti-androgen (pharmaceutical \\[e.g., spironolactone, cyproterone, finasteride, leuprolide, bicalutamide, dutasteride\\] and/or surgical \\[orchiectomy\\] and/or medical \\[hypogonadism\\]) and has been taking these medications together at the current dose for at least 3 months prior to the screening visit; AND:\n\n   1. Is willing to adjust their oral estradiol dosing to twice a day if they are taking \\> 2 mg per day (which is currently recommended as best practice) for at least 28 days before the baseline visit until the completion of the Month 2 visit, with the morning dose set at 2 mg (remaining dose can be taken at night), OR;\n   2. If their estradiol dosing is 2 mg per day and they are currently taking their estradiol at night, they must be willing to switch their dosing to the morning for at least 28 days before the baseline visit until the completion of the Month 2 visit;\n   3. Is willing to swallow their oral estradiol if they are currently taking it sublingually or crushing it for at least 28 days before the baseline visit and until the completion of the Month 2 visit;\n   4. Is willing to keep their anti-androgen (if applicable) medication(s) unchanged until the completion of the Month2 visit;\n9. If taking progesterone, is willing to keep the same medication/dose until the completion of the Month 2 visit and must have been taking that dose for at least 3 months prior to the screening visit;\n10. Is willing and able to provide full consent for their participation.\n\nExclusion Criteria\n\n1. Is clinically unable to switch ART to B/F/TAF based on their physician's opinion;\n2. Is taking hormonal non-prescription or natural health products in addition to feminizing hormone therapy;\n3. Has significant underlying diseases which could worsen due to their participation, or affect their ability to follow the study procedures;\n4. Has kidney or liver impairment (ALT \\> 5X normal; serum creatinine \\[eGFR\\] \\< 30 mL per minute);\n5. Is taking medications known to interact with feminizing hormones, B/F/TAF, or its individual components or has taken such medications within the past 28 days prior to baseline (List of prohibited medications in Appendix B1).\n6. Has a known hypersensitivity to bictegravir (BIC), emtricitabine (FTC), tenofovir alafenamide (TAF) or to any ingredient in the formulation.\n\nComparator Population (Group 2) - Cis Women Living With HIV Inclusion Criteria\n\n1. Is a cis woman (individual assigned female sex at birth who currently identifies as a woman);\n2. Is of reproductive age and 18 years of age or older;\n3. Is living with HIV;\n4. Has a regular period (every 24 - 35 days), or if period is irregular or absent, it is due to the administration of a progesterone only hormone contraceptive (see Appendix B1); or if uterus removed (hysterectomy), ovarie(s) remain functional (FSH level\\<27.0 IU/L);\n5. Is currently taking combination ART and has been taking these medications for at least 3 months prior to screening;\n6. Is willing to adjust their ART dosing to the morning if they are currently taking it at night for at least 28 days before the baseline visit until the completion of the Month 2 visit;\n7. Has had an undetectable viral load for at least 3 months on at least two occasions, where most recent (within 12 months including screening) VL\\<40 copies/mL and second (within 24 months) VL\\<200 copies/mL with no suggestion of relevant ART drug resistance prior to screening;\n8. Is willing to switch to or stay on B/F/TAF for the duration of the study (i.e., 6 months);\n9. Is willing and able to provide full consent for their participation.\n\nExclusion Criteria\n\n1. Is clinically unable to switch B/F/TAF based on their physician's opinion;\n2. Is pregnant or is planning on getting pregnant for the duration of the study;\n3. Has undergone surgery to remove their ovaries (i.e. oophorectomy) or has a condition in which their ovaries produce little or no estrogen (i.e. primary ovarian insufficiency, hypogonadism) or does not have ovaries naturally (i.e. unilateral ovarian absence); total hysterectomy is allowed as long as ovaries are intact and functional;\n4. Is taking an estrogen containing or conjugated estrogens hormonal therapies; IUD and progesterone only contraception are allowed (See Appendix B1/2 for list for both prohibited and allowed contraceptives);\n5. Has significant underlying diseases which could worsen due to their participation, or affect their ability to follow the study procedures;\n6. Has kidney or liver impairment (ALT \\> 5X normal; serum creatinine \\[eGFR\\] \\< 30 mL per minute);\n7. Has a known hypersensitivity to bictegravir (BIC), emtricitabine (FTC), tenofovir alafenamide (TAF) or to any ingredient in the formulation.\n8. Is taking medications known to interact with B/F/TAF, or its individual components or has taken such medications within the past 28 days prior to baseline (List of prohibited medications in Appendix B1/2).\n\nComparator Population (Group 3) - Trans Women Living Without HIV Inclusion Criteria\n\n1. Is a trans woman or person with transfeminine experience (defined as individual assigned male sex at birth who currently identifies as a woman or person with transfeminine experience irrespective of medical, social, or legal transition);\n2. Is 18 years of age or older;\n3. Is HIV negative at screening;\n4. Is currently taking oral estradiol (2mg or higher) and an anti-androgen (pharmaceutical \\[i.e., spironolactone, cyproterone, finasteride, leuprolide, bicalutamide, dutasteride\\] and/or surgical \\[orchiectomy\\] and/or medical \\[hypogonadism\\]) and has been taking these medications at the current dose for at least 3 months prior to the screening visit, AND:\n\n   1. Is willing to adjust their oral estradiol dosing to twice a day if they are taking \\> 2 mg per day (which is currently recommended as best practice) for at least 28 days before the baseline visit until the completion of the Month 2 visit, with the morning dose set at 2 mg (remaining dose can be taken at night) OR;\n   2. If their estradiol dosing is 2 mg per day and they are currently taking their estradiol at night, they must be willing to switch their dosing to the morning for at least 28 days before the baseline visit until the completion of the Month 2 visit;\n   3. Is willing to swallow their oral estradiol if they are currently taking it sublingually or crushing it for at least 28 days before the baseline visit until the completion of the Month 2 visit;\n   4. Is willing to keep their anti-androgen (if applicable) medication(s) unchanged until the completion of the Month2 visit;\n5. If taking progesterone, is willing to keep their dose the same until the Month 2 visit and must have been taking that dose for at least 3 months prior to the screening visit;\n6. Is willing and able to provide full consent for their participation.\n\nExclusion Criteria\n\n1. Is taking hormonal non-prescription or natural health products in addition to feminizing hormone therapy;\n2. Has taken HIV pre-exposure prophylaxis (PrEP) (i.e, TDF/FTC or TAF/FTC) or HIV post-exposure prophylaxis (PEP) in the prior 28 days from baseline and plans to continue during the study;\n3. Has significant underlying diseases which could worsen due to their participation, or affect their ability to follow the study procedures;\n4. Has kidney or liver impairment (ALT \\> 5X normal; serum creatinine \\[eGFR\\] \\< 30 mL per minute);\n5. Is taking medications known to interact with feminizing hormones or has taken such medications within the past 28 days prior to baseline (List of prohibited medications in Appendix B1).",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "This study is open to:\n\n* Transgender women or persons with transfeminine experience, taking feminizing hormone therapy (oral estradiol)\n* Cisgender women.",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06969326",
+          "briefTitle": "Topical Estrogen: Brief Intervention to Improve Postoperative Experience for Transgender Men Undergoing Hysterectomy"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "The purpose of this study is to determine if applying a single dose of topical estrogen cream in the operating room at the end of your hysterectomy (removal of uterus and cervix) improves the postoperative experience with bleeding and potential symptoms of dysphoria (a feeling of discomfort or distress). Topical estrogen cream is sometimes used if patients have increased risk of bleeding with surgery but is not currently utilized in a consistent way. This study aims to answer the question of whether this is a helpful treatment and should be included in standard postoperative care."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Postoperative Bleeding",
+            "Gender Dysphoria",
+            "Hysterectomy"
+          ],
+          "keywords": [
+            "gender dysphoria",
+            "gender affirmation",
+            "hysterectomy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Placebo",
+              "type": "PLACEBO_COMPARATOR",
+              "description": "Standard surgical treatment will be provided",
+              "interventionNames": [
+                "Other: No intervention"
+              ]
+            },
+            {
+              "label": "Estradiol",
+              "type": "EXPERIMENTAL",
+              "description": "Application of topical estradiol at conclusion of surgery",
+              "interventionNames": [
+                "Drug: Use of topical estradiol"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Use of topical estradiol",
+              "description": "The investigators will conduct a double blinded randomized control pilot trial. Participants will be randomized in 1:1 fashion to either receive no treatment or receive 2g of estradiol cream, placed after clearing the vaginal vault of any blood and discharge, at the conclusion of the surgery.",
+              "armGroupLabels": [
+                "Estradiol"
+              ]
+            },
+            {
+              "type": "OTHER",
+              "name": "No intervention",
+              "description": "This arm will not receive estradiol or other cream",
+              "armGroupLabels": [
+                "Placebo"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n1. Gender diverse/transgender men\n2. Age 18 or older\n3. Have been on testosterone for at least 6 months with plan to undergo gender-affirming hysterectomy and are willing to be randomized to the use of topical estrogen postoperatively.\n4. Have stable physical and mental health\n5. No contraindications to estrogen therapy\n6. Must be proficient in English or Spanish\n7. Must have access to a device to receive text messages for study follow up\n8. Must agree to allow their medical data to be used for research purposes\n\nExclusion Criteria:\n\n1. Under age 18\n2. Have not been on testosterone for at least 6 months prior to planned hysterectomy\n3. Known allergy to topical estrogen",
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03595956",
+          "briefTitle": "Transgender Cohort Study of Gender Affirmation and HIV-related Health"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN"
+        },
+        "descriptionModule": {
+          "briefSummary": "This observational research study will evaluate medical gender affirmation delivered in primary care as an intervention to reduce disparities in HIV-related outcomes (e.g., low rates of PrEP uptake for HIV-uninfected patients, high rates of viral suppression for HIV-infected patients) for transgender patients in two urban federally-qualified community health centers."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HIV/AIDS",
+            "STI",
+            "Gender Dysphoria",
+            "Transsexualism",
+            "Gender Identity",
+            "Depression, Anxiety"
+          ],
+          "keywords": [
+            "Transgender",
+            "HIV/AIDS",
+            "Gender affirmation",
+            "PrEP"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 4500,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Medical Gender Affirmation (MGA) Cohort",
+              "description": "Patients engaged in gender-affirming care.",
+              "interventionNames": [
+                "Other: Medical gender affirmation"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "Medical gender affirmation",
+              "description": "The intervention to be evaluated is medical gender affirmation delivered in primary care (medical gender affirmation: hormones and/or surgery vs none).",
+              "armGroupLabels": [
+                "Medical Gender Affirmation (MGA) Cohort"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Age 18 years or older;\n* Have a gender identity differing from their assigned sex at birth (verified at screening via two-step method cross-categorizing natal sex and gender identity);\n* Current or new primary care patient at Fenway Health or Callen-Lorde Community Health Center (primary care patients are defined as those who had at least one medical visit in a 12-month period);\n* Able to read, speak, and understand English and/or Spanish;\n* Willing and able to provide informed consent.\n\nExclusion Criteria:\n\n* Under 18 years of age;\n* Unable to read, speak, and understand English and/or Spanish;\n* Unable to provide informed consent due to severe mental or physical illness, or substance intoxication at the time of consent.",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Eligible participants must have a gender identity differing from their assigned sex at birth (verified at screening via two-step method cross-categorizing natal sex and gender identity).",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "A total of 4,500 participants (46% people of color; 45% transgender women, 33% transgender men; 22% nonbinary individuals) will be enrolled across both study sites.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06710496",
+          "briefTitle": "HISTOLOGICAL RESULTS IN TRANSGENDER INDIVIDUALS ASSIGNED TO FEMALES AT BIRTH UNDERGOING GENDER AFFIRMATION SURGERY AND IN TESTOSTERONE THERAPY"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "The aim of this study is to report histological results of genital organs removed during gender affirmg surgery in transgender people assigned female at birth (AFAB), to increase the knowledge about the long-term effects of gender affirming hormone therapy with testosterone on these organs and to evaluate the incidence of benign and malign gynecological pathology in AFAB transgender people."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Pregnancy",
+            "Smoking Behavior",
+            "Testosterone Replacement Therapy",
+            "Drugs",
+            "Comorbidities and Coexisting Conditions",
+            "Gynecological Surgery",
+            "Transgender Men",
+            "Gender Affirmation Surgery",
+            "Hormone Replacement Therapy",
+            "Gynecological Disorders"
+          ],
+          "keywords": [
+            "transgender",
+            "afab",
+            "histology"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "OTHER",
+            "timePerspective": "RETROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "AFAB TG",
+              "description": "assigned female at birth transgender people undergoing gender affirming surgery during testosterone therapy",
+              "interventionNames": [
+                "Other: analysis of medical records"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "analysis of medical records",
+              "description": "analysis of medical records of the patients",
+              "armGroupLabels": [
+                "AFAB TG"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* gender incongruence diagnosis\n* people assigned female at birth\n* age \\>18 years\n* gender affirming surgery with hysterectomy\n* testosterone therapy\n\nExclusion Criteria:\n\n* previous gynecological surgery\n* previous gynecological disorder diagnosis",
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "transgender people assigned female at birth undergoing gender affirming surgery with hysterectomy and on testosterone therapy",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07187947",
+          "briefTitle": "Cardiovascular Health of Transgender Individuals During the Gender-affirming Pathway"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Gender incongruence, now classified in ICD-11 as a \"marked and persistent incongruence between an individual's experienced gender and the gender assigned at birth,\" is managed in dedicated, multidisciplinary centres that coordinate psychological support with medical-surgical care.\n\nGender-affirming hormone therapy (GAHT) is central to this care pathway. In particular, masculinising GAHT for people assigned female at birth (AFAB) relies mainly on testosterone, and feminising or demasculinising GAHT for people assigned male at birth (AMAB) combines oestradiol with androgen-lowering agents such as cyproterone acetate or GnRH analogues (triptorelin, leuprorelin). In addition, Gender-affirming surgery (GAS) offers further individualised options: \"Top\" procedures- chest masculinisation for AFAB or breast augmentation for AMAB, and \"Bottom\" procedures\\*\\* such as hysterectomy with or without oophorectomy, phalloplasty or metoidioplasty for AFAB; orchiectomy or vaginoplasty for AMAB. Other ancillary interventions include facial feminisation or voice surgery.\n\nGAHT aims to suppress endogenous sex-hormone levels and secondary sex characteristics while inducing those consistent with the affirmed gender. Despite its widespread use, cardiovascular (CV) safety data are scant and largely observational. Sex-steroid receptors are ubiquitous in the vasculature and contribute to the sex-dimorphic patterns of CV risk seen in cisgender populations; GAHT is therefore biologically plausible as a modifier of CV outcomes in transgender people, yet robust evidence remains limited.\n\nCurrent literature suggests that AFAB individuals on testosterone exhibit an up to 2.66-fold higher composite CV risk than cisgender AFAB comparators. The most consistent changes are higher blood pressure and lower HDL cholesterol; clinically significant polycythaemia is uncommon and treatable. Instead, AMAB individuals on feminising therapy do not show a clearly increased overall CV risk compared with cisgender AMAB peers, though data are inconsistent. An observational study reported that within four months of GAHT initiation, systolic blood pressure rose by 2.6 mmHg in trans men and fell by 4 mmHg in trans women, with no diastolic change in either group.\n\nThe current evidence base is weakened by small cohorts, inadequate control groups, and reliance on surrogate biochemical markers rather than hard clinical endpoints. Many studies also overlook GAHT exposure altogether, hampering meaningful interpretation. Moreover, social determinants-mental-health burden, substance use, and healthcare inequities-compound CV risk but are seldom accounted for.\n\nKey unanswered questions include the long-term CV effects of GAHT, age-specific interactions with blood pressure and lipids, optimal therapeutic targets, and underlying mechanisms. Addressing these gaps demands rigorously designed, large-scale, prospective studies that actively involve transgender participants.\n\nIn summary, while GAHT is indispensable for gender affirmation, its cardiovascular implications-especially for AFAB individuals-warrant caution and systematic monitoring. Future evidence should inform tailored protocols that balance gender-affirming benefits against potential CV risks and integrate biomedical parameters with the broader social context impacting transgender health."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Incongruence",
+            "Cardiovascular (CV) Risk",
+            "Cardiovascular Disease Risk Factor",
+            "Cardiovascular Disease Acute",
+            "Cardiovascular Health Status",
+            "Cardiovascular Disease (CVD)",
+            "Cardiovascular Disease Prevention"
+          ],
+          "keywords": [
+            "cardiovascular risk",
+            "transgender",
+            "GAHT",
+            "GAS",
+            "hormones"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "OTHER"
+          },
+          "enrollmentInfo": {
+            "count": 500,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "AMAB",
+              "description": "Individuals assigned male at birth, who will take on feminising gender-affirming care (i.e. cyproterone acetate/leuprorelin/triptorelin + estradiol/estradiol valerate, or estradiol/estradiol valerate alone after undergoing orchiectomy).",
+              "interventionNames": [
+                "Drug: Feminizing GAHT"
+              ]
+            },
+            {
+              "label": "AFAB",
+              "description": "Individuals assigned male at birth, who will take on masculinizing gender-affirming care (i.e. testosterone, either before and after the hysterectomy with our without oophorectomy, if desired).",
+              "interventionNames": [
+                "Drug: Masculinizing GAHT"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Feminizing GAHT",
+              "description": "Before gender-affirming surgery, the regimen consists of an antiandrogen (cyproterone acetate or leuprorelin or triptorelin) plus estradiol (estradiol or estradiol valerate), whereas after an oophorectomy, estradiol/estradiol valerate can be administered alone.",
+              "armGroupLabels": [
+                "AMAB"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Masculinizing GAHT",
+              "description": "Before and after gender-affirming surgery, the regimen consists of the administration of testosterone or its esters (testosterone undecanoate, testosterone enanthate)",
+              "armGroupLabels": [
+                "AFAB"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of gender incongruence\n* Age 18 years or older at the start of therapy\n* Undergoing gender-affirming (replacement or suppressive) hormone therapy with testosterone or with estradiol plus anti-androgens for at least 12 months\n* Provision of informed consent for study participation and for the processing of personal and sensitive data\n\nExclusion Criteria:\n\n* Any hormone therapy received before recruitment\n* History of cardiovascular events prior to the initiation of hormone therapy",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Transgender AFAB and AMAB individuals diagnosed with gender incongruence who received medical therapy between January 2000 and December 2027 at the Gynecology and Reproductive Physiology Unit of the IRCCS AOU Bologna, Sant'Orsola University Hospital.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06436560",
+          "briefTitle": "Support for Transgender and Non-Binary Individuals Seeking Vaginoplasty Study"
+        },
+        "statusModule": {
+          "overallStatus": "ENROLLING_BY_INVITATION"
+        },
+        "descriptionModule": {
+          "briefSummary": "The STRIVE study is the first national randomized trial to focus on improving well-being, access to surgical care and other health outcomes for transgender and nonbinary (referred to as trans) people seeking genital gender-affirming surgery (GGAS). Trans people have gender identities that are different from the sex they were assigned at birth. Due to discrimination based on their gender identity in settings such as schools, the workplace, housing and health care, trans people face much higher rates of distress as well as poorer health and quality of life. Trans people are often unable to access necessary surgeries and hormone therapy to help align their bodies with their gender identities due to a lack of trained medical providers and limited insurance coverage for gender-affirming care.\n\nThe most common GGAS that trans people seek is vaginoplasty, which is the surgical creation of vaginal anatomy. Because of the high demand for this surgery and limited number of medical centers that offer it, trans people face lengthy wait times and complicated health system processes, increasing stress, negative mental health effects and social isolation. Social and peer-support interventions have been shown to decrease isolation and improve health. Social support during the GGAS process was also identified by the Transgender and Non-Binary Surgery - Allied Research Collective (TRANS-ARC) as the top research priority. Due to limited information on this topic, the STRIVE study was developed to meet this need.\n\nThe research team's goals are to:\n\n* Compare the effectiveness of two approaches to presurgical preparation for vaginoplasty: a virtual group-based peer support intervention led by trans peers who have had GGAS, or usual care delivered by gender-affirming surgical teams, enhanced with patient education materials.\n* Determine if the intervention improves meeting presurgical criteria for vaginoplasty.\n* Evaluate if patients, peer supporters and healthcare staff find the intervention acceptable.\n\nThe research team will conduct a pragmatic randomized controlled trial, meaning participants will be assigned by chance to one of two groups: peer-support group or usual care enhanced with written and web-based education materials. This study is pragmatic because it is happening under real-life conditions to understand if the intervention will work in practice.\n\nThe research team will work with five academic gender-affirming surgery programs across the country to recruit and enroll 290 trans adults ages 18 and older who are seeking vaginoplasty. Participants assigned to the peer support group will receive the intervention virtually over the course of three months, facilitated by peer facilitators trained in collaboration with Trans Lifeline. The usual care group will receive education from their gender-affirming surgical team, with in-depth materials that cover the same topics as the virtual course.\n\nThe primary outcome to be measures at six months is coping self-efficacy, reported by patients, using a survey which assesses perceived ability to deal with stressors. The research team will explore additional outcomes at 12 months, including meeting GGAS presurgical criteria and other outcomes deemed important to trans community partners, surgeons and other gender-affirming providers (e.g., psychological stress, social support, resilience, quality of life, presurgical knowledge, surgical delays and cancellations). Postsurgical outcomes, including surgical satisfaction and other related outcomes, will be measured at 24 months. Finally, the team will conduct in-depth interviews with participants who undergo the intervention to understand their experiences at the beginning of the study and after six months. Researchers will also interview peer supporters and clinicians to understand how to improve and implement the support intervention more broadly.\n\nIn designing this study, the research team worked closely with trans community members and patients, health services and policy researchers, gender-affirming surgeons, advocates, gender program administrators and representatives from social support organizations. Collaboration with and input from the trans community during the conduct of this study will be critical to ensure that the STRIVE study is patient centered. Results from this study will be shared in multiple forms, including clinical guideline recommendations, policy briefs, patient-centered reports, web-based information and summaries for clinicians and researchers. Trans people seeking gender-affirming surgery can use the study findings to understand options for social support to improve quality of life and health outcomes. Clinicians, gender program administrators, health insurance companies and health policy advisors can use the findings from this study to better support and prepare patients who are seeking gender-affirming surgery."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Affirmation Surgery",
+            "Perioperative Care",
+            "Transgender Health"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "primaryPurpose": "HEALTH_SERVICES_RESEARCH",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 290,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "STRIVE Peer Support Intervention",
+              "type": "EXPERIMENTAL",
+              "description": "A virtual group-based peer support intervention led by trans peers who have had genital gender-affirming surgery.",
+              "interventionNames": [
+                "Other: STRIVE Peer Support Intervention"
+              ]
+            },
+            {
+              "label": "Enhanced Usual Care",
+              "type": "NO_INTERVENTION",
+              "description": "Usual care enhanced with written and web-based education materials."
+            }
+          ],
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "STRIVE Peer Support Intervention",
+              "description": "A virtual group-based peer support intervention led by trans peers who have had genital gender-affirming surgery.",
+              "armGroupLabels": [
+                "STRIVE Peer Support Intervention"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Self-identified trans or non-binary individual\n* Seeking vaginoplasty\n* Completed consultation with gender-affirming surgeon for vaginoplasty\n* Documented recommendation by surgeon for vaginoplasty\n* Can complete survey responses online, by phone or on paper.\n* Willing and able to participate in virtual peer support intervention\n* Aged 18 or older\n* English speaking\n* Able to provide independent written consent\n\nExclusion Criteria:\n\n* Do not speak English\n* Cannot complete survey responses online, by phone, or on paper\n* Are unwilling to participate in a virtual peer support intervention\n* Have co-morbidities or other conditions that exclude them from candidacy for vaginoplasty\n* Are currently involved in delivery of the STRIVE Intervention\n* Are unable or unwilling to participate.",
+          "healthyVolunteers": false,
+          "sex": "MALE",
+          "genderBased": true,
+          "genderDescription": "Transgender and nonbinary persons seeking gender-affirming vaginoplasty.",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,949 @@
+[
+  {
+    "nct_id": "NCT00789607",
+    "title": "Fiducial Localization and Individualized Radiotherapy -Prostate Cancer",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "Transrectal APT Device or Transperineal Device will be used (DEVICE)",
+      "TRUS probe (DEVICE)"
+    ],
+    "summary": "This purpose of this study is designed to compare two types of images; magnetic resonance imaging (MRI) and Trans-Rectal Ultrasound (TRUS) to see which one performs more accurately for the image-guided insertion of Fiducial Markers(FMs) within the tumour. Though effective for guiding FM placement at the poles of the prostate gland due to excellent visualization of the prostatic boundaries, TRUS may not be ideally suited for marking the GTV. Conventional TRUS is neither sufficiently sensitive nor specific for accurate visualization of intra-prostatic tumor. A new interventional MRI technique enables needle guidance to the gross tumour Volume (GTV) for FM placement. It is of particular importance that both techniques be evaluated to enable which one is more effective so that it can be implemented in the designs of future trials involving dose-escalation to prostate.",
+    "eligibility": "Inclusion Criteria:\n\n1. \u2265 18 years old\n2. ECOG status \u2264 1\n3. High risk localized cancer planned for RT under FM guidance\n4. Gleason \\> 7, PSA \\> 20, Clinical stage \u2265 T3\n5. patients(pts) must give written informed consent\n\nExclusion Criteria:\n\n1. pts \\> 136 kg or \\> 60 cm in girth\n2. Pts with pacemakers, cerebral aneurysm clips, shrapnel injury or devices not compatible with MRI.\n3. pts with severe claustrophobia\n4. pts with bleeding diathesis and anticoagulative therapy that cannot be ceased prior to needle procedures.\n5. Contraindications to endorectal probe, surgically absent rectum, severe hemorrhoids or previous colorectal surgery.\n6. Latex Allergy"
+  },
+  {
+    "nct_id": "NCT00188708",
+    "title": "Effect of Casodex on Tumour Hypoxia - Prostate Cancer",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Prostatic Neoplasms"
+    ],
+    "interventions": [
+      "hypoxia measurement (PROCEDURE)"
+    ],
+    "summary": "Prostate cancers, in common with many other tumours, are often hypoxic; that is, they have low levels of oxygen. It is thought that tumour hypoxia may hasten the progression of cancers and make them more resistant to treatment. One previous study has suggested that hormone therapy, such as Casodex, may improve the prostate oxygen level. This study is designed to test that finding.",
+    "eligibility": "Inclusion Criteria:\n\n* Men with histologically proven prostatic carcinoma, stage cT2, N0, M0, receiving neoadjuvant bicalutamide plus conformal radiotherapy in study 9907, who have previously participated in the prostate cancer hypoxia project\n* informed consent\n\nExclusion Criteria:\n\n* Coagulopathy"
+  },
+  {
+    "nct_id": "NCT04371783",
+    "title": "A Randomized Trial Comparing the Live Birth Rate of Immediate Versus Delayed FET Following a Freeze-all Strategy",
+    "screening_reason": "Explicit non-GAHT indication found: ivf",
+    "conditions": [
+      "IVF",
+      "Frozen Embryo Transfer"
+    ],
+    "interventions": [
+      "Immediate FET (PROCEDURE)",
+      "Delayed FET (PROCEDURE)"
+    ],
+    "summary": "This randomized trial we aim to compare the live birth rate of immediate versus delayed FET replacing a single blastocyst in the first FET of the first stimulated IVF cycle following. The hypothesis is that the live birth rate of the immediate FET is higher than the delayed FET replacing a single blastocyst in the first FET of the first stimulated IVF cycle following a freeze-all strategy. Women will undergo IVF/ICSI in the centre as clinically indicated. Standard ovarian stimulation with gonadotrophins in a Gonadotrophin releasing hormone (GnRH) antagonist protocol will be employed. Hormone replacement treatment (HRT) will be used in subsequent FET cycles. On Day 3 of the menstrual cycle, we will measure the anxiety levels using the Chinese State-Trait Anxiety Inventory and serum E2, cortisol levels will be checked on the same day.\n\nRecruited women having the first FET cycle following a freeze all strategy will be randomly assigned on the day of blastocyst(s) freezing according to a computer-generated randomization list into one of the following two groups.",
+    "eligibility": "Inclusion Criteria:\n\n1. Women aged 20-40 years at the time of IVF/ICSI\n2. Women undergoing their first FET of the first IVF cycle following a freeze-all strategy\n3. Undergoing IVF with GnRH antagonist\n4. At least one frozen blastocyst\n\nExclusion Criteria:\n\n1. Severe ovarian hyperstimulation syndrome during the first IVF/ICSI cycle\n2. Preimplantation genetic testing\n3. Use of donor oocytes\n4. Presence of untreated hydrosalpinx or endometrial polyp on scanning during ovarian stimulation"
+  },
+  {
+    "nct_id": "NCT06581679",
+    "title": "Adenomyosis and Pregnancy: Levonorgestrel vs. GnRH for Blastocyst Transfer",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Adenomyosis"
+    ],
+    "interventions": [
+      "Triptorelin (DRUG)",
+      "levonorgestrel-releasing intrauterine system (DEVICE)",
+      "frozen embryo transfer (PROCEDURE)"
+    ],
+    "summary": "Adenomyosis is a condition where endometrial tissue grows into the uterine muscle, causing symptoms like pelvic pain, heavy bleeding, and infertility. This abnormal growth can lead to a variety of reproductive issues, including a higher risk of miscarriage and early pregnancy loss.\n\nWhile there are treatments available for adenomyosis, they are often limited due to the lack of precise diagnostic criteria. One common approach is the use of gonadotropin-releasing hormone agonist (GnRHa), which can improve pregnancy rates in infertile women with adenomyosis. However, it's important to note that GnRHa may not restore pregnancy rates to baseline levels.\n\nAnother potential treatment option is the levonorgestrel-releasing intrauterine system (LNG-IUS). This device releases a hormone called levonorgestrel into the uterus, which can help control the symptoms of endometriosis and adenomyosis. Studies have shown that the endometrial concentration of levonorgestrel from the LNG-IUS is significantly higher than in other tissues like the myometrium, fallopian tubes, and fat tissue.",
+    "eligibility": "Inclusion Criteria:\n\n* Women who have adenomyosis diagnostic characteristics and underwent ICSI that resulted in good-quality FE.\n\nExclusion Criteria:\n\n* Women Women who have adenomyosis diagnostic characteristics and underwent ICSI that resulted in Poor-quality FE."
+  },
+  {
+    "nct_id": "NCT05166668",
+    "title": "Letrozole /GnRH Antagonist Protocol in Women Over 40 Years Undergoing ICSI Cycle",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Ovarian Stimulation"
+    ],
+    "interventions": [
+      "Letrozole 2.5mg tablet (DRUG)"
+    ],
+    "summary": "The aim of this study To compare the clinical and laboratory outcomes of two ovarian stimulation protocols (standard GnRH antagonist protocol and aromatase inhibitor/ antagonist protocol) in women (40-44) years undergoing ICSI cycle.",
+    "eligibility": "Inclusion Criteria:\n\n* Women between 40- 44-years undergoing ICSI cycle with FSH less than 15 and AMH more than 0.30.\n\nExclusion Criteria:\n\n* Azoospermia in male partner,\n* Previous ovarian surgery,\n* Severe endometriosis,\n* Uterine cavity lesion\n* Metabolic or endocrine disorders including hyperprolactinemia and ypo/hyperthyroidism.\n* Previous failed ICSI cycle.\n* BMI more than 30."
+  },
+  {
+    "nct_id": "NCT00887380",
+    "title": "STARS Breast Trial (Study of Anastrozole and Radiotherapy Sequencing)",
+    "screening_reason": "Explicit non-GAHT indication found: breast cancer",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "interventions": [
+      "Pre-radiotherapy commencement of anastrozole (DRUG)",
+      "Radiotherapy (RADIATION)",
+      "Post radiotherapy commencement of anastrozole (DRUG)"
+    ],
+    "summary": "The purpose of this study is to determine whether starting anastrozole prior to radiotherapy, so that it is taken during radiotherapy, decreases local recurrence of breast cancer in post-menopausal women in comparison to waiting until after radiotherapy to commence anastrozole.",
+    "eligibility": "Inclusion Criteria:\n\n* Women aged 18 years or older\n* Post total mastectomy or lumpectomy. All planned cancer resection surgery complete.\n* Histologic or pathologic reports must verify either:\n\n  * No tumour contacting the inked margin of surgically removed tissue, or\n  * Focal involvement (\\<2mm front) if the margin is at the deep (posterior part) of the breast and the surgeon confirms that surgery extended to the deep fascia, or\n  * Focal involvement (\\<2mm front) if the margin is superficial (anterior part of the breast or subcutaneous) and the surgeon confirms that surgery extended to the subcutis NB: In the case of focally involved deep or superficial margins, the medical records or multidisciplinary meeting notes or correspondence from the surgeon must indicate that the surgeon confirms the surgery extended to the deep fascia or subcutis as appropriate. Patients should routinely receive a lumpectomy bed boost in the conserved breast setting if there is focal superficial or focal deep involvement as defined above.\n* Tumour oestrogen receptor and/or progesterone receptor positive (\u226510% cells positive).\n* Radiotherapy not yet commenced\n* Planned radiotherapy dose prescribed to ICRU reference points in the irradiated breast / chest wall volumes at least the biological equivalent of 45 Gy in 25 fractions or more. (BED Gy4 \u2265 65, BED Gyx=D(1+n/x) where D=total dose, n=dose per fraction, x=alpha beta ratio, Gy4 selected as appropriate alpha-beta ratio for human breast cancer lines)\n* An ECOG performance status score of 2 or less.\n* Female and post menopausal shown by satisfying at least one of the following criteria (as per the ATAC study criteria16):\n\n  * bilateral oophorectomy\n  * age greater than 60\n  * age 45-59 years with intact uterus and amenorrhoeic at least 12 months\n  * Amenorrhoeic less than 12 months with follicle stimulating hormone (FSH) levels within the post menopausal range (including patients with amenorrhoea due to chemotherapy, LHRH use or who have had hormone replacement following hysterectomy) Note: it is recommended for women under the age of 45 who have been rendered menopausal by chemotherapy that they be enrolled onto the strata which switches to Tamoxifen after the initial 3 months of anastrozole.\n* Is not receiving chemotherapy, or is receiving chemotherapy but the course will be completed at least 3 weeks prior to commencing radiotherapy\n* Unilateral treatment\n* Has provided written informed consent for participation in this trial\n\nExclusion Criteria:\n\n* Previous radiotherapy to the area to be treated\n* Previous invasive malignancy within 5 years of current breast cancer diagnosis with the exception of cervix in-situ or skin cancer other than melanoma.\n* Patients with clinical evidence of metastatic disease.\n* Previous hormonal breast cancer therapy.\n* Ongoing hormone replacement therapy"
+  },
+  {
+    "nct_id": "NCT02936258",
+    "title": "PRostate Evaluation for Clinically Important Disease: MRI vs Standard Evaluation Procedures",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "Standard of Care (PROCEDURE)",
+      "MRI (PROCEDURE)",
+      "MRI Targeted Biopsy (PROCEDURE)"
+    ],
+    "summary": "The aim of this study is to assess the efficacy of MRI-targeted biopsy compared to standard of care systematic TRUS guided biopsy in the detection of clinically significant and clinically insignificant prostate cancer in men without prior biopsy. The implication of this trial is that MRI-targeted biopsy could replace systematic TRUS guided biopsy as the standard of care in the diagnosis of prostate cancer.",
+    "eligibility": "Inclusion Criteria:\n\nIn order to be eligible, all inclusion criteria must be met:\n\n1. Men at least 18 years of age referred with clinical suspicion of prostate cancer who have been advised to have a prostate biopsy;\n2. \u22655% chance of high-grade prostate cancer as calculated using individualized risk assessment of prostate cancer calculator, PCPTRC 2.0, found at http://deb.uthscsa.edu/URORiskCalc/Pages/calcs.jsp;\n3. Serum PSA \u2264 20ng/ml within 3 months of randomization\n4. Fit to undergo all procedures listed in protocol;\n5. Able to provide written informed consent.\n\nExclusion Criteria:\n\n1. Prior prostate biopsy\n2. Prior treatment for prostate cancer\n3. Contraindication to MRI (e.g. claustrophobia, pacemaker, estimated GFR \u2264 50mls/min)\n4. Contraindication to prostate biopsy\n5. Men in whom artifact would reduce the quality of the MRI, i.e. previous hip replacement surgery, metallic hip replacement or extensive pelvic orthopaedic metal work\n6. Unfit to undergo any procedures listed in protocol."
+  },
+  {
+    "nct_id": "NCT06391034",
+    "title": "Magnetic Resonance (MR) Imaging With Hyperpolarized 13C-Pyruvate +/- 13C,15N-Urea in Patients With Prostate Cancer",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "hyperpolarized pyruvate +/-urea (13C/15N) (DRUG)",
+      "Non-investigational External beam radiotherapy (EBRT) (RADIATION)",
+      "Radiotherapy (RT) (PROCEDURE)",
+      "Multi-parametric magnetic resonance imaging (mpMRI) (PROCEDURE)",
+      "Non-interventional hormone therapy (BIOLOGICAL)",
+      "Prostate Biopsy (PROCEDURE)"
+    ],
+    "summary": "This is a Phase 2 clinical study of hyperpolarized (HP) 13C-pyruvate (13C), 15N-urea (13C,15N) metabolic MR imaging in prostate cancer patients who are undergoing or have received radiation therapy for prostate cancer.",
+    "eligibility": "Inclusion Criteria:\n\n1. Participants must have biopsy-proven adenocarcinoma of the prostate, as determined by medical chart review.\n2. For:\n\n   1. Part 1: Participants post-radiation therapy or currently considering EBRT.\n   2. Part 2A: Participants currently scheduled for or considering EBRT (no neo-adjuvant therapy planned).\n   3. Part 2B: Participants currently scheduled for or considering EBRT and neo-adjuvant therapy is planned. The participant has biopsy-proven adenocarcinoma of the prostate with high-risk disease, defined by the presence of at least two of following criteria: a tumor stage of T3 or T4, a Gleason score of 8 to 10, or a PSA level \u226540 ng/mL) and the participant must be planning to receive androgen deprivation therapy (ADT) with an Luteinizing hormone-releasing hormone (LHRH) agonist or antagonist. The addition of an androgen-receptor (AR) signaling inhibitor (e.g., abiraterone, bicalutamide,apalutamide, enzalutamide or darolutamide) will be allowed.\n   4. Part 3: Participants who have previously received radiation treatment to the prostate and are exhibiting signs of biochemical failure, with planned fusion biopsy within 12 weeks following completion of baseline HP 13C pyruvate +/-urea mpMRI.\n3. Participant is able and willing to comply with study procedures and provide signed and dated informed consent.\n4. Eastern Cooperative Oncology Group (ECOG) performance status \\<= 1.\n5. Age \\>= 18 years old at time of study entry.\n6. Ability to understand and the willingness to sign a written informed consent document.\n7. Demonstrates adequate organ function as defined below:\n\n   1. White Blood Cell count (WBC) \\>=4000 cells/\u03bcL.\n   2. Hemoglobin \u22659.0 gm/dL.\n   3. Platelets \u226575,000 cells/\u03bcL.\n   4. Renal Function \\> 30 Epithelial Growth Factor Receptor (eGFR).\n\nExclusion Criteria:\n\n1. Evidence of pelvic regional or distant metastatic disease on conventional imaging (MRI, computed tomography or whole body bone scan) or prostate-specific membrane antigen (PSMA) Positron Emission Tomography (PET) imaging. PSMA-avid lymph nodes confined to the pelvis will be allowed if \\<1 centimeter (cm).\n2. Prostate biopsy performed within 14 days prior to baseline C-13 HP pyruvate MRI.\n3. Poorly controlled hypertension, with blood pressure at study entry \\> 160 mm Hg systolic or \\> 100 mm Hg diastolic. Treatment with anti-hypertensives and re-screening is permitted.\n4. Contraindication to or inability to tolerate MRI with endorectal coil (e.g. severe claustrophobia, presence of cardiac pacemaker, aneurysm clip, severe or painful hemorrhoids, rectal stricture).\n5. Congestive heart failure with New York Heart Association (NYHA) status \\>= 2.\n6. History of clinically significant ECG abnormality, including QT prolongation, a family history of prolonged QT interval syndrome or myocardial infarction within 6 months of study entry."
+  },
+  {
+    "nct_id": "NCT06234488",
+    "title": "Multi-Institutional Transgender & Gender-Diverse Breast Cancer Study",
+    "screening_reason": "Explicit non-GAHT indication found: breast cancer",
+    "conditions": [
+      "Breast Cancer",
+      "Breast Neoplasms",
+      "Breast Adenocarcinoma",
+      "Breast Cancer Stage",
+      "Breast Cancer Stage IV",
+      "Breast Cancer Invasive",
+      "Breast Cancer in Situ"
+    ],
+    "interventions": [],
+    "summary": "There is no granular retrospective data on breast cancer in transgender and gender-diverse (TGD) persons from a contemporary and diverse American cohort. The purpose of this investigation is to aggregate data from multiple institutions to describe the risk, diagnosis, management, and outcomes of TGD persons with breast cancer in effort to identify opportunities for future intervention studies to eliminate breast cancer disparities for this population.",
+    "eligibility": "Inclusion Criteria:\n\n1. Age 18 years of age or older\n2. Breast cancer diagnosis (including DCIS)\n3. Persons who identify as gender and/or sex that is different from the sex they were assigned at birth\n\nExclusion Criteria:\n\n1. Age \\<18 at time of breast cancer diagnosis\n2. Cis-gendered persons"
+  },
+  {
+    "nct_id": "NCT06733350",
+    "title": "Testosterone Replacement Therapy for the Treatment of Low Testosterone in Hypogonadal Men With Localized Prostate Cancer on Active Surveillance",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Localized Prostate Carcinoma",
+      "Stage I Prostate Cancer AJCC v8",
+      "Stage II Prostate Cancer AJCC v8",
+      "Stage III Prostate Cancer AJCC v8"
+    ],
+    "interventions": [
+      "Biopsy of Prostate (PROCEDURE)",
+      "Biospecimen Collection (PROCEDURE)",
+      "Magnetic Resonance Imaging (PROCEDURE)",
+      "Patient Observation (OTHER)",
+      "Questionnaire Administration (OTHER)",
+      "Therapeutic Testosterone (DRUG)"
+    ],
+    "summary": "This phase IV trial studies the effects of testosterone replacement therapy (TRT) on treatment outcomes in hypogonadal men with prostate cancer that has not spread to other parts of the body (localized) and who are on active surveillance (AS). AS in prostate cancer involves closely watching the patient's condition through regular physical exams and blood tests, but not giving treatment unless there are changes in test results. It can be a practical alternative to treatment in localized prostate cancer. Hypogonadal men have low testosterone associated with symptoms such as low libido and erectile problems. TRT can be used to treat hypogonadism by increasing testosterone levels, which may improve associated symptoms. TRT is often not used in men with prostate cancer due to concerns it may lead to the cancer growing or spreading. This may lead hypogonadal men to have a poor quality of life or to discontinue AS. TRT may improve treatment and quality of life outcomes in hypogonadal men with localized prostate cancer on active surveillance.",
+    "eligibility": "Inclusion Criteria:\n\n* Men aged \u2265 18 years\n* Men with localized prostate cancer are eligible for active surveillance (National Comprehensive Cancer Network \\[NCCN\\] very low, low, and intermediate favorable risk group)\n* Participant must understand the investigational nature of this study and sign an independent ethics committee/institutional review board approved written informed consent form prior to receiving any study related procedure\n\nExclusion Criteria:\n\n* Patients with NCCN intermediate unfavorable, high risk, or very high-risk localized prostate cancer\n* For men being considered for Group 2 (TRT), Patients with contraindications to TRT, which include,\n\n  * Locally advanced or metastatic prostate cancer\n  * Male breast cancer\n  * Men with an active desire to have children\n  * Hematocrit levels \\> 54% or baseline hematocrit of 48-50%\n  * Uncontrolled or poorly controlled congestive heart failure\n  * IPSS (International Prostate Symptom Score) score \\> 19\n  * Family history of venous thromboembolism\n* Unwilling or unable to follow protocol requirements\n* Any condition which in the investigator's opinion deems the participant an unsuitable candidate to participate in the study"
+  },
+  {
+    "nct_id": "NCT04414748",
+    "title": "Comparison of the Euploid Rate of Blastocyst Between PPOS and GnRH Antagonist Protocol in Patients Undergoing PGT-A",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Preimplantation Genetic Testing",
+      "Progestin-primed Ovarian Stimulation",
+      "Euploid Rate",
+      "GnRH Antagonist"
+    ],
+    "interventions": [
+      "GnRH antagonist (DRUG)",
+      "oral Duphaston (DRUG)"
+    ],
+    "summary": "This randomized trial aims to compare the euploid rate of blastocysts between PPOS and GnRH antagonist protocols in patients undergoing PGT-A. Infertile women who have medical indication for PGT-A will be recruited for study after explanation and counseling if they fulfill the inclusion criteria and do not have the exclusion criteria. Eligible women will be randomised into one of the two groups:\n\nAntagonist group: Women will receive antagonist once subcutaneously daily from day 6 of ovarian stimulation till the day of the ovulation trigger.\n\nPPOS group: Women will receive oral Duphaston 10mg bd from Day 3 till the day of ovulation trigger.\n\nThe primary outcome is the euploidy rate of blastocysts.",
+    "eligibility": "Inclusion Criteria:\n\n* Age of women \\<43 years at the time of ovarian stimulation for IVF\n* Antral follicle count (AFC) \\>=5 on day 2-5 of the period\n* PGT-A indicated for advanced maternal age (\\>=38 years), recurrent miscarriage (\\>=2 consecutive miscarriage) and repeated implantation failure (\\>=4 embryos replaced or \\>=2 blastocysts replaced without success), recurrent foetal aneuploidy\n\nExclusion Criteria:\n\n* Presence of a functional ovarian cyst with E2\\>100 pg/mL\n* Recipient of oocyte donation\n* Presence of hydrosalpinx or endometrial polyp which is not surgically treated"
+  },
+  {
+    "nct_id": "NCT00831233",
+    "title": "Symptomatic Study Investigating Degarelix in Patients Suffering From Prostate Cancer",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "Degarelix (DRUG)",
+      "Goserelin (DRUG)",
+      "Bicalutamide (DRUG)"
+    ],
+    "summary": "The purpose of this trial was to see how well a new trial drug (degarelix) worked on lower urinary tract symptoms (also known as LUTS) in prostate cancer patients as compared to how a standard drug hormonal treatment worked on the same symptoms. The advancement/worsening of prostate cancer may be associated with LUTS and the symptoms may impact the ability to urinate normally and thereby the quality of life for these patients.\n\nPatients were randomly selected (like flipping a coin) to receive either degarelix or standard hormone therapy (combination of goserelin and bicalutamide) for a 3 month treatment period. During this period the relief of urinary symptoms was evaluated via a questionnaire filled in by patients and addressing the severity and frequency of their symptoms.",
+    "eligibility": "Inclusion Criteria:\n\n* Patient has given written informed consent before any trial-related activity is performed\n* Has a confirmed prostate cancer in which this type of treatment is needed.\n\nExclusion Criteria:\n\n* Previous treatment for prostate cancer\n* Previous trans-urethral resection of the prostate\n* Current use of 5-alpha reductase inhibitor or \u03b1-adrenoceptor antagonist.\n* Patients in need of external beam radiotherapy to be started at the same time as hormone therapy\n* Certain risk factors for abnormal heart rhythms/QT prolongation (corrected QT interval over 450 msec., Torsades de Pointes or use of certain medications with potential risk)\n* History of severe untreated asthma, anaphylactic reactions, or severe urticaria and/or angioedema.\n* Hypersensitivity towards any component of the investigational product\n* Other previous cancers within the last five years with the exception of prostate cancer and some types of skin cancer.\n* Clinical disorders other than prostate cancer including but not limited to renal, haematological, gastrointestinal, endocrine, cardiac, neurological, psychiatric disease, alcohol or drug abuse or other conditionals as judged by the investigator."
+  },
+  {
+    "nct_id": "NCT05649943",
+    "title": "Multimodal Approach in Patients With mHSPC. Randomized Trial of APA+ADT vs APA-ADT and Local Treatment",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Metastatic Hormone-Sensitive Prostate Cancer (mHSPC)"
+    ],
+    "interventions": [
+      "APA + ADT (DRUG)",
+      "Local Treatmetn RT or RP (PROCEDURE)"
+    ],
+    "summary": "Italian multicenter study, will enroll \\~566 pts with oligometastatic hormone sensitive prostate cancer who are candidates to receive treatment with apalutamide.\n\nAfter 6 months from the start of treatment, patients will be randomized to receive local treatment based on the investigator's choice ( either one between primary radiotherapy or cytoreductive prostatectomy), in addition to apalutamide, or to continue just with medical therapy.",
+    "eligibility": "Inclusion Criteria:\n\n* Age \\> 18\n* Histologically confirmed diagnosis of prostate adenocarcinoma\n* Metastatic disease documented by \u22651 bone lesion with Technetium 99m (99mTc) bone scan. Individuals with only one bone lesion should have confirmation of that lesion on CT or MRI.\n* Eastern Cooperative Oncology Group Performance Status (ECOG PS) Grade \u2264 2\n* No previous treatment with antiandrogens or GnRH analogues, or a treatment \u2264 3 months.\n* No previous systemic or local treatment for prostate adenocarcinoma, including pelvic radiotherapy.\n* Laboratory values at the time of screening:\n\n  a. Neutrophils \u2265 1500/\u03bcL b. Hemoglobin \u2265 9.0 mg/\u03bcL (no transfusions in the past 28 days) c. Platelets \u2265 100,000/\u03bcL d. Creatinine \u2264 2 x upper limit of normal and serum albumin \u2265 3.0 g/dL f. Total bilirubin \u2264 1.5 x upper limit of normal \\[NOTE: In subjects with Gilbert syndrome, if total bilirubin is \\>1.5 x ULN, measure direct and indirect bilirubin, and if direct bilirubin is \u2264 1.5 x ULN subjects may be eligible\\]; g. AST and ALT \u2264 2.5 x upper limit of normal\n* Able to swallow Apalutamide tablets whole.\n* All subjects must sign an Informed Consent Form indicating that they understand the purpose of the study and its procedures and intend to participate. The subject must be willing and must be able to comply with the restrictions specified in this protocol.\n\nInclusion criteria for cytoreductive surgery:\n\n* Age \\>18 years\n* Clinical stage cT3\n* Robot-assisted radical prostatectomy with iliac obturator lymphadenectomy\n* Surgical piece management criteria similar to Proteus criteria.\n\nExclusion Criteria:\n\n* Pathologic findings consistent with small cell, ductal, or neuroendocrine prostate cancer.\n* Known brain metastases.\n* Lymph node metastases only.\n* Visceral metastases.\n* Patients not eligible for surgery or radiotherapy.\n* Unacceptable increase in cardiovascular risk, defined as the occurrence of at least one of the following episodes in the 6 months prior to randomization: unstable angina, myocardial infarction, symptomatic congestive heart failure, clinically significant thromboembolic events (e.g., pulmonary embolism), or clinically significant ventricular arrhythmias .\n* Uncontrolled high blood pressure (systolic blood pressure \\> 160 mmHg or diastolic blood pressure \\> 100 mmHg).\n* Previous treatment with antiandrogens, GnRH analogues, or other systemic treatments for adenocarcinoma of the prostate.\n* Previous local treatment with surgery and/or radiotherapy.\n* Any prior malignancy (except adequately treated basal cell carcinoma or a squamous cell skin carcinoma, superficial bladder carcinoma, or any other in situ carcinoma currently in complete remission) within 5 years of randomization.\n* Known allergies, hypersensitivity or intolerance to the excipients of Apalutamide.\n* Patients who, within 28 days prior to randomisation, have received:\n\n  1. transfusions (red blood cells and/or platelets);\n  2. hematopoietic growth factors;\n  3. major surgery.\n* Symptomatic and/or chronic viral hepatitis; chronic liver disease; moderate or severe liver failure (class B and C according to the Child-Pugh scale); encephalopathy, ascites or thrombo-haemorrhagic disorders secondary to liver failure.\n* Gastrointestinal disorders affecting drug absorption\n* Active infections requiring systemic therapy such as human immunodeficiency virus (HIV);\n* Any condition or situation which, in the judgment of the investigator, precludes participation in this trial.\n\nExclusion criteria for cytoreductive surgery:\n\n* Contraindication for surgery"
+  },
+  {
+    "nct_id": "NCT05529862",
+    "title": "Trans-RosaLEE Study: a Biomarker-directed, Translational Study",
+    "screening_reason": "Explicit non-GAHT indication found: breast cancer",
+    "conditions": [
+      "Advanced or Metastatic Breast Cancer (BC)"
+    ],
+    "interventions": [
+      "Pre-treatment biopsy (GENETIC)",
+      "Post treatment biopsy (GENETIC)",
+      "Pre treatment blood sampling (GENETIC)",
+      "Post treatment blood sampling (GENETIC)"
+    ],
+    "summary": "Hormone receptor (HR)-positive and HER2-negative (HR+/HER2-) metastatic/advanced breast cancer (mBC) is a major public health issue. During the last decades, a therapeutic challenge was to overcome the tumor's resistance to endocrine therapy (ET). Thanks to a better understanding of the molecular mechanisms of this resistance, effective new treatments have been developed, such as Kisqali\u00ae (ribociclib), a molecularly targeted therapy. This treatment blocks the growth and division of cancer cells by blocking proteins called CDK4/6 located inside the cell. This treatment, taken in combination with ET, blocks the harmful effect of hormones (estrogen) on cancer cell proliferation, and represent the standard first-line treatment of patients with HR+/HER2- mBC.\n\nBut, as with any treatment, it is expected that some patients will have a good response and their disease will be stabilized or even in remission, while other patients will not benefit from treatment and will relapse. In order to make progress, it is necessary to identify pre-therapeutic markers predictive of response to this treatment and the molecular mechanisms of this resistance set up by the tumor before or under the effect of the treatment.\n\nThe Trans-RosaLEE study aims to fill this gap by providing high-throughput molecular profiling (DNA and RNA) of a collection of tumor and blood samples from patients with RH+/HER2- mBC scheduled to start treatment with Kisqali\u00ae + ET. Samples will be collected just prior to initiation of therapy (pre-therapy) and just after discontinuation of therapy in the event of disease progression (post-therapy).\n\nThe main objectives of the TransRosaLEE study are :\n\n* to determine if Kisqali\u00ae + ET treatment causes changes in the DNA and/or RNA genes of tumor;\n* to identify whether there is a molecular signature that would predict clinical outcome of patients treated with Kisqali\u00ae + ET (tumor response, survival);\n* to identify alterations in tumor's genes that could be targeted by a specific treatment and that would allow, in case of progression of the disease, to set up a new adapted treatment.\n\nThe TransRosaLEE study is a collaborative study between the Paoli-Calmettes Institute (France, Marseille) and the pharmaceutical group Novartis. It will take place in up to 90 healthcare institutions in France, and 241 patients will be enrolled. It is closely linked to the non-interventional study RosaLEE promoted by Novartis.",
+    "eligibility": "Inclusion Criteria:\n\n1. Patients included in the RosaLEE study.\n2. Patients having read and signed the ICF relative to Trans-RosaLEE.\n3. Tumour material: primary and/or metastatic tumour sample, either available as frozen and collected within 3 months before V0, or newly collected before ribociclib + ET treatment initiation.\n\n   Brain metastases and non-osteolytic bone metastases will be considered as non-collectable/biopsable.\n4. Patient affiliated to the national \"Social Security\" regimen or beneficiary of this regimen.\n\nExclusion Criteria:\n\n1. Not enrolled in RosaLEE.\n2. Brain metastasis and non-osteolytic bone metastases as only metastatic sites, if no available frozen tumour sample already collected within 3 months before V0.\n3. Tumour material not collected before ribociclib + ET initiation.\n4. Person subject to a legal protection measure (adult under guardianship, curatorship or safeguard of justice), or unable to give their consent."
+  },
+  {
+    "nct_id": "NCT04203381",
+    "title": "Skeletal Health and Bone Marrow Composition Among Youth",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Gender Dysphoria in Children",
+      "Puberty",
+      "Bone Development"
+    ],
+    "interventions": [
+      "GnRH Agonist (DEVICE)"
+    ],
+    "summary": "Children and adolescents experiencing gender dysphoria feel increased distress with the onset of puberty. Gender clinics treat these young adolescents by \"blocking\" puberty using gonadotropin-releasing hormone (GnRH) agonist medications. This has the possibility of impacting bone development as sex steroids are important to bone mass development. In this multi-site study, the investigators will examine bone marrow composition (by MRI) in 40 transgender youth and bone density and body composition before/after pubertal blockade compared to healthy participants.",
+    "eligibility": "Inclusion Criteria:\n\n1. Be willing to give informed consent/assent (parent or legal guardian able to provide informed consent)\n2. Tanner Stage II/III\n3. Age 9-14 years old for assigned male at birth (AMAB) and 9-13 for assigned female at birth (AFAB)\n4. Current patient at the Boston Children's Hospital Transgender Clinic or Cincinnati Children's Hospital Medical Center Clinic, within six weeks of initiating pubertal blockade treatment (e.g., GnRH agonist- Lupron or Vantas)\n5. Controls are matched on age within 2 years, race/ethnicity, sex assigned at birth and BMI within 25%\n\nExclusion Criteria:\n\nThe participant must not:\n\n1. Have chronic disease known to affect skeletal metabolism (e.g. cystic fibrosis, celiac disease, sickle cell disease, inflammatory bowel disease etc.)\n2. Receipt of other medications within previous 3 months known to affect skeletal metabolism (e.g., glucocorticoids, anticonvulsants, etc.)\n3. Have metal implants or hardware in their body that would not allow them to get an MRI\n4. Have a diagnosis of a developmental disorder or claustrophobia that would prevent them from undergoing an MRI"
+  },
+  {
+    "nct_id": "NCT03078829",
+    "title": "The Relation of GnRH Treatment to QTc Interval in Transgender Females",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Treatment with a GnRh agonists (DRUG)"
+    ],
+    "summary": "Background: The QT interval of the electrocardiogram (ECG), corrected for heart rate (QTc), is a measure of the duration of ventricular repolarization and is a widely used marker of ventricular arrhythmia risk. Testosterone has a shortening effect on QTc length, and the QTc interval in males is shorter than in females after the onset of puberty. Transgender female adolescents are treated with GnRH agonists or spironolactone that suppress endogenous testosterone secretion and might increase the QT interval sufficiently to increase the risk for malignant ventricular arrhythmias. There are no current guidelines regarding monitoring QTc interval in transgender females undergoing GnRH agonist treatment.\n\nObjective: To assess the effect of GnRH agonist treatment on QTc interval in transfemale youth.\n\nMethods: A quasi-experimental time series study of transgender female adolescent, seen at UCSF Child and Adolescent Gender Center (CAGC) during 2017-2019.\n\nSpecific aims:\n\nTo assess the impact of GnRH agonist treatment on QTc interval length in transgender female adolescent",
+    "eligibility": "Inclusion Criteria:\n\n1. Transgender males to females in pubertal stage Tanner stage 4-5\n2. starting GnRH agonist treatment\n\nExclusion Criteria:\n\n1. Heart disease or arrhythmias at base line\n2. Electrolyte abnormalities at baseline (abnormal serum levels of calcium, potassium or magnesium)\n3. Failure to obtain informed consent from a parent or guarding or informed assent from a youth."
+  },
+  {
+    "nct_id": "NCT00805701",
+    "title": "Study Assessing The Efficacy And Safety Of Avodart (Dutasteride) At Improving Urinary Symptoms In Men With Prostate Cancer Who Are Undergoing Seed Implantation",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "avodart (DRUG)",
+      "Placebo (DRUG)"
+    ],
+    "summary": "Avodart (dutasteride) reduces the male hormone (DHT) that leads to prostate growth and stimulates cancerous growth. Avodart is currently approved by the FDA to treat men with symptoms of an enlarged prostate. Avodart works by reducing DHT and prostate size; therefore, the drug may be useful in improving lower urinary tract symptoms (LUTS) such as frequency, urgency, weak stream, and urination difficulty (dysuria), among others, in men with prostate cancer. Avodart may be effective in men with prostate cancer who are being treated with hormonal therapy with one injection of Zolodex (goserelin) followed one month later with a trans-urethral incision of the prostate (TUIP), and three months after that, seed implantation (SI) of the prostate.\n\nThe purpose of this study is to test whether Avodart (dutasteride) is effective on LUTS and dysuria in men with localized prostate cancer being treated with single-dose goserelin, TUIP, and interval SI.",
+    "eligibility": "Inclusion Criteria:A subject will be eligible for inclusion in this study only if all of the following criteria apply:\n\n1. Must be male \u226535 and \u226490 years of age\n2. Have biopsy proven, localized prostate cancer\n3. Gleason score \u2264 8\n4. Clinical stage T1c-T2b\n5. Serum PSA (prostate specific antigen) \u226410ng/mL within the 12 months period prior to positive prostate biopsy.\n6. Able to swallow and retain oral medication\n7. Able and willing to participate in the full duration of the study\n8. Able to read and write (health outcomes questionnaires are self-administered), understand instructions related to study procedures and give written informed consent.\n\nExclusion Criteria:\n\n1. Subject has ever been treated for prostate cancer with any of the following:\n\n   * Radiotherapy (external beam or brachytherapy)\n   * Chemotherapy\n   * Hormonal therapy (e.g., megestrol, medroxyprogesterone, cyproterone, diethyl-stilbestrol (DES)\n   * Oral glucocorticoids\n   * Gonadotropin Releasing Hormone (GnRH) analogues (e.g., leuprolide, goserelin) other than the single-dose gosereline given as treatment in this study.\n2. Glucocorticoids, except inhaled or topical, are not permitted within 3 months prior to visit one\n3. Current and/or previous use of the following medications:\n\n   * Finasteride (Proscar, Propecia), or Dutasteride (Avodart) exposure within 6 months prior to study entry are excluded.\n   * Any other investigational 5-reductase inhibitors within the past 12 months.\n   * Anabolic steroids (subject must discontinued for 6 months prior to study entry to be eligible)\n   * Drugs with antiandrogenic properties within the past 6 months (e.g,. spironolactone, flutamide, bicalutamide, \\*cimetidine, \\*ketoconazole, progestational agents) \\*The use of cimetidine is permitted prior to study entry. The use of topical ketoconazole is permitted prior to and during the study."
+  },
+  {
+    "nct_id": "NCT03457233",
+    "title": "The Impact of Body Weight on Reproductive Outcomes in Poor Ovarian Responders in ICSI Cycles",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Invitro Fertilization"
+    ],
+    "interventions": [
+      "Gonadotropins (DRUG)",
+      "GNRH antagonist (DRUG)",
+      "Human chorionic gonadotropin Chorimon (DRUG)",
+      "Natural progesterone (DRUG)"
+    ],
+    "summary": "Induction of ovulation cycle:\n\n1. Gonadotrophines is started on day 2 with HMG(merional, IBSA) ,until the day of HCG administration(choriomon,IBSA10000IU) with starting dose 300 to 450iu.\n2. GNRH antagonist (cetrorelix 0,25mg s.c, cetrotide, serono laboratories, Aubonne Switzerland) is given using flexible protocol, it is given when at least one follicle reaches size 14 mm to prevent premature lutenization ,until the day of hCG administration\n3. Ovarian ultrasound scans were performed using a 5.0-9.0 MHZ multi frequency trans vaginal probe (mindrayDP-5)to assess the ovarian response till the mature follicles reach18-20mm when hCG administration 10000 IU is given.Serum E2 level is done on day of HCG trigger.\n4. Trans vaginal ultrasound-guided oocyte retrieval is performed 34-36 hours after hCG injection\n5. Progesterone vaginal tablets (Prontogest,IBSA) are administrated 400mg twice daily as luteal support from the day of oocytes retrieval.\n6. Ultrasound -guided fresh embryo transfer is performed on day 2 or 3 after fertilization.\n7. Serum hCG assessment to detect pregnancy is performed at 14 days after embryo transfer .if positive(chemical pregnancy) ,women undergo trans -vaginal ultrasonography 2 weeks after, to confirm fetal pulsations as well as number of gestational sacs (clinical pregnancy).\n8. The implantation rate is calculated as the number of viable embryos divided by the number of transferred embryos multiplied by 100",
+    "eligibility": "Inclusion Criteria:\n\n* 4- Poor responder according to ESHRE consensus; in which at least 2 of the following should be present: Advanced maternal age (\u2265 40 years old) or any other risk factor A previous poor ovarian response (cycles cancelled or \u2264 3 oocytes with a conventional protocol)An abnormal ovarian reserve test (ORT); antral follicle count (AFC) \\< 5-7 follicles or anti-mullerian hormone (AMH) \u22640.5- 1.1 ng/ml In the absence of advanced maternal age or abnormal ORT, two previous episodes of poor ovarian response after maximal stimulation patients are also considered poor responders according to ESHRE consensus.\n\nPresence and Adequate visualization of both ovaries Uterine cavity within normal anatomy assessed with HSG, hysteroscopy and TVUS\n\nExclusion Criteria:\n\nAny factor which may affect reproductive outcome other than that the patient is a poor responder will be excluded from the study, like:\n\n1. Severe male factor .\n2. Uterine factor (eg: fibroid, polyp, Ashermann, .. etc)\n3. Immunological disorder (eg: SLE, APS, \u2026 etc)\n4. Thyroid or adrenal dysfunction\n5. Neoplasia (especially: hypothalamic, pit, ovarian)\n6. Women diagnosed with PCOS according to Rotterdam criteria\n7. Hydrosalpinx that hasn't been surgically removed or ligated.\n8. Untreated hyperprolactinemia\n9. Abnormal bleeding disorder\n10. Hepatic or renal dysfunction\n11. Hypersenstivity to study medication ( GNRH antagonist)\n12. Need to take medication that can influence ovarian stimulation\n13. Endometriosis grade 3 or 4\n14. Ovarian cyst\\> 10 cm."
+  },
+  {
+    "nct_id": "NCT02381821",
+    "title": "Endometrial Volume and Sub-endometrial Vascularity as Predictors of In-vitro Fertilization Success",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Reproductive Techniques, Assisted"
+    ],
+    "interventions": [
+      "3 D ultrasound and Doppler examination (OTHER)",
+      "GnRH agonist (DRUG)"
+    ],
+    "summary": "100 patients aged 21-40 years old, diagnosed as primary or secondary infertility These patients are then assigned to receive ICSI treatment (ovulation induction, . They undergo a 3D vaginal ultrasound before treatment to measure the junctional zone thickness and followed up after treatment to determine the rate of implantation.\n\nIntervention(s) All patients will undergo 3D ultrasound to measure the thickness of the junctional zone at day 21 of the cycle.",
+    "eligibility": "Inclusion Criteria:\n\n* A normal transvaginal ultrasound is defined as having no visible intracavitary pathology (e.g. submucous myomas, polyps or septa) and was be performed in the follicular phase of the menstrual cycle. Intramural myomas without impression or deformation of the uterine cavity were incorporated in the definition of a normal ultrasound\n\nExclusion Criteria:\n\n* Exclusion criteria included Females aged above 40 years old , patients with endometriosis, abnormal endocrine functions as Diabetes mellitus, thyroid disorders and adrenal abnormalities ,general diseases, those with ovarian cysts or have azospermic partners"
+  },
+  {
+    "nct_id": "NCT06230770",
+    "title": "Impact of Progestin-only Contraception on Bleeding Patterns in Individuals Initiating GATT",
+    "screening_reason": "Explicit non-GAHT indication found: contraception",
+    "conditions": [
+      "Gender",
+      "Contraception"
+    ],
+    "interventions": [
+      "Bleeding data (BEHAVIORAL)"
+    ],
+    "summary": "Gender diverse individuals who use gender-affirming testosterone therapy (GATT) to reduce gender dysphoria may also use progestins for contraception and to manage or suppress uterine bleeding. Research is limited, however, regarding expected bleeding patterns for individuals who choose to initiate GATT concurrently with a progestin. Clinicians who prescribe GATT do not have sufficient data to adequately counsel patients on side effects of concurrent progestin use and therefore extrapolate from studies conducted in cisgender women. This study is a prospective cohort study evaluating bleeding patterns and satisfaction among patients initiating GATT with or without concurrent initiation of a progestin contraceptive. The results from this study will enable clinicians to more accurately counsel patients using GATT on how the use of a progestin might affect their bleeding and whether this differs by progestin method.",
+    "eligibility": "Inclusion Criteria:\n\n* English-speaking currently have a uterus and ovaries\n* desire to initiate GATT\n* potential desire to initiate a progestin (within 14 days of GATT initiation)\n\nExclusion Criteria:\n\n* previous gender-affirming surgery to remove their uterus and/or ovaries"
+  },
+  {
+    "nct_id": "NCT05877235",
+    "title": "Serum Concentration of Endogenous Estrogens and Sirtuin-1 After Administration of Atorvastatin and Quercetin:",
+    "screening_reason": "Explicit non-GAHT indication found: menopause",
+    "conditions": [
+      "Coronary Artery Disease",
+      "Menopause"
+    ],
+    "interventions": [
+      "Quercetin (DIETARY_SUPPLEMENT)",
+      "Placebo (DIETARY_SUPPLEMENT)"
+    ],
+    "summary": "Chronic coronary syndrome (CCS) is the leading cause of death in women in the most developed regions of Brazil. The primary etiopathogenic mechanism is the process of atherosclerosis. A healthy diet rich in fruits and vegetables is associated with a lower incidence of CCS. The higher consumption of these foods promotes greater availability of phenolic compounds, and the higher intake of these compounds is one of the main hypotheses for vascular health. Quercetin, a phenolic compound, is the most abundant natural antioxidant belonging to the group of flavonoids. Quercetin improves lipoprotein metabolism, has an antioxidant capacity, produces vasodilating substances in the vascular endothelium, and reduces platelet aggregability. Likewise, statins are medications known to reduce cardiovascular events in women with CCS by reducing serum LDL-cholesterol levels and, to a lesser extent, by possible pleiotropic effects. In turn, SIRT1 is one of the 7 classes of proteins. It mediates various metabolic pathways in response to nutritional stimuli, particularly for caloric restriction and phenolic compounds, as well as coordinating the production and secretion of important hormones. However, the impact of quercetin supplementation and statin administration on serum endogenous estrogen levels is unknown",
+    "eligibility": "Inclusion Criteria:\n\n* Postmenopausal women;\n* Diagnosed coronary artery disease;\n* Stable coronary disease;\n\nExclusion Criteria:\n\n* hypo or hyperthyroidism,\n* rheumatic disease,\n* use of alcohol,\n* hepatic failure,\n* renal failure\n* hormone replacement therapy\n* use of insulin"
+  },
+  {
+    "nct_id": "NCT04336891",
+    "title": "Effect of Testosterone Treatment on Clitoral Arteries' Hemodynamic Parameters.",
+    "screening_reason": "Explicit non-GAHT indication found: menopause",
+    "conditions": [
+      "Hypoactive Sexual Desire Disorder",
+      "Vulvovaginal Disease",
+      "Menopause Related Conditions",
+      "Dyspareunia (Female Excluding Psychogenic)",
+      "Hypoestrogenism",
+      "Arousal Disorders, Sexual"
+    ],
+    "interventions": [
+      "Testosterone gel (DRUG)",
+      "Estradiol ovules (DRUG)",
+      "Moisturizer (DRUG)",
+      "Testosterone gel + Estradiol ovules (DRUG)"
+    ],
+    "summary": "The regulation of clitoral vascularization by sex steroids is still under-investigated. We aimed to explore the effects of 6 months transdermal Testosterone (T) therapy on clitoral color Doppler ultrasound (CDU) parameters in pre- and postmenopausal women with female sexual dysfunction (FSD). In order to do that, we retrospectively recruited n=81 women with FSD, divided into 4 groups according to different treatments followed as per clinical practice, for 6 months: transdermal systemic 2% T gel; local estradiol ovules; local non-hormonal moisturizers; transdermal T plus local estrogens.\n\nOur main hypothesis is that systemic T treatment is able to positively modulate clitoral blood flow in basal conditions, specifically to increase clitoral artery Peak systolic velocity (PSV).",
+    "eligibility": "Inclusion Criteria:\n\n* being heterosexual.\n\nExclusion Criteria:\n\n* history of drug or alcohol abuse\n* a diagnosis of uncontrolled or unstable mental or organic disease."
+  },
+  {
+    "nct_id": "NCT07005648",
+    "title": "Brazilian Registry of Menopausal Health",
+    "screening_reason": "Explicit non-GAHT indication found: menopause",
+    "conditions": [
+      "Menopause"
+    ],
+    "interventions": [],
+    "summary": "The Brazilian Registry of Menopausal Health is a national study aimed to better understand the health and quality of life of participants aged 35 to 65 who are in the menopausal transition or postmenopausal phase, including cisgender women and transgender men.\n\nThe study's hypothesis is that significant regional and socioeconomic disparities influence individuals' health, knowledge, and perception of menopause.",
+    "eligibility": "Inclusion Criteria:\n\n1. Women aged between 35 and 65 years attending medical consultation at public and private outpatient health services;\n2. Ability to confirm voluntary participation and sign the Informed Consent Form\n\nExclusion Criteria:\n\n1. Inability to respond to the interview for any reason\n2. Suspected or confirmed pregnancy\n3. Lactation\n4. Uncontrolled diabetes\n5. Uncontrolled arterial hypertension\n6. Uncontrolled thyroid disorders\n7. Grade 3 obesity, defined by a BMI equal to or greater than 40.0 kg/m\u00b2\n8. Diagnosis of psychiatric disorders that may compromise participation in the interview\n9. Previous hysterectomy\n10. Previous oophorectomy\n11. Current use of illicit drugs"
+  },
+  {
+    "nct_id": "NCT03878524",
+    "title": "Serial Measurements of Molecular and Architectural Responses to Therapy (SMMART) PRIME Trial",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Accelerated Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Anatomic Stage IV Breast Cancer AJCC v8",
+      "Anemia",
+      "Ann Arbor Stage III Hodgkin Lymphoma",
+      "Ann Arbor Stage III Non-Hodgkin Lymphoma",
+      "Ann Arbor Stage IV Hodgkin Lymphoma",
+      "Ann Arbor Stage IV Non-Hodgkin Lymphoma",
+      "Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative",
+      "Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Castration-Resistant Prostate Carcinoma",
+      "Chronic Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Hematopoietic and Lymphoid System Neoplasm",
+      "Locally Advanced Pancreatic Adenocarcinoma",
+      "Metastatic Breast Carcinoma",
+      "Metastatic Malignant Solid Neoplasm",
+      "Metastatic Pancreatic Adenocarcinoma",
+      "Myelodysplastic/Myeloproliferative Neoplasm With Ring Sideroblasts and Thrombocytosis",
+      "Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable",
+      "Primary Myelofibrosis",
+      "Recurrent Acute Lymphoblastic Leukemia",
+      "Recurrent Acute Myeloid Leukemia",
+      "Recurrent Chronic Lymphocytic Leukemia",
+      "Recurrent Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Recurrent Hematologic Malignancy",
+      "Recurrent Hodgkin Lymphoma",
+      "Recurrent Myelodysplastic Syndrome",
+      "Recurrent Myelodysplastic/Myeloproliferative Neoplasm",
+      "Recurrent Myeloproliferative Neoplasm",
+      "Recurrent Non-Hodgkin Lymphoma",
+      "Recurrent Plasma Cell Myeloma",
+      "Recurrent Small Lymphocytic Lymphoma",
+      "Refractory Acute Lymphoblastic Leukemia",
+      "Refractory Acute Myeloid Leukemia",
+      "Refractory Chronic Lymphocytic Leukemia",
+      "Refractory Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Refractory Chronic Myelomonocytic Leukemia",
+      "Refractory Hematologic Malignancy",
+      "Refractory Hodgkin Lymphoma",
+      "Refractory Malignant Solid Neoplasm",
+      "Refractory Myelodysplastic Syndrome",
+      "Refractory Myelodysplastic/Myeloproliferative Neoplasm",
+      "Refractory Non-Hodgkin Lymphoma",
+      "Refractory Plasma Cell Myeloma",
+      "Refractory Primary Myelofibrosis",
+      "Refractory Small Lymphocytic Lymphoma",
+      "Stage II Pancreatic Cancer AJCC v8",
+      "Stage III Pancreatic Cancer AJCC v8",
+      "Stage IV Pancreatic Cancer AJCC v8",
+      "Stage IV Prostate Cancer AJCC v8",
+      "Unresectable Pancreatic Adenocarcinoma"
+    ],
+    "interventions": [
+      "Abemaciclib (DRUG)",
+      "Abiraterone (DRUG)",
+      "Afatinib (DRUG)",
+      "Bevacizumab (BIOLOGICAL)",
+      "Bicalutamide (DRUG)",
+      "Biospecimen Collection (PROCEDURE)",
+      "Bortezomib (DRUG)",
+      "Cabazitaxel (DRUG)",
+      "Cabozantinib (DRUG)",
+      "Capecitabine (DRUG)",
+      "Carboplatin (DRUG)",
+      "Celecoxib (DRUG)",
+      "Cobimetinib (DRUG)",
+      "Copanlisib (DRUG)",
+      "Dabrafenib (DRUG)",
+      "Dacomitinib (DRUG)",
+      "Darolutamide (DRUG)",
+      "Dasatinib (DRUG)",
+      "Doxorubicin (DRUG)",
+      "Durvalumab (BIOLOGICAL)",
+      "Enasidenib (DRUG)",
+      "Entrectinib (DRUG)",
+      "Enzalutamide (DRUG)",
+      "Erlotinib (DRUG)",
+      "Everolimus (DRUG)",
+      "Fluorouracil (DRUG)",
+      "Idelalisib (DRUG)",
+      "Imatinib (DRUG)",
+      "Ipilimumab (BIOLOGICAL)",
+      "Lenvatinib (DRUG)",
+      "Leucovorin (DRUG)",
+      "Lorlatinib (DRUG)",
+      "Losartan (DRUG)",
+      "Nab-paclitaxel (DRUG)",
+      "Neratinib (DRUG)",
+      "Nivolumab (BIOLOGICAL)",
+      "Olaparib (DRUG)",
+      "Oxaliplatin (DRUG)",
+      "Palbociclib (DRUG)",
+      "Panobinostat (DRUG)",
+      "Pembrolizumab (BIOLOGICAL)",
+      "Pertuzumab (BIOLOGICAL)",
+      "Ponatinib (DRUG)",
+      "Quality-of-Life Assessment (OTHER)",
+      "Regorafenib (DRUG)",
+      "Ruxolitinib (DRUG)",
+      "Sirolimus (DRUG)",
+      "Sorafenib (DRUG)",
+      "Sunitinib (DRUG)",
+      "Trametinib (DRUG)",
+      "Trastuzumab Emtansine (BIOLOGICAL)",
+      "Tretinoin (DRUG)",
+      "Vemurafenib (DRUG)",
+      "Venetoclax (DRUG)",
+      "Vismodegib (DRUG)",
+      "Vorinostat (DRUG)"
+    ],
+    "summary": "This phase Ib trial determines if samples from a patient's cancer can be tested to find combinations of drugs that provide clinical benefit for the kind of cancer the patient has. This study is also being done to understand why cancer drugs can stop working and how different cancers in different people respond to different types of therapy.",
+    "eligibility": "Key Inclusion Criteria:\n\n* Ability to understand and the willingness to sign a written informed consent document\n* Participants \\>= 21 years old at time of informed consent. Both men and women and members of all races and ethnic groups will be included\n* Participants, both men and women, must agree to use an adequate method of contraception prior to study entry, for the duration of study participation, and for 4 months after completion of study\n* Women of childbearing potential must have a negative serum or urine pregnancy test within 14 days prior to start of study drug administration\n* Patients must have a histologically or cytologically-confirmed metastatic solid tumor or hematological malignancy that has progressed as follows:\n\n  * Patients with a solid tumor must have metastatic disease and have progressed on at least 1 line of established therapy that is known to provide clinical benefit, or for whom no standard curative therapy exists. Participants with newly diagnosed, unresectable, locally-advanced or metastatic pancreatic adenocarcinoma and are beginning first-line treatment with a course of chemotherapy are eligible OR\n  * Participants must have a hematological malignancy that is advanced, relapsed, or refractory to at least 1 line of established therapy that is known to provide clinical for the treatment of their disease. Hematological disease included in this study are as follows:\n\n    * Acute myelogenous leukemia (AML), or\n    * Myelodysplastic syndrome (MDS), or\n    * MDS/myeloproliferative neoplasms (MDS/MPN), or\n    * Primary myelofibrosis (PMF)\n    * Acute lymphoblastic leukemia (ALL)\n    * Chronic myelogenous leukemia (CML)\n    * Non-Hodgkin lymphoma (NHL) or Hodgkin's disease (HD)\n    * Chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL)\n    * Multiple myeloma (MM)\n* Participants with a metastatic solid tumor or advanced hematological malignancy whom, due to medical issues cannot receive standard therapy shown to prolong survival, will be eligible, if other eligibility criteria are met\n\n  * Patients with a metastatic solid tumor or advanced hematological malignancy that actively refuse chemotherapy that is considered standard treatment for their cancer, despite being informed by the investigator about the treatment options, are eligible for this study on a case-by-case basis (in consultation with the principal investigator \\[PI\\]). Potential participants actively refusing chemotherapy must have had progression or refractory disease prior to starting study treatment, and their refusal must be documented\n* Participants must have measurable disease:\n\n  * Patients with solid tumors must have measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1. At least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded for non-nodal lesions and short axis for nodal lesions) as \\>= 20 mm with conventional techniques or as \\>= 10 mm with spiral computed tomography (CT) scan, per RECIST (v1.1)\n  * Note: Participants with lesions on a bone scan that are considered distinctly metastatic will also be included\n  * Patients with lymphoma must have at least one non-irradiated tumor mass \\> 15 mm (long axis of lymph node) or \\> 10 mm (short axis of lymph node or extranodal lesions) on spiral CT-scan\n  * Patients with CLL must have presence of radiographically measurable lymphadenopathy (defined as the presence of \\>= 1 nodal lesion that measures \\>= 2.0 cm in the longest diameter \\[LD\\] and \\>= 1.0 cm in the longest perpendicular diameter \\[LPD\\] as assessed by CT or magnetic resonance imaging \\[MRI\\])\n  * Patients with MM must have at least one of the following: serum monoclonal component \\> 1 g/dL (IgG), or \\> 0.5 g/dL (IgA), or Bence-Jones (BJ) proteinuria \\> 200 mg/24 hour, or measurable plasmacytoma (not previously irradiated)\n* Participants with a hematological malignancy must have their bone marrow biopsy and aspirate reviewed at Oregon Health \\& Science University (OHSU)\n* Participants with a solid tumor must have lesions meeting the above criteria also and must be amenable to biopsy procedures performed per institutional standards\n* Participants must not currently be receiving any other investigational agents\n* Participants must have Eastern Cooperative Oncology Group (ECOG) performance status =\\< 2 and a physician assessed life expectancy of \\>= 6 months\n* Absolute neutrophil count (ANC) \\>= 1,500/mcL (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n\n  * Waived for those with hematological malignancy; and may be waived on a case-by-case basis for patient populations recognized to have normal baseline values below this level\n* Platelets \\>= 100,000/mcL (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n\n  * Waived for those with hematological malignancy\n* Hemoglobin \\>= 9 g/dL or \\>= 5.6 mmol/L (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n\n  * Waived for those with hematological malignancy\n* Creatinine =\\< 1.5 x upper limit of normal (ULN) OR measured or calculated creatinine clearance (glomerular filtration rate \\[GFR\\] can also be used in place of creatinine or creatinine clearance \\[CrCl\\]) \\>= 60 mL/min/1.73 m\\^2 for participants with creatinine levels \\> 1 x institutional ULN (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n\n  * Waived for those with hematological malignancy; and may be waived on a case-by-case basis for patient populations recognized to have normal baseline values below this level\n* Total bilirubin =\\< 1.5 x ULN OR direct bilirubin =\\< ULN for participants with total bilirubin levels \\> 1.5 x ULN (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n\n  * Creatinine clearance should be calculated per institutional standard. For participants with a baseline calculated creatinine clearance below normal institutional laboratory values, a measured baseline creatinine clearance should be determined. Individuals with higher values felt to be consistent with inborn errors of metabolism will be considered on a case-by-case basis\n* Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase \\[SGOT\\]) and alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase \\[SGPT\\]) =\\< 3 x ULN (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n* International normalized ratio (INR) or prothrombin time (PT) =\\< 1.5 x ULN unless participant is receiving anticoagulant therapy as long as PT or partial thromboplastin time (PTT) is within therapeutic range of intended use of anticoagulants (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n* Activated partial thromboplastin time (aPTT) or PTT =\\< 1.5 x ULN unless participant is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n* Body mass index (BMI) \\> \\> 16.0 and \\< 35.0 kg/m\\^2 (at time of registration and within 4 weeks prior to initiating on-protocol treatment)\n\n  * Participants with a BMI of \\>= 30.0 will use ideal body weight indices in calculating the delivery of agents that are dosed based upon body surface area (i.e., mg agent/meter squared) or weight (i.e., mg agent/kg body weight)\n* Any prior therapy, radiotherapy (except palliative radiation therapy of 30 Gy or less), or major surgery must have been completed \\>= 4 weeks prior to start of study treatment. All adverse events due to prior therapy must have resolved to a grade 1 or better (except alopecia and lymphopenia for all disease cohorts, and hematologic toxicity for those with a hematological malignancy) by start of treatment. Palliative radiation therapy must have been completed at least 2 weeks prior to start of treatment. The radiotherapy must not be to a lesion that is included as measurable disease\n* Additional cancer-specific inclusion criteria must also be met\n\nKey Exclusion Criteria:\n\n* Participants with metastases to the central nervous system that are considered uncontrolled and/or were diagnosed within the past 4 weeks of screening for this study\n* Participants cannot have an active malignancy of another cancer. Those with a history of prior malignancy will be considered on a case-by-case basis. Guiding examples for those who can be enrolled include: individuals who have been disease free for \\> 5 years; individuals who are considered to have a high likelihood of being cured (e.g., prior history of stage 1 rectal cancer and currently otherwise disease free); adequately treated localized non-melanomatous skin cancer\n* Participants cannot be on other forms of anti-cancer therapy at the same time, except as described within this protocol. There must be at least a washout period that accounts for 5 half-lives (or \\>= 21 days, whichever is longer) of last therapy\n\n  * Participants with prostate cancer (PCa) will continue treatment with androgen deprivation therapy, either by prior castration or treatment with luteinizing hormone-releasing hormone (LHRH) antagonists or agonists, as is standard practice\n  * Participants with breast cancer (BCa) who are HER2 positive may continue to receive anti-HER2 therapy per standard practice guidelines, while participants who are hormone receptor positive may continue to receive hormone therapy per standard practice guidelines\n  * Participants with a hematological malignancy may continue to receive hydroxyurea or other hypomethylating agent for two cycles of SMMART-PRIME therapy, as described in this protocol\n* Uncontrolled intercurrent illness including, but not limited to, symptomatic congestive heart failure, unstable angina pectoris, serious cardiac arrhythmia, myocardial infarction within 6 months prior to enrollment, New York Heart Association (NYHA) class III or IV heart failure\n* Chronic graft versus host disease (GVHD) or on immunosuppressive therapy for the control of GVHD\n* Participants with uncontrolled infection will not be enrolled until infection is treated\n* Participant is seropositive with human immunodeficiency virus (HIV) or has active infection with hepatitis B virus (HBV) or hepatitis C virus (HCV)\n\n  * HIV-infected patients on effective anti-retroviral therapy with undetectable viral load within 6 months are eligible for this trial\n  * For patients with evidence of chronic HBV infection, the HBV viral load must be undetectable on suppressive therapy, if indicated\n  * Individuals with a history of HCV infection must have been treated and cured. For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load\n* Participants with medical conditions, inclusive of psychiatric, that in the opinion of the investigators would jeopardize the patient or the study will be excluded\n* Participants that are pregnant or breast feeding\n* ON-TREATMENT: Individuals that have medical and/or psychiatric conditions that in the opinion of investigators would jeopardize participant safety or study integrity if they were to receive on-study treatment will not proceed further treatment and will be removed from study\n* ON-TREATMENT: If performance status is ECOG \\> 2\n* ON-TREATMENT: History of allergic reaction to a recommended study agent or its excipients\n* Additional cancer-specific exclusion criteria requirements"
+  },
+  {
+    "nct_id": "NCT04414761",
+    "title": "Live Birth Rate Between PPOS and GnRH Antagonist Protocol in Patients With Anticipated High Ovarian Response",
+    "screening_reason": "Explicit non-GAHT indication found: ivf",
+    "conditions": [
+      "IVF",
+      "GnRH Antagonist",
+      "PPOS"
+    ],
+    "interventions": [
+      "Progesterone (DRUG)",
+      "GnRH Antagonist (DRUG)"
+    ],
+    "summary": "Progestin can inhibit the pituitary LH surge during ovarian stimulation and various studies show progestin-primed ovarian stimulation (PPOS) is effective in blocking the LH surge in IVF. More and more centers in China are using PPOS because this regimen appears simpler and cheaper.A randomized trial to compare the effectiveness of PPOS and GnRH antagonist protocol in IVF in terms of the live birth rate is urgently needed.\n\nTrial objectives: To compare the live birth rate between the PPOS protocol and the antagonist protocol used for ovarian stimulation during IVF\n\nEligible women will be randomised into one of the two groups:\n\nAntagonist group : Women will receive antagonist (Cetrorelix or Ganirelix 0.25mg) once subcutaneously daily from day 6 of ovarian stimulation till the day of the ovulation trigger.\n\nPPOS group: Women will receive oral medroxyprogesterone 10 mg daily or duphaston 10mg bd daily from Day 3 till the day of ovulation trigger.\n\nThere will be no fresh transfer. Only one blastocyst will be allowed to replaced in the first FET and a maximum of two blastocysts will be replaced in the subsequent FET cycles.\n\nThe primary outcome is the live birth rate of the first frozen-thawed transfer cycle.",
+    "eligibility": "Inclusion Criteria:\n\n* Age of women \\<43 years at the time of ovarian stimulation for IVF\n* The first IVF cycle\n* Antral follicle count (AFC) \\>15 on day 2-5 of the period\n\nExclusion Criteria:\n\n* Presence of a functional ovarian cyst with E2\\>100 pg/mL\n* Recipient of oocyte donation\n* Undergoing preimplantation genetic testing\n* Presence of hydrosalpinx or endometrial polyp which is not surgically treated"
+  },
+  {
+    "nct_id": "NCT03784404",
+    "title": "Trans-vaginal Aspiration of Small Ovarian Endometrioma. Comparison of Two Different Techniques Before ICSI",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Ovarian Endometrioma"
+    ],
+    "interventions": [
+      "Transvaginal aspiration (PROCEDURE)",
+      "transvaginal aspiration and surgicel injection (PROCEDURE)",
+      "Intracytoplasmic sperm injection (DRUG)"
+    ],
+    "summary": "women candidate for ICSI and having ovarian endometrioma smaller than 5 cm will be randomized to either transvaginal aspiration alone or transvaginal aspiration follwed by injection of small parts of oxidized regenerated cellulose within the cyst cavity during the cycle that preceded the induction cycle of ICSI",
+    "eligibility": "Inclusion Criteria:\n\n* Subfertile women indicated for ICSI\n* having a single endometrioma of less than 5 cm with typical sonographic criteria; a cyst with 1 to 4 locules and ground glass appearance of the cyst fluid with no papillary projections and no or minimal vascularization of the cyst capsule. Since endometriotic cysts measuringmore than 1 cm are readily diagnosed by ultrasound,25 we chose a diameter of 2 cm as the lower limit to declare a cyst as endometrioma.\n* All cases had a normal uterine cavity demonstrated by ultrasonography and hysteroscopy.\n\nExclusion Criteria:\n\n* bilateral or multiple endometriomas, lesions of more than 5 cm or showing atypical sonographic features presence of uterine pathology (eg, polyp or fibroid)\n* follicle-stimulating hormone (FSH) of more than 10,\n* body mass index of more than 30, age more than 40 years,\n* cases who received previous GnRH therapy for treatment of endometriosis within 12 months of the study\n* patients who received oral contraceptive pills or any form of hormones for the previous 3 months,\n* patients with previous surgical resection of endometrioma\n* severe male factor."
+  },
+  {
+    "nct_id": "NCT07145827",
+    "title": "Effect of Metformin on Endometrial Thickness in Postmenopausal Breast Cancer Patients Receiving Tamoxifen",
+    "screening_reason": "Explicit non-GAHT indication found: breast cancer",
+    "conditions": [
+      "Breast Cancer",
+      "Endometrial Hyperplasia and Endometrial Cancers"
+    ],
+    "interventions": [
+      "Metfomin (DRUG)",
+      "tamoxifen (DRUG)",
+      "Placebo matching Metformin (DRUG)"
+    ],
+    "summary": "The goal of this clinical trial is to learn if metformin can reduce the increase in endometrial thickness caused by tamoxifen in women with estrogen-positive breast cancer taking tamoxifen for more than 1 year. It will also learn about the safety of taking metformin with tamoxifen. The main questions it aims to answer are:\n\n1. Does metformin decrease endometrial thickness in women receiving tamoxifen?\n2. What medical problems do participants have when taking metformin with tamoxifen?\n\nResearchers will compare tamoxifen plus metformin to tamoxifen plus placebo to see if metformin works to reduce endometrial thickness compared to placebo patients.\n\nParticipants will:\n\n1. Take metformin daily along with tamoxifen, or take tamoxifen with placebo.\n2. Acquire baseline assessment and then visit the clinic at 3 months, 6 months, 9 months and 12 months for checkups and trans abdominal ultrasound test for endometrial thickness, and to be monitored for any side effects or complications.",
+    "eligibility": "Inclusion Criteria:\n\n* Postmenopausal Female patients (amenorrhea \u2265 12 months).\n* Histologically proven (Estrogen-positive) breast cancer.\n* Completed all required surgery and/or chemotherapy (if indicated)\n* On adjuvant tamoxifen for at least 1 year.\n* Accepts to enroll in the study\n\nExclusion Criteria:\n\n* Refusing to enroll in the study\n* Ongoing or History of: endometrial or ovarian malignancy\n* Concurrent hormonal therapy that might affect endometrial thickness\n* Concurrent Diabetes mellitus in which metformin is prescribed.\n* Known hypersensitivity or severe intolerance to metformin"
+  },
+  {
+    "nct_id": "NCT00884273",
+    "title": "Investigation of the Effect of Degarelix in Terms of Prostate Volume Reduction in Prostate Cancer Patients",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "Degarelix (DRUG)",
+      "Goserelin (DRUG)",
+      "Bicalutamide (DRUG)"
+    ],
+    "summary": "This was a Phase 3b clinical study in prostate cancer patients which aimed to compare the current standard therapy of a gonadotrophin releasing hormone (GnRH) agonist, goserelin (3.6 mg; plus anti-androgen flare protection, bicalutamide), to a novel GnRH antagonist, degarelix (240 mg starting dose/80 mg maintenance dose) with respect to mean percentage reduction in prostate volume.\n\nThe hypothesis was that degarelix could decrease prostate size at least as effectively as the combination of a GnRH agonist with an anti-androgen for flare protection.",
+    "eligibility": "Inclusion Criteria:\n\n1. Patient has given written informed consent\n2. Patient is 18 years or older\n3. Patient has histologically confirmed prostate cancer\n4. Patient has a serum prostate-specific antigen (PSA) level at screening \\>2 ng/mL\n5. The prostate size is \\>30 cubic centimetres (cc), measured by TRUS\n6. Patient has had a bone-scan within 12 weeks before inclusion\n7. Patient must be able to undergo transrectal examinations\n8. Patient has an estimated life expectancy of at least 12 months\n\nExclusion Criteria:\n\n1. Any previous treatments for prostate cancer\n2. Previous trans-urethral resection of the prostate (TURP)\n3. Is not considered a candidate for medical castration\n4. Use of urethral catheter\n5. Is currently treated with a 5-alpha reductase inhibitor\n6. Is currently treated with an alpha-adrenoceptor antagonist\n7. Treatment with botulinum toxin A (Botox)\n8. Require radiotherapy during the trial\n9. History of severe untreated asthma, anaphylactic reactions, or severe urticaria and/or angioedema\n10. Hypersensitivity towards any component of the investigational products or excipients\n11. Previous history or presence of another malignancy\n12. A clinically significant disorder\n13. A corrected QT interval over 450 msec\n14. Mental incapacity or language barrier precluding adequate understanding or co-operation\n15. Receipt of an investigational drug within the last 28 days proceeding screening\n16. Previous participation in any degarelix trial"
+  },
+  {
+    "nct_id": "NCT03683043",
+    "title": "Comparative Study Between ICSI Results in Transvaginal Ultrasound Guided Embryo Transfer and Transabdominal Ultrasound Guided Embryo Transfer",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Invitro Fertilization"
+    ],
+    "interventions": [
+      "Long GnRH agonist protocol (DRUG)",
+      "Embryo transfer (PROCEDURE)"
+    ],
+    "summary": "This prospective study will be conducted on 120 patients candidates for ICSI cycle and following the long protocol for controlled ovarian stimulation; the patients were randomly allocated in a 1:1 ratio to either group A; where the embryo transfer was assisted by transabdominal ultrasound and group B; where the embryo transfer was assisted by Transvaginal ultrasound. The study nurse opened the sealed envelopes according to sequence of attendance of patients to allocate patients to the assigned group. Both the patient and the operator were blind to the assigned group.\n\nAll the transfers were done on day 3 after OPU for at least 2 grade I embryos using the Edwards-Wallace embryo replacement catheter using the same ultrasound device. Quantitative serum hCG test was done for all patients 14 days after the transfer.",
+    "eligibility": "Inclusion Criteria:\n\n* Infertile female patients aged 20-37 years old undergoing IVF\n* Long protocol\n* Embryo transfer of fresh cycles D3\n\nExclusion Criteria:\n\n* Uterine abnormalities e.g. sub-mucous fibroid, or fibroids indenting the endometrium, polyps, Ashermann, etc.\n* Poor responders\n* Female patients \u02c335 years old\n* Medical disorders e.g. DM, HTN\n* Immunological disorders e.g. SLE, APS\n* Cervical distortions\n* Thyroid or adrenal dysfunction\n* Endometriosis grade 3 or 4"
+  },
+  {
+    "nct_id": "NCT03725280",
+    "title": "Micro RNA Profile in the Ovarian Follicle Fluid of Transgender Men",
+    "screening_reason": "Explicit non-GAHT indication found: ivf",
+    "conditions": [
+      "IVF",
+      "Fertility Preservation",
+      "Infertility"
+    ],
+    "interventions": [
+      "IVF (PROCEDURE)"
+    ],
+    "summary": "The effects of gender transitioning, particularly the effects of testosterone exposure in transgender men, on the oocyte and embryo development are largely unknown. Based on prior studies suggesting that the extracellular RNAs secreted by the ovarian follicle cells reflect the oocyte and embryo biological state, the investigators propose to use these extracellular RNAs to gain insights into the effects of testosterone exposure in transgender men on their oocyte and embryo without impacting the clinical IVF process.",
+    "eligibility": "Inclusion Criteria:\n\n\\* Patients aged 18 and older.\n\nExclusion Criteria:\n\n* Patients under 18 years old.\n* Patients who did not respond to hormone therapy and the IVF cycle was discontinued."
+  },
+  {
+    "nct_id": "NCT06496581",
+    "title": "Standard of Care +/- 177Lu-PSMA-617 In de Novo mHSPC Patients With Poor PSA Response (PEACE6-Poor Responders)",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Prostate Cancer Metastatic"
+    ],
+    "interventions": [
+      "177Lu-PMSA-617 (DRUG)",
+      "Standard of Care (DRUG)"
+    ],
+    "summary": "PEACE-6 Poor Responders is an international, multicenter, open-label, controlled, randomized, phase III trial to evaluate the efficacy and safety of 177Lu-PSMA-617 when administered on top of the ongoing standard systemic treatment compared to standard systemic treatment alone in patients with de novo metastatic hormone-sensitive prostate cancer (mHSPC) who do not present with a satisfactory response characterized by a serum prostatic specific antigen (PSA) level of \u2265 0.2 ng/mL at 6 to 8 months after systemic treatment initiation for mHSPC (i.e. poor responders) in the absence of evidence of cancer progression (including a rising PSA level).",
+    "eligibility": "Inclusion Criteria:\n\nAll of the following criteria must be met ahead of randomization to satisfy trial eligibility requirements:\n\n1. Signed a written informed consent form prior to any trial specific procedures.\n\n   Note: In case of physical incapacitation, a trusted representative of their choice, which is not the Investigator or sponsor, can sign on the behalf of the patients.\n2. Aged \u226518 years old\n3. Life expectancy \\> 6 months as per investigator estimate\n4. Eastern Cooperative Oncology Group (ECOG) performance status \u2264 2\n5. Men with histologically or cytologically confirmed adenocarcinoma of the prostate\n6. De novo metastatic disease defined by clinical or radiographic evidence of metastases at diagnosis (i.e. before any treatment started). If not available, a more recent imaging can be used\n7. Measurable disease or bone lesions evaluable according to PCWG3 criteria. Patients with doubtful bone metastases are not eligible\n8. A pre-randomization 68Ga-PSMA-11 PET/CT scan performed within 4 weeks prior to randomization in the trial.\n\n   FDG PET scan is not required for this protocol. All patients will be treated independently from the results of pre-randomization PSMA PET scan: patients with PSMA-positive or PSMA-negative disease according to PROMISE 2.0 criteria are eligible.\n9. Have 6 to 8 months of previous AND ongoing standard systemic treatment for prostate cancer consisting in either:\n\n   * ADT with an androgen receptor signaling inhibitor (ARSI) (i.e., abiraterone (plus prednisone), or apalutamide or enzalutamide) \u00b1 radiotherapy \\*\\*\n   * ADT with docetaxel\\* plus an ARSI (i.e. abiraterone (plus prednisone), or darolutamide,) \u00b1 radiotherapy\\*\\*\n\n   Note:\n\n   \\*Docetaxel must have been stopped at least 4 weeks ahead of randomization.\n\n   \\*\\* Previous radiotherapy to the primary tumor and/or to the metastases is accepted as long as it was not PSMA-based and must has been completed at least 4 weeks ahead of randomization.\n10. Stable or declining PSA level but not a rising one\n11. Serum PSA of \u2265 0.2 ng/mL at 6 to 8 months after systemic treatment initiation\n12. Testosterone level \\< 50 ng/dl or \\< 1.7 nmol/L\n13. Be fit enough for 177Lu-vipivotide tetraxetan treatment:\n\n    * Adequate bone marrow function: hemoglobin \u226590 g/L (in absence of red blood cell transfusion within 4 weeks prior to randomization), absolute neutrophil count \u22651.5 x10\u2079/L, platelet count \\>100 x10\u2079/L\n    * Adequate liver function: aspartate aminotransferase (AST) and alanine aminotransferase (ALT) \u22642.0 x upper limit of normal (ULN), or \u2264 5.0 x ULN in the presence of liver metastases; bilirubin \\<1.5 x ULN (unless known or suspected Gilbert syndrome, then \\<3 x ULN is permitted)\n    * Adequate renal function: calculated creatinine clearance \u2265 50 ml/min (using the MDRD or CKD EPI method).\n14. For sexually active men with female partners of reproductive potential or with pregnant women, agreement to use a condom with another effective contraceptive method during trial participation and up to 14 weeks after study treatment completion.\n15. Affiliated to the social security system or in possession of equivalent private health insurance (according to local regulations for participation in clinical trials).\n16. Willing and able to comply with the protocol for the duration of the trial including undergoing treatment and scheduled visits, and examinations including follow-up.\n\nExclusion Criteria:\n\nPatients presenting with any of the following criteria are not eligible:\n\n1. Any evidence of cancer progression (including a rising PSA level, clinical progression, or radiological progression)\n2. Prior or concurrent PSMA-based radioligand therapy or other PSMA target treatments\n3. Known hypersensitivity to the components of the study therapy or its analogs\n4. Any condition preventing the use of the standard of care and/or specific experimental treatments tested in the trial\n5. Any of the following within 6 months before randomization: stroke, myocardial infraction, severe/unstable angina pectoris, coronary/peripheral artery bypass graft, congestive heart failure New York Heart Association (NYHA) Class III or IV\n6. Hypertension not controlled by an anti-hypertensive treatment (systolic blood pressure \\[sBP\\] \u2265 160 mmHg or diastolic blood pressure \\[dBP\\] \u2265 95 mmHg, 3 consecutive measures taken 5 minutes apart)\n7. Severe or uncontrolled concurrent disease, infection or co-morbidity\n8. Pathological findings consistent with small cell carcinoma of the prostate\n9. History of malignancy within 3 years of the current diagnosis with the exception of successfully treated basal cell or squamous cell skin carcinoma\n10. Ongoing participation in another clinical trial involving an investigational product.. Treatment with an investigational product must have ended within 28 days prior to the day of randomization\n11. Patients unwilling or unable to comply with the medical follow-up required by the trial because of geographic, familial, social, or psychological reasons\n12. Persons deprived of their liberty or under protective custody or guardianship"
+  },
+  {
+    "nct_id": "NCT05016349",
+    "title": "Investigating the Potential Role of a Novel Quadrate Combination Therapy Mifepristone(Antiprogestrone), Tamoxifen, Retinoic Acid and Cannabidiol ( Selective Cyp 26 Inhibitor) for Treating Early Breast Cancer.",
+    "screening_reason": "Explicit non-GAHT indication found: breast cancer",
+    "conditions": [
+      "Breast Cancer Female"
+    ],
+    "interventions": [
+      "All trans-retinoic acid (DRUG)",
+      "13-Cis Retinoic Acid plus Tocopherol (DRUG)",
+      "Mifepristone (DRUG)",
+      "Cannabidiol (DRUG)",
+      "9 cis retinoic acid (DRUG)",
+      "Tamoxifen (DRUG)",
+      "Standard therapy (DRUG)"
+    ],
+    "summary": "Investigating the potential role of a novel quadrate combination therapy Mifepristone(Antiprogestrone), Tamoxifen, Retinoic acid and Cannabidiol ( selective cyp 26 inhibitor) for treating early breast cancer.\n\nBreast cancer is the main cause of mortality among women. The disease presents high recurrence mainly due to incomplete efficacy of primary treatment in killing all cancer cells. Therapy resistance remains a major problem in estrogen receptor-\u03b1 (ER\u03b1)-positive breast cancer. Half of estrogen receptor-positive breast cancers contain a subpopulation of cytokeratin 5 (CK5)-expressing cells that are therapy resistant and exhibit increased cancer stem cell (CSC) properties. Here, we propose a testable hypothesis that treatment of breast cancer with tamoxifen or retinoic acid or a combination of the two, may result in induction or conversion of some ER-positive breast cancer cells to ER-negative cancer cells expressing the basal cytokeratin-5 (CK5) via stimulation of progesterone receptors effect, and production . Therefore, we raised an issue with the answer \" Why Antiprogestrone such Mifepristone and cyp 26 inhibitors must be combined with Tamoxifen or its combination with retinoic acid in the era of oncology for treating early breast cancer\" .In fact, limited evidence has indicated that induction of CK5+ cells in ER\u03b1+ breast cancer is a unique effect of progestin (Prg) but many studies have demonstrated that progesterone (P4) increases CK5+ breast cancer cells. In case-cohort study of 405 incident breast cancer cases, elevated circulating progesterone levels were associated with a 16% increase in the risk of breast cancer. A study demonstrated that tamoxifen induced progesterone receptors (PGR) in short term treatment. Another study showed that High progesterone receptor expression correlates to the effect of adjuvant tamoxifen in premenopausal breast cancer patients. These CK5-positive cells are therapy resistant and have increased tumor-initiating potential. Also, previous work has shown that retinoic acid, a chemical that results from the body's natural breakdown of vitamin A, should act against these CK5+ cells, but clinical trials of retinoids against breast cancer have been largely unsuccessful .Therefore we suggest that combination of retinoiac acid and tamoxifen was unsucssecful in treating breast cancer owing its ability to induce progesterone receptors and production leading to increasing numbers of CK5-positive cells which are therapy resistant . Although retinoid fenretinide reduced the accumulation of CK5+ cells during estrogen depletion. A study investigated the effects of all-trans-RA (atRA) on progesterone production in immature rat GCs cultured without gonadotropin. demonstrated that atRA enhanced progesterone production by upregulating the levels of steroidogenic acute regulatory protein (StAR) and cytochrome P450scc (Cyp11a1). Here, we suggest that tamoxifen or its combination with retinoic acid must be combined with anti-progesterone (Mifepristone) to achieve treatment with significant effect against early breast cancer. Moreover, Numerous studies have shown that CYP2D6 variant carriers (around 50% CYP2D6 variant carriers in Chinese population) will not benefit a lot from tamoxifen, and combined use of CYP2D6 inhibitors will further affect the efficacy of tamoxifen. In addition, All-trans-retinoic acid acts as an inducer of CYP26A1 expression. Which is the second expected cause of unsuccessful trial of Tamoxifen and retinoic acid in breast cancer treatment. Furthermore, The CYP26 inhibitor also induced expression of atRA-responsive genes. All-trans retinoic acid (ATRA) significantly inhibited aromatase activity in a concentration-dependent manner in microsomes isolated from JEG-3 human placental carcinoma cells. One study found that high retinol was significantly. associated with reduced breast cancer risk. Another found a significant trend of reduced retinol levels with more advanced disease stage. A study showed that intake of vitamin A and retinol could reduce breast cancer risk. Therefore we will take the benefit of cyp 26 inhibitor in this trial by combining Cannabidiol, a major phytocannabinoid, as a potent atypical inhibitor for CYP2D6.",
+    "eligibility": "Inclusion Criteria:\n\n1. Be willing and able to provide written informed consent/assent for the trial.\n2. Be 18 years of age on day of signing informed consent\n3. Confirmed diagnosis of breast cancer positive at least for CEA tumor marker at above normal threshold level.\n4. e willing to provide tissue from a newly obtained core or excisional biopsy of a tumor lesion. Newly-obtained is defined as a specimen obtained up to 6 weeks (42 days) prior to initiation of treatment on Day 1. Subjects for whom newly-obtained samples cannot be provided (e.g. inaccessible or subject safety concern) may submit an archived specimen only upon agreement from the Sponsor.\n5. Demonstrate adequate organ function as defined in Table 1, all screening labs should be performed within 10 days of treatment initiation.\n\n   Table 1 Adequate Organ Function Laboratory Values System Laboratory Value Hematological Absolute neutrophil count (ANC) \u22651,500 /mcL Platelets \u2265100,000 / mcL Hemoglobin \u22659 g/dL or \u22655.6 mmol/L without transfusion or EPO dependency (within 7 days of assessment) Renal Serum creatinine OR Measured or calculated creatinine clearance (GFR can also be used in place of creatinine or CrCl) \u22641.5 X upper limit of normal (ULN) OR\n\n   \u226560 mL/min for subject with creatinine levels \\> 1.5 X institutional ULN Hepatic Serum total bilirubin \u2264 1.5 X ULN OR Direct bilirubin \u2264 ULN for subjects with total bilirubin levels \\> 1.5 ULN AST (SGOT) and ALT (SGPT) \u2264 2.5 X ULN OR\n\n   \u2264 5 X ULN for subjects with liver metastases Albumin \\>2.5 mg/dL Coagulation International Normalized Ratio (INR) or Prothrombin Time (PT)\n\n   Activated Partial Thromboplastin Time (aPTT) \u22641.5 X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants\n\n   \u22641.5 X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants a Creatinine clearance should be calculated per institutional standard.\n\n   Exclusion Criteria:\n   * Pregnant\n   * Treatment including radiation therapy, chemotherapy, biotherapy and/or hormonal therapy for the currently diagnosed breast cancer prior to study entry.\n   * Any medical or other condition that in the Investigator's opinion renders the patient unsuitable for this study due to unacceptable risk\n   * Psychiatric disorders or altered mental status precluding understanding of the informed consent process and/or completion of the necessary studies\n   * Gastrointestinal disorders that may interfere with absorption of the study drug.\n   * Co-existing active infection or serious concurrent illness\n   * Current uncontrolled illness, for instance sepsis, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia\n   * Current use of antiretroviral therapy\n   * Participants with psychiatric illness or social situations that would limit compliance with study requirements\n   * Current hepatocellular carcinoma, liver metastases, or documented history of difficult to control diabetes"
+  },
+  {
+    "nct_id": "NCT02434562",
+    "title": "Development and Validation of in Vitro Cell-based Bioassays for Nuclear Receptor Activation",
+    "screening_reason": "Explicit non-GAHT indication found: hypogonadism",
+    "conditions": [
+      "Hypogonadism",
+      "Estrogens",
+      "Testosterone",
+      "Androgens"
+    ],
+    "interventions": [
+      "Serum (with or without urine) samples (OTHER)"
+    ],
+    "summary": "This is a prospective biobank set up to collect serum from patients with disorders associated with changes in androgens, estrogens or sex hormone-binding globulin (SHBG), before and/or after treatment.",
+    "eligibility": "Inclusion Criteria:\n\n* Known or expected medical condition affecting androgens, estrogens or SHBG\n\nExclusion Criteria:\n\n* Inability to provide written informed consent\n* Known or suspected bloodborne infectious diseases (e.g. HIV, viral hepatitis etc.)\n* Anemia (\\<11 g/dL hemoglobin) or being a Jehovah's Witness"
+  },
+  {
+    "nct_id": "NCT06247267",
+    "title": "The Effect of Sex Steroid Replacement Therapy in the Hypogonadism and Transgender Active-Duty Population",
+    "screening_reason": "Explicit non-GAHT indication found: hypogonadism",
+    "conditions": [
+      "Hypogonadism",
+      "Gender Identity Dysphoria"
+    ],
+    "interventions": [
+      "Fortesta (DRUG)",
+      "Estradiol (DRUG)",
+      "Fortesta (DRUG)"
+    ],
+    "summary": "It has been known that both estrogen and testosterone are the major sex steroids regulating bone metabolism and other physiological changes in both male and female, respectively. In postmenopausal women, osteoporosis is a major concern secondary to the lack of estrogen. These patients also experience a number of physiological changes that affect their life permanently to include hot flashes, irritability, difficulty concentrating, depression and mental confusion. In hypogonadal men, testosterone deficiency could lead to higher prevalence of depression, osteoporosis, fracture and frailty. Given the new military policy starting to support treatment for gender identity dysphoria military personnel, the number of transgender patients in our Endocrinology clinic has been slowly increasing over the past several months. These patients will require either testosterone replacement therapy or estrogen therapy to achieve their desired sexual characteristics. However, as mentioned above, the lack of estrogen or testosterone in female and male, respectively, could cause several issue in their body composition, cognitive function and quality of life. We designed this prospective case-control study to include patients with hypogonadism and the transgendered populations to learn about the long-term effects of these hormonal replacement therapies on bone density, fractures, memory/cognitive function and quality of life. This is a repetitive measures study taken at baseline, 6-months, and 12-months for three groups consisting of at least 75 subjects. The study will involve 3 arms, i.e. Group 1 primary/secondary untreated hypogonadism, Group 2 male-to female (MTF), and Group 3 female-to-male (FTM) participants that are planning to start hormone replacement therapy as per standard clinical guidelines.",
+    "eligibility": "Inclusion Criteria:\n\n* Male and female DoD health care beneficiaries\n* Ages 18-65\n* Diagnosed with primary hypogonadism or transgender treatment for at least 6 months\n* Under care for gender identity dysphoria\n* On stable dose of sex steroid hormonal therapy for at least 6 months prior to enrolling\n* Must be living in the Washington, D.C. area for at least 12 months following enrollment\n\nExclusion Criteria:\n\n* Pregnancy, plan for pregnancy in the next 12 months\n* Cardiac disease, especially coronary artery disease\n* Malabsorption disorder\n* Gastrointestinal surgeries\n* Significant renal or liver dysfunction\n* Seizure disorders\n* recent orders to move out of the geographic area\n* Age less than 18 years old or older than 65 years old\n* Scheduled for deployment"
+  },
+  {
+    "nct_id": "NCT00962637",
+    "title": "Study to Evaluate the Safety and Efficacy of Androxal\u2122 Treatment in Men With Secondary Hypogonadism",
+    "screening_reason": "Explicit non-GAHT indication found: hypogonadism",
+    "conditions": [
+      "Secondary Hypogonadism"
+    ],
+    "interventions": [
+      "Androxal (DRUG)",
+      "Androxal (DRUG)",
+      "AndroGel (DRUG)",
+      "Placebo (DRUG)"
+    ],
+    "summary": "Approximately 4 to 5 million men in the U.S. are testosterone-deficient. Enclomiphene (trans-clomiphene) citrate (Androxal) was evaluated to determine if Androxal increased serum testosterone levels in men with secondary hypogonadism. Subjects were randomly assigned to 1 of 4 treatments groups. Appropriate amounts of medications were dispensed at each visit. Subjects took their medications orally or by rubbing it onto the skin (depending on the treatment assignment) once daily for up to 6 months. Treatment visits occurred at approximately 4-week intervals for Months 1, 2, and 3 and then at 6-week intervals for Months 4, 5, and 6.",
+    "eligibility": "Inclusion Criteria:\n\n* Total serum testosterone concentrations \\< 300 ng/dL at baseline\n\nExclusion Criteria:\n\n* Presence or history of prostate cancer\n* Elevated PSA \\> 3.5 ng/mL\n\nAdditional inclusion and exclusion criteria may apply."
+  },
+  {
+    "nct_id": "NCT00450749",
+    "title": "Lycopene in Treating Patients Undergoing Radical Prostatectomy for Prostate Cancer",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Adenocarcinoma of the Prostate",
+      "Stage I Prostate Cancer",
+      "Stage II Prostate Cancer",
+      "Stage III Prostate Cancer"
+    ],
+    "interventions": [
+      "placebo (OTHER)",
+      "therapeutic conventional surgery (PROCEDURE)",
+      "laboratory biomarker analysis (OTHER)",
+      "lycopene (DRUG)"
+    ],
+    "summary": "This randomized phase II trial studies how well different doses of lycopene work in treating patients undergoing radical prostatectomy for prostate cancer. The use of lycopene, a substance found in tomatoes, may keep prostate cancer from growing or coming back after surgery.",
+    "eligibility": "Criteria:\n\n* Creatinine normal\n* Biopsy-confirmed adenocarcinoma of the prostate\n* Localized disease\n* Planned radical prostatectomy\n* ECOG performance status (PS) 0-2 OR Karnofsky PS 60-100%\n* WBC \\>= 3,000/mm\\^3\n* Platelet count \\>= 100,000/mm\\^3\n* Bilirubin normal\n* AST and ALT =\\< 2.5 times upper limit of normal\n* Fertile patients must use effective barrier contraception\n* No other invasive cancer (except nonmelanoma skin cancer) within the past 2 years\n* Patients who received curative treatment and have shown no evidence of recurrence within the past 2 years are eligible\n* No history of allergic reactions attributed to compounds of similar chemical or biological composition to lycopene (e.g., other carotenoids, including lutein and beta-carotene)\n* More than 30 days since prior regular (\\> once weekly) lycopene supplementation (\\>= 15 mg/day) and meets the following criteria: no more than 2 servings of tomato sauce, juice, or soup per week; no more than 4 servings of grapefruit, raw tomato, or watermelon per week\n* Must not consume 1 serving of tomato sauce, juice, or soup per week AND more than 2 servings of grapefruit, raw tomato, or watermelon per week\n* More than 30 days since prior and no concurrent investigational medication\n* No concurrent chemotherapy, radiotherapy, hormonal therapy, or immunotherapy\n* No history of allergy to foods containing lycopene (e.g., tomatoes or tomato products, watermelon, guava, and pink grapefruit)\n* No concurrent uncontrolled illness including, but not limited to, any of the following: ongoing or active infection; symptomatic congestive heart failure; unstable angina pectoris; cardiac arrhythmia; psychiatric illness/social situations that would limit compliance with study requirements\n* No prior therapy for prostate cancer, including radiotherapy to the prostate or pelvis, androgen ablation, or antiandrogen systemic therapy\n* No other concurrent lycopene (\\>= 15 mg/day)"
+  },
+  {
+    "nct_id": "NCT00833248",
+    "title": "Neoadjuvant Study Investigating Degarelix in Patients Suffering From Prostate Cancer",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "Degarelix (DRUG)",
+      "Goserelin (DRUG)",
+      "Bicalutamide (DRUG)"
+    ],
+    "summary": "The purpose of this phase 3B trial was to see how well a new trial drug (degarelix) works in terms of reducing the size of the prostate volume in prostate cancer patients who were scheduled to undergo subsequent radiotherapy for treatment of their prostate cancer. Prior to receiving radiotherapy, it is recommended that patients with intermediate to high risk prostate cancer are pre-treated with hormone therapy (so-called neoadjuvant therapy) which is known to reduce the size of the prostate and thereby decrease the required radiation field and enable a more safe and effective treatment. In this trial, participants were randomly selected (like flipping a coin) to receive either degarelix given alone or a standard hormone therapy (combination of goserelin and bicalutamide. The treatment was given for three months and the prostate size was measured by ultra sound at the beginning and at the end of the trial. The participants were required to come to the clinic for 5 or 6 visits during the three months.",
+    "eligibility": "Inclusion Criteria:\n\n* Patient has given written informed consent before any trial-related activity is performed.\n* Has a confirmed prostate cancer in which this type of treatment is needed.\n\nExclusion Criteria:\n\n* Previous treatment for prostate cancer\n* Previous trans-urethral resection of the prostate\n* Patients who are lymph node positive or have other metastatic disease\n* Use of urethral catheter\n* Current treatment with a 5-alpha reductase inhibitor or \u03b1-adrenoceptor antagonist.\n* History of severe untreated asthma, anaphylactic reactions, or severe urticaria and/or angioedema.\n* Hypersensitivity towards any component of the investigational product\n* Other previous cancers within the last five years with the exception of prostate cancer and some types of skin cancer.\n* Certain risk factors for abnormal heart rhythms/QT prolongation (corrected QT interval over 450 msec., Torsades de Pointes or use of certain medications with potential risk)\n* Clinical disorders other than prostate cancer including but not limited to renal, haematological, gastrointestinal, endocrine, cardiac, neurological, psychiatric disease, alcohol or drug abuse or other conditionals as judged by the investigator."
+  },
+  {
+    "nct_id": "NCT00711607",
+    "title": "A Trial to Assess the Pharmacokinetic Profile (e.g., Uptake, Distribution and Excretion of a Substance in the Body) of Nomegestrol Acetate (NOMAC), Estradiol (E2) and Estrone (E1) After Multiple and Single Dose Administration of the Combined Oral Contraception NOMAC-E2 (COMPLETED)(P05822)",
+    "screening_reason": "Explicit non-GAHT indication found: contraception",
+    "conditions": [
+      "Healthy"
+    ],
+    "interventions": [
+      "nomegestrol acetate and estradiol (DRUG)"
+    ],
+    "summary": "The primary purpose of this trial is to assess the pharmacokinetic profile of NOMAC, E2 and E1 after multiple and single dose administration of the combined oral contraceptive NOMAC-E2",
+    "eligibility": "Inclusion Criteria:\n\n* Fertile female subjects in good physical and mental health and 18 - 50 years of age at screening\n* Body mass index (BMI) of 17 \u2264 BMI \u2264 29 kg/m2\n* Able and willing to use non-hormonal contraceptives during the trial from screening up to follow up\n* With the last menstrual cycle of 28 +/- 7 days\n* Able and willing to sign the informed consent form\n* Able to refrain from smoking, grapefruit containing products, and all use of (methyl)xanthines (e.g. coffee, tea, cola, chocolate) during hospitalization and during pharmacokinetic sampling on days 24-30 and days 35-41\n\nExclusion Criteria:\n\n* History of sensitivity/idiosyncrasy to NOMAC-E2 or chemically related compounds or excipients which could be employed within the study or to any other unknown drug used in the past\n* Use of any drug or substance within one week prior to the first treatment day, except paracetamol\n* Clinically relevant history or presence of any medical disorder\n* Clinically relevant abnormal laboratory, ECG, vital signs or physical findings at screening (and just prior to dosing)\n* Known or suspected pregnancy\n* History of/or current abuse of drugs or alcohol or solvents, or positive drug or alcohol screen at screening and admission, as judged by the investigator\n* Positive test result on hepatitis B surface antigen, hepatitis C antibody, or HIV 1/2 serology\n* Participation in an investigational drug study within 90 days prior to treatment day 1\n* Donation of blood within 90 days prior to treatment day 1\n* Contra-indications of contraceptive steroids (general)\n* Abnormal cervical smear at screening, or documentation of abnormal smear performed within 12 months before screening\n* Clinically relevant transvaginal ultrasound pathology or inability to undergo transvaginal ultrasound evaluation\n* Use of an injectable hormonal method of contraception; within 6 months of an injectable with a 3-month duration, within 4 months of an injectable with a 2-month duration, within 2 months of an injectable with a 1-month duration\n* Before spontaneous menstruation has occurred following a delivery or abortion\n* Breastfeeding or within 2 months after stopping breast feeding prior to start of trial medication\n* Present use or use during two months prior to the start of the trial medication of the following drugs: phenytoin, barbiturates, primidone, carbamazepine, oxcarbazepine, topiramate, felbamate, rifampicin, nelfinavir, ritonavir, griseofulvin, ketoconazole, sex steroids (other than pre- and post treatment contraceptive method) and herbal remedies containing hypericum perforatum (St. John's Wort)\n* Present use or use within one month prior to screening of any agent that was known to prolong the QT/QTc interval\n* History of /or current risk factors for TdP (e.g. heart failure, hypokaliemia, hypomagnesaemia, hypocalcaemia, family history of long QT syndrome, loss of consciousness)"
+  },
+  {
+    "nct_id": "NCT02741154",
+    "title": "Role of Aromatase Inhibitor to Enhance Ovulation in Poor Responder During Induction With Short Antagonist Protocol in Cases of ICSI",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Infertility Indicated for ICSI"
+    ],
+    "interventions": [
+      "induction with aromataze inhibitor (DRUG)",
+      "HMG (DRUG)",
+      "GnRh a (DRUG)",
+      "HCG (DRUG)"
+    ],
+    "summary": "study the effect of aromataze inhibitor induction together with short stimulation protocol by gonadotrphin releasing hormon antagonist in cases that expected to be poor responder before ICSI",
+    "eligibility": "Inclusion Criteria:\n\n* infertlity indicated for ICSI\n* Ovarian factor\n* Tubal factor\n* Unexplained infertility\n* poor responders\n\nExclusion Criteria:\n\n* Expected high responder\n* Endometriosis\n* Male and uterine factors\n* Ovarian mass or cyst"
+  },
+  {
+    "nct_id": "NCT05587296",
+    "title": "A Study to Learn More About How Well Elinzanetant Works and How Safe it is Compared to Placebo for the Treatment of Hot Flashes Caused by Anti-cancer Therapy in Women With, or at High Risk for Developing Hormone-receptor Positive Breast Cancer",
+    "screening_reason": "Explicit non-GAHT indication found: breast cancer",
+    "conditions": [
+      "Vasomotor Symptoms Caused by Adjuvant Endocrine Therapy in Women With, or at High Risk for Developing Hormone-receptor Positive Breast Cancer",
+      "Hot Flashes"
+    ],
+    "interventions": [
+      "Elinzanetant (BAY3427080) (DRUG)",
+      "Placebo (DRUG)"
+    ],
+    "summary": "Researchers are looking for a better way to treat women with, or at high risk for developing hormone-receptor positive breast cancer, who have vasomotor symptoms (VMS), a condition of having hot flashes caused by anti-cancer therapy.\n\nVMS, also called hot flashes, are very common medical problems in women with hormone-receptor (HR)-positive breast cancer, who are receiving anti-cancer therapy. HR-positive breast cancer is a type of breast cancer, which has hormone-receptors (proteins) for female sex hormones estrogen and/or progesterone. These hormone-receptors may attach to hormones like estrogen and progesterone and thereby help cancer cells to grow and to spread. Treatments that stop these hormones from attaching to these receptors are currently used to slow or stop the growth of HR-positive breast cancer.\n\nIt is already known that women with HR-positive breast cancer benefit from this treatment. However, hot flashes are common medical problems related to this therapy. They negatively affect quality of life of many women and may lead to discontinuation (stopping) of this therapy.\n\nThe study treatment, elinzanetant is being developed to treat hot flushes. It works by blocking a substance called neurokinin from sending signals to other parts of the body, which is thought to play a role in starting hot flashes.\n\nThe main purpose of this study is to learn more about how well elinzanetant helps to treat hot flashes caused by anti-cancer therapy in women with or at high risk for developing HR-positive breast cancer compared to placebo. A placebo is a treatment that looks like a medicine but does not have any medicine in it.\n\nTo answer this, the doctors will ask the participants to record information about their hot flashes before treatment start and at certain time points during the treatment in an electronic diary. The researchers will then assess possible average changes in number and severity of hot flashes after 4 and 12 weeks of treatment.\n\nTo see how safe elinzanetant is compared to placebo. The study will collect information about the number of participants who have medical problems after taking treatment.\n\nThe study participants will be randomly (by chance) assigned to 2 treatment groups, A and B. The participants from treatment group A will take elinzanetant. The participants from treatment group B will start with placebo and then switch to elinzanetant.\n\nAll participants will continue taking the anti-cancer therapy they have been using when entering the study.\n\nDependent on the treatment group, the participants will either take elinzanetant or placebo as capsules by mouth once a day. After 12 weeks, the participants who have initially received placebo will switch to take elinzanetant for the remaining 40 weeks.\n\nEach participant will be in the study for approximately 62 weeks. The treatment duration in the study will be 52 weeks. There will be up to 12 visits to the study site and 6 phone calls in between. Participants who completed the 52 weeks treatment phase, will be offered to continue treatment for another up to 3.5 years.\n\nDuring the study, the participants will:\n\n* record information about their hot flashes\n* answer questions about their quality of life and other symptoms.\n\nThe doctors and their study team will:\n\n* check the participants health and vital signs\n* take blood and urine samples\n* examine heart health using electrocardiogram (ECG)\n* examine pelvic organs like womb or ovaries using a trans vaginal ultrasound scan to see images of these organs\n* make images of the breast using x-ray (mammogram), a type of radiation that passes through the body to make images of the inside and/or by using ultrasound (if applicable)\n* check the health of the participant's cervix (neck of the womb) by taking a small sample of cells (smear test) for an analysis called cervical cytology (if applicable)\n* take an endometrial biopsy, a small piece of tissue from the lining of the womb (called the endometrium) for analysis.\n* ask the participants questions about what medicines they are taking and if they are having adverse events.\n\nAn adverse event is any medical problem that a participant has during a study. Doctors keep track of all adverse events that happen in studies, even if they do not think the adverse events might be related to the study treatments.\n\nAbout 4 weeks after the participants take their last treatment, the study doctors and their team will check the participants' health.",
+    "eligibility": "Inclusion Criteria:\n\n* Females aged 18 to 70 years of age inclusive, at the time of signing the informed consent.\n* Women experiencing vasomotor symptoms (VMS) caused by adjuvant endocrine therapy that they are expected to use for the duration of the study\n\n  * Tamoxifen with or without the use of gonadotropin-releasing hormone (GnRH) analogues or\n  * Aromatase inhibitors with or without the use of GnRH analogues\n* Women must have\n\n  * a personal history of hormone-receptor positive breast cancer or\n  * a high risk for developing breast cancer.\n* Participant has completed Hot Flash Daily Diary (HFDD) for at least 11 days during the two weeks preceding baseline visit, and participant has recorded at least 35 moderate to severe hot flash (HF) (including night-time HF) over the last 7 days that the HFDD was completed (assessed at the Baseline Visit).\n* Contraceptive use by \\[women except for post-menopausal women or Women of Non childbearing potential (WONCBP)\\] should be consistent with local regulations regarding the methods of contraception for those participating in clinical studies.\n\nExclusion Criteria:\n\n* Initial diagnosis of metastatic hormone-receptor positive breast cancer (stage IV) or recurrence under adjuvant endocrine therapy of hormone-receptor positive breast cancer.\n* Current or history (except complete remission for 5 years or more prior to signing informed consent) of any malignancy, except for hormone-receptor positive breast cancer (Stage 0-III), basal and squamous cell skin tumors.\n* Surgery or non-surgical (e.g., chemotherapy, radiotherapy, immunotherapy) treatment for breast cancer within the last 3 months prior to signing informed consent (except use of tamoxifen, aromatase inhibitors, GnRH analogues).\n* Any clinically significant prior or ongoing history of arrhythmias, heart block and QT prolongation either determined through clinical history or on electrocardiogram (ECG) evaluation.\n* Any active ongoing condition that could cause difficulty in interpreting VMS such as: infection that could cause pyrexia, pheochromocytoma, carcinoid syndrome.\n* Any unexplained vaginal bleeding.\n* Mammogram with clinically relevant malignant or suspicious findings that will require surgery, radiotherapy or chemotherapy as per local guidelines (mammogram should not be older than 12 months prior to signing informed consent). If a mammogram is not possible after partial mastectomy an ultrasound could be performed instead.\n* Disordered proliferative endometrium, endometrial hyperplasia, polyp, or endometrial cancer diagnosed based on endometrial biopsy during screening.\n* Current arterial or venous vascular event (e.g., Myocardial infarction (MI), Transient ischemic attack (TIA), stroke, deep vein thrombosis (DVT), i.e., within the last 6 months prior to signing informed consent."
+  },
+  {
+    "nct_id": "NCT06239766",
+    "title": "BC Risk Assessment Before Top Surgery",
+    "screening_reason": "Explicit non-GAHT indication found: breast cancer",
+    "conditions": [
+      "Breast Cancer",
+      "Risk Reduction"
+    ],
+    "interventions": [
+      "Breast Cancer Risk Assessment (DIAGNOSTIC_TEST)"
+    ],
+    "summary": "The population of transgender and gender-diverse (TGD) persons in Wisconsin and the U.S. is steadily increasing. As this population grows, the number of individuals seeking gender-affirming therapies, including gender-affirming operations and gender-affirming hormone therapy, is also growing. An example of gender-affirming surgery is chest masculinization surgery, in which most breast tissue is removed in a person assigned female or intersex at birth to allow the chest to appear masculine. Gender-affirming chest masculinization surgery is not generally considered equivalent to an oncologic mastectomy, which aims to removal all breast tissue for future breast cancer reduction or current breast cancer treatment.\n\nThe goals of this investigation are to 1) determine the percent of TGD persons considering chest masculinization surgery who have an elevated lifetime risk of breast cancer development and/or a pathogenic genetic mutation; 2) measure the percent who are at risk and choose to undergo risk-reducing mastectomies as part of chest masculinization surgery; and 3) assess and compare self-perceived breast cancer risk with calculated risk.\n\nThe results of this study will substantially inform TGD patients and surgeons on the utility of personalized breast cancer risk assessment prior to chest masculinization surgery and the accuracy of self-perceived breast cancer risk in TGD persons.",
+    "eligibility": "Inclusion Criteria:\n\n1. \u226518 years old.\n2. Assigned female or intersex at birth and identify as non-cisgender.\n3. Any individual considering undergoing gender-affirming chest masculinization surgery\n4. Ability to communicate in English.\n5. Ability to understand a written informed consent document, and the willingness to sign it.\n\nExclusion Criteria:\n\n1. \\<18 years old.\n2. Assigned male sex at birth.\n3. Previously underwent chest masculinization surgery or any form of oncological mastectomy for the purposes of risk-reduction or cancer treatment.\n4. Any previous or current history of breast cancer, including ductal carcina in situ (DCIS).\n5. Inability to communicate in English."
+  },
+  {
+    "nct_id": "NCT01653925",
+    "title": "Molecular Mechanisms of Dutasteride and Dietary Interventions to Prevent Prostate Cancer and Reduce Its Progression",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Prostatic Neoplasms",
+      "Low Grade Prostate Cancer"
+    ],
+    "interventions": [
+      "Dietary intervention first (OTHER)",
+      "Drug (Dutasteride) intervention first (DRUG)"
+    ],
+    "summary": "The purpose of this study is to determine whether marine omega-3 fatty acids and 5-alpha-reductase inhibitor are effective in the progression of prostate cancer for low-risk prostate cancer patients.",
+    "eligibility": "Inclusion Criteria:\n\n* Low-risk prostatic neoplasms\n* Candidate for active surveillance\n* Informed consent\n\nExclusion Criteria:\n\n* Current fish oil supplementation\n* Current NSAID use"
+  },
+  {
+    "nct_id": "NCT03484611",
+    "title": "Prediction of Metaphase II Oocytes According to Different Levels of Serum AMH in Poor Responders Using the Antagonist Protocol",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Invitro Fertilizaion"
+    ],
+    "interventions": [
+      "GnRH antagonist (DRUG)",
+      "Gonadotropins (DRUG)",
+      "Human chorionic gonadotropin (DRUG)",
+      "Embryo transfer (PROCEDURE)",
+      "Progesterone (DRUG)"
+    ],
+    "summary": "A multicentric study looked into 179 poor responders who underwent antagonist protocol in ICSI cycles Gonadotrophines is started on day 2 with HMG until the day of HCG administration with starting dose 300IU to 450IU,with no pretreatment with OCPs or progestogens or estrogen.\n\nGNRH antagonist (cetrorelix 0,25mg s.c, cetrotide, serono laboratories, Aubonne Switzerland) is given using flexible protocol, it is given when at least one follicle reaches size 14 mm to prevent premature lutenization ,until the day of hCG administration Ovarian ultrasound scans were performed using a 5.0-9.0 MHZ multi frequency trans vaginal probe to assess the ovarian response till the mature follicles reach18-20mm when hCG administration 10000 IU is given to induce final oocytes maturation , serum E2 is done on day of HCG trigger.\n\nTrans vaginal ultrasound-guided oocyte retrieval is performed 34-36 hours after hCG injection.\n\nUltrasound -guided fresh embryo transfer is performed on day 3 or 5 after fertilization.\n\nProgesterone support of luteal phase was commenced on the day of ovum pick up using prontogest 400 mg twice daily.",
+    "eligibility": "Inclusion Criteria:\n\n* 3- On antagonist protocol 4- Poor responder according to ESHRE consensus; in which at least 2 of the following should be present:\n* Advanced maternal age (\u2265 40 years old) or any other risk factor\n* A previous poor ovarian response (cycles cancelled or \u2264 3 oocytes with a conventional protocol)\n* An abnormal ovarian reserve test (ORT); antral follicle count (AFC) \\< 5-7 follicles or anti-mullerian hormone (AMH) \u22640.5- 1.1 ng/ml NB: In the absence of advanced maternal age or abnormal ORT, two previous episodes of poor ovarian response after maximal stimulation patients are also considered poor responders according to ESHRE consensus.\n* Presence and Adequate visualization of both ovaries\n* Uterine cavity within normal anatomy\n\nExclusion Criteria:\n\nAny factor which may affect reproductive outcome other than that the patient is a poor responder will be excluded from the study, like:\n\n1. Severe male factor .\n2. Uterine factor (eg: fibroid, polyp, Ashermann, .. etc)\n3. Immunological disorder (eg: SLE, APS, \u2026 etc)\n4. Thyroid or adrenal dysfunction\n5. Neoplasia (especially: hypothalamic, pit, ovarian)\n6. Women diagnosed with PCOS according to Rotterdam criteria\n7. Hydrosalpinx that hasn't been surgically removed or ligated. 8 . Untreated hyperprolactinemia 9 . Abnormal bleeding disorder\n\n10.Hepatic or renal dysfunction 11.Hypersenstivity to study medication ( GNRH antagonist) 12.Need to take medication that can influence ovarian stimulation 13.Endometriosis grade 3 or 4 14.Ovarian cyst\\> 10 cm."
+  },
+  {
+    "nct_id": "NCT00023543",
+    "title": "Reduction of Triglycerides in Women on Hormone Replacement Therapy",
+    "screening_reason": "Explicit non-GAHT indication found: menopause",
+    "conditions": [
+      "Cardiovascular Diseases",
+      "Atherosclerosis",
+      "Postmenopause",
+      "Heart Diseases"
+    ],
+    "interventions": [
+      "Diet, fat-restricted (BEHAVIORAL)",
+      "Exercise (BEHAVIORAL)"
+    ],
+    "summary": "The purpose of this study is to test the effect of lifestyle intervention on subclinical cardiovascular disease measures in women taking hormone replacement therapy (HRT).",
+    "eligibility": "Inclusion Criteria:\n\n* On HRT for at least two years\n* Women 52 to 60 years of age\n* Three or more years postmenopausal\n* Waist circumference greater than 80 cm\n* LDLc between 100 and 160 mg/dl\n* Body mass index 25-39.9 kg/m2\n* Blood Pressure less than 160/95 mm Hg\n* Beck Depression Inventory Score less than 20\n\nExclusion Criteria:\n\n* Current use of cholesterol-lowering medication\n* Diagnosis of diabetes\n* On diabetes medication"
+  },
+  {
+    "nct_id": "NCT05489159",
+    "title": "Sleep and IR in Transgender Adolescents",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Sleep Disorder",
+      "Insulin Resistance",
+      "Gender Dysphoria"
+    ],
+    "interventions": [],
+    "summary": "Disordered sleep is a health issue with significant impacts on physical and psychological well-being that has increased in prevalence, but its impact on transgender adolescents has not been fully quantified. While there is found to be an impact of sex steroids on sleep, and sex-dependent differences in the impact of sleep duration and quality on insulin resistance (IR), there is limited available information regarding the impact of Gender Affirming Hormone Therapy (GAHT) for transgender individuals on sleep and IR. Our study aims to quantify the impacts of GAHT on sleep and IR in the pediatric transgender population as well as determine the degree of correlation of sleep to IR in this population.",
+    "eligibility": "Inclusion Criteria:\n\n1. 12 to 18 (inclusive) years of age,\n2. Identify as transgender or non-binary and plan to undergo treatment with GAHT.\n\nExclusion Criteria:\n\n1. Prior treatment with GAHT or puberty-blockers (GnRH agonists),\n2. Known Diabetes Mellitus,\n3. Current or recent (within the past month) use of systemic corticosteroids, medications for weight loss or topiramate,\n4. Proteinuria or chronic kidney disease, which could affect the metabolomic profiling"
+  },
+  {
+    "nct_id": "NCT01882985",
+    "title": "Docetaxel Plus Lycopene in Castration Resistant, Chemotherapy-Na\u00efve Prostate Cancer Patients",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Adenocarcinoma of the Prostate",
+      "Recurrent Prostate Cancer",
+      "Stage I Prostate Cancer",
+      "Stage IIA Prostate Cancer",
+      "Stage IIB Prostate Cancer",
+      "Stage III Prostate Cancer"
+    ],
+    "interventions": [
+      "Docetaxel (DRUG)",
+      "Lycopene (DIETARY_SUPPLEMENT)"
+    ],
+    "summary": "This phase II trial evaluated the impact of giving docetaxel together with lycopene supplements in treating patients with hormone-resistant prostate cancer not previously treated with chemotherapy. Drugs used in chemotherapy, such as docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Chemoprevention is the use of certain drugs, such as lycopene, to keep cancer from forming. Giving docetaxel together with lycopene may be an effective treatment for prostate cancer.",
+    "eligibility": "Inclusion Criteria:\n\n* Patient must have a histological diagnosis of adenocarcinoma of the prostate and 2 rising pre-study PSA values \\>= 1 ng/ml at least 1 week apart within 28 days prior to enrollment\n* Patients must be unresponsive to androgen-deprivation therapy (ADT), as indicated by a rising PSA level above the ADT nadir\n* Patient must not have received chemotherapy, biologic therapy, or any other investigational drug for any reason within 28 days prior to start of therapy, and must have recovered from toxicities of prior therapy to grade 1 or less\n* Patients must have been surgically or medically castrated; if the patient is being treated with medical castration, he must be willing to continue this treatment for the duration of the study; ADT should not be initiated, terminated, or dose-adjusted during the study\n* Prior external beam radiation therapy (to less than 30% of the bone marrow only) is allowed; at least 28 days must have elapsed since the completion of radiation therapy and the patient must have recovered from side effects; prior treatment with samarium-153 or strontium-86 is allowed if at least eight weeks have elapsed since dosing, and all toxicities have resolved to grade 1; soft tissue disease which has been radiated in the prior 2 months is not assessable as measurable disease\n* Patients may have received prior surgery; however, at least 21 days must have elapsed since completion of surgery and the patient must have recovered from all side effects\n* Normal serum bilirubin and serum glutamic oxaloacetic transaminase (SGOT) or serum glutamic pyruvate transaminase (SGPT) =\\< 1.5 x the institutional upper limit of normal obtained within 14 days prior to start of therapy; liver function tests should be evaluated prior to each treatment\n* Serum creatinine =\\< 1.5 x the institutional upper limit of normal obtained within 14 days prior to start of therapy\n* Men of child bearing potential must be willing to consent to using effective contraception while on treatment and for at least 3 months thereafter\n* Patient must have an Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Absolute neutrophil count \\>= 1,500/microliter (mcL)\n* Hemoglobin of \\>= 8.0gm/dL\n* White blood cell count \\> 2,500/mcL\n* Platelets \\>= 100,000/mcL\n* Patients with lower values may participate if, in the opinion of the investigator, the cytopenias are the result of bone marrow involvement with active prostate cancer\n* Patients must be able to take oral medications\n* All patients must be informed and must sign and give written informed consent in accordance with institutional and federal guidelines; patients who are unable to comply with study and/or follow-up procedures are ineligible\n\nExclusion Criteria:\n\n* Uncontrolled brain or spinal cord metastases\n* History of congestive heart failure or myocardial infarction within the previous six months\n* History of allergy or hypersensitivity to any component of the study drugs\n* Evidence or history of a bleeding diathesis or coagulopathy, including therapy-induced coagulopathy\n* Presence of chronic diarrhea (\\> grade 1 by Common Toxicity Criteria (CTC)), short bowel syndrome, pancreatic insufficiency, or malabsorption\n* Presence of any severe or uncontrolled concurrent medical condition which, in the opinion of the investigator, would increase the risk of serious toxicity from the study drugs\n* Concurrent use of any vitamin, herb, or mineral supplements for at least 14 days prior to start of therapy"
+  },
+  {
+    "nct_id": "NCT01897324",
+    "title": "IVF/ICSI Protocols in Poor Responders With Growth Hormone",
+    "screening_reason": "Explicit non-GAHT indication found: ivf",
+    "conditions": [
+      "Female Infertility Due to Diminished Ovarian Reserve"
+    ],
+    "interventions": [
+      "Growth hormone (Norditropin, Novo nordisk) (DRUG)"
+    ],
+    "summary": "in this study, we are trying to monitor the effect of the addition of growth hormone on the different down regulation protocols ( long, short, antagonist and microflare). The outcome will be primarily assessed by the clinical pregnancy rates.",
+    "eligibility": "Inclusion Criteria:\n\nESHRE consensus 2011,At least two of the following three features must be present:\n\n* Advanced maternal age (\u226540 years) or any other risk factor for POR;\n* A previous POR (\u22643 oocytes with a conventional stimulation protocol);\n* An abnormal ovarian reserve test (i.e. AFC \\< 5-7 follicles or AMH \\< 0.5 -1.1 ng/ml).\n\nExclusion Criteria:\n\n* female patients with causes of infertility other than poor ovarian reserve\n* females suffering from congenital or acquired uterine anomalies\n* females with focal uterine lesions\n* females who had previous ovarian surgeries\n* females with history of previous exposure to radiotherapy , or chemotherapy\n* females refusing to get enrolled in the study"
+  },
+  {
+    "nct_id": "NCT00705796",
+    "title": "Influence of Administration Route of Testosterone on Male Fertility",
+    "screening_reason": "Explicit non-GAHT indication found: hypogonadism",
+    "conditions": [
+      "Hypogonadism"
+    ],
+    "interventions": [
+      "MPP10, testosterone (DRUG)",
+      "Testosterone (DRUG)"
+    ],
+    "summary": "Exogenously administered testosterone will override the normal negative feedback of endogenous testosterone on the hypothalamus and pituitary. Constantly, relatively high and constant testosterone levels will cause a drop in FSH and LH production by the pituitary. Since FSH and LH are signalling hormones to the testes, endogenous testosterone production and spermatogenesis will be down-regulated. It is expected that intranasal dosing in the morning will mimic the normal physiological pattern of testosterone production thereby avoiding negative side-effects on spermatogenesis. Trans-dermal gels give testosterone levels more or less constant over the day and will very likely have inhibitory effects on spermatogenesis.\n\nThe main objective of this study is to show that twice daily intranasal dosing does not have, or has a smaller inhibitory effect on spermatogenesis in comparison to transdermal testosterone gels.",
+    "eligibility": "Inclusion Criteria:\n\n* Age greater than or equal to 50 years but not older than 80 years of age;\n* Serum testosterone level \\<13.8 nmol/l;\n* Sperm concentration \\> 40 Million/ml;\n* Willing to give written informed consent.\n\nExclusion Criteria:\n\n* Testicular diseases or having had any surgical procedures applied to the testes;\n* History or currently existing serious disease of any type, in particular liver, kidney or heart disease, any form of diabetes mellitus, cancer or psychiatric illness;\n* Current androgen, anabolic steroid or sex hormone treatment or any treatment with such compounds in the previous 6 months;\n* Blood donation within the 12-week period before the initial study dose.\n* History of, or current nasal disorders (e.g. seasonal or perennial allergic rhinitis, atrophic rhinitis, polyposis, abuse of nasal decongestants, clinically relevant nasal septum deviation, recurrent epistaxis) or sleep apnea;\n* Elevated serum PSA levels (\\> 4 ng/ml for subjects \\>= 50 years of age);"
+  },
+  {
+    "nct_id": "NCT04600986",
+    "title": "Repeated Doses of GnRH Agonist as Oocyte Triggering in Antagonist Protocol for Patients With Polycystic Ovary Syndrome",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Polycystic Ovary Syndrome"
+    ],
+    "interventions": [
+      "Repeated dose of GnRH agonist (OTHER)"
+    ],
+    "summary": "This is a prospective, randomized, proof-of-concept study, designed to compare the IVF results in patients diagnosed with polycystic ovarian syndrome (PCOS) defined as per the ESHRE/ASRM Rotterdam criteria (2003) undergoing in-vitro fertilization/ intracytoplasmic sperm injection (IVF/ICSI) in antagonist protocol. Patients were randomized into two groups. Group A: single dose of GnRHa 0.2 mg, 35 h prior to oocyte retrieval, and Group B: 0.2 mg GnRHa 35 h prior to oocyte retrieval + a repeat dose of 0.1 mg 12 h following the 1st dose. 12 h post-trigger, luteinizing hormone (LH), progesterone (P4) values will be estimated.",
+    "eligibility": "Inclusion Criteria:\n\nAll PCOS patients defined as per the ESHE/ASRM Rotterdam criteria undergoing ovarian stimulation for IVF/ICSI using GnRH antagonist protocol:\n\n1. Anticipated high ovarian response (serum E2\\> 3000 on trigger day)\n2. Body mass index (BMI) \\>18 and \\<35 kg/m2\n3. Willingness to participate in the study\n\nExclusion Criteria:\n\n1. Severe male factor infertility\n2. Patients with severe endometriosis\n3. Donor cycles\n4. Indication for preimplantation genetic diagnosis\n5. Uterine abnormality or existing myoma greater than 5cm\n6. couple's drug addiction"
+  },
+  {
+    "nct_id": "NCT05808387",
+    "title": "The Effects of Resveratrol on Sirtuins and Apoptosis Biomarkers",
+    "screening_reason": "Explicit non-GAHT indication found: menopause",
+    "conditions": [
+      "Coronary Artery Disease",
+      "Menopause",
+      "Endothelial Dysfunction"
+    ],
+    "interventions": [
+      "Resveratrol (DIETARY_SUPPLEMENT)",
+      "Placebo (DIETARY_SUPPLEMENT)"
+    ],
+    "summary": "Cardiovascular diseases (CVD) and neoplasms are the main causes of death in Brazilian women. Coronary artery disease (CAD) and stroke were responsible for approximately 54% of deaths from CVD in this population. In Brazil, cancers were the second cause of death and in 2017 were responsible for 58% of deaths in women. CVD and cancer share some risk factors, and control of these factors is associated with a significant reduction in cancer incidence. These two causes of death, although apparently disparate, share similar lifestyles and health risk factors, suggesting some common pathways and basic molecular networks. In women, the presence of estrogen has protective effects against atherosclerosis and, with the decline in hormone production at menopause, the incidence and prevalence of CAD increase substantially. Although the estrogen pathway is supposed to have a central effect on this increased risk, it is still debated whether other non-estrogenic mechanisms are related, since hormone replacement alone does not reduce cardiovascular events. Sirtuins and soluble advanced glycation product receptors (sRAGE) are associated with increased vascular protection, while the role of apoptosis inhibiting proteins, a pathway linked to increased cancer incidence, is still unclear in the context of atherosclerosis. Resveratrol is a key activator of sirtuins and potentially modulates these metabolic pathways, reducing cardiovascular risk. This randomized, double-blind, parallel, placebo-controlled clinical trial will be carried out in 80 postmenopausal women with CAD to analyze the effect of treatment with resveratrol on serum concentration and gene expression of sirtuins-1 -3, in the serum sRAGE concentration and in the gene expression of apoptosis inhibitory proteins.",
+    "eligibility": "Inclusion Criteria:\n\n* Postmenopausal women;\n* Diagnosed coronary artery disease;\n* Stable coronary disease;\n\nExclusion Criteria:\n\n* hypo or hyperthyroidism,\n* rheumatic disease,\n* use of alcohol,\n* hepatic failure,\n* renal failure\n* hormone replacement therapy\n* use of insulin"
+  },
+  {
+    "nct_id": "NCT04071574",
+    "title": "Comparative Study on the Efficacy of Ovarian Stimulation Protocols on the Success Rate of ICSI in Female Infertility",
+    "screening_reason": "Only GnRH mentioned, no explicit GAHT",
+    "conditions": [
+      "Female Infertility",
+      "Female Infertility Due to Ovulatory Disorder",
+      "Premature Ovarian Failure",
+      "Polycystic Ovary Syndrome",
+      "Female Infertility of Tubal Origin",
+      "Ectopic Pregnancy",
+      "Salpingitis",
+      "Female Infertility Due to Tubal Block",
+      "Female Infertility Due to Tubal Occlusion",
+      "Hydrosalpinx",
+      "Female Infertility - Cervical/Vaginal",
+      "Female Infertility Endocrine",
+      "Endometriosis",
+      "Fibroids",
+      "Congenital Uterine Anomaly",
+      "Infections Uterine",
+      "Female Infertility of Other Origin"
+    ],
+    "interventions": [
+      "Human Chorionic Gonadotropin (hCG) (DRUG)",
+      "Gonadotropins (DRUG)",
+      "GNRH-A Triptorelin (DRUG)",
+      "GnRH antagonist (DRUG)"
+    ],
+    "summary": "The study will describe the effectiveness of ovarian stimulation in correlation with female infertility causes in a Lebanese population: a comparative study using 5 protocols of ovulation induction (treatment with \"A\" gonadotropins alone, \"B\" short GnRH agonist, \"C\" multiple-dose GnRH antagonist, \"D\" long GnRH agonist and \"E\" combined protocol of GnRH antagonist and agonist) and the outcomes of ICSI. This comparative study will help clinicians to select the relevant protocol of ovarian stimulation related to the female infertility disorders.",
+    "eligibility": "Inclusion Criteria:\n\n* must not show any of the excluded criteria\n* Patients affected by female infertility due to particularly Ovulatory Disorder, Premature Ovarian Failure, Polycystic Ovary Syndrome, Tubal Origin, Ectopic Pregnancy, Salpingitis, Tubal Block/Occlusion, Hydrosalpinx, Cervical/Vaginal, Endocrine, Endometriosis, Fibroids, Congenital Uterine Anomaly, Infections Uterine, and Female Infertility of Other Origin\n* The selection of subjects' age must be group matched between protocols of treatment. Premature ovarian failure is defined as AMH (Anti Mullerian Hormone) \u2264 2 ng/mL.\n* Willing to collaborate and to attend to the clinical follow-ups for the next three years\n* Patients willing to sign informed consent\n* Able and willing to comply with all study requirements\n* Absence of genetic causes\n* Medically suitable to undergo ovarian stimulation\n* Normal serum chemistry and hematology screening tests\n* Negative human immunodeficiency virus (HIV), hepatitis B (HBV), hepatitis C (HCV) serology\n* No history of malignancy\n* Complete history \\& physical examination\n\nExclusion Criteria:\n\n* Subjects to be excluded from the study if the male (husband) had any male infertility problem(s)\n* Patients with any genetic abnormalities\n* Patients with histories of neurologic conditions including moderate or severe head injury, stroke, cerebral or bone damage or malignancies, brain abnormalities, learning disability, major medical or psychiatric illness, and metabolic/cardiovascular disease or evidence of cardiac/renal damage or malignancies, alcohol, loss of weight during the last 2 years, chemotherapy or immunosuppressive therapy.\n* Women aged 45 years and older, under 21 years"
+  },
+  {
+    "nct_id": "NCT03572387",
+    "title": "A Pilot Study of 5-AZA and ATRA for Prostate Cancer With PSA-only Recurrence After Local Treatment",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Prostatic Neoplasms",
+      "Prostate Neoplasms",
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "5-Azacitidine (DRUG)",
+      "all trans retinoic acid (DRUG)",
+      "Lupron (DRUG)"
+    ],
+    "summary": "This is a prospective, open-label, randomized, cross-over, pilot study of reprogramming therapy in patients with recurrent PCa based on rising PSA only. The primary objectives are to compare the disease progression-free rate at the end of 12 weeks of treatment between 5-AZA+ATRA and no therapy and to assess safety of the 5-AZA and ATRA combination. All study enrollees will receive Lupron. After one month, they will be assigned in a 1:1 randomization to either the '5-AZA+ATRA' group or the 'no therapy' group. Patients in the '5-AZA + ATRA' group will receive treatment on a 28-day cycle, in the absence of prohibitive toxicities, for 3 cycles. In the 'no therapy' group, patients will initially be observed for 3 cycles and then receive treatment for 3 cycles, in the absence of prohibitive toxicities. After the treatment period, all patients will be followed for up to 24 months from the start of the study or until the events leading to discontinuation are observed.",
+    "eligibility": "Inclusion Criteria:\n\n* Histologically confirmed adenocarcinoma of the prostate\n* Rising PSA\n* PSADT \u2264 10 months prior to initiation of ADT\n* No evidence of regional or active distant metastases, except for regional metastasis where salvage radiation therapy is not an option\n* Indication for ADT after receiving definitive local therapy\n* Males \u2265 18 years.\n* ECOG performance status of \u2264 2\n* Men must agree to use a condom and not father a child or donate sperm for the duration of the study and for 90 days after completion of therapy\n* Ability to understand and the willingness to sign a written informed consent\n* Ability to adhere to the study visit schedule and requirements of the protocol\n\nExclusion Criteria:\n\n* Patients who have received ADT and/or other chemotherapy within 3 months prior to entering the study.\n* Patients who have had radiotherapy or surgery within 4 weeks prior to entering the study. Minimally-invasive procedures for the purpose of diagnosis or staging of the disease are permitted.\n* Patients may not be receiving any other investigational agents.\n* Patients with known brain metastases should be excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other adverse events.\n* History of allergic reactions attributed to compounds of similar chemical or biologic composition to 5-AZA and ATRA.\n* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements.\n* Significant active cardiac disease within the previous 6 months\n* Inadequate organ and marrow function as defined below:\n* leukocytes \u2264 3,000/mcL\n* absolute neutrophil count \u2264 1,500/mcL\n* platelets \u2264 100,000/mcl\n* total bilirubin above normal institutional limits\n* AST(SGOT)/ALT(SPGT) \u2265 2.5 X institutional upper limit of normal\n* creatinine above normal institutional limits"
+  },
+  {
+    "nct_id": "NCT04608695",
+    "title": "Ovarian Needle Puncture for Follicle Activation in IVF Patients With Diminished Ovarian Reserve",
+    "screening_reason": "Explicit non-GAHT indication found: ivf",
+    "conditions": [
+      "Activation of Primordial Follicles"
+    ],
+    "interventions": [
+      "Ovarian puncture (PROCEDURE)"
+    ],
+    "summary": "Premature ovarian insufficiency (POI), is cessation of ovarian function characterized by hypergonadotropic amenorrhea and hypoestrogenic syndrome before 40 years of age. About 1% of women younger than 40 years old and 0.1% before 30 are affected. POI imposes a great challenge on women's reproductive and long-term health, such as infertility, amenorrhea, osteoporosis, and cardiovascular disease. Most patients already had impaired or complete loss of fecundity when diagnosed. Currently, no optimal regimen exists to ameliorate ovarian function. Typically, they end up with egg donation or adoption as an alternative way. Less severe form of POI is diminished ovarian reserve (DOR). Although lack of consensus according to Bologna criteria cut off for DOR was defined as (antral follicle count (AFC) \\<5-7 follicles or anti-Mullerian hormone (AMH) \\<0.5-1.1 ng/ml).\n\nPreviously it has been showed that 24% of women with POI had resumption of ovarian function and 4% resulted in baby births. These data indicates residual follicles are available in atrophic ovaries and have potential for development and even fertilization. In routine IVF practice 15% percent of patients have poor ovarian response to ovarian stimulation. Patients with DOR with a previous poor ovarian response (cycles cancelled or yielding \u22643 oocytes with a conventional protocol) might have benefit from the strategies increasing follicle activation and number of growing follicles and oocyte retrieved. Therefore, strategies enabling ovarian resumption predictable and follicle activation feasible are promising for POI/DOR treatment. Recently, In vitro Activation (IVA) approach has been proposed and live births have been achieved in patients with POI. Phosphatase and tensin homolog (PTEN) enzyme inhibitors and phosphatidylinositol-3 kinase activators could activate AKT pathway and activate the dormant follicles. Ovarian fragmentation could lead to ovarian primary follicle growth by interfering with Hippo signaling pathway. Residual follicles in patients with POI could be activated to develop for egg retrieval by combination of mechanical and chemical stimulation.\n\nIn 2019, Zhang et al retrospectively analyzed the follicle development and pregnancy outcome in 80 POI patients after laparoscopic ovarian biopsy/scratch without using chemical agents as was the case in IVA. 11 (13.75%) patients presented with ovarian function resumption, three metaphases II oocytes were retrieved in 10 patients and two embryos were formed and freshly transferred followed by a healthy singleton delivery in 1 (1.25%) patient. They concluded that the technique of ovarian biopsy/scratch without chemical activation could promote follicle development in vivo, suggesting it could bring promising benefits for some women with POI.\n\nIn patient with POI/DOR, activation of residual follicles is a promising option and further studies are warranted. Previous studies included laparoscopic surgery which may lead to possible surgical complications. Without using chemical agents and laparoscopic surgery, main object of this study is mechanical follicle activation with trans-vaginal ovarian needle puncture with 17 gauge oocyte pickup needle in IVF patients with DOR.",
+    "eligibility": "Inclusion Criteria:\n\n* Patients with diminished ovarian reserve\n* \\<3 oocytes collected in previous cycle (with anti-mullerian hormone \\<0.5 ng/mL and/or antral follicle count \\<5)\n* Cycles stimulated with flexible antagonist protocol\n* Cycles triggered with recombinant hCG\n* Fresh transfer cycles\n* Patients with \\<40 years of age\n* BMI \\<30 kg/m2\n\nExclusion Criteria:\n\n* Preimplantation genetic testing\n* Azospermia"
+  },
+  {
+    "nct_id": "NCT00866554",
+    "title": "Efficacy and Toxicity of Bicalutamide and Dutasteride vs. Standard Care for Prostate Cytoreduction for Brachytherapy",
+    "screening_reason": "Explicit non-GAHT indication found: prostate cancer",
+    "conditions": [
+      "Prostate Cancer",
+      "Erectile Dysfunction",
+      "Lower Urinary Tract Symptoms"
+    ],
+    "interventions": [
+      "administration of a LHRH agonist and Bicalutamide (DRUG)",
+      "administration of Bicalutamide, Dutasteride and Tamoxifen (DRUG)"
+    ],
+    "summary": "The purpose of this study is to determine if a combination of neoadjuvant dutasteride and bicalutamide has the same efficacy and less toxicity than standard treatment with an LHRH agonist and bicalutamide for prostate cytoreduction prior to permanent implant brachytherapy.",
+    "eligibility": "Inclusion Criteria:\n\n* Male sex\n* Diagnosis of prostate adenocarcinoma as confirmed by prostate biopsy\n* Prostate cancer with stage T1a, T1b T2a or T2b Nx Mx as determined by clinical examination\n* Gleason score of 6 or less or 7 (3+4)\\*\n\n  \\* If Gleason score is 7(3+4) patient must have less than 30% of biopsied tissue positive\n* Serum PSA of \u2264 15ng/ml during the month before study entry\n* Prostate volume \u2265 45cc\n* Normal serum testosterone during the month before study entry\n* Availability for treatment and follow-up visits\n* Having signed required consent form before study entry\n\nExclusion Criteria:\n\n* Abnormal Liver Function tests (\\>2x normal AST or ALT and/or \\>1.5x normal bilirubin)\n* Prostate volume less than 50 cc\n* History of hormonal treatment including any of the above: LHRH agonists, antiandrogens during the year before study entry\n* Use of a 5 alpha reductase inhibitor for more than one month during the year prior to study entry\n* History of pelvic irradiation\n* History of past chemotherapy\n* History of TURP\n* History of past treatment for prostate cancer\n* Known hypersensitivity to Dutasteride or Bicalutamide\n* Co-morbid disease possibly compromising treatment compliance\n* History of DVT or pulmonary embolism\n* Anticoagulation with coumarin\n* Inability to give consent"
+  }
+]

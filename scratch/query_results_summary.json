@@ -1,0 +1,255 @@
+{
+  "(\"trans women\" OR \"trans men\" OR \"trans woman\" OR \"trans man\") AND (hormone OR estradiol OR estrogen OR testosterone OR antiandrogen OR spironolactone OR progesterone)": {
+    "total_retrieved": 31,
+    "total_count": 31,
+    "new_nct_count": 0,
+    "new_ncts": []
+  },
+  "(transfeminine OR transmasculine OR \"trans-feminine\" OR \"trans-masculine\") AND (hormone OR estradiol OR estrogen OR testosterone OR antiandrogen OR spironolactone OR progesterone)": {
+    "total_retrieved": 11,
+    "total_count": 11,
+    "new_nct_count": 0,
+    "new_ncts": []
+  },
+  "(nonbinary OR \"non-binary\") AND (hormone OR estradiol OR estrogen OR testosterone OR antiandrogen OR spironolactone OR progesterone)": {
+    "total_retrieved": 20,
+    "total_count": 20,
+    "new_nct_count": 0,
+    "new_ncts": []
+  },
+  "(\"gender dysphoria\" OR \"gender identity disorder\") AND (hormone OR estradiol OR estrogen OR testosterone OR antiandrogen OR spironolactone OR progesterone)": {
+    "total_retrieved": 61,
+    "total_count": 61,
+    "new_nct_count": 0,
+    "new_ncts": []
+  },
+  "(\"gender non-conforming\" OR \"gender nonconforming\") AND (hormone OR estradiol OR estrogen OR testosterone OR antiandrogen OR spironolactone OR progesterone)": {
+    "total_retrieved": 7,
+    "total_count": 7,
+    "new_nct_count": 1,
+    "new_ncts": [
+      "NCT03528135"
+    ]
+  },
+  "\"gender-affirming hormone therapy\" OR \"gender affirming hormone therapy\" OR \"gender affirming hormone\" OR \"gender affirming hormones\"": {
+    "total_retrieved": 50,
+    "total_count": 50,
+    "new_nct_count": 2,
+    "new_ncts": [
+      "NCT05853120",
+      "NCT06939257"
+    ]
+  },
+  "\"gender-affirming hormone\" OR \"gender-affirming hormones\"": {
+    "total_retrieved": 50,
+    "total_count": 50,
+    "new_nct_count": 2,
+    "new_ncts": [
+      "NCT05853120",
+      "NCT06939257"
+    ]
+  },
+  "GAHT": {
+    "total_retrieved": 30,
+    "total_count": 30,
+    "new_nct_count": 0,
+    "new_ncts": []
+  },
+  "\"cross-sex hormone\" OR \"cross-sex hormones\" OR \"cross sex hormone\" OR \"cross sex hormones\"": {
+    "total_retrieved": 14,
+    "total_count": 14,
+    "new_nct_count": 0,
+    "new_ncts": []
+  },
+  "(\"gender affirmation\" OR \"gender transition\") AND (hormone OR estradiol OR estrogen OR testosterone OR antiandrogen OR spironolactone OR progesterone)": {
+    "total_retrieved": 14,
+    "total_count": 14,
+    "new_nct_count": 0,
+    "new_ncts": []
+  },
+  "(transgender OR transsexual OR \"gender diverse\" OR \"gender incongruence\" OR \"gender dysphoria\" OR \"trans women\" OR \"trans men\" OR transfeminine OR transmasculine OR nonbinary) AND (cyproterone OR bicalutamide OR finasteride OR dutasteride OR feminizing OR masculinizing OR \"gender-affirming\" OR \"gender affirming\" OR \"cross-sex\" OR \"cross sex\")": {
+    "total_retrieved": 147,
+    "total_count": 147,
+    "new_nct_count": 42,
+    "new_ncts": [
+      "NCT07181551",
+      "NCT07286123",
+      "NCT07480590",
+      "NCT06639763",
+      "NCT06443164",
+      "NCT06565663",
+      "NCT04378439",
+      "NCT06502353",
+      "NCT07075731",
+      "NCT04820088",
+      "NCT05016232",
+      "NCT06001307",
+      "NCT07681908",
+      "NCT06094257",
+      "NCT07194226",
+      "NCT05292820",
+      "NCT06428669",
+      "NCT07412509",
+      "NCT06880705",
+      "NCT01534351",
+      "NCT06844097",
+      "NCT05175170",
+      "NCT05534763",
+      "NCT04818580",
+      "NCT06390332",
+      "NCT06316102",
+      "NCT04217707",
+      "NCT05829928",
+      "NCT04096053",
+      "NCT04993469",
+      "NCT07147166",
+      "NCT07324967",
+      "NCT05897086",
+      "NCT05726903",
+      "NCT04491422",
+      "NCT04979338",
+      "NCT06070324",
+      "NCT05925361",
+      "NCT00985738",
+      "NCT06098781",
+      "NCT07017595",
+      "NCT07512856"
+    ]
+  },
+  "\"gender affirming care\" OR \"gender-affirming care\"": {
+    "total_retrieved": 20,
+    "total_count": 20,
+    "new_nct_count": 10,
+    "new_ncts": [
+      "NCT07480590",
+      "NCT04378439",
+      "NCT07681908",
+      "NCT06939257",
+      "NCT06316102",
+      "NCT04096053",
+      "NCT07147166",
+      "NCT05726903",
+      "NCT07729644",
+      "NCT07512856"
+    ]
+  },
+  "\"gender affirmation treatment\" OR \"gender-affirming treatment\" OR \"gender affirmation therapy\" OR \"gender-affirming therapy\"": {
+    "total_retrieved": 10,
+    "total_count": 10,
+    "new_nct_count": 2,
+    "new_ncts": [
+      "NCT07194226",
+      "NCT05829928"
+    ]
+  },
+  "\"feminizing hormone therapy\" OR \"masculinizing hormone therapy\" OR \"feminizing hormone\" OR \"masculinizing hormone\" OR \"feminizing hormones\" OR \"masculinizing hormones\"": {
+    "total_retrieved": 15,
+    "total_count": 15,
+    "new_nct_count": 0,
+    "new_ncts": []
+  },
+  "AREA[ConditionSearch]\"Gender Dysphoria\"": {
+    "total_retrieved": 91,
+    "total_count": 91,
+    "new_nct_count": 40,
+    "new_ncts": [
+      "NCT07286123",
+      "NCT07480590",
+      "NCT06639763",
+      "NCT06565663",
+      "NCT04478214",
+      "NCT03899896",
+      "NCT04290286",
+      "NCT05292820",
+      "NCT05097820",
+      "NCT06428669",
+      "NCT05273112",
+      "NCT04474366",
+      "NCT07412509",
+      "NCT04064671",
+      "NCT04573127",
+      "NCT05534763",
+      "NCT04265885",
+      "NCT04554849",
+      "NCT04217707",
+      "NCT05829928",
+      "NCT04993469",
+      "NCT03872648",
+      "NCT07147166",
+      "NCT03293771",
+      "NCT04160364",
+      "NCT05897086",
+      "NCT03643120",
+      "NCT06639776",
+      "NCT05726903",
+      "NCT05883553",
+      "NCT04979338",
+      "NCT05204732",
+      "NCT05126134",
+      "NCT05903911",
+      "NCT07661823",
+      "NCT05884307",
+      "NCT05925361",
+      "NCT03602222",
+      "NCT06098781",
+      "NCT07017595"
+    ]
+  },
+  "AREA[ConditionSearch]\"Gender Incongruence\"": {
+    "total_retrieved": 91,
+    "total_count": 91,
+    "new_nct_count": 40,
+    "new_ncts": [
+      "NCT07286123",
+      "NCT07480590",
+      "NCT06639763",
+      "NCT06565663",
+      "NCT04478214",
+      "NCT03899896",
+      "NCT04290286",
+      "NCT05292820",
+      "NCT05097820",
+      "NCT06428669",
+      "NCT05273112",
+      "NCT04474366",
+      "NCT07412509",
+      "NCT04064671",
+      "NCT04573127",
+      "NCT05534763",
+      "NCT04265885",
+      "NCT04554849",
+      "NCT04217707",
+      "NCT05829928",
+      "NCT04993469",
+      "NCT03872648",
+      "NCT07147166",
+      "NCT03293771",
+      "NCT04160364",
+      "NCT05897086",
+      "NCT03643120",
+      "NCT06639776",
+      "NCT05726903",
+      "NCT05883553",
+      "NCT04979338",
+      "NCT05204732",
+      "NCT05126134",
+      "NCT05903911",
+      "NCT07661823",
+      "NCT05884307",
+      "NCT05925361",
+      "NCT03602222",
+      "NCT06098781",
+      "NCT07017595"
+    ]
+  },
+  "transgender AND (bicalutamide OR cyproterone OR dutasteride OR finasteride)": {
+    "total_retrieved": 21,
+    "total_count": 21,
+    "new_nct_count": 3,
+    "new_ncts": [
+      "NCT01534351",
+      "NCT05175170",
+      "NCT00985738"
+    ]
+  }
+}

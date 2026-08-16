@@ -1,0 +1,1089 @@
+{
+  "totalCount": 14,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04374708",
+          "briefTitle": "Gender Identity and Own Body Perception"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED"
+        },
+        "descriptionModule": {
+          "briefSummary": "This study will provide valuable information on the neurobiological underpinning of gender dysphoria (GD) and the effects of sex hormones, and promises to uncover functional or structural neural patterns that could predict outcome in terms of body image and quality of life after cross-sex hormone treatment."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Dysphoria"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "CASE_CONTROL",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 132,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "trans men",
+              "description": "fMRI: body morph test and neurocognitive testing",
+              "interventionNames": [
+                "Diagnostic Test: fMRI"
+              ]
+            },
+            {
+              "label": "trans women",
+              "description": "fMRI: body morph test and neurocognitive testing",
+              "interventionNames": [
+                "Diagnostic Test: fMRI"
+              ]
+            },
+            {
+              "label": "homosexual cisgender men",
+              "description": "fMRI: body morph test and neurocognitive testing",
+              "interventionNames": [
+                "Diagnostic Test: fMRI"
+              ]
+            },
+            {
+              "label": "homosexual cisgender women",
+              "description": "fMRI: body morph test and neurocognitive testing",
+              "interventionNames": [
+                "Diagnostic Test: fMRI"
+              ]
+            },
+            {
+              "label": "cisgender women",
+              "description": "fMRI: body morph test and neurocognitive testing",
+              "interventionNames": [
+                "Diagnostic Test: fMRI"
+              ]
+            },
+            {
+              "label": "cisgender men",
+              "description": "fMRI: body morph test and neurocognitive testing",
+              "interventionNames": [
+                "Diagnostic Test: fMRI"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DIAGNOSTIC_TEST",
+              "name": "fMRI",
+              "description": "fMRI: body morph test and neurocognitive testing",
+              "armGroupLabels": [
+                "cisgender men",
+                "cisgender women",
+                "homosexual cisgender men",
+                "homosexual cisgender women",
+                "trans men",
+                "trans women"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Participants with gender dysphoria (GD)\n\nInclusion Criteria:\n\n* Females and males from any racial or ethnic background, between the ages of 18 years and 40 years.\n* Participants must meet Diagnostic and Statistical Manual-5 criteria for GD (302.85)\n* Intelligence quotient (IQ) \\> 80\n\nParticipants with GD\n\nExclusion Criteria:\n\n* Previous or on-going sex hormone medication\n* Previous sex reassignment surgery\n* Oral contraceptives\n* Participants with GD are not be taking any other psychotropic medication. (No participant will be recommended to discontinue or taper medications for the purpose of participating in the study.)\n* Irregular menstrual cycles\n\nControl participants\n\nInclusion Criteria:\n\n* Females and males from any racial or ethnic background, between the ages of 18 and 40.\n* IQ \\> 80\n\nControl participants\n\nExclusion Criteria:\n\n* Psychiatric medications\n* A score of \u2265 1 standard deviation higher than population norms on the MADRS depression or the Hamilton anxiety scale (HAMA)\n* Sex hormone treatment\n* Irregular menstrual cycles\n\nExclusion criteria for all participants:\n\n* Any known chromosomal or hormonal disorder\n* Current substance abuse or dependence\n* Current neurological disorder or psychiatric disorder\n* Pregnancy\n* Current major medical disorders that may affect cerebral metabolism such as diabetes or thyroid disorders\n* Head trauma associated with loss of consciousness\n* HIV positive individuals\n* Individuals with ferromagnetic metal implantations or devices. This includes any electronic implants or devices, braces, infusion pumps, aneurysm clips, metal fragments or foreign bodies, metal prostheses, joints, rods or plates\n* Visual acuity worse than 20/35 for each eye as determined by Snellen close vision acuity chart. Acuity may be met with corrective lenses",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "40 Years",
+          "stdAges": [
+            "ADULT"
+          ],
+          "studyPopulation": "Investigators will enroll 150 participants between the ages of 18 and 40 (25 trans males; 25 trans females; 25 cis gender females; 25 cis gender males; 25 homosexual males; 25 homosexual females)",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02550431",
+          "briefTitle": "Trans Health: Evaluation of Markers of Cardio-metabolic Health and Well-being in Transgender Youth"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "This study plans to learn more about puberty blockers and cross (testosterone and estradiol). There is not much known about how these medications affect hormone levels, heart health and overall general health in young transgender individuals."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transgendered Persons"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "OTHER",
+            "timePerspective": "CROSS_SECTIONAL"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITHOUT_DNA",
+            "description": "Blood"
+          },
+          "enrollmentInfo": {
+            "count": 58,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Followed in Endocrinology Clinic or Adolescent Medicine Clinic at Children's Hospital Colorado\n* Between age 9 and 21 years (inclusive)\n* Identifies as transgender\n* Has been on pubertal blockade or cross-sex hormones for at least three months.\n\nExclusion Criteria:\n\n* Known diabetes\n* Presence of significant medical or psychiatric comorbidities\n* Using hormones not prescribed by a physician",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "9 Years",
+          "maximumAge": "21 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ],
+          "studyPopulation": "Transgender youth ages 9 to 21 years of age who have been on a Gonadotropin-releasing hormone (GnRH) agonist or cross-sex hormones for at least three months",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03651427",
+          "briefTitle": "Cross-sex Hormone Therapy and Neuronal Plasticity"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN"
+        },
+        "descriptionModule": {
+          "briefSummary": "Transgender women (male-to-female) were invited to participate in this study to test the impact of Cross-Sex Hormone Therapy (CSHT) in the brain.\n\nNeuroimaging and cognitive assessment were performed in different time-points to compare the impact of CSHT in the brain."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Dysphoria"
+          ],
+          "keywords": [
+            "Estradiol;",
+            "Brain",
+            "glutamate",
+            "spectroscopy",
+            "hypogonadism"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "interventionModelDescription": "Sel-controlled case series",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 30,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Transgender Women",
+              "type": "EXPERIMENTAL",
+              "description": "Transgender women who already completed GAS or that agreed to start gonadotropin release hormone analogue to suppress endogenous sex hormones.\n\nIf the participants were using CSHT in the moment of the study assignment, they were asked to stop hormones for 30 days to evaluate the impact of hypogonadism in the brain.\n\nAfter this first assessment, they received prescriptions for Estradiol (equine conjugated oestrogen, or estradiol valerate, or topic 17-beta estradiol formulations) for 60 days, and the impact of CSHT was evaluated again to compare to washout condition.",
+              "interventionNames": [
+                "Drug: Estradiol"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Estradiol",
+              "description": "Induced hypogonadism and re-institution of CSHT",
+              "armGroupLabels": [
+                "Transgender Women"
+              ],
+              "otherNames": [
+                "Drug washout"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Transgender women\n* Age 18 to 60 years old.\n\nExclusion Criteria:\n\n* Use of psychostimulant drugs\n* Use of Antidepressive, Mood Stabiliser, Anti-psychotic, Benzodiazepines, anti-convulsivants, Anorexigenic\n* Endocrinological disease (other than diabetes)\n* Arterial Hypertensive Disease of Diabetes Mellitus out of control target\n* Neurological disease, including stroke or recent cranial trauma with loss or consciousness\n* HIV with low CD4 or high viral charge or symptomatic AIDS\n* Neoplasia",
+          "healthyVolunteers": true,
+          "sex": "MALE",
+          "minimumAge": "18 Years",
+          "maximumAge": "60 Years",
+          "stdAges": [
+            "ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06245681",
+          "briefTitle": "Effects of Cross-sex Hormone Treatment on Cardiac Function, Myocardial and Hepatic Fat Content"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Background: Sex hormones are believed to play an important role in the development and progression of cardiovascular disease. However, the gender gap in onset and mortality is not yet completely understood. Transsexuals undergoing hormone therapy are a promising collective for analyzing the effects of sex hormones on atherosclerosis and other cardiovascular disease. Objectives of the study: To identify gender-specific cardiovascular changes attributed to high-dose hormone therapy in male-to-female (MtF) and female-to-male(FtM) transgender using sonography and magnet resonance spectroscopy. Study design: Longitudinal cohort study. Transsexuals will undergo two 3 Tesla MRI scan sessions: 1. baseline (before hormone treatment) and 2. after 6 months of treatment. An oral glucose tolerance test (OGTT) will be performed at baseline and 6 months after treatment onset. An overall study duration of 12 months is proposed.\n\nMaterials and Methods: MRI measurements will be performed on a 3 Tesla scanner. Study population: 10 FtM, 10 male-to-female MtF transsexuals (aged 18-50), free of hormone-medication at baseline. Relevance and implications of the study: Changes in atherosclerotic risk due to hormone therapy have been studied to no definite results and so far, little is known about the effects of hormone therapy on hepatic and myocardial fatty tissue. Hence this study will provide important new data on the broad clinical aspects of sex hormones as hormone replacement therapy in particularly opposite-sex hormone therapy."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Dysphoria"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 40,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Transgender women",
+              "description": "Transgender individuals assigned male at birth undergoing estrogen and antiandrogen hormone therapy",
+              "interventionNames": [
+                "Drug: gender affirming hormone therapy"
+              ]
+            },
+            {
+              "label": "Transgender men",
+              "description": "Transgender individuals assigned female at birth undergoing testosterone hormone therapy",
+              "interventionNames": [
+                "Drug: gender affirming hormone therapy"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "gender affirming hormone therapy",
+              "description": "both groups are receiving gender-affirming hormone therapy; we do not compare the groups, but look at whether hormone therapy with testosterone or estrogen might have an effect on myocardial function, organ lipid content and subcutaneous to visceral fat ratio",
+              "armGroupLabels": [
+                "Transgender men",
+                "Transgender women"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* DSM-IV diagnosis of Gender Identity Disorder\n* age over 18 years\n\nExclusion Criteria:\n\n* age under 18 years severe neurological or internal diseases\n\n  * steroid hormone treatment within 2 months prior to inclusion (including birth control pill, phytohormones)\n  * treatment with psychotropic agents such as SSRIs\n  * any implant or stainless-steel graft\n  * abnormal values in routine laboratory screening or general physical examination\n  * current substance abuse (determined using drug screening at the screening visit)\n  * pregnancy (determined at screening visit and first MRI scan)\n  * failure to comply with the study protocol or to follow the instructions of the investigating",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "We included individuals solely based on gender identity",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "healthy transgender persons undergoing gender-affirming hormone therapy (either testosterone or estrogen-based hormone therapy",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04077151",
+          "briefTitle": "Transgender Youth and PrEP: PK, Safety, Uptake & Adherence - Demonstration Project"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "To address the critical scientific gaps in PrEP safety for transgender youth and to plan for appropriate implementation of PrEP in transgender youth communities, the study will be conducted in 3 integrated phases. In Phase 1, a pharmacokinetic (PK) study exploring the interactions of cs-HT for both TW and TM youth on TDF/FTC will be conducted. Simultaneously, in Phase 2, ethnographic data via focus groups (FGs) and in-depth interviews (IDIs) to inform the development of a tailored intervention to improve uptake and adherence to PrEP for transgender youth will be collected. In Phase 3, a small demonstration trial of PrEP use in transgender youth, utilizing the ethnographically developed intervention to improve uptake and adherence, while also monitoring renal and bone safety outcomes will be implemented.\n\nThe project has the following important specific aims:\n\nAim 1: To evaluate the differential PK of TDF/FTC in a cohort of transgender youth on cs-HT by conducting a PK trial of daily TDF/FTC among 24 TW taking estradiol and 24 TM taking testosterone (ages 15-24 years) using video-based directly observed therapy (DOT) to insure daily adherence and maximize drug exposure.\n\nAim 2: To develop a culturally, developmentally, and gender-affirmative intervention to increase uptake of and adherence to PrEP among TW and TM youth that is grounded in theory (Information-Motivation-Behavioral Skills Model of Behavior Change, Gender Affirmation, Empowerment Theory) and incorporates the PK data from Aim 1. Investigators will conduct FGs with young TW (N=20-30) and TM (N=20-30) and conduct IDIs with participants from the PK study (Total N=10-14). Investigators will solicit continuous input and feedback from TW and TM on the project's Youth Advisory Board.\n\nAim 3: To conduct a small randomized controlled trial within a PrEP demonstration project comparing the newly developed intervention with standard of care (SOC) in TW (N=50) and TM (N=50) ages 15-24 years."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HIV/AIDS",
+            "Gender",
+            "Behavior and Behavior Mechanisms"
+          ],
+          "keywords": [
+            "Transgender",
+            "Pre-exposure Prophylaxis (PrEP)",
+            "HIV Prevention",
+            "Tenofovir Disoproxil Fumarate/Emtricitabine (TDF/FTC)",
+            "Cross-sex Hormone Therapy",
+            "Adherence",
+            "Behavior Change",
+            "Gender Affirmation"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "primaryPurpose": "PREVENTION",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 51,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Intervention Recipients",
+              "type": "EXPERIMENTAL",
+              "description": "PrEP Demonstration Project intervention will be given",
+              "interventionNames": [
+                "Behavioral: PrEP Demonstration Project"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "BEHAVIORAL",
+              "name": "PrEP Demonstration Project",
+              "description": "In phase 2, a culturally, developmentally, and gender-affirmative intervention to increase uptake of and adherence to PrEP among TW and TM youth will be developed by incorporates the PK data from phase 1 and data gathered from focus groups and in-depth interviews with young transgender women and transgender men. During phase 3, this intervention will be given to the experimental arm and tested versus a standard-of-care control group.",
+              "armGroupLabels": [
+                "Intervention Recipients"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Self-identification as a transgender individual \\[As determined by the two-step process of gender identification whereby potential participants will be asked their gender identity and sex assigned at birth\\]\n* HIV-uninfected by EIA and viral load within 7 days of study entry\n* Creatinine clearance \u2265 60 mL/min by Cockroft Gault for ages \u226518 years (Schwartz equation for those \\<18)\n* Willing to comply with all study procedures\n* On a stable dose of cs-HT for at least 2 months verified by clinical chart review and willing to not change doses for duration of PK study\n\nExclusion Criteria:\n\n* Hospitalization within 30 days of study entry (elective procedures okay with team approval)\n* Condition (medical, psychological, or social) that, in the opinion of the study investigators, would preclude the participant from completing study-required procedures\n* Previous participation in an HIV vaccine study, unless the participant can document placebo arm assignment\n* Use of TDF/FTC in the past 3 months",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Self-identification as a transgender individual",
+          "minimumAge": "15 Years",
+          "maximumAge": "24 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04077138",
+          "briefTitle": "Transgender Youth and PrEP: PK, Safety, Uptake & Adherence - Intervention Development"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "To address the critical scientific gaps in PrEP safety for transgender youth and to plan for appropriate implementation of PrEP in transgender youth communities, the study will be conducted in 3 integrated phases. In Phase 1, a pharmacokinetic (PK) study exploring the interactions of cs-HT for both TW and TM youth on TDF/FTC will be conducted. Simultaneously, in Phase 2, ethnographic data via focus groups (FGs) and in-depth interviews (IDIs) to inform the development of a tailored intervention to improve uptake and adherence to PrEP for transgender youth will be collected. In Phase 3, a small demonstration trial of PrEP use in transgender youth, utilizing the ethnographically developed intervention to improve uptake and adherence, while also monitoring renal and bone safety outcomes will be implemented.\n\nThe project has the following important specific aims:\n\nAim 1: To evaluate the differential PK of TDF/FTC in a cohort of transgender youth on cs-HT by conducting a PK trial of daily TDF/FTC among 24 TW taking estradiol and 24 TM taking testosterone (ages 15-24 years) using video-based directly observed therapy (DOT) to insure daily adherence and maximize drug exposure.\n\nAim 2: To develop a culturally, developmentally, and gender-affirmative intervention to increase uptake of and adherence to PrEP among TW and TM youth that is grounded in theory (Information-Motivation-Behavioral Skills Model of Behavior Change, Gender Affirmation, Empowerment Theory) and incorporates the PK data from Aim 1. Investigators will conduct FGs with young TW (N=20-30) and TM (N=20-30) and conduct IDIs with participants from the PK study (Total N=10-14). Investigators will solicit continuous input and feedback from TW and TM on the project's Youth Advisory Board.\n\nAim 3: To conduct a small randomized controlled trial within a PrEP demonstration project comparing the newly developed intervention with standard of care (SOC) in TW (N=50) and TM (N=50) ages 15-24 years."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HIV/AIDS",
+            "Gender",
+            "Behavior and Behavior Mechanisms"
+          ],
+          "keywords": [
+            "Transgender",
+            "Pre-exposure Prophylaxis (PrEP)",
+            "HIV Prevention",
+            "Tenofovir Disoproxil Fumarate/Emtricitabine (TDF/FTC)",
+            "Cross-sex Hormone Therapy",
+            "Adherence",
+            "Behavior Change",
+            "Gender Affirmation"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "CASE_ONLY",
+            "timePerspective": "CROSS_SECTIONAL"
+          },
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Focus Groups",
+              "description": "Ten focus groups with transgender women and transgender men will be conducted. . The structure of the focus groups will utilize an interactive \"Rapid Approach\", which differs from traditional focus groups by asking fewer questions and tightly focusing on specific areas of inquiry."
+            },
+            {
+              "label": "In-Depth Interviews",
+              "description": "Participants for the IDIs, 10-15 TW and TM, will be selected from among Phase 1 participants. We will create a purposive sample that represents a range of experiences that occurred during Phase 1."
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* HIV uninfected\n* Able to provide informed consent in English\n* Self-reports HIV transmission risk behavior including one or more of the following: a) condomless anal or vaginal intercourse, b) 3 or more sexual partners in the past 3 months, c) any diagnosis by self-report of a STI in the past 12 months, and e) any history of transactional sex work\n\nExclusion Criteria:\n\n* Hospitalization within 30 days of study entry (elective procedures okay with team approval)\n* Condition (medical, psychological, or social) that, in the opinion of the study investigators, would preclude the participant from completing study-required procedures\n* Previous participation in an HIV vaccine study, unless the participant can document placebo arm assignment\n* Use of TDF/FTC in the past 3 months",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Self-identification as a transgender individual",
+          "minimumAge": "15 Years",
+          "maximumAge": "24 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ],
+          "studyPopulation": "Transgender women youth and transgender men youth at high-risk of acquiring HIV",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03652623",
+          "briefTitle": "Transgender Youth and PrEP: PK, Safety, Uptake & Adherence - PK Study"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "To address the critical scientific gaps in PrEP safety for transgender youth and to plan for appropriate implementation of PrEP in transgender youth communities, the study will be conducted in 3 integrated phases. In Phase 1, a pharmacokinetic (PK) study exploring the interactions of cs-HT for both TW and TM youth on TDF/FTC will be conducted. Simultaneously, in Phase 2, ethnographic data via focus groups (FGs) and in-depth interviews (IDIs) to inform the development of a tailored intervention to improve uptake and adherence to PrEP for transgender youth will be collected. In Phase 3, a small demonstration trial of PrEP use in transgender youth, utilizing the ethnographically developed intervention to improve uptake and adherence, while also monitoring renal and bone safety outcomes will be implemented.\n\nThe project has the following important specific aims:\n\nAim 1: To evaluate the differential PK of TDF/FTC in a cohort of transgender youth on cs-HT by conducting a PK trial of daily TDF/FTC among 24 TW taking estradiol and 24 TM taking testosterone (ages 15-24 years) using video-based directly observed therapy (DOT) to insure daily adherence and maximize drug exposure.\n\nAim 2: To develop a culturally, developmentally, and gender-affirmative intervention to increase uptake of and adherence to PrEP among TW and TM youth that is grounded in theory (Information-Motivation-Behavioral Skills Model of Behavior Change, Gender Affirmation, Empowerment Theory) and incorporates the PK data from Aim 1. The investigators will conduct FGs with young TW (N=20-30) and TM (N=20-30) and conduct IDIs with participants from the PK study (Total N=10-14). Investigators will solicit continuous input and feedback from TW and TM on the project's Youth Advisory Board.\n\nAim 3: To conduct a small randomized controlled trial within a PrEP demonstration project comparing the newly developed intervention with standard of care (SOC) in TW (N=50) and TM (N=50) ages 15-24 years."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HIV/AIDS",
+            "Gender",
+            "Behavior and Behavior Mechanisms"
+          ],
+          "keywords": [
+            "Transgender",
+            "Pre-exposure Prophylaxis (PrEP)",
+            "HIV Prevention",
+            "Tenofovir Disoproxil Fumarate/Emtricitabine (TDF/FTC)",
+            "Cross-sex Hormone Therapy",
+            "Adherence",
+            "Behavior Change",
+            "Gender Affirmation"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "primaryPurpose": "PREVENTION",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 49,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "TDF/FTC and cs-HT",
+              "type": "EXPERIMENTAL",
+              "description": "Transgender youth will simultaneously take TDF/FTC and cs-HT. TW will take oral estradiol +/- spironolactone and TM will take subcutaneous testosterone. In order to ensure adherence to TDF/FTC, daily DOT procedures will be employed.",
+              "interventionNames": [
+                "Drug: TDF/FTC"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "TDF/FTC",
+              "description": "In Phase 1, a PK study will be conducted to evaluate the differential PK of TDF/FTC in a cohort of transgender youth on cs-HT by conducting a PK trial of daily TDF/FTC among transgender women taking estradiol and transgender men taking testosterone (ages 15-24 years) using video-based directly observed therapy (DOT) to insure daily TDF/FTC adherence and maximize drug exposure.",
+              "armGroupLabels": [
+                "TDF/FTC and cs-HT"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Self-identification as a transgender individual \\[As determined by the two-step process of gender identification whereby potential participants will be asked their gender identity and sex assigned at birth\\]\n* HIV-uninfected by EIA and viral load within 7 days of study entry\n* Creatinine clearance \u2265 60 mL/min by Cockroft Gault for ages \u226518 years (Schwartz equation for those \\<18)\n* Willing to comply with all study procedures\n* On a stable dose of cs-HT for at least 2 months verified by clinical chart review and willing to not change doses for duration of PK study\n\nExclusion Criteria:\n\n* Hospitalization within 30 days of study entry (elective procedures okay with team approval)\n* Condition (medical, psychological, or social) that, in the opinion of the study investigators, would preclude the participant from completing study-required procedures\n* Previous participation in an HIV vaccine study, unless the participant can document placebo arm assignment\n* Use of TDF/FTC in the past 3 months",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "Self-identification as a transgender individual",
+          "minimumAge": "15 Years",
+          "maximumAge": "24 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06351501",
+          "briefTitle": "Evaluation of the Effectiveness of Hormonal Treatment in Adolescents Suffering From Gender Dysphoria"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Gender dysphoria (GD) is a significant suffering lasting more than 6 months in a subject, with regard to the discrepancy felt between his or her gender identity and his or her birth sex. From the onset of puberty, most of these self-identified transgender adolescents will persist in their transgender identity and will undergo hormonal and surgical reassignment when the time comes. International best practice guidelines recommend early treatment from the start of pubertal development to block pubertal progression, with the possibility of hormonal transition by administering sex hormones of the desired sex usually around the age of 15.5. However, in order to reduce the psychosocial consequences of GD, more and more referral teams are carrying out this transition from the age of 13.5, although no study has been published to show its benefit compared with a transition at the age of 15.5. In the absence of treatment, co-morbidity among adolescents suffering from gender dysphoria is very high, with anxiety-depressive states, suicidal risk and dropping out of school in the forefront. Our hypothesis is that hormonal transition started at an age closer to physiological puberty can significantly reduce this comorbidity and improve quality of life for these adolescents. This is the first therapeutic trial to be conducted in France in the transgender adolescent population, in an area where international recommendations based on the principles of Evidence Based Medicine are essentially derived from the clinical expertise of teams who have specialized in the care of transgender people for over forty years, while clinical data derived from structured research are still very scarce.\n\nThe results of this study will guide the care of transgender adolescents, allowing them, if the study is positive, to access hormonal treatments earlier and thus more quickly improve their overall functioning, anxiety-depressive symptoms and their quality of life."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Dysphoria"
+          ],
+          "keywords": [
+            "Gender Dysphoria",
+            "adolescents",
+            "hormonal treatment",
+            "mental health"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "interventionModelDescription": "Multicenter, controlled, randomized, open trial with blinded evaluation of the primary endpoint (Prospective Open Blinding Endpoint PROBE study). Randomization will be stratified by sex assigned at birth and the investigating center. The primary analysis will be intention-to-treat and multiple imputation methods will be used to handle missing data. After verification of the inclusion criteria by the child psychiatrist (selection visit), then the pediatric endocrinologist (inclusion visit), the adolescent will be included in the study and will benefit from an initial evaluation (T0) by a psychologist trained for the primary criterion (CGAS) and secondary psycho-affective criteria. The patients will then be sent again to the pediatric endocrinologist who will randomize the patient (via an IT platform) and give them the treatment corresponding to their assigned group.",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "SINGLE",
+              "maskingDescription": "The assessment of the primary criteria will be carried out by a psychologist who will have no knowledge of the teenager's allocation group and will not have been involved in his or her care. At T1, the assessment will be based on key elements of the patient's file provided to him or her without any element that could indicate his or her allocation group or original gender, and a telephone interview with the teenager and his or her parents in which they will have been told in advance not to reveal the allocation group or gender. The psychologist who assesses a 15.5-year-old will be different from the one who assesses a 13.5-year-old. Psychological assessments other than the primary criterion, and the assessment by the pediatric endocrinologist, will take place at the site of the patient's usual care. Adolescents will be monitored as part of their usual care.",
+              "whoMasked": [
+                "OUTCOMES_ASSESSOR"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 60,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "early hormonal treatment",
+              "type": "EXPERIMENTAL",
+              "description": "early hormonal treatment initiated at 13.5 years +/- 6 months, in addition to usual care",
+              "interventionNames": [
+                "Drug: hormonal treatment with cross sex hormones (testosterone or oestrogenes) started at 14 years old +/- 6 months"
+              ]
+            },
+            {
+              "label": "usual treatment",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Usual care between 13.5 and 15.5 years +/- 6 months : child psychiatric consultations, endocrinological consultations and consultations with a psychologist, family interviews, network work with local health partners and national education.\n\nThen hormonal treatment initiated at 15.5 years +/- 6 months, in addition to usual care.",
+              "interventionNames": [
+                "Drug: Cross sex hormones ( \u0153strogenes or testosterone) started at 15.5 years old +/- 6 months"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "hormonal treatment with cross sex hormones (testosterone or oestrogenes) started at 14 years old +/- 6 months",
+              "description": "4 years of follow up (FU) with evaluation at T0 (13.5 years old +/- 6 months), T1 (15.5 years old +/-6 months) and T2 (17.5 years old+/- 6 months) with eather ANDROGEL\u00ae 16.2 mg/g, gel (testost\u00e9rone) or ESTREVA\u00ae 0.1 %, gel ou 1.3 PROVAMES\u00ae 1 mg, cp (oestrogenes)",
+              "armGroupLabels": [
+                "early hormonal treatment"
+              ]
+            },
+            {
+              "type": "DRUG",
+              "name": "Cross sex hormones ( \u0153strogenes or testosterone) started at 15.5 years old +/- 6 months",
+              "description": "2 years of hormonal treatment from 15.5 old +/- 6 months to 17.5 years old +/- 6 months",
+              "armGroupLabels": [
+                "usual treatment"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Adolescents aged 13.5 years +/- 6 months,\n* Having initiated puberty: tanner score \u22652 for transgender boys; tanner score \u22652 for ; (clinic and/or testosterone \\>0.3 ng/mL) for transgender girls\n* Presenting the criteria for gender dysphoria according to the DSM5 assessed by at least two child psychiatric interviews at least six months apart where the diagnosis of gender dysphoria was clinically established and that of associated autism spectrum disorder refuted and/or associated cognitive impairment, confirmed by specific scales (Gender Identity / Gender Dysphoria Questionnaire for Adults and Adolescents (GIDYQ-AA) and Utrecht Gender Dysphoria Scale (UGDS))\n* Whose indication for hormonal transition has been validated in a multidisciplinary consultation meeting after at least one consultation with the pediatric endocrinologist with clinical examination, blood pressure measurement, and information on hormonal treatments in the context of gender dysphoria.\n\nExclusion Criteria:\n\n* Contraindication to hormonal treatment (see paragraph 1.5)\n* Hormonal treatment needs to be adjusted (transgender boys patients treated with anti-coagulants or with thrombophilia).\n* Patients with risk of aggravation of certain diseases under oestrogen treatment (transgender girls patients with uncontrolled diabetes with HBA1C \\> 8%, patients with cholelithiasis, biliary lithiasis, systemic lupus erythematosus, severe asthma, severe arterial hypertension, severe migraines, otosclerosis, epilepsy not controlled by treatment).\n* Patients with cancer with a risk of hypercalcemia (and associated hypercalciuria), linked to bone metastases.\n* Severe cardiac, hepatic or renal failure or ischemic heart disease, due to the risk of severe complications characterized by edema, with or without congestive heart failure.\n* Uncontrolled high blood pressure.\n* Patients with epilepsy and migraine.\n* Patients with current or history of thromboembolic events.\n* Severe untreated chronic depression clinically assessed and documented using the Beck Depression Inventory (BDI).\n* Diagnosed schizophrenia that is unstable or progressive\n* Diagnosed bipolar disorder that is unstable or progressive\n* Suicidal ideation identified through the MINI with a Columbia C-SSRS score \\> 4, until the clinical condition has stabilized\n* Current anticoagulant treatment\n* Severe autism Spectrum Disorder (clinical screening, confirmed in cases of doubt by the Social Responsiveness Scale (SRS) Raw-score \\> 76, carried out as part of usual care in cases of clinical evidence,\n* Cognitive deficit (clinical screening, confirmed by an QI \\< 80 on the Weschler scale (WISC V), carried out as part of the usual treatment in the event of clinical evidence.\n* Refusal to participate in the study on the part of the adolescent or one of the holders of parental authority (both holders and the adolescent must sign a written consent after receiving appropriate information).\n* No social security cover\n* Participation in other intervention research\n* Pregnancy in progress\n* Insufficient knowledge of French",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "156 Months",
+          "maximumAge": "168 Months",
+          "stdAges": [
+            "CHILD"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04050371",
+          "briefTitle": "Study of Truvada for HIV Pre Exposure Prophylaxis Using Daily Directly Observed Therapy to Look at Potential Interactions Between Truvada and Hormone Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "Truvada (Emtricitabine or FTC and tenofovir disoproxil fumarate or TDF) has been approved for HIV prevention since 2012. Drug concentrations after receipt of oral Truvada for HIV Pre Exposure Prophylaxis (or PrEP) appeared to be lower in transgender women compared to Men who Have Sex with Men (MSM) in the iPrEx study, the landmark study of PrEP for HIV prevention. Concentrations were especially low among transgender women (TGW) reporting use of feminizing hormones. Reasons for the lower drug concentrations may be behavioral or biomedical, or a combination of both. While there are no systemic drug-drug interactions between TDF and oral contraception, there are known interactions involving these classes of medications with drug transporters that could affect drug concentrations in target tissues. Drug-drug interactions with natural estrogens and anti-androgenic agents used for gender affirming hormone therapy among transgender women have not been studied, neither have interactions between emtricitabine and female hormones. Concerns about the impact of PrEP on gender affirming hormone therapy is the main barrier for uptake of PrEP among transgender women. In addition, very little is known about TDF/FTC pharmacokinetics in transgender men using testosterone hormonal therapy. Drug-drug interactions with masculinizing hormones have never been properly investigated as trans gender men have not been formally involved in PrEP clinical trials or demonstrations projects.This small study will assess pharmacokinetic drug-drug interactions between tenofovir disoproxil fumarate/emtricitabine and cross-sex hormone therapy. The I-BrEATHe study is a substudy of the Triumph study, a culturally-relevant community-led PrEP demonstration project in transgender communities. The I- BrEATHe pharmacokinetic substudy will provide Truvada daily using directly observed therapy in 24 transgender women and 24 transgender men over a one month period, and will measure drug and hormone therapy levels in blood collected from participants."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HIV Prevention",
+            "Transgender Health"
+          ],
+          "keywords": [
+            "Pre Exposure Prophylaxis",
+            "HIV prevention",
+            "Emtricitabine, Tenofovir Disoproxil Fumarate",
+            "transgender health",
+            "transgender persons",
+            "drug combination",
+            "androgens",
+            "estrogens",
+            "drug combinations",
+            "transmen",
+            "non binary",
+            "Truvada",
+            "daily observed therapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "interventionModelDescription": "All participants will receive Truvada for study duration and will take pills using daily observed therapy.",
+            "primaryPurpose": "BASIC_SCIENCE",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 48,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "TRUVADA DOT",
+              "type": "EXPERIMENTAL",
+              "description": "one tablet containing 200 mg of emtricitabine and 300 mg of tenofovir disoproxil fumarate as single dose with daily observed therapy performed either via video calling, or at study visit, for a total of 28 to 30 days",
+              "interventionNames": [
+                "Drug: 200 mg emtricitabine and 300 mg tenofovir disoproxil fumarate"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "200 mg emtricitabine and 300 mg tenofovir disoproxil fumarate",
+              "description": "All study participants received daily observed therapy with FTC/TDF.",
+              "armGroupLabels": [
+                "TRUVADA DOT"
+              ],
+              "otherNames": [
+                "Truvada"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\nAll subjects:\n\n* HIV antibody seronegative (negative HIV rapid test),\n* 18 years or older,\n* Has a smart phone with access to two-way video call capability,\n* Willingness to be contacted for a short call every day for 4 weeks,\n* Adequate renal function (creatinine clearance \u2265 60 ml/min estimated by the Cockcroft Creatinine Clearance Formula),\n* Provides written informed consent,\n\nFor Transgender women:\n\n* Male assigned sex at birth, and self-reported current gender identity as \"woman\" or \"transgender women\", or other trans-feminine spectrum identity,\n* Current feminizing Hormone Therapy (HT) use for at least 6 months,\n\nFor Transgender men:\n\n* Female assigned sex at birth, and self-reported current gender identity as \"man\" or \"transgender man\", or other trans-masculine spectrum identity,\n* Current masculinizing Hormone Therapy (HT) use for at least 6 months with testosterone\n\nExclusion Criteria\n\n* Expects to change or discontinue current HT use during the 4 weeks study period,\n* Signs of symptoms of acute viral syndrome,\n* Use of FTC or TDF in the past 90 days\n* Receiving ongoing therapy with any of the following:\n\nAntiRetroviral Therapy, including nucleoside analogs, non-nucleoside reverse transcriptase inhibitors, protease inhibitors or investigational antiretroviral agents interferon (alpha, beta, or gamma) or interleukin (e.g., IL-2) therapy, aminoglycoside antibiotics, amphotericin B, cidofovir, systemic chemotherapeutic agents, other agents with significant nephrotoxic potential, other agents that may inhibit or compete for elimination via active renal tubular secretion (e.g., probenecid), and/or other investigational agents\n\n* Renal insufficiency documented as Creatinine Clearance \\< 60 ml/min\n* For masculine-spectrum identifying persons, positive pregnancy test at screening\n* At enrollment, has any other condition or factor that, based on the opinion of the investigator or designee, would preclude provision of informed consent; make participation in the study unsafe; complicate interpretation of study outcome data; or otherwise interfere with achieving the study objectives.",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "genderBased": true,
+          "genderDescription": "transmen, transwomen and gender non conforming",
+          "minimumAge": "18 Years",
+          "maximumAge": "65 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04838249",
+          "briefTitle": "Effects of Cross-sex Hormone Therapy on Eating Behavior, Metabolism, Energy Balance and Cardiovascular System"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Current study aims to characterize five highly interconnected physiological systems in patients undergoing cross-sex hormone therapy - namely glucose and lipid metabolism, energy balance, eating behavior, functional brain networks involved in the regulation of eating behavior and the cardiovascular system - to gain novel insights into the effects of sex hormones on the human body. Gathered information will help to identify pathophysiological mechanisms for the development of overeating/obesity, insulin resistance, and cardiovascular disease. Secondarily, the relationships between the gut and oral microbiomes and metabolomes and circulating bacterial signatures will be investigated in relation to the other pervasive physiological systems.\n\nCurrent study is an observational study. The decision if the patient's request for cross-sex hormone therapy can complied with (i.e., if cross-sex hormone therapy is medically indicated) is made prior to the first contact with the study center and with the outpatients clinic for Endocrinology at the University Hospital in Leipzig. Decision ifor treatment is made according to national and international guidelines. Treatment of study participants with testosterone and estradiol/antiandrogens is not affected by the study. During the course of the study no invasive interventions are being performed."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transsexualism",
+            "Transgenderism",
+            "Adiposity",
+            "Eating Behavior",
+            "Arterial Stiffness",
+            "Microangiopathy"
+          ],
+          "keywords": [
+            "Transsexualism",
+            "Energy expenditure",
+            "Energy balance",
+            "Eating behavior",
+            "Adiposity",
+            "Cardiovascular disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "CASE_CONTROL",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "blood samples, hair"
+          },
+          "enrollmentInfo": {
+            "count": 80,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Female Control",
+              "description": "n = 20; Inclusion criteria\n\ninformed consent, if \\<18 years from all legal guardians only for part B (patients will participate in all other study parts): weight stable (\u00b1 5%) for last 3 months BMI \u2264 30 kg/m\u00b2 Exclusion criteria severe medical impairments (e.g., uncontrolled cardiovascular disease, severe heart failure, uncontrolled hypertension, cerebral insult, active malign disease, etc.) only for part B (patients will participate in all other study parts): Insufficiently controlled endocrine disorders Chronic pulmonary disorders Diagnosed gastrointestinal diseases History of HIV infection or ongoing chronic infection only for part D (patients will participate in all other study parts): Contraindication against performance of an MRI scan (i.e., presence of metal in body, tattoos in head/neck region, claustrophobia etc.)"
+            },
+            {
+              "label": "Male Control",
+              "description": "n = 20; Inclusion criteria\n\ninformed consent, if \\<18 years from all legal guardians only for part B (patients will participate in all other study parts): weight stable (\u00b1 5%) for last 3 months BMI \u2264 30 kg/m\u00b2 Exclusion criteria severe medical impairments (e.g., uncontrolled cardiovascular disease, severe heart failure, uncontrolled hypertension, cerebral insult, active malign disease, etc.) only for part B (patients will participate in all other study parts): Insufficiently controlled endocrine disorders Chronic pulmonary disorders Diagnosed gastrointestinal diseases History of HIV infection or ongoing chronic infection only for part D (patients will participate in all other study parts): Contraindication against performance of an MRI scan (i.e., presence of metal in body, tattoos in head/neck region, claustrophobia etc.)"
+            },
+            {
+              "label": "Female cross-sex hormone therapy",
+              "description": "n = 20; Inclusion criteria\n\ntranssexual patients undergoing cross-sex hormone therapy informed consent, if \\<18 years from all legal guardians only for part B (patients will participate in all other study parts): weight stable (\u00b1 5%) for last 3 months BMI \u2264 30 kg/m\u00b2\n\nExclusion criteria\n\nsevere medical impairments (e.g., uncontrolled cardiovascular disease, etc.) self-initiated cross-sex hormone therapy before study start only for part B (patients will participate in all other study parts): Insufficiently controlled endocrine disorders Chronic pulmonary disorders Diagnosed gastrointestinal diseases History of HIV infection or ongoing chronic infection only for part D (patients will participate in all other study parts): Contraindication against performance of an MRI scan"
+            },
+            {
+              "label": "Male cross-sex hormone therapy",
+              "description": "n = 20; Inclusion criteria\n\ntranssexual patients undergoing cross-sex hormone therapy informed consent, if \\<18 years from all legal guardians only for part B (patients will participate in all other study parts): weight stable (\u00b1 5%) for last 3 months BMI \u2264 30 kg/m\u00b2\n\nExclusion criteria\n\nsevere medical impairments (e.g., uncontrolled cardiovascular disease, etc.) self-initiated cross-sex hormone therapy before study start only for part B (patients will participate in all other study parts): Insufficiently controlled endocrine disorders Chronic pulmonary disorders Diagnosed gastrointestinal diseases History of HIV infection or ongoing chronic infection only for part D (patients will participate in all other study parts): Contraindication against performance of an MRI scan"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* transsexual patients undergoing cross-sex hormone therapy versus controls\n* able to give informed consent, if \\<18 years from all legal guardians\n* only for part B (patients will participate in all other study parts): weight stable (\u00b1 5%) for last 3 months, BMI \u2264 30 kg/m2\n\nExclusion Criteria:\n\n* severe medical impairments (e.g., uncontrolled cardiovascular disease, severe heart failure, uncontrolled hypertension, cerebral insult, active malign disease, etc.)\n* self-initiated cross-sex hormone therapy before study start only for part B (patients will participate in all other study parts): Insufficiently controlled endocrine disorders (Cushing's disease, other uncontrolled pituitary disorders, uncontrolled hypothyroidism, hyperthyroidism, etc.)\n* Chronic pulmonary disorders, including chronic obstructive pulmonary disease that would limit ability to follow the protocol (investigator judgment) and obstructive sleep apnea syndrome; only subjects with mild or exercise-induced asthma on no medications or on beta-adrenergic agonists only will be allowed to enter the study (provided use of these agents is not required for 1 week before\n* Diagnosed gastrointestinal diseases, including inflammatory bowel diseases (e.g. Crohn's disease and ulcerative colitis), malabsorption syndromes (e.g. celiac disease), gastric ulcer (active); only subjects with gastro-esophageal reflux will be allowed to enter the study entry).\n* History of HIV infection or ongoing chronic infection (such as tuberculosis)\n* only for part D (patients will participate in all other study parts): Contraindication against performance of an MRI scan (i.e., presence of metal in body, tattoos in head/neck region, claustrophobia etc.)",
+          "healthyVolunteers": true,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Transsexual patients will be recruited in the outpatient clinic for Endocrinology at the University Hospital Leipzig. Patients seeking cross-sex hormone therapy will be asked before starting cross-sex hormone therapy for their willingness to participate in the study. If the patients would like to participate, a screening of in- and exclusion criteria will be performed. If the patient matches the criteria, the patient will be informed about the study procedures and eventual risks and if written consent will be given, the patient will be included into the study. Willingness to participate in the study will not influence the medical treatment. A control group of men and women matched for age, body mass index, health status and education who are nor undergoing cross-sex hormone therapy will be recruited through advertisements in the internet.",
+          "samplingMethod": "PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03836027",
+          "briefTitle": "Fertility Desires and Reproductive Needs of Transgender People"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "Majority of transgender and gender nonconforming people seeking medical care are in pubertal and reproductive age. Cross-sex hormones may compromise fertility especially when preceded by puberty blocking regimen. Our current understanding on reproductive needs of transgender persons is insufficient.\n\nThe guidelines of Endocrine Society and the World Professional Association for Transgender Health prompt the health professionals to provide information on fertility risk and fertility preservation options before initiating hormonal treatment. Currently, no clear tools are available for healthcare professionals. Among several challenges for clinical care are a low clinical awareness, a lack of suitable psycho-educational instruments addressing fertility values that can be used to facilitate discussion between transgender persons and healthcare providers, a lack of established methods for fertility preservation in prepubertal youth, and a lack of long-term data regarding reproductive function, psychological and societal outcomes in this population. Likewise, current data are sparse regarding the experience of transgender and gender nonconforming people with fertility preservation.\n\nOur aim is to describe desires, attitudes and knowledge of transgender and gender nonconforming people regarding fertility preservation wishes and reproductive needs."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Fertility Preservation",
+            "Parenting",
+            "Gender Dysphoria"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "No intervention",
+              "description": "No intervention"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \u2265 18 years\n* Follow-up in the Department of Endocrinology, Diabetology and Nutrition of the University Hospital of Nancy\n* Gender dysphoria according to the ICD 11\n* Voluntary, informed consent to participate in research\n* Compulsory affiliation to the social security system\n\nExclusion Criteria:\n\n-Refusal or incapacity to be involved in the study",
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Participation to the study will be proposed consecutively to all subjects, fulfilling inclusion criteria, attending in-office follow-up visit for gender dysphoria in the Department of Endocrinology, Diabetology and Nutrition of the University Hospital of Nancy",
+          "samplingMethod": "PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06573177",
+          "briefTitle": "Optimizing Individual Health Care for Young People With Gender Incongruence"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "This observational study focuses on evaluating the effect of the current health care program for Danish children and adolescents with gender incongruence, which was established in January 2016. Somatic outcome parameters include growth, bone health, body composition, metabolic parameters, hormone levels and concurrent diseases. Psychosocial parameters include the trajectory of gender incongruence development, mental health, i.e. autism spectrum disorders, behavioural problems, self-harm, suicidal ideation and psychiatric diagnoses, and social context, i.e. family demographics, education, minority stress.\n\nThis study aims to:\n\n1. Characterise the psychosocial profile of all children and adolescents referred for treatment, as well as the history of gender identity development and treatment trajectories.\n2. Systematically evaluate biological parameters before and during hormonal treatment with gonadotropin-releasing hormone (GnRH) analogues and cross-sex hormones, and to establish a biobank for those in hormone treatment.\n\nThe investigators hypothesise that intervention with counselling and hormonal treatment is safe and has a positive impact on psychosocial well-being of transgender youngsters. The overall aim is to provide data for improving future family counselling, clinical care, patient satisfaction, patient safety and ultimately quality-of-life."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Incongruence"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "OTHER"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "Serum, plasma, DNA."
+          },
+          "enrollmentInfo": {
+            "count": 1300,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "type": "OTHER",
+              "name": "Referral to the gender identity service.",
+              "description": "Referral to the national gender identity service consisting of the Sexological Clinic, Child and Adolescent Mental Health Center, and Department of Growth and Reproduction in the Capital Region of Denmark."
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Accepted referral to the gender identity service.\n\nExclusion Criteria:\n\n* None.",
+          "sex": "ALL",
+          "maximumAge": "18 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT"
+          ],
+          "studyPopulation": "All children and youngsters under the age of 18 years referred to the gender identity service in Denmark.",
+          "samplingMethod": "PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02185274",
+          "briefTitle": "Observational Study on Metabolism and Psychopathology in Transsexual Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED"
+        },
+        "descriptionModule": {
+          "briefSummary": "Gender identity disorders (also known as transsexualism) is defined as a condition in which a person with apparently normal somatic sexual differentiation is convinced that he or she is actually a member of the other sex. Most patients therefore undergo so called cross-sex hormone treatment. Treatment protocols follow international consensus statements but vary considerably between different centres and countries since no prospective and controlled trials are available on this subject and recommendations are mainly based on retrospective data analysis and experience of the individual centres. Applying high doses of testosterone to biological females and vice versa high doses of estradiol to biological males definitely impacts myriads of body functions, from which it has to be assumed that only a minority has already been elucidated so far. Especially in male-to-female-transsexuals there seems to be an increased risk for the development of mood disorders and cardiometabolic comorbidities. In this multi-center observational study we want to investigate, if there is any difference with regard to these outcomes, according to the varying standards of cross-sex hormone treatment between the different centers. Different outcome measures described below will be assessed each time during routine visits at the different centers."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transsexualism"
+          ],
+          "keywords": [
+            "Transsexualism",
+            "Cross-sex hormone treatment",
+            "Sex hormones",
+            "Mood",
+            "Stress",
+            "Cortisol",
+            "Cardiovascular",
+            "Metabolome"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "patientRegistry": false,
+          "designInfo": {
+            "observationalModel": "COHORT",
+            "timePerspective": "PROSPECTIVE"
+          },
+          "bioSpec": {
+            "retention": "SAMPLES_WITH_DNA",
+            "description": "* 2 x 10ml serum\n* 10ml urine\n* Hair sample\n* 7,5ml EDTA-Blood for DNA and plasma\n* 2,5ml blood for mRNA-Analysis\n* 8,5ml stabilized serum\n* Stool sample (2-5ml)"
+          },
+          "enrollmentInfo": {
+            "count": 100,
+            "type": "ACTUAL"
+          }
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion criteria\n\n* Patients with the diagnosis gender identity disorder (ICD-10: F64.0), who have given written informed consent following adequate oral and written information.\n\nGeneral Exclusion criteria\n\n* Patients below the age of 18\n* Legally incompetent patients\n* Prior intake of cross-sex hormones\n* Missing written informed consent\n* Intersexuality",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "18 Years",
+          "maximumAge": "70 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ],
+          "studyPopulation": "Patients will be recruited from the outpatient clinics of the corresponding centres. Every patient is eligible who has not yet received any cross-sex hormone treatment. Patients will be invited to participate at the regular visit after which it is planned to start hormone treatment. Further visits will follow the regular check-up visits in the corresponding centers.",
+          "samplingMethod": "NON_PROBABILITY_SAMPLE"
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05649605",
+          "briefTitle": "Early Mental Response - The EMRE Study"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING"
+        },
+        "descriptionModule": {
+          "briefSummary": "Primary question: Does transgender men's experience of gender incongruence improve within 6 weeks of hormonal treatment compared to placebo? Long before any bodily changes occur.\n\nSecondary question: Does transgender men\u00b4s experience of self-esteem, quality of life, sexual desire, aggression, depression/anxiety, impulsiveness, and emotional reactivity improve during 6 weeks of cross-sex hormone therapy compared to placebo? Gender dysphoria is a condition characterized by a perceived incongruence between the body and identity. For several decades this condition has been treated with cross-sex hormone therapy and surgery, among others, in order to change the body to be more congruent with the perceived gender identity. Patient satisfaction with this treatment is very high where an overwhelming majority of patients live the rest of their lives according to their perceived gender. A clinical observation, however, is that most patients experience that the congruence between the perceived gender and the assigned one improves very quickly on hormonal treatment. Long before any changes to the body have taken place. This may be partly due to relief from having finally started treatment (i.e. a psychological/social explanation) but an alternative (and much more likely) explanation is that the hormonal treatment directly affects the brain. Since the cause of gender dysphoria is unknown today, this study is therefore a step in trying to clarify the mechanism. In addition, it is of value to be able to demonstrate the benefits of hormonal treatment in these patients. Finally, there is a basic research motive for this study. The effect of sex hormones on the brain is very well known from a clinical perspective but all the more unknown from a research perspective. This study will contribute knowledge in this area."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gender Dysphoria",
+            "Gender Identity",
+            "Gender Issues"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "RANDOMIZED",
+            "interventionModel": "PARALLEL",
+            "interventionModelDescription": "Prospective, randomized, placebo controlled, double blind study.",
+            "primaryPurpose": "BASIC_SCIENCE",
+            "maskingInfo": {
+              "masking": "QUADRUPLE",
+              "maskingDescription": "All participating research staff will be blinded to the treatment the patient is receiving. The drug and placebo will be labelled by Tamro AB, which will ensure that Nebido and placebo cannot be separated.",
+              "whoMasked": [
+                "PARTICIPANT",
+                "CARE_PROVIDER",
+                "INVESTIGATOR",
+                "OUTCOMES_ASSESSOR"
+              ]
+            }
+          },
+          "enrollmentInfo": {
+            "count": 70,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Active comparator arm",
+              "type": "ACTIVE_COMPARATOR",
+              "description": "Active treatment",
+              "interventionNames": [
+                "Drug: Testosterone treatment"
+              ]
+            },
+            {
+              "label": "Placebo comparator arm",
+              "type": "PLACEBO_COMPARATOR",
+              "description": "Placebo treatment",
+              "interventionNames": [
+                "Other: Placebo treatment"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DRUG",
+              "name": "Testosterone treatment",
+              "description": "Cross-sex hormone therapy consisting of intramuscular injection of testosterone undecanoate 250mg/ml. 4ml (total dosage of 1000mg) administered by trained nurse in the gluteal region at visit 1.",
+              "armGroupLabels": [
+                "Active comparator arm"
+              ],
+              "otherNames": [
+                "Nebido (3-oxandrostenderivate), testosterone undecanoate"
+              ]
+            },
+            {
+              "type": "OTHER",
+              "name": "Placebo treatment",
+              "description": "Saline solution. Intramuscular injection of physiological saline solution. 4ml administered by trained nurse in the gluteal region at visit 1.",
+              "armGroupLabels": [
+                "Placebo comparator arm"
+              ],
+              "otherNames": [
+                "Sodium chloride solution"
+              ]
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion criteria:\n\n1. Well-informed written consent to participate in the study.\n2. Transgender man given the ICD-10 diagnosis of transsexualism.\n3. A desire for complete gender-confirming hormonal treatment.\n4. Approved for Nebido treatment by a clinically responsible Endocrinologist.\n\nExclusion criteria:\n\n1. A concomitant hormonal condition affecting the gonadal axis (e.g. Congenital Adrenal Hyperplasia, Poly Cystic Ovary Syndrome, Complete Androgen Insensitivity Syndrome, Partial Androgen Insensitivity Syndrome, untreated thyroid disease, untreated hypercortisolism, etc.).\n2. A disability that prevents the patient from fully participating in the study.\n3. Treatment with steroid hormones (androgens, estrogens, progestogens, or continuous treatment with oral corticosteroids within the last three months).\n4. Previous use of hormone preparations without a doctor's prescription.\n5. Laboratory samples significantly outside the normal reference range.\n6. Anamnestic or investigational suspicion of breast cancer or existing or previous liver tumors.\n7. Levels of P-ASAT, P-ALAT, or P-GT at the screening time that are\\> 2 times the reference range.\n8. Hypersensitivity to the active substance or to any of the excipients.\n9. Ongoing pregnancy or wishes for a pregnancy in the near future.",
+          "healthyVolunteers": false,
+          "sex": "FEMALE",
+          "genderBased": true,
+          "genderDescription": "Transgender males",
+          "minimumAge": "18 Years",
+          "maximumAge": "99 Years",
+          "stdAges": [
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        }
+      }
+    }
+  ]
+}
