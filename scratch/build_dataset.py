@@ -5,7 +5,7 @@ from collections import Counter
 from pathlib import Path
 
 
-REGISTRY_FILE = Path("scratch/candidates_full.json")
+REGISTRY_FILE = Path("data/raw/enrichment/enriched_studies.json")
 LEGACY_SCREENING_FILE = Path("data/candidate_studies.csv")
 AI_REVIEW_FILE = Path("data/ai_boundary_case_reviews.csv")
 REVIEW_FILE = Path("data/screening_review.csv")
