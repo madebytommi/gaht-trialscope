@@ -1,0 +1,4642 @@
+[
+  {
+    "nct_id": "NCT00023543",
+    "brief_title": "Reduction of Triglycerides in Women on Hormone Replacement Therapy",
+    "conditions": [
+      "Cardiovascular Diseases",
+      "Atherosclerosis",
+      "Postmenopause",
+      "Heart Diseases"
+    ],
+    "interventions": [
+      "Diet, fat-restricted",
+      "Exercise"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00082082",
+    "brief_title": "A Trial of Thymalfasin in Adult Patients With Hepatocellular Carcinoma",
+    "conditions": [
+      "Carcinoma, Hepatocellular"
+    ],
+    "interventions": [
+      "Thymalfasin (thymosin alpha-1)",
+      "Trans arterial chemoembolization (TACE)"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00146146",
+    "brief_title": "Testosterone and Its Metabolites in GID",
+    "conditions": [
+      "Transsexualism"
+    ],
+    "interventions": [
+      "testosterone undecanoate alone",
+      "testosterone undecanoate plus letrozole",
+      "testosterone undecanoate plus dutasteride"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00188708",
+    "brief_title": "Effect of Casodex on Tumour Hypoxia - Prostate Cancer",
+    "conditions": [
+      "Prostatic Neoplasms"
+    ],
+    "interventions": [
+      "hypoxia measurement"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00450749",
+    "brief_title": "Lycopene in Treating Patients Undergoing Radical Prostatectomy for Prostate Cancer",
+    "conditions": [
+      "Adenocarcinoma of the Prostate",
+      "Stage I Prostate Cancer",
+      "Stage II Prostate Cancer",
+      "Stage III Prostate Cancer"
+    ],
+    "interventions": [
+      "placebo",
+      "therapeutic conventional surgery",
+      "laboratory biomarker analysis",
+      "lycopene"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00544882",
+    "brief_title": "A Study to Evaluate Hormone Patterns and Ovarian Follicular Activity With DR-1021",
+    "conditions": [
+      "Healthy"
+    ],
+    "interventions": [
+      "DR-1021",
+      "Mircette\u00ae",
+      "Kariva\u00ae"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00608400",
+    "brief_title": "Effect of Dietary Conjugated Linoleic Acid (CLA) on Parathyroid Hormone in Men",
+    "conditions": [
+      "Healthy"
+    ],
+    "interventions": [
+      "Clarinol CLA"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00668603",
+    "brief_title": "Comparison of Vascular Findings Between Symptomatic and Asymptomatic Postmenopausal Women Before and During Hormone Therapy (HRT)",
+    "conditions": [
+      "Postmenopausal Vasomotor Symptoms",
+      "Cardiovascular Disease"
+    ],
+    "interventions": [
+      "17-b-estradiol",
+      "17-b-estradiol + medroxyprogeterone acetate",
+      "17-b-estradiol hemihydrate",
+      "placebo pill + gel"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00684606",
+    "brief_title": "Transcervical Foley Catheter With or Without Oxytocin for Induction of Labor",
+    "conditions": [
+      "Pregnancy",
+      "Induction of Labor"
+    ],
+    "interventions": [
+      "Oxytocin IV"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00705796",
+    "brief_title": "Influence of Administration Route of Testosterone on Male Fertility",
+    "conditions": [
+      "Hypogonadism"
+    ],
+    "interventions": [
+      "MPP10, testosterone",
+      "Testosterone"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00711607",
+    "brief_title": "A Trial to Assess the Pharmacokinetic Profile (e.g., Uptake, Distribution and Excretion of a Substance in the Body) of Nomegestrol Acetate (NOMAC), Estradiol (E2) and Estrone (E1) After Multiple and Single Dose Administration of the Combined Oral Contraception NOMAC-E2 (COMPLETED)(P05822)",
+    "conditions": [
+      "Healthy"
+    ],
+    "interventions": [
+      "nomegestrol acetate and estradiol"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00766857",
+    "brief_title": "Effects of Exenatide in Type 2 Diabetic Patients With Congestive Heart Failure",
+    "conditions": [
+      "Type 2 Diabetes Mellitus",
+      "Congestive Heart Failure"
+    ],
+    "interventions": [
+      "exenatide",
+      "Insulin glargine"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00789607",
+    "brief_title": "Fiducial Localization and Individualized Radiotherapy -Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "Transrectal APT Device or Transperineal Device will be used",
+      "TRUS probe"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00805701",
+    "brief_title": "Study Assessing The Efficacy And Safety Of Avodart (Dutasteride) At Improving Urinary Symptoms In Men With Prostate Cancer Who Are Undergoing Seed Implantation",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "avodart",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00831233",
+    "brief_title": "Symptomatic Study Investigating Degarelix in Patients Suffering From Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "Degarelix",
+      "Goserelin",
+      "Bicalutamide"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00833248",
+    "brief_title": "Neoadjuvant Study Investigating Degarelix in Patients Suffering From Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "Degarelix",
+      "Goserelin",
+      "Bicalutamide"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00866554",
+    "brief_title": "Efficacy and Toxicity of Bicalutamide and Dutasteride vs. Standard Care for Prostate Cytoreduction for Brachytherapy",
+    "conditions": [
+      "Prostate Cancer",
+      "Erectile Dysfunction",
+      "Lower Urinary Tract Symptoms"
+    ],
+    "interventions": [
+      "administration of a LHRH agonist and Bicalutamide",
+      "administration of Bicalutamide, Dutasteride and Tamoxifen"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00884273",
+    "brief_title": "Investigation of the Effect of Degarelix in Terms of Prostate Volume Reduction in Prostate Cancer Patients",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "Degarelix",
+      "Goserelin",
+      "Bicalutamide"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00887380",
+    "brief_title": "STARS Breast Trial (Study of Anastrozole and Radiotherapy Sequencing)",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "interventions": [
+      "Pre-radiotherapy commencement of anastrozole",
+      "Radiotherapy",
+      "Post radiotherapy commencement of anastrozole"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00962637",
+    "brief_title": "Study to Evaluate the Safety and Efficacy of Androxal\u2122 Treatment in Men With Secondary Hypogonadism",
+    "conditions": [
+      "Secondary Hypogonadism"
+    ],
+    "interventions": [
+      "Androxal",
+      "Androxal",
+      "AndroGel",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT00985738",
+    "brief_title": "Role of Dutasteride in Patients Undergoing 3D Mapping Biopsy in Early Stage Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "Dutasteride",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01065220",
+    "brief_title": "Sex Steroids and the Serotonin Transporter",
+    "conditions": [
+      "Transsexualism"
+    ],
+    "interventions": [
+      "Testolactone undecanoate",
+      "Lynestrenol",
+      "Cyproterone Acetate",
+      "Estradiol",
+      "5-alpha reductase inhibitor"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01072825",
+    "brief_title": "A European Network for the Investigation of Gender Incongruence",
+    "conditions": [
+      "Physical and Psychological Evaluation of Hormonal Therapy in Transsexual Persons"
+    ],
+    "interventions": [
+      "questionnaires",
+      "blood sampling",
+      "clinical evaluation",
+      "Dermatology evaluation",
+      "Bone evaluation"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT01171911",
+    "brief_title": "Comparison of Intravenous Injection of Calcium Antagonist and Beta-blockade on Endothelial Shear Stress of Coronary Artery",
+    "conditions": [
+      "Acute Coronary Syndrome",
+      "Coronary Artery Disease"
+    ],
+    "interventions": [
+      "Nicardipine , Esmolol"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01292785",
+    "brief_title": "Effects of Sex Steroid Hormones on Human Brain Function, Structure and Connectivity",
+    "conditions": [
+      "Gender Identity Disorder"
+    ],
+    "interventions": [
+      "Hormones"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT01354977",
+    "brief_title": "Effect of Resveratrol on Age-related Insulin Resistance and Inflammation in Humans",
+    "conditions": [
+      "Type 2 Diabetes Mellitus",
+      "Insulin Resistance"
+    ],
+    "interventions": [
+      "Resveratrol"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01523483",
+    "brief_title": "Vaginal Progesterone for Prevention of Preterm Birth After an Episode of Preterm Labor",
+    "conditions": [
+      "Preterm Birth"
+    ],
+    "interventions": [
+      "Progesterone",
+      "placebo vaginal capsules"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01534351",
+    "brief_title": "Comparison of Finasteride and Tamsulosin for Treatment of Benign Prostatic Hyperplasia (BPH) (MK-0906A-149 AM2)",
+    "conditions": [
+      "Benign Prostatic Hyperplasia"
+    ],
+    "interventions": [
+      "Finasteride",
+      "Tamsulosin",
+      "Finasteride-matching placebo",
+      "Tamsulosin-matching placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01653925",
+    "brief_title": "Molecular Mechanisms of Dutasteride and Dietary Interventions to Prevent Prostate Cancer and Reduce Its Progression",
+    "conditions": [
+      "Prostatic Neoplasms",
+      "Low Grade Prostate Cancer"
+    ],
+    "interventions": [
+      "Dietary intervention first",
+      "Drug (Dutasteride) intervention first"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01662466",
+    "brief_title": "Effect of Testosterone Treatment on Embryo Quality",
+    "conditions": [
+      "Primary Ovarian Insufficiency",
+      "Female Infertility Due to Diminished Ovarian Reserve"
+    ],
+    "interventions": [
+      "Testosterone cream (0.5mg per gram)",
+      "DHEA",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01720459",
+    "brief_title": "Effects of Micronized Trans-resveratrol Treatment on Polycystic Ovary Syndrome (PCOS) Patients",
+    "conditions": [
+      "Polycystic Ovary Syndrome (PCOS)"
+    ],
+    "interventions": [
+      "Micronized trans-resveratrol",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01755182",
+    "brief_title": "Systemic Therapy With or Without Upfront Transarterial Embolization for Inoperable Liver Metastasis of Neuroendocrine Tumors",
+    "conditions": [
+      "Neuroendocrine Tumors"
+    ],
+    "interventions": [
+      "approved pharmacologic therapy",
+      "TAE"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01812161",
+    "brief_title": "Effect of Low-frequency Electroacupuncture (EA) on Polycystic Ovary Syndrome",
+    "conditions": [
+      "Polycystic Ovary Syndrome"
+    ],
+    "interventions": [
+      "acupuncture protocol 1",
+      "Acupuncture protocol 2"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01828320",
+    "brief_title": "Triple Vulnerability? Circadian Tendency, Sleep Deprivation and Adolescence",
+    "conditions": [
+      "Eveningness/Sleep"
+    ],
+    "interventions": [
+      "Cognitive Behavior Therapy for Insomnia, Interpersonal and Social Rhythms Therapy, Chronotherapy",
+      "Psychoeducation"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01858194",
+    "brief_title": "REnal Sympathetic dEnervaTion as an a Adjunct to Catheter-based VT Ablation",
+    "conditions": [
+      "Ventricular Tachycardia"
+    ],
+    "interventions": [
+      "Renal sympathetic denervation",
+      "VT ablation alone"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01880489",
+    "brief_title": "Multicomponent Intervention to Reduce Sexual Risk and Substance Use",
+    "conditions": [
+      "HIV",
+      "Sexually Transmitted Infections",
+      "Substance Use"
+    ],
+    "interventions": [
+      "MI + CBST Intervention"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01882985",
+    "brief_title": "Docetaxel Plus Lycopene in Castration Resistant, Chemotherapy-Na\u00efve Prostate Cancer Patients",
+    "conditions": [
+      "Adenocarcinoma of the Prostate",
+      "Recurrent Prostate Cancer",
+      "Stage I Prostate Cancer",
+      "Stage IIA Prostate Cancer",
+      "Stage IIB Prostate Cancer",
+      "Stage III Prostate Cancer"
+    ],
+    "interventions": [
+      "Docetaxel",
+      "Lycopene"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01897324",
+    "brief_title": "IVF/ICSI Protocols in Poor Responders With Growth Hormone",
+    "conditions": [
+      "Female Infertility Due to Diminished Ovarian Reserve"
+    ],
+    "interventions": [
+      "Growth hormone (Norditropin, Novo nordisk)"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01931982",
+    "brief_title": "Effect of Glucagon-like Peptide 1 (GLP-1) on Microvascular Myocardial Function in Patients With Type 2 Diabetes.",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Microvascular Dysfunction"
+    ],
+    "interventions": [
+      "Victoza"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT01999686",
+    "brief_title": "PCOS Treatment Using DLBS3233, Metformin, and Combination of Both",
+    "conditions": [
+      "Polycystic Ovary Syndrome (PCOS)",
+      "Insulin Resistance"
+    ],
+    "interventions": [
+      "DLBS3233",
+      "Metformin XR",
+      "Placebo metformin",
+      "Placebo DLBS3233"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02018497",
+    "brief_title": "Essential Hypotension and Allostasis Registry",
+    "conditions": [
+      "Blood Pressure",
+      "Depression",
+      "Panic Attack",
+      "Fibromyalgia",
+      "POTS",
+      "Inappropriate Sinus Tachycardia",
+      "Coronary Heart Disease",
+      "Acute Coronary Syndrome (ACS)",
+      "Acute Myocardial Infarction (AMI)",
+      "Cerebrovascular Disease (CVD)",
+      "Transient Ischemic Attack (TIA)",
+      "Atrial Fibrillation",
+      "Diabetes Mellitus",
+      "Cancer",
+      "Systolic Heart Failure",
+      "Diastolic Heart Failure",
+      "Chronic Fatigue Syndrome",
+      "Syncope",
+      "Vasovagal Syncope"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT02060474",
+    "brief_title": "Thyroid Hormone Analog Therapy in MCT8 Deficiency: Triac Trial Patients",
+    "conditions": [
+      "Allan-Herndon-Dudley Syndrome"
+    ],
+    "interventions": [
+      "Triac"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02119377",
+    "brief_title": "First Australian National Trans Mental Health Study",
+    "conditions": [
+      "Transsexualism"
+    ],
+    "interventions": [
+      "questionnaire"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT02185274",
+    "brief_title": "Observational Study on Metabolism and Psychopathology in Transsexual Patients",
+    "conditions": [
+      "Transsexualism"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT02229617",
+    "brief_title": "Subcutaneous Testosterone Project",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Subcutaneous testosterone"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02264743",
+    "brief_title": "Oral Verses Patch Trial In Menopausal Women - Individualisation of Oestrogen Therapy",
+    "conditions": [
+      "Venous Thrombosis",
+      "Insulin Resistance"
+    ],
+    "interventions": [
+      "Femoston Conti",
+      "EVOREL\u00ae CONTI"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02378246",
+    "brief_title": "Swedish Iodine in Pregnancy and Development in Children (SWIDDICH) Study",
+    "conditions": [
+      "Thyroid Gland; Node",
+      "Pregnancy",
+      "Cognitive Developmental Delay"
+    ],
+    "interventions": [
+      "Iodine",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02380027",
+    "brief_title": "PRostate Evaluation for Clinically Important Disease: Sampling Using Image-guidance Or Not?",
+    "conditions": [
+      "Prostate Neoplasm"
+    ],
+    "interventions": [
+      "MRI",
+      "MRI-targeted biopsy",
+      "TRUS-biopsy"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02381340",
+    "brief_title": "ACE Stapler Sub Study",
+    "conditions": [
+      "Obesity"
+    ],
+    "interventions": [
+      "ACE stapling procedure"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT02381821",
+    "brief_title": "Endometrial Volume and Sub-endometrial Vascularity as Predictors of In-vitro Fertilization Success",
+    "conditions": [
+      "Reproductive Techniques, Assisted"
+    ],
+    "interventions": [
+      "3 D ultrasound and Doppler examination",
+      "GnRH agonist"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT02396459",
+    "brief_title": "Triac Trial II in MCT8 Deficiency Patients",
+    "conditions": [
+      "Allan-Herndon-Dudley Syndrome"
+    ],
+    "interventions": [
+      "Tiratricol"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02434562",
+    "brief_title": "Development and Validation of in Vitro Cell-based Bioassays for Nuclear Receptor Activation",
+    "conditions": [
+      "Hypogonadism",
+      "Estrogens",
+      "Testosterone",
+      "Androgens"
+    ],
+    "interventions": [
+      "Serum (with or without urine) samples"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT02518009",
+    "brief_title": "GEnder Dysphoria Treatment in Sweden",
+    "conditions": [
+      "Transsexualism"
+    ],
+    "interventions": [
+      "Genetic men treated with estrogen",
+      "Genetic women treated with androgen"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT02524041",
+    "brief_title": "Association Between Serum Periostin Levels and Cortical Porosity in Patients With Secondary Hyperparathyroidism",
+    "conditions": [
+      "Hyperparathyroidism"
+    ],
+    "interventions": [
+      "HR-pQCT",
+      "blood specimen"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02550431",
+    "brief_title": "Trans Health: Evaluation of Markers of Cardio-metabolic Health and Well-being in Transgender Youth",
+    "conditions": [
+      "Transgendered Persons"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT02551367",
+    "brief_title": "Letrozole Versus Clomiphene Citrate for Ovulation Induction in Women With Poly Cystic Ovary Syndrome ( PCOS )",
+    "conditions": [
+      "Anovulation",
+      "Polycystic Ovary Syndrome"
+    ],
+    "interventions": [
+      "Letrozole",
+      "Clomiphene citrate",
+      "hcg hormone"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02715232",
+    "brief_title": "Effects of Sex Steroids on the Serotonin System",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Testosterone",
+      "Lynestrenol",
+      "Cyproterone Acetate",
+      "Estradiol",
+      "Triptorelin acetate"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02741154",
+    "brief_title": "Role of Aromatase Inhibitor to Enhance Ovulation in Poor Responder During Induction With Short Antagonist Protocol in Cases of ICSI",
+    "conditions": [
+      "Infertility Indicated for ICSI"
+    ],
+    "interventions": [
+      "induction with aromataze inhibitor",
+      "HMG",
+      "GnRh a",
+      "HCG"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02766764",
+    "brief_title": "Combined Dehydropeiandrosterone and Growth Hormone in Women With Expected Poor Ovarian Response Undergoing ICSI",
+    "conditions": [
+      "Subfertility"
+    ],
+    "interventions": [
+      "DHEA",
+      "Growth hormone",
+      "Placebo 1",
+      "Placebo 2"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02766803",
+    "brief_title": "Effects of Simvastatin and Micronized Trans-resveratrol Treatment on Polycystic Ovary Syndrome (PCOS) Patients",
+    "conditions": [
+      "PCOS, Insulin Resistance"
+    ],
+    "interventions": [
+      "Simvastatin and micronized trans-resveratrol"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02936258",
+    "brief_title": "PRostate Evaluation for Clinically Important Disease: MRI vs Standard Evaluation Procedures",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "Standard of Care",
+      "MRI",
+      "MRI Targeted Biopsy"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02936505",
+    "brief_title": "Clinical Study Evaluating Two Treatment Protocols for Immunosuppressive Drugs. Looking at 3-year Incidence of CLAD.",
+    "conditions": [
+      "Lung Transplantation",
+      "Allografts"
+    ],
+    "interventions": [
+      "Cyclosporine",
+      "Mycophenolate mofetil (MMF)",
+      "Rabbit Anti thymocyte globulin",
+      "Corticosteroids",
+      "Tacrolimus"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT02983110",
+    "brief_title": "Sex Hormone Therapy and Mucosal Tissues",
+    "conditions": [
+      "Hiv"
+    ],
+    "interventions": [
+      "Anoscopy with Rectal Tissue Sampling",
+      "Phlebotomy",
+      "Female Genital Tract Sampling"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT02985996",
+    "brief_title": "Body Compartment PK for New HIV Pre-exposure Prophylaxis Modalities",
+    "conditions": [
+      "HIV Infections"
+    ],
+    "interventions": [
+      "Truvada",
+      "Genvoya"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03060785",
+    "brief_title": "Finding the Right Tenofovir/Emtricitabine Regimen for Pre-Exposure Prophylaxis (PrEP) in Transgender Women",
+    "conditions": [
+      "HIV Prevention"
+    ],
+    "interventions": [
+      "Tenofovir Disoproxil Fumarate/Emtricitabine"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03078829",
+    "brief_title": "The Relation of GnRH Treatment to QTc Interval in Transgender Females",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Treatment with a GnRh agonists"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT03081559",
+    "brief_title": "Improving Engagement in HIV Care for High-risk Women",
+    "conditions": [
+      "HIV/AIDS",
+      "Adherence, Medication"
+    ],
+    "interventions": [
+      "Healthy Divas"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03088631",
+    "brief_title": "Metformin in Intracytoplasmic Sperm Injection Cycles",
+    "conditions": [
+      "Intracytoplasmatic Sperm Injection"
+    ],
+    "interventions": [
+      "Metformin",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03120936",
+    "brief_title": "The Stay Study: A Demonstration Project Advancing PrEP Delivery in the San Francisco Bay Area Transgender Community",
+    "conditions": [
+      "Transgender Persons",
+      "Pre-Exposure Prophylaxis"
+    ],
+    "interventions": [
+      "Emtricitabine / Tenofovir Disoproxil Oral Tablet",
+      "PrEP support"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03191474",
+    "brief_title": "Linkage of Transgender Individuals to PrEP",
+    "conditions": [
+      "HIV Seronegativity",
+      "Linkage"
+    ],
+    "interventions": [
+      "T-POWr Intervention"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03220152",
+    "brief_title": "Implementation of PrEP to HIV in Brazilian Transgender Women",
+    "conditions": [
+      "HIV, Prevention"
+    ],
+    "interventions": [
+      "emtricitabine / tenofovir 200/300 mg"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03230084",
+    "brief_title": "Use of a Home-based PDG Urine Test to Confirm Ovulation",
+    "conditions": [
+      "Infertility, Female"
+    ],
+    "interventions": [
+      "Urine PDG test"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03259516",
+    "brief_title": "Nivolumab With Chemotherapy in Refractory MDS",
+    "conditions": [
+      "Myelodysplastic Syndromes"
+    ],
+    "interventions": [
+      "Nivolumab",
+      "Azacitidine",
+      "Fludarabine",
+      "Cyclophosphamide",
+      "Cytarabine",
+      "all trans retinoic acid",
+      "Sildenafil",
+      "Melphalan"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03270969",
+    "brief_title": "A Pharmacokinetic Evaluation of Tenofovir/Emtricitabine as HIV Pre-Exposure Prophylaxis in Transgender Women",
+    "conditions": [
+      "HIV Prevention"
+    ],
+    "interventions": [
+      "Tenofovir Disoproxil Fumarate/Emtricitabine"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03293771",
+    "brief_title": "Transgender Post-reassignment Urogynecologic Measures and Perceptions",
+    "conditions": [
+      "Gender Identity Disorder of Adult",
+      "Voiding Disorders",
+      "Sexual Dysfunction"
+    ],
+    "interventions": [
+      "Focus group interviews",
+      "Questionnaire packet"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT03395574",
+    "brief_title": "Effect of Terlipressin on Cerebral Oxygen Saturation During Liver Transplantation",
+    "conditions": [
+      "Terlipressin Adverse Reaction",
+      "Liver Transplantation"
+    ],
+    "interventions": [
+      "Terlipressin",
+      "Normal saline"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03436992",
+    "brief_title": "Estrogen and Diabetes",
+    "conditions": [
+      "Diabetes Mellitus, Type 1"
+    ],
+    "interventions": [
+      "Antioxidant Cocktail",
+      "Resveratrol",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03445910",
+    "brief_title": "Intrauterine Injection of Human Chorionic Gonadotrophin and Pregnancy Rate in ICSI",
+    "conditions": [
+      "Repeated Implantation Failure"
+    ],
+    "interventions": [
+      "Human chorionic gonadotropin"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03457233",
+    "brief_title": "The Impact of Body Weight on Reproductive Outcomes in Poor Ovarian Responders in ICSI Cycles",
+    "conditions": [
+      "Invitro Fertilization"
+    ],
+    "interventions": [
+      "Gonadotropins",
+      "GNRH antagonist",
+      "Human chorionic gonadotropin Chorimon",
+      "Natural progesterone"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03465852",
+    "brief_title": "HIV Prevention Among Latina Transgender Women Who Have Sex With Men: Evaluation of a Locally Developed Intervention",
+    "conditions": [
+      "HIV Infections"
+    ],
+    "interventions": [
+      "ChiCAS"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03476356",
+    "brief_title": "L-Carnitine and Clomiphene Citrate for Induction of Ovulation in Women With Polycystic Ovary Syndrome",
+    "conditions": [
+      "Polycystic Ovary Syndrome"
+    ],
+    "interventions": [
+      "oral clomiphene citrate",
+      "oral carnitine supplementation"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03484611",
+    "brief_title": "Prediction of Metaphase II Oocytes According to Different Levels of Serum AMH in Poor Responders Using the Antagonist Protocol",
+    "conditions": [
+      "Invitro Fertilizaion"
+    ],
+    "interventions": [
+      "GnRH antagonist",
+      "Gonadotropins",
+      "Human chorionic gonadotropin",
+      "Embryo transfer",
+      "Progesterone"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03516747",
+    "brief_title": "Preoperational Fine Needle Aspiration of Pathological Parathyroid Gland",
+    "conditions": [
+      "Parathyroid Adenoma",
+      "Hypercalcemia"
+    ],
+    "interventions": [
+      "pre operative parathyroid hormone level measurement",
+      "pre operative parathyroid cytology",
+      "parathyroid hormone level measurement",
+      "parathyroid cytology"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03528135",
+    "brief_title": "Project PRIDE (Promoting Resilience In Discriminatory Environments)",
+    "conditions": [
+      "Human Immunodeficiency Virus",
+      "Sexually Transmitted Infections",
+      "Anxiety",
+      "Depression",
+      "Substance Use Disorders"
+    ],
+    "interventions": [
+      "Project PRIDE"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03557268",
+    "brief_title": "Pubertal Blockade and Hormone Therapy in Transgender Youth",
+    "conditions": [
+      "Gender Identity",
+      "Gender Dysphoria",
+      "Gender Identity Disorder in Adolescence and Adulthood"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT03572387",
+    "brief_title": "A Pilot Study of 5-AZA and ATRA for Prostate Cancer With PSA-only Recurrence After Local Treatment",
+    "conditions": [
+      "Prostatic Neoplasms",
+      "Prostate Neoplasms",
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "5-Azacitidine",
+      "all trans retinoic acid",
+      "Lupron"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03593317",
+    "brief_title": "Blockade of the Renin-angiotensin-aldosterone System in Patients With ARVD",
+    "conditions": [
+      "Arrhythmogenic Right Ventricular Dysplasia"
+    ],
+    "interventions": [
+      "Spironolactone",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03595956",
+    "brief_title": "Transgender Cohort Study of Gender Affirmation and HIV-related Health",
+    "conditions": [
+      "HIV/AIDS",
+      "STI",
+      "Gender Dysphoria",
+      "Transsexualism",
+      "Gender Identity",
+      "Depression, Anxiety"
+    ],
+    "interventions": [
+      "Medical gender affirmation"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT03602222",
+    "brief_title": "An LGBT-Competency Program for Mental Health Professionals in Romania",
+    "conditions": [
+      "Stigma, Social",
+      "Gays",
+      "Lesbians",
+      "Bisexuals",
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Mobile web training LGBT mental health",
+      "In-person training LGBT mental health"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03620734",
+    "brief_title": "Study to Determine Interaction Between the Use of Feminizing Hormone Therapy and Antiretroviral Agents Concomitantly Among Transgender Women",
+    "conditions": [
+      "PrEP and ART"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT03637920",
+    "brief_title": "Sexuality in Transmen During Hormone and Operative Treatment",
+    "conditions": [
+      "Gender Dysphoria",
+      "Gender Identity Disorder",
+      "Transsexualism",
+      "Body Image",
+      "Sexuality"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT03643120",
+    "brief_title": "Gender Dysphoria Among Adolescents (Norwegian Title: Kj\u00f8nnsdysfori Blant Ungdom)",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Qualitative interview"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03651427",
+    "brief_title": "Cross-sex Hormone Therapy and Neuronal Plasticity",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Estradiol"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03652623",
+    "brief_title": "Transgender Youth and PrEP: PK, Safety, Uptake & Adherence - PK Study",
+    "conditions": [
+      "HIV/AIDS",
+      "Gender",
+      "Behavior and Behavior Mechanisms"
+    ],
+    "interventions": [
+      "TDF/FTC"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03683043",
+    "brief_title": "Comparative Study Between ICSI Results in Transvaginal Ultrasound Guided Embryo Transfer and Transabdominal Ultrasound Guided Embryo Transfer",
+    "conditions": [
+      "Invitro Fertilization"
+    ],
+    "interventions": [
+      "Long GnRH agonist protocol",
+      "Embryo transfer"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03725280",
+    "brief_title": "Micro RNA Profile in the Ovarian Follicle Fluid of Transgender Men",
+    "conditions": [
+      "IVF",
+      "Fertility Preservation",
+      "Infertility"
+    ],
+    "interventions": [
+      "IVF"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT03757117",
+    "brief_title": "Gender-Affirmative Transgender Care to Improve the HIV Treatment Cascade",
+    "conditions": [
+      "HIV-1-infection"
+    ],
+    "interventions": [
+      "Feminizing hormone therapy",
+      "Peer navigation"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03784404",
+    "brief_title": "Trans-vaginal Aspiration of Small Ovarian Endometrioma. Comparison of Two Different Techniques Before ICSI",
+    "conditions": [
+      "Ovarian Endometrioma"
+    ],
+    "interventions": [
+      "Transvaginal aspiration",
+      "transvaginal aspiration and surgicel injection",
+      "Intracytoplasmic sperm injection"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03789331",
+    "brief_title": "Anogenital Distance Differences Between Transgender Males and Female Individuals",
+    "conditions": [
+      "Sexual Orientation Conflict Disorder"
+    ],
+    "interventions": [
+      "Anogenital distance measurement"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT03826563",
+    "brief_title": "Melatonin Effects on Sleep and Circadian Rhythm in Youth and Young Adults With At-risk Symptoms",
+    "conditions": [
+      "Psychosis",
+      "Sleep"
+    ],
+    "interventions": [
+      "oral melatonin tablets (NatureMade brand)",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03836027",
+    "brief_title": "Fertility Desires and Reproductive Needs of Transgender People",
+    "conditions": [
+      "Fertility Preservation",
+      "Parenting",
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "No intervention"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT03848234",
+    "brief_title": "Estradiol Patch as add-on to Antipsychotics in Patients With Schizophrenia, Schizoaffective or Schizophreniform Disorder",
+    "conditions": [
+      "Schizophrenia",
+      "Schizoaffective Disorder",
+      "Schizophreniform Disorders"
+    ],
+    "interventions": [
+      "Estradiol",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03864198",
+    "brief_title": "To Evaluate the Effect of Reveratrol,Folic Acid, Vitamin D, Vitamin B12 and B6 in Male Infertility",
+    "conditions": [
+      "Male Infertility"
+    ],
+    "interventions": [
+      "Genante"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03864913",
+    "brief_title": "Comparing Subcutaneous Testosterone to Intramuscular Testosterone in Gender Affirming Care of Transgender Male Adolescents",
+    "conditions": [
+      "Health Services for Transgender Persons",
+      "Transgender Persons"
+    ],
+    "interventions": [
+      "Testosterone injection",
+      "PedsQL questionnarie",
+      "Masculinizing effects questionnaire",
+      "Medication experience questionnaire"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03872648",
+    "brief_title": "TransCare - Genital Surgery for Trans Women in Centralized vs. Decentralized Health Care Delivery Settings",
+    "conditions": [
+      "Gender Dysphoria",
+      "Gender Identity Disorder",
+      "Transsexualism",
+      "Gender Identity"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT03876145",
+    "brief_title": "The Four Methods of Ovarian Stimulation in Patients With Polycystic Ovarian Syndrome",
+    "conditions": [
+      "Polycystic Ovary Syndrome",
+      "Ovarian Hyperstimulation Syndrome"
+    ],
+    "interventions": [
+      "Minimal ovarian stimulation"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03878524",
+    "brief_title": "Serial Measurements of Molecular and Architectural Responses to Therapy (SMMART) PRIME Trial",
+    "conditions": [
+      "Accelerated Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Anatomic Stage IV Breast Cancer AJCC v8",
+      "Anemia",
+      "Ann Arbor Stage III Hodgkin Lymphoma",
+      "Ann Arbor Stage III Non-Hodgkin Lymphoma",
+      "Ann Arbor Stage IV Hodgkin Lymphoma",
+      "Ann Arbor Stage IV Non-Hodgkin Lymphoma",
+      "Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative",
+      "Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Castration-Resistant Prostate Carcinoma",
+      "Chronic Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Hematopoietic and Lymphoid System Neoplasm",
+      "Locally Advanced Pancreatic Adenocarcinoma",
+      "Metastatic Breast Carcinoma",
+      "Metastatic Malignant Solid Neoplasm",
+      "Metastatic Pancreatic Adenocarcinoma",
+      "Myelodysplastic/Myeloproliferative Neoplasm With Ring Sideroblasts and Thrombocytosis",
+      "Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable",
+      "Primary Myelofibrosis",
+      "Recurrent Acute Lymphoblastic Leukemia",
+      "Recurrent Acute Myeloid Leukemia",
+      "Recurrent Chronic Lymphocytic Leukemia",
+      "Recurrent Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Recurrent Hematologic Malignancy",
+      "Recurrent Hodgkin Lymphoma",
+      "Recurrent Myelodysplastic Syndrome",
+      "Recurrent Myelodysplastic/Myeloproliferative Neoplasm",
+      "Recurrent Myeloproliferative Neoplasm",
+      "Recurrent Non-Hodgkin Lymphoma",
+      "Recurrent Plasma Cell Myeloma",
+      "Recurrent Small Lymphocytic Lymphoma",
+      "Refractory Acute Lymphoblastic Leukemia",
+      "Refractory Acute Myeloid Leukemia",
+      "Refractory Chronic Lymphocytic Leukemia",
+      "Refractory Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Refractory Chronic Myelomonocytic Leukemia",
+      "Refractory Hematologic Malignancy",
+      "Refractory Hodgkin Lymphoma",
+      "Refractory Malignant Solid Neoplasm",
+      "Refractory Myelodysplastic Syndrome",
+      "Refractory Myelodysplastic/Myeloproliferative Neoplasm",
+      "Refractory Non-Hodgkin Lymphoma",
+      "Refractory Plasma Cell Myeloma",
+      "Refractory Primary Myelofibrosis",
+      "Refractory Small Lymphocytic Lymphoma",
+      "Stage II Pancreatic Cancer AJCC v8",
+      "Stage III Pancreatic Cancer AJCC v8",
+      "Stage IV Pancreatic Cancer AJCC v8",
+      "Stage IV Prostate Cancer AJCC v8",
+      "Unresectable Pancreatic Adenocarcinoma"
+    ],
+    "interventions": [
+      "Abemaciclib",
+      "Abiraterone",
+      "Afatinib",
+      "Bevacizumab",
+      "Bicalutamide",
+      "Biospecimen Collection",
+      "Bortezomib",
+      "Cabazitaxel",
+      "Cabozantinib",
+      "Capecitabine",
+      "Carboplatin",
+      "Celecoxib",
+      "Cobimetinib",
+      "Copanlisib",
+      "Dabrafenib",
+      "Dacomitinib",
+      "Darolutamide",
+      "Dasatinib",
+      "Doxorubicin",
+      "Durvalumab",
+      "Enasidenib",
+      "Entrectinib",
+      "Enzalutamide",
+      "Erlotinib",
+      "Everolimus",
+      "Fluorouracil",
+      "Idelalisib",
+      "Imatinib",
+      "Ipilimumab",
+      "Lenvatinib",
+      "Leucovorin",
+      "Lorlatinib",
+      "Losartan",
+      "Nab-paclitaxel",
+      "Neratinib",
+      "Nivolumab",
+      "Olaparib",
+      "Oxaliplatin",
+      "Palbociclib",
+      "Panobinostat",
+      "Pembrolizumab",
+      "Pertuzumab",
+      "Ponatinib",
+      "Quality-of-Life Assessment",
+      "Regorafenib",
+      "Ruxolitinib",
+      "Sirolimus",
+      "Sorafenib",
+      "Sunitinib",
+      "Trametinib",
+      "Trastuzumab Emtansine",
+      "Tretinoin",
+      "Vemurafenib",
+      "Venetoclax",
+      "Vismodegib",
+      "Vorinostat"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT03899896",
+    "brief_title": "Voice Feminisation in Transgender Women",
+    "conditions": [
+      "Speech Therapy",
+      "Transgender Women",
+      "Gender Dysphoria"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT03964779",
+    "brief_title": "Prevalence of Thyroid Dysfunction and Anti-thyroid Antibodies in Infertile Women",
+    "conditions": [
+      "Infertility, Female"
+    ],
+    "interventions": [
+      "Hormonal assay",
+      "Antibody assay"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT03989778",
+    "brief_title": "Vitamin D and Polycystic Ovarian Syndrome (PCOS)",
+    "conditions": [
+      "Infertility, Female",
+      "Infertility",
+      "Vitamin D Deficiency"
+    ],
+    "interventions": [
+      "Vitamin D"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04028219",
+    "brief_title": "Transgender In Transition",
+    "conditions": [
+      "Gender Incongruence"
+    ],
+    "interventions": [
+      "Online surveys"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04036500",
+    "brief_title": "Transgender Estradiol",
+    "conditions": [
+      "Transgender Persons"
+    ],
+    "interventions": [
+      "Estradiol"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04050371",
+    "brief_title": "Study of Truvada for HIV Pre Exposure Prophylaxis Using Daily Directly Observed Therapy to Look at Potential Interactions Between Truvada and Hormone Therapy",
+    "conditions": [
+      "HIV Prevention",
+      "Transgender Health"
+    ],
+    "interventions": [
+      "200 mg emtricitabine and 300 mg tenofovir disoproxil fumarate"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04064671",
+    "brief_title": "ZEPHYR: A Study Evaluating Surgical Outcome After Implantation of the Zephyr ZSI 475 FTM Inflatable Penile Implant in the Neophallus After Female-to-male Sex Reassignment Surgery",
+    "conditions": [
+      "Erectile Dysfunction",
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Implantation of the Zephyr ZSI 475 FTM erectile implant"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04066283",
+    "brief_title": "Effects of Aging and Gender-Affirming Hormone Therapy on Vascular Endothelial Function and Metabolic Profiles in Transgender Women",
+    "conditions": [
+      "Transgender",
+      "Gender Identity",
+      "Vascular Stiffness",
+      "Vascular Inflammation",
+      "Insulin Sensitivity",
+      "Blood Pressure",
+      "Lipid Disorder",
+      "Appetitive Behavior"
+    ],
+    "interventions": [
+      "No intervention"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04071574",
+    "brief_title": "Comparative Study on the Efficacy of Ovarian Stimulation Protocols on the Success Rate of ICSI in Female Infertility",
+    "conditions": [
+      "Female Infertility",
+      "Female Infertility Due to Ovulatory Disorder",
+      "Premature Ovarian Failure",
+      "Polycystic Ovary Syndrome",
+      "Female Infertility of Tubal Origin",
+      "Ectopic Pregnancy",
+      "Salpingitis",
+      "Female Infertility Due to Tubal Block",
+      "Female Infertility Due to Tubal Occlusion",
+      "Hydrosalpinx",
+      "Female Infertility - Cervical/Vaginal",
+      "Female Infertility Endocrine",
+      "Endometriosis",
+      "Fibroids",
+      "Congenital Uterine Anomaly",
+      "Infections Uterine",
+      "Female Infertility of Other Origin"
+    ],
+    "interventions": [
+      "Human Chorionic Gonadotropin (hCG)",
+      "Gonadotropins",
+      "GNRH-A Triptorelin",
+      "GnRH antagonist"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04077138",
+    "brief_title": "Transgender Youth and PrEP: PK, Safety, Uptake & Adherence - Intervention Development",
+    "conditions": [
+      "HIV/AIDS",
+      "Gender",
+      "Behavior and Behavior Mechanisms"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04077151",
+    "brief_title": "Transgender Youth and PrEP: PK, Safety, Uptake & Adherence - Demonstration Project",
+    "conditions": [
+      "HIV/AIDS",
+      "Gender",
+      "Behavior and Behavior Mechanisms"
+    ],
+    "interventions": [
+      "PrEP Demonstration Project"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04093518",
+    "brief_title": "Estradiol as add-on to Antipsychotics",
+    "conditions": [
+      "Schizophrenia",
+      "Schizoaffective Disorder",
+      "Schizophreniform Disorders"
+    ],
+    "interventions": [
+      "Estradiol",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04096053",
+    "brief_title": "Transgender Education for Affirmative and Competent HIV and Healthcare",
+    "conditions": [
+      "Stigma, Social",
+      "HIV/AIDS",
+      "Health Care Acceptability"
+    ],
+    "interventions": [
+      "TEACHH"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04107480",
+    "brief_title": "PRolaCT - Three Prolactinoma RCTs",
+    "conditions": [
+      "Prolactinoma",
+      "Prolactin-Producing Pituitary Tumor"
+    ],
+    "interventions": [
+      "Endoscopic trans-sphenoidal adenoma resection",
+      "Dopamine Agonists"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04128488",
+    "brief_title": "Effects of Gender-Affirming Hormone Therapy Among Transgender Women",
+    "conditions": [
+      "Transgender Women",
+      "HIV/AIDS",
+      "Cardiovascular Diseases",
+      "Metabolic Disease",
+      "Coagulopathy"
+    ],
+    "interventions": [
+      "Abdominal MR Imaging",
+      "Cardiac MRI/MRS",
+      "Oral Glucose Tolerance Testing",
+      "Whole Body, Lumbar Spine, and Hip DEXA Imaging"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04149028",
+    "brief_title": "Platelet Rich Plasma Injection Into Ovary of Patients With Premature Ovarian Insufficiency",
+    "conditions": [
+      "Premature Ovarian Failure"
+    ],
+    "interventions": [
+      "PRP injection inside the ovary by laparoscoy. The injection volume is 2 ml"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04160364",
+    "brief_title": "Gender Dysphoria in Children and Adolescents : Parents' Perspectives",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "qualitative study"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04195659",
+    "brief_title": "Chest Dysphoria in Transmasculine Spectrum Adolescents",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Mastectomy and chest masculinization"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04203381",
+    "brief_title": "Skeletal Health and Bone Marrow Composition Among Youth",
+    "conditions": [
+      "Gender Dysphoria in Children",
+      "Puberty",
+      "Bone Development"
+    ],
+    "interventions": [
+      "GnRH Agonist"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04217707",
+    "brief_title": "Transgender Therapeutic Support Groups",
+    "conditions": [
+      "Gender Dysphoria in Adolescents and Adults"
+    ],
+    "interventions": [
+      "Pre- and Post-Surgical Transgender Therapeutic Support Group"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04237467",
+    "brief_title": "Effects of Aging and Gender-Affirming Hormone Therapy on Vascular Endothelial Function and Metabolic Profiles in Transgender Men",
+    "conditions": [
+      "Transgender",
+      "Gender Identity",
+      "Vascular Stiffness",
+      "Vascular Inflammation",
+      "Blood Pressure",
+      "Lipid Disorder",
+      "Appetitive Behavior"
+    ],
+    "interventions": [
+      "No intervention"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04254354",
+    "brief_title": "Transgender Men, Non-binary Persons and Testosterone Treatment BODY IDENTITY CLINIC",
+    "conditions": [
+      "Transgenderism"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04265885",
+    "brief_title": "Gender Dysphoria and Transition",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "collection of testimonies from transgender people"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04283656",
+    "brief_title": "Evaluating Drug Interactions Between Doravirine With Estradiol and Spironolactone in Healthy Transgender Women",
+    "conditions": [
+      "Transgender Health",
+      "Gender Dysphoria",
+      "Transgender Women",
+      "Human Immunodeficiency Virus"
+    ],
+    "interventions": [
+      "Doravirine/Lamivudine/Tenofovir",
+      "Spironolactone 100mg",
+      "Estradiol 2mg",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04290286",
+    "brief_title": "i2TransHealth: Interdisciplinary, Internet-based Trans Health Care",
+    "conditions": [
+      "Gender Dysphoria",
+      "Gender Identity Disorder",
+      "Transsexualism",
+      "Gender Identity",
+      "Gender Incongruence"
+    ],
+    "interventions": [
+      "i2TransHealth"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04309760",
+    "brief_title": "Developmental Correlates and Hormone Therapy Effects in Gender Dysphoria",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "MRI"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04321551",
+    "brief_title": "Hormone Secretion in Transgender Males",
+    "conditions": [
+      "Transgender",
+      "Healthy"
+    ],
+    "interventions": [
+      "Testosterone Cyp 200Mg/Ml Inj (in Oil)",
+      "Letrozole"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04326569",
+    "brief_title": "Copeptin in the Diagnosis of Post-operative Insipidus Diabetes After Pituitary Surgery",
+    "conditions": [
+      "Pituitary Surgery"
+    ],
+    "interventions": [
+      "Blood sample"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04336891",
+    "brief_title": "Effect of Testosterone Treatment on Clitoral Arteries' Hemodynamic Parameters.",
+    "conditions": [
+      "Hypoactive Sexual Desire Disorder",
+      "Vulvovaginal Disease",
+      "Menopause Related Conditions",
+      "Dyspareunia (Female Excluding Psychogenic)",
+      "Hypoestrogenism",
+      "Arousal Disorders, Sexual"
+    ],
+    "interventions": [
+      "Testosterone gel",
+      "Estradiol ovules",
+      "Moisturizer",
+      "Testosterone gel + Estradiol ovules"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04361175",
+    "brief_title": "Cost Effectiveness Analysis for Induction of Ovulation in the Polycystic Ovary Syndrome by Letrozole Versus Clomiphene Citrate",
+    "conditions": [
+      "Infertility"
+    ],
+    "interventions": [
+      "Letrozole",
+      "Clomiphine Citrate"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04371783",
+    "brief_title": "A Randomized Trial Comparing the Live Birth Rate of Immediate Versus Delayed FET Following a Freeze-all Strategy",
+    "conditions": [
+      "IVF",
+      "Frozen Embryo Transfer"
+    ],
+    "interventions": [
+      "Immediate FET",
+      "Delayed FET"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04374708",
+    "brief_title": "Gender Identity and Own Body Perception",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "fMRI"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04378439",
+    "brief_title": "Appalachian Partnership to Reduce Disparities (Aim 2)",
+    "conditions": [
+      "HIV/AIDS",
+      "STI",
+      "HCV"
+    ],
+    "interventions": [
+      "Peer Navigation",
+      "mHealth"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04414748",
+    "brief_title": "Comparison of the Euploid Rate of Blastocyst Between PPOS and GnRH Antagonist Protocol in Patients Undergoing PGT-A",
+    "conditions": [
+      "Preimplantation Genetic Testing",
+      "Progestin-primed Ovarian Stimulation",
+      "Euploid Rate",
+      "GnRH Antagonist"
+    ],
+    "interventions": [
+      "GnRH antagonist",
+      "oral Duphaston"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04414761",
+    "brief_title": "Live Birth Rate Between PPOS and GnRH Antagonist Protocol in Patients With Anticipated High Ovarian Response",
+    "conditions": [
+      "IVF",
+      "GnRH Antagonist",
+      "PPOS"
+    ],
+    "interventions": [
+      "Progesterone",
+      "GnRH Antagonist"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04440722",
+    "brief_title": "Prospective Observational Study and Biobank CKIO",
+    "conditions": [
+      "Transgender"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04448418",
+    "brief_title": "The Impact of COVID-19 Outbreak on Trans-population's Health in Italy",
+    "conditions": [
+      "Transgender Persons",
+      "Coronavirus",
+      "Coronavirus Infection",
+      "COVID",
+      "COVID-19"
+    ],
+    "interventions": [
+      "web based survey"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04460963",
+    "brief_title": "Role of Adrenomedullin in Leukemic Endosteal/Vascular Niches",
+    "conditions": [
+      "Acute Myeloid Leukemia"
+    ],
+    "interventions": [
+      "Adrenomedullin"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04474366",
+    "brief_title": "The Effect of Pectoral Blocks on Perioperative Pain in Gender Affirmation Top Surgery",
+    "conditions": [
+      "Gender Dysphoria",
+      "Opioid Use",
+      "Pain, Postoperative"
+    ],
+    "interventions": [
+      "Ropivacaine 0.2% Injectable Solution",
+      "Saline (0.9%)"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04478214",
+    "brief_title": "The Strategic Use of Hyaluronic Acid Fillers and Neurotoxin to Influence Gender Perception in Transgender Individuals",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04478760",
+    "brief_title": "Trans & Non-binary Reference Intervals While on Hormone Therapy Study",
+    "conditions": [
+      "Transgender Persons",
+      "Hormone Replacement Therapy",
+      "Reference Values"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04482374",
+    "brief_title": "Puberty Suppression and Cardiometabolic Health",
+    "conditions": [
+      "Transgenderism",
+      "Insulin Sensitivity/Resistance",
+      "Endothelial Dysfunction",
+      "Vascular Stiffness"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04482920",
+    "brief_title": "Effect of Hormone Therapy on Renal Function",
+    "conditions": [
+      "Transgenderism",
+      "Kidney Diseases",
+      "Kidney Injury"
+    ],
+    "interventions": [
+      "p-aminohippurate clearance study",
+      "Iohexol infusion"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04491422",
+    "brief_title": "Same-Day PrEP Initiation and Sexual Health for Transgender Women",
+    "conditions": [
+      "HIV",
+      "PrEP",
+      "Transgender Women",
+      "Sexually Transmitted Diseases, Bacterial"
+    ],
+    "interventions": [
+      "Integrated Next Steps Counseling with Real-Time Drug Level Feedback"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04508231",
+    "brief_title": "Metabolic Consequences of Cross-sex Hormonal Treatment",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Gender-affirming hormone therapy"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04511052",
+    "brief_title": "Probiotics for Enhanced Tissue Carotenoid Status in Premenopausal Women",
+    "conditions": [
+      "Carotenoid Status",
+      "Gut Microbiome",
+      "Skin Health"
+    ],
+    "interventions": [
+      "Probiotic",
+      "Placebo",
+      "Carotenoid supplement"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04515472",
+    "brief_title": "Effect of Gender Affirming Hormone Therapy on Glucose Metabolism",
+    "conditions": [
+      "Transgender Persons"
+    ],
+    "interventions": [
+      "Botnia Clamp",
+      "Withdrawal of Gender Affirming Hormone Therapy (GAHT)"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04524325",
+    "brief_title": "Mechanisms of Blood Pressure Dysfunction in Transmen Receiving Testosterone",
+    "conditions": [
+      "Transgender Men",
+      "Blood Pressure",
+      "Hyperandrogenism"
+    ],
+    "interventions": [
+      "Trans men"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04531943",
+    "brief_title": "Feminizing Hormone Therapy and the Rectal Mucosa Immune Environment in Transgender Women",
+    "conditions": [
+      "HIV Prevention"
+    ],
+    "interventions": [
+      "Estrogen",
+      "Estrogen plus Progesterone"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04534881",
+    "brief_title": "Effect of Progesterone on Testosterone Concentrations and Breast Development in Transwomen",
+    "conditions": [
+      "Transgender Persons"
+    ],
+    "interventions": [
+      "Progesterone 200 MG",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04551144",
+    "brief_title": "Effect of Transgender Therapy on Muscle, Fat and Tissue Receptors",
+    "conditions": [
+      "Gender Incongruence",
+      "Transgenderism"
+    ],
+    "interventions": [
+      "testosterone cypionate",
+      "Estradiol Valerate"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04554849",
+    "brief_title": "Demographic Characteristics and Psychosocial Health of Transgender People",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Gender dysphoria psychosocial health"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04568096",
+    "brief_title": "Combination of Chemopreventive Agents (All- Trans Retinoic Acid and Tamoxifen) as Potential Treatment for the Lung Complication of COVID-19",
+    "conditions": [
+      "the Lung Complication of COVID-19"
+    ],
+    "interventions": [
+      "Aerosolized All-Trans Retinoic acid plus oral Tamoxifen",
+      "Standard treatment"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04573127",
+    "brief_title": "Gender Dysphoria: Epidemiological Data",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "descriptive study"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04586348",
+    "brief_title": "Prenatal Iodine Supplementation and Early Childhood Neurodevelopment",
+    "conditions": [
+      "Pregnancy Related",
+      "Neurodevelopmental Disorders",
+      "Nutrition Disorder, Fetal"
+    ],
+    "interventions": [
+      "Low Iodine Supplement",
+      "Standard Iodine Supplement"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04590417",
+    "brief_title": "Assessment of Drug-drug Interactions Between Feminizing Hormone Therapy and Emtricitabine/Tenofovir Alafenamide Concomitantly for Pre-exposure Prophylaxis Among Transgender Women",
+    "conditions": [
+      "Drug Interaction"
+    ],
+    "interventions": [
+      "Estradiol valerate 2 mg, cyproterone acetate 25 mg"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04593680",
+    "brief_title": "Assessment of Drug-drug Interactions Between Masculinizing Hormone Therapy and Antiretroviral Agents Concomitantly for Pre-exposure Prophylaxis Among Transgender Men",
+    "conditions": [
+      "Drug Interaction"
+    ],
+    "interventions": [
+      "Emtricitabine 200 mg/tenofovir disoproxil fumarate 300 mg (F/TDF) and emtricitabine 200 mg/tenofovir alafenamide 25 mg (F/TAF)"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04596592",
+    "brief_title": "Pubertal Blockade and Estradiol Effects on Cardiometabolic Health for Transitioning Youth",
+    "conditions": [
+      "Transgenderism",
+      "Gender Dysphoria",
+      "Insulin Sensitivity"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04600986",
+    "brief_title": "Repeated Doses of GnRH Agonist as Oocyte Triggering in Antagonist Protocol for Patients With Polycystic Ovary Syndrome",
+    "conditions": [
+      "Polycystic Ovary Syndrome"
+    ],
+    "interventions": [
+      "Repeated dose of GnRH agonist"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04608695",
+    "brief_title": "Ovarian Needle Puncture for Follicle Activation in IVF Patients With Diminished Ovarian Reserve",
+    "conditions": [
+      "Activation of Primordial Follicles"
+    ],
+    "interventions": [
+      "Ovarian puncture"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04616963",
+    "brief_title": "Emtricitabine/Tenofovir Alafenamide Switch Study for Transgender Individuals for HIV Pre-exposure Prophylaxis",
+    "conditions": [
+      "Hiv",
+      "Hormone Therapy"
+    ],
+    "interventions": [
+      "Emtricitabine / Tenofovir Disoproxil Oral Tablet 200/300 mg",
+      "Emtricitabine Tenofovir Alafenamide 200/25 mg"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04708600",
+    "brief_title": "Effectiveness of Speech Therapy in Trans Women.",
+    "conditions": [
+      "Transgenderism",
+      "Gender Dysphoria",
+      "Speech Therapy",
+      "Voice Disorder Due to Transsexualism"
+    ],
+    "interventions": [
+      "Pitch Elevation Therapy",
+      "Articulation Resonance Therapy",
+      "Sham therapy"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04733144",
+    "brief_title": "Bioequivalence Study of Prednisolone and Dexamethasone",
+    "conditions": [
+      "Healthy Volunteers"
+    ],
+    "interventions": [
+      "Prednisolone",
+      "Dexamethasone"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04736797",
+    "brief_title": "Transition in Transgender",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04742491",
+    "brief_title": "Pre-Exposure Prophylaxis for Transgender Women in the US and South America",
+    "conditions": [
+      "HIV Prevention"
+    ],
+    "interventions": [
+      "Immediate Intervention Arm",
+      "Deferred Intervention Arm"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04742816",
+    "brief_title": "Renal Effects of Hormones/Biomarkers in Transgender PrEP Recipients",
+    "conditions": [
+      "Transgender",
+      "Renal Function",
+      "Hormone Replacement Therapy"
+    ],
+    "interventions": [
+      "IHX-CL measurements",
+      "Iohexol"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04760691",
+    "brief_title": "Pre-Exposure Prophylaxis (PrEP)- Gender Affirming Hormone Therapy (GAHT) Interactions in TGW",
+    "conditions": [
+      "HIV",
+      "Prophylaxis",
+      "Transgender"
+    ],
+    "interventions": [
+      "Truvada alone",
+      "Truvada plus Leuprolide 11.25mg intramuscular injection",
+      "Truvada plus Estradiol 1 mg",
+      "Truvada plus Estradiol 6 mg",
+      "Estradiol 6 mg alone"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04818580",
+    "brief_title": "Progressive Tension Sutures in Gender Affirming Mastectomy",
+    "conditions": [
+      "Hematoma",
+      "Seroma"
+    ],
+    "interventions": [
+      "Progressive Tension Sutures"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04820088",
+    "brief_title": "Simulated Conversation Training for Mental Healthcare Providers to Improve Care for Transgender and Gender Nonconforming Individuals",
+    "conditions": [
+      "Gender Affirming Communication Skills"
+    ],
+    "interventions": [
+      "Computer based role play trianing"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04838249",
+    "brief_title": "Effects of Cross-sex Hormone Therapy on Eating Behavior, Metabolism, Energy Balance and Cardiovascular System",
+    "conditions": [
+      "Transsexualism",
+      "Transgenderism",
+      "Adiposity",
+      "Eating Behavior",
+      "Arterial Stiffness",
+      "Microangiopathy"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04864951",
+    "brief_title": "HPV Prevalence in Transpersons - a Prospective Study",
+    "conditions": [
+      "Papillomavirus Infection",
+      "Transsexualism"
+    ],
+    "interventions": [
+      "Colli-Pee urine collection device",
+      "Survey"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04867798",
+    "brief_title": "Transgender Men and HIV in Uganda: PrEP Uptake and Persistence",
+    "conditions": [
+      "HIV",
+      "Sexually Transmitted Infections",
+      "PrEP",
+      "Transgender Men"
+    ],
+    "interventions": [
+      "Lamivudine-Tenofovir 300 Mg-300 Mg Oral Tablet"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04869865",
+    "brief_title": "The Effects of a Springtime Home Cleanse on Skin, Gut, Metabolic and Mental Health",
+    "conditions": [
+      "Healthy"
+    ],
+    "interventions": [
+      "9-day detoxification cleanse and 1 week of pre-cleanse transition"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04899193",
+    "brief_title": "Pergoveris FD and Liquid China BE Study",
+    "conditions": [
+      "Healthy"
+    ],
+    "interventions": [
+      "Pergoveris FD",
+      "Pergoveris Liquid",
+      "Gonal-f",
+      "Luveris"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04922424",
+    "brief_title": "Mechanisms and Interventions to Address Cardiovascular Risk of Gender-affirming Hormone Therapy in Trans Men",
+    "conditions": [
+      "Hypertension",
+      "Hyperlipidemias"
+    ],
+    "interventions": [
+      "Atorvastatin",
+      "placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04935164",
+    "brief_title": "Comparative Study of Gender Identity Disorder Versus Control",
+    "conditions": [
+      "Gender Dysphoria, Adult"
+    ],
+    "interventions": [
+      "Psychiatric evaluations"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04944654",
+    "brief_title": "Efficacy, Tolerability and Acceptability of Biktarvy by TPLWH",
+    "conditions": [
+      "Human Immunodeficiency Virus"
+    ],
+    "interventions": [
+      "BIKTARVY 50Mg-200Mg-25Mg Tablet"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04971447",
+    "brief_title": "Extracellular Vesicles and Endothelial Function in Transgender Subjects",
+    "conditions": [
+      "Transgenderism"
+    ],
+    "interventions": [
+      "gender affirming hormonal treatment in transgender men",
+      "gender affirming hormonal treatment in transgender women"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04977765",
+    "brief_title": "Cardiometabolic Health in Transgender Males",
+    "conditions": [
+      "Transgender",
+      "Transgenderism"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT04979338",
+    "brief_title": "Development of Effective, Opioid Sparing Techniques for Peri-operative Pain Management of Transgender Patients Undergoing Gender Affirming Surgeries",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Ultrasound guided Continuous Infraclavicular Brachial Plexus Block",
+      "Ultrasound guided Continuous Femoral Nerve Block",
+      "Ultrasound guided Pudendal Nerve Block",
+      "Bupivacaine",
+      "Bilateral ultrasound guided Transversus Abdominis Plane Block",
+      "Bilateral spermatic cord block",
+      "Pecs I & II Block",
+      "Local anesthetic"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT04993469",
+    "brief_title": "Patient Reported Outcome on Genital Sensitivity and Sexual Function After Genital Gender Affirming Surgery",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Semmes-Weinstein monofilament testing and questionnaires"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05010707",
+    "brief_title": "Transgender Estradiol Affirming Therapy",
+    "conditions": [
+      "Transgenderism"
+    ],
+    "interventions": [
+      "Transdermal patch",
+      "Pro-thrombotic markers",
+      "Metabolic markers",
+      "Hormone Profile",
+      "Daily Sublingual Tablet",
+      "BID Sublingual Tablet",
+      "Spironolactone"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05016232",
+    "brief_title": "Adaptive Intervention to Facilitate PrEP Uptake/Adherence Among Transgender Women",
+    "conditions": [
+      "Prevention"
+    ],
+    "interventions": [
+      "PrEP N' Shine: Strength Based Case Management (Stage 1)",
+      "PrEP N' Shine: Stepped Adherence Training and Counseling (Stage 2)"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05016349",
+    "brief_title": "Investigating the Potential Role of a Novel Quadrate Combination Therapy Mifepristone(Antiprogestrone), Tamoxifen, Retinoic Acid and Cannabidiol ( Selective Cyp 26 Inhibitor) for Treating Early Breast Cancer.",
+    "conditions": [
+      "Breast Cancer Female"
+    ],
+    "interventions": [
+      "All trans-retinoic acid",
+      "13-Cis Retinoic Acid plus Tocopherol",
+      "Mifepristone",
+      "Cannabidiol",
+      "9 cis retinoic acid",
+      "Tamoxifen",
+      "Standard therapy"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05019417",
+    "brief_title": "Glycerol-Phenylbutyrate Treatment in Children With MCT Mutation (Allan-Herndon- Dudley Syndrome)",
+    "conditions": [
+      "Monocarboxylate Transporter 8 Deficiency"
+    ],
+    "interventions": [
+      "Glycerol Phenylbutyrate 1100 MG/ML"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05097820",
+    "brief_title": "Prospective Observational Study on SEBBIN Silicone Gel-filled Testicular Implants",
+    "conditions": [
+      "Testicular Cancer",
+      "Testicular Torsion",
+      "Gender Dysphoria",
+      "Undescended Testes",
+      "Orchitis",
+      "Testicular Agenesis",
+      "Testicular Atrophy",
+      "Prosthesis Durability"
+    ],
+    "interventions": [
+      "Placement of testicular prosthesis"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05116293",
+    "brief_title": "Effect of Testosterone Treatment on Drug Metabolism and Transport",
+    "conditions": [
+      "Transgender Persons"
+    ],
+    "interventions": [
+      "Midazolam oral solution",
+      "Digoxin Oral Tablet",
+      "Acetaminophen Oral Tablet"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05126134",
+    "brief_title": "Psychological Vulnerabilities and Transgender Adolescents: A Descriptive Epidemiology Study",
+    "conditions": [
+      "Gender Dysphoria, Adolescent"
+    ],
+    "interventions": [
+      "KSADS (Kiddie Schedule for Affective Disorders and Schizophrenia)"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05130086",
+    "brief_title": "A Study of Islatravir (MK-8591) in Trans and Gender Diverse Participants (MK-8591-035)",
+    "conditions": [
+      "Human Immunodeficiency Virus (HIV) Infections"
+    ],
+    "interventions": [
+      "Islatravir"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05153395",
+    "brief_title": "Impact of Intranasal Insulin on Sympathetic Activity and Cerebral Vasodilation",
+    "conditions": [
+      "Healthy",
+      "Vasodilation",
+      "Insulin Resistance",
+      "Autonomic Dysfunction",
+      "Obesity"
+    ],
+    "interventions": [
+      "Carbon dioxide breathing",
+      "Neurovascular Coupling",
+      "Human insulin"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05166083",
+    "brief_title": "Investigation of the Perceptual and Acoustic Voice in Trans Man",
+    "conditions": [
+      "Gender Dysphoria",
+      "Voice Disorder Due to Transsexualism",
+      "Transgender Persons",
+      "Hormone Replacement Therapy"
+    ],
+    "interventions": [
+      "Testosterone Hormon Therapy"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05166668",
+    "brief_title": "Letrozole /GnRH Antagonist Protocol in Women Over 40 Years Undergoing ICSI Cycle",
+    "conditions": [
+      "Ovarian Stimulation"
+    ],
+    "interventions": [
+      "Letrozole 2.5mg tablet"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05169762",
+    "brief_title": "Feminizing Treatment in Transgender Women and Non-binary Persons",
+    "conditions": [
+      "Transgenderism"
+    ],
+    "interventions": [
+      "standard treatment"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05175170",
+    "brief_title": "Fertility Decision-Making in Youth and Young Adults",
+    "conditions": [
+      "Transgender Adolescents & Young Adults"
+    ],
+    "interventions": [
+      "Decision-aid"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05195164",
+    "brief_title": "The Effects of Orchiectomy and Age on Vascular and Metabolic Health in Older Versus Younger Transgender Women",
+    "conditions": [
+      "Transgender",
+      "Gender Identity",
+      "Vascular Stiffness",
+      "Vascular Inflammation",
+      "Insulin Sensitivity",
+      "Blood Pressure",
+      "Lipid Disorder",
+      "Appetitive Behavior"
+    ],
+    "interventions": [
+      "No intervention"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05204732",
+    "brief_title": "Acoustic and Perceptual Effects of Intonation Training in Gender Diverse People",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Intonation training",
+      "Sham therapy + intonation training"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05230979",
+    "brief_title": "Evaluation of Common Bean Baked Snack Consumption on Subjective Satiety, Energy Intake and Glycemic Response in People With Overweight and Normal Weight",
+    "conditions": [
+      "Overweight",
+      "Healthy"
+    ],
+    "interventions": [
+      "Common bean baked snack",
+      "Cooked beans",
+      "White bread",
+      "Anhydrous glucose (first session) (for glycemic index determination)",
+      "Anhydrous glucose (second session) (for glycemic index determination)",
+      "Common bean baked snack (for glycemic index determination)"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05244694",
+    "brief_title": "Impact of Insulin on Sympathetic Nervous System-mediated Peripheral Vasoconstriction",
+    "conditions": [
+      "Vasoconstriction",
+      "Healthy",
+      "Insulin Resistance"
+    ],
+    "interventions": [
+      "Insulin"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05273112",
+    "brief_title": "Evaluation of the Variation in Quality of Life During Medical Transition for Transgender People.",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05292820",
+    "brief_title": "Sexual Function of Trans Women After Vaginoplasty",
+    "conditions": [
+      "Gender Dysphoria Vaginoplasty Sexuality"
+    ],
+    "interventions": [
+      "Validated and non-validated questionnaire for exploration of sexuality and satisfaction after surgical procedure"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05318755",
+    "brief_title": "China Gender-affirming Hormone Therapy Study",
+    "conditions": [
+      "Transgender",
+      "Gender Incongruence"
+    ],
+    "interventions": [
+      "GAHT for transgender men",
+      "GAHT for transgender women"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05334888",
+    "brief_title": "Sex-differential Host-microbiome CVD Risk - A Longitudinal Cohort Approach",
+    "conditions": [
+      "Transgender",
+      "Gut Microbiome",
+      "Immune System",
+      "Cardiovascular Risk Factors"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05369247",
+    "brief_title": "Interval Versus Continuous Exercise During Pregnancy",
+    "conditions": [
+      "Pregnancy Related",
+      "Glucose, Low Blood",
+      "Fetal Heart Rate or Rhythm Abnormality Affecting Fetus",
+      "Fetal Blood Flow"
+    ],
+    "interventions": [
+      "High intensity Interval Training",
+      "Moderate Intensity Continuous Training"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05387577",
+    "brief_title": "Coagulation and Fibrinolysis of Estradiol in Transwomen",
+    "conditions": [
+      "Transgenderism",
+      "Clotting Disorder"
+    ],
+    "interventions": [
+      "Estradiol Tablets",
+      "Transdermal patch",
+      "Estradiol Tablets"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05428215",
+    "brief_title": "Comparison of PKs of 17-Beta-Estradiol Via Sublingual Placement Versus Swallowing in Male-to-Female Transgender Patients",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "17beta Estradiol"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05442463",
+    "brief_title": "Hormone Therapy and Angiotensin-Dependent Arterial and Renal Vasoconstriction in Humans",
+    "conditions": [
+      "Hormone Therapy"
+    ],
+    "interventions": [
+      "Captopril Tablets",
+      "Iohexol"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05454579",
+    "brief_title": "The South-East Asian Transgender Health Cohort",
+    "conditions": [
+      "HIV",
+      "STIs",
+      "HCV"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05455398",
+    "brief_title": "Establishment of a Trans-round Window Inner Ear Continuous Drug Delivery System for the Treatment of Severe-to-profound Sudden Sensorineural Hearing Loss",
+    "conditions": [
+      "Hearing Loss, Sudden"
+    ],
+    "interventions": [
+      "Surgical treatment of round window niche enlargement via round window for inner ear drug delivery",
+      "Drum chamber drug injection"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05464186",
+    "brief_title": "Effects of Whole vs. Nonfat Milk Consumption on Body Composition in Children",
+    "conditions": [
+      "Obesity",
+      "Diabetes",
+      "Cardiovascular Diseases"
+    ],
+    "interventions": [
+      "Whole milk",
+      "Nonfat milk"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05469204",
+    "brief_title": "Effect of Estrogen Treatment on Drug Metabolism and Transport",
+    "conditions": [
+      "Transgender Persons"
+    ],
+    "interventions": [
+      "Midazolam oral solution",
+      "Digoxin Oral Tablet",
+      "Acetaminophen Oral Tablet",
+      "Midazolam Injectable Solution"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05487794",
+    "brief_title": "Effect of Dose Fractionation of Testosterone Cypionate on Transgender Men with Erythrocytosis",
+    "conditions": [
+      "Testosterone",
+      "Transsexualism",
+      "Hematologic Diseases"
+    ],
+    "interventions": [
+      "Testosterone Cypionate 100 MG/ML"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05489159",
+    "brief_title": "Sleep and IR in Transgender Adolescents",
+    "conditions": [
+      "Sleep Disorder",
+      "Insulin Resistance",
+      "Gender Dysphoria"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05527353",
+    "brief_title": "AMH for the Identification of PCOM in PCOS Diagnosis",
+    "conditions": [
+      "Polycystic Ovary Syndrome"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05529862",
+    "brief_title": "Trans-RosaLEE Study: a Biomarker-directed, Translational Study",
+    "conditions": [
+      "Advanced or Metastatic Breast Cancer (BC)"
+    ],
+    "interventions": [
+      "Pre-treatment biopsy",
+      "Post treatment biopsy",
+      "Pre treatment blood sampling",
+      "Post treatment blood sampling"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05534763",
+    "brief_title": "Internet-delivered Treatment for Transgender Individuals With Co-occurring Mental Health Problems",
+    "conditions": [
+      "Gender Dysphoria",
+      "Emotion Regulation",
+      "Internet Delivered Treatment"
+    ],
+    "interventions": [
+      "IERGD",
+      "IER SUPPORT"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05583058",
+    "brief_title": "Sex Hormone Overdose and Misuse in Chinese Transgender and Gender Non-conforming Population",
+    "conditions": [
+      "Gender Incongruence",
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Hormone Overdose and Misuse"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05587296",
+    "brief_title": "A Study to Learn More About How Well Elinzanetant Works and How Safe it is Compared to Placebo for the Treatment of Hot Flashes Caused by Anti-cancer Therapy in Women With, or at High Risk for Developing Hormone-receptor Positive Breast Cancer",
+    "conditions": [
+      "Vasomotor Symptoms Caused by Adjuvant Endocrine Therapy in Women With, or at High Risk for Developing Hormone-receptor Positive Breast Cancer",
+      "Hot Flashes"
+    ],
+    "interventions": [
+      "Elinzanetant (BAY3427080)",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05587751",
+    "brief_title": "Evaluation of Gender-Affirming Treatments on Pulmonary Function in Transgender and Gender Diverse Patients",
+    "conditions": [
+      "Hormonal Gender-Affirming Therapy"
+    ],
+    "interventions": [
+      "Spirometry",
+      "Plethysmography"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05602805",
+    "brief_title": "BariaPSY: the Data Bank",
+    "conditions": [
+      "Bariatric Surgery Candidate",
+      "Obesity"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05607303",
+    "brief_title": "Effect of Hormones on Frequency of Headache and Brain Structure and Function in Puberty",
+    "conditions": [
+      "Headache",
+      "Gender Identity"
+    ],
+    "interventions": [
+      "Clinical estrogen therapy"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05649605",
+    "brief_title": "Early Mental Response - The EMRE Study",
+    "conditions": [
+      "Gender Dysphoria",
+      "Gender Identity",
+      "Gender Issues"
+    ],
+    "interventions": [
+      "Testosterone treatment",
+      "Placebo treatment"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05649943",
+    "brief_title": "Multimodal Approach in Patients With mHSPC. Randomized Trial of APA+ADT vs APA-ADT and Local Treatment",
+    "conditions": [
+      "Metastatic Hormone-Sensitive Prostate Cancer (mHSPC)"
+    ],
+    "interventions": [
+      "APA + ADT",
+      "Local Treatmetn RT or RP"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05663892",
+    "brief_title": "Drug-Drug Interaction Study in Trans Women Living With HIV",
+    "conditions": [
+      "Hiv",
+      "Transgenderism"
+    ],
+    "interventions": [
+      "Biktarvy 50/200/25 Tab",
+      "Estradiol Tablets"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05725967",
+    "brief_title": "Endoscopic Metabolic and Bariatric Therapies",
+    "conditions": [
+      "Obesity",
+      "Obesity, Morbid",
+      "Obesity Associated Disorder",
+      "Bariatric Surgery Candidate",
+      "Fistula, Gastric",
+      "Roux-en-y Anastomosis Site",
+      "Ulcer, Gastric",
+      "Abdominal Pain",
+      "Abdominal Obesity",
+      "Complication of Surgical Procedure",
+      "Complication of Treatment",
+      "Complication,Postoperative",
+      "Weight Gain",
+      "Weight Loss",
+      "Leak, Anastomotic",
+      "Delayed Gastric Emptying Following Procedure"
+    ],
+    "interventions": [
+      "Primary Obesity Endoscopic Procedures",
+      "Endoscopic Revision of Bariatric Surgical Procedures",
+      "Bariatric Surgery Procedures",
+      "Endoscopic Sleeve Gastroplasty, Trans-oral Outlet Reduction",
+      "Intragastric Balloon",
+      "Primary obesity surgery endoluminal, Restorative obesity surgery endoluminal",
+      "Argon Plasma Coagulation, Gastroplasty with Endoscopic Myotomy, Bariatric Endoscopic Antral Myotomy, Pylorus Sparing Antral Myotomy",
+      "Aspiration Therapy"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05726903",
+    "brief_title": "Counseling Among Gender Diverse Adolescents Who Use Depot Medroxyprogesterone",
+    "conditions": [
+      "Gender Dysphoria, Adolescent"
+    ],
+    "interventions": [
+      "Depo-subQ Provera Injectable Product"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05787470",
+    "brief_title": "State of Hormones Impact Nociceptive Expression",
+    "conditions": [
+      "Pain",
+      "Gender Identity"
+    ],
+    "interventions": [
+      "Quantative sensory testing",
+      "Blood Draw"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05808387",
+    "brief_title": "The Effects of Resveratrol on Sirtuins and Apoptosis Biomarkers",
+    "conditions": [
+      "Coronary Artery Disease",
+      "Menopause",
+      "Endothelial Dysfunction"
+    ],
+    "interventions": [
+      "Resveratrol",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05829018",
+    "brief_title": "Elucidating the High Cardiovascular Disease Risk in South Asians",
+    "conditions": [
+      "Cardiovascular Diseases"
+    ],
+    "interventions": [
+      "Mixed meal test"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05829928",
+    "brief_title": "Testicular Tissue Cryopreservation in the Setting of Gender-Affirming Therapy",
+    "conditions": [
+      "Gender Dysphoria",
+      "Transgender"
+    ],
+    "interventions": [
+      "Infectious Disease Testing",
+      "Gonadal Tissue Removal"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05853120",
+    "brief_title": "Doxy-Post-exposure Prophylaxis",
+    "conditions": [
+      "Sexually Transmitted Diseases"
+    ],
+    "interventions": [
+      "Doxycycline"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05863676",
+    "brief_title": "Ovarian Tissue Cryopreservation in the Setting of Gender-affirming Therapy",
+    "conditions": [
+      "Gender Dysphoria",
+      "Transgender"
+    ],
+    "interventions": [
+      "Oophorectomy",
+      "Infectious Disease Testing"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05865262",
+    "brief_title": "Protocol TRANS and QT Repolarization",
+    "conditions": [
+      "Transgender Individuals",
+      "QTc Interval"
+    ],
+    "interventions": [
+      "ECG",
+      "blood test (assessing ionic and hormonal circulating levels)"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT05877235",
+    "brief_title": "Serum Concentration of Endogenous Estrogens and Sirtuin-1 After Administration of Atorvastatin and Quercetin:",
+    "conditions": [
+      "Coronary Artery Disease",
+      "Menopause"
+    ],
+    "interventions": [
+      "Quercetin",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05883553",
+    "brief_title": "Epithesis Versus Prosthesis in Post-phalloplasty Transgender Patients.",
+    "conditions": [
+      "Transgenderism",
+      "Erectile Dysfunction",
+      "Prosthesis Durability",
+      "Gender Dysphoria",
+      "Sexual Dysfunction"
+    ],
+    "interventions": [
+      "Usability and added value of device within sexual activity"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05884307",
+    "brief_title": "Trans Care: An Online Intervention to Reduce Symptoms of Gender Dysphoria",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Trans Care Web App"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05891795",
+    "brief_title": "Clascoterone for Steroid-related Acne Vulgaris in Transgender Male Patients Receiving Masculinizing Hormone Therapy",
+    "conditions": [
+      "Acne Vulgaris"
+    ],
+    "interventions": [
+      "Clascoterone 1% Top Cream",
+      "Vehicle"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05897086",
+    "brief_title": "Polyethylene-glycol Assisted Nerve Repair in Phalloplasty",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Polyethylene Glycol 3350"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05903911",
+    "brief_title": "Trans Care: An Online Intervention to Reduce Symptoms of Gender Dysphoria",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Trans Care Web App"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05925361",
+    "brief_title": "Peritoneum Vaginoplasty; Implementation According to IDEAL Framework",
+    "conditions": [
+      "Rokitansky Kuster Hauser Syndrome",
+      "Vaginal Neoplasms",
+      "Gender Incongruence",
+      "Vaginal Obstruction",
+      "Penoscrotal Hypoplasia"
+    ],
+    "interventions": [
+      "Laparoscopic pedicled single flap peritoneum vaginoplasty"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT05934877",
+    "brief_title": "ASK-PrEP (Assistance Services Knowledge-PrEP)",
+    "conditions": [
+      "Substance Use Disorders",
+      "HIV"
+    ],
+    "interventions": [
+      "PrEP navigation + text messaging",
+      "Standard of Care",
+      "Contingency Management"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06001307",
+    "brief_title": "Supporting Trans Affirmation, Relationships, and Sex, Phase 3",
+    "conditions": [
+      "HIV",
+      "Violence, Gender-Based",
+      "Violence, Domestic",
+      "Risk Reduction Behavior"
+    ],
+    "interventions": [
+      "Program STARS (Supporting Trans Affirmation, relationships, and Sex)",
+      "Relaxation and Stress Reduction"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06005610",
+    "brief_title": "Estradiol Therapy In Transgender Women to Research Interactions With HIV Therapy",
+    "conditions": [
+      "HIV I Infection"
+    ],
+    "interventions": [
+      "Estradiol"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06022562",
+    "brief_title": "Effects of Gender-affirming Hormone Therapy on Transgender People",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06070324",
+    "brief_title": "Effect of Suture Material on Postoperative Nipple Areolar Complex Widening",
+    "conditions": [
+      "Breast Cancer",
+      "Gynecomastia",
+      "Transgenderism",
+      "Breast Asymmetry"
+    ],
+    "interventions": [
+      "Breast surgery",
+      "Suturing of surgical incision"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06074796",
+    "brief_title": "The Determinants of Fertility Preservation in TRANSgender Patients.",
+    "conditions": [
+      "Fertility Preservation",
+      "Transgender",
+      "Transgenderism"
+    ],
+    "interventions": [
+      "No intervention."
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06083766",
+    "brief_title": "Metabolic and Physiologic Responses to Hormone Therapy in Transgender and Gender Diverse People",
+    "conditions": [
+      "Effects of GAHT, on Skeletal Muscle in TGD"
+    ],
+    "interventions": [
+      "hormone therapy"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06094257",
+    "brief_title": "Prospective Study of Sensation and Satisfaction in Cancer and Transgender Mastectomy Patients",
+    "conditions": [
+      "Sensation Disorders",
+      "Sensation, Phantom",
+      "Pain, Postoperative",
+      "Pain, Chronic",
+      "Numbness",
+      "Sensory Disorder",
+      "Sensory Defect",
+      "Phantom Pain",
+      "Phantom Sensation"
+    ],
+    "interventions": [
+      "Sensory testing"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06098781",
+    "brief_title": "Gynaecological Gender-affirming Surgeries",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06116201",
+    "brief_title": "Influences of Long Term Hormone Therapy on Physical Fitness and Vascular Function in Transgender Women",
+    "conditions": [
+      "Transgender Women"
+    ],
+    "interventions": [
+      "Estradiol",
+      "Estradiol and Anti-Androgen",
+      "No intervention"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06149065",
+    "brief_title": "Factors Associated With the Acne Severity Among Transmen Population: a Cross-sectional Study",
+    "conditions": [
+      "Acne",
+      "Transgenderism"
+    ],
+    "interventions": [
+      "Testosterone"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06221163",
+    "brief_title": "Sociological Study of the Life Courses of Young TRANSgender Patients",
+    "conditions": [
+      "Transgenderism"
+    ],
+    "interventions": [
+      "collection of biographical and sociological data"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06230770",
+    "brief_title": "Impact of Progestin-only Contraception on Bleeding Patterns in Individuals Initiating GATT",
+    "conditions": [
+      "Gender",
+      "Contraception"
+    ],
+    "interventions": [
+      "Bleeding data"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06234488",
+    "brief_title": "Multi-Institutional Transgender & Gender-Diverse Breast Cancer Study",
+    "conditions": [
+      "Breast Cancer",
+      "Breast Neoplasms",
+      "Breast Adenocarcinoma",
+      "Breast Cancer Stage",
+      "Breast Cancer Stage IV",
+      "Breast Cancer Invasive",
+      "Breast Cancer in Situ"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06239766",
+    "brief_title": "BC Risk Assessment Before Top Surgery",
+    "conditions": [
+      "Breast Cancer",
+      "Risk Reduction"
+    ],
+    "interventions": [
+      "Breast Cancer Risk Assessment"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06245681",
+    "brief_title": "Effects of Cross-sex Hormone Treatment on Cardiac Function, Myocardial and Hepatic Fat Content",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "gender affirming hormone therapy"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06247267",
+    "brief_title": "The Effect of Sex Steroid Replacement Therapy in the Hypogonadism and Transgender Active-Duty Population",
+    "conditions": [
+      "Hypogonadism",
+      "Gender Identity Dysphoria"
+    ],
+    "interventions": [
+      "Fortesta",
+      "Estradiol",
+      "Fortesta"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06291675",
+    "brief_title": "Gender-Affirming Hormone Therapy and Its Impact on Myocardial Mass and Cardiac Function, Heart, Liver and Pancreatic Fat Content",
+    "conditions": [
+      "Gender Dysphoria",
+      "Hormone Therapy Induced Morphologic Change"
+    ],
+    "interventions": [
+      "gender-affirming hormone therapy"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06298032",
+    "brief_title": "A Study Investigating the Safety, Tolerability, Immunogenicity and Pharmacokinetics of Olamkicept in Healthy Persons",
+    "conditions": [
+      "Inflammatory Gastrointestinal Diseases"
+    ],
+    "interventions": [
+      "Olamkicept Part A",
+      "Olamkicept Part B",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06316102",
+    "brief_title": "Promoting Viral Suppression Among Transgender Women Living With HIV in Santo Domingo",
+    "conditions": [
+      "HIV"
+    ],
+    "interventions": [
+      "Gender Affirming Abriendo Puertas (Opening Doors) (GAP)"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06332742",
+    "brief_title": "Real-world Evaluation of Qingxin Zishen Decoction on Ovarian Reserve Function Clinical Efficacy in Patients With Decreased",
+    "conditions": [
+      "Decreased Ovarian Reserve"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06351501",
+    "brief_title": "Evaluation of the Effectiveness of Hormonal Treatment in Adolescents Suffering From Gender Dysphoria",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "hormonal treatment with cross sex hormones (testosterone or oestrogenes) started at 14 years old +/- 6 months",
+      "Cross sex hormones ( \u0153strogenes or testosterone) started at 15.5 years old +/- 6 months"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06357130",
+    "brief_title": "Gynaecological Care for Transgender People in France in 2024.",
+    "conditions": [
+      "Transgender Management Care"
+    ],
+    "interventions": [
+      "Questionnaire"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06390332",
+    "brief_title": "Centering Gender Affirming Resources in Higher Education",
+    "conditions": [
+      "Sexual Violence",
+      "Drinking Heavy"
+    ],
+    "interventions": [
+      "Giving Information for Trauma Support and Safety (GIFTSS) Training",
+      "Centering gender Affirming Resources in higher Education (CARE) Learning Modules"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06391034",
+    "brief_title": "Magnetic Resonance (MR) Imaging With Hyperpolarized 13C-Pyruvate +/- 13C,15N-Urea in Patients With Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "interventions": [
+      "hyperpolarized pyruvate +/-urea (13C/15N)",
+      "Non-investigational External beam radiotherapy (EBRT)",
+      "Radiotherapy (RT)",
+      "Multi-parametric magnetic resonance imaging (mpMRI)",
+      "Non-interventional hormone therapy",
+      "Prostate Biopsy"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06400199",
+    "brief_title": "Fertility Preservation for Transfeminine Adolescents Via Semen Cryopreservation or Testicular Sperm Extraction",
+    "conditions": [
+      "Gender Dysphoria, Adolescent"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06403059",
+    "brief_title": "Cervical Length and Uterocervical Angle as Predictors of Spontaneous Preterm Birth",
+    "conditions": [
+      "Preterm Pregnancy"
+    ],
+    "interventions": [
+      "Cervical Length",
+      "Uterocervical Angle"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06405243",
+    "brief_title": "Myoinositol, L-arginine and Chromium With Letrozole for Ovulation Induction in Polycystic Ovarian Syndrome Patients",
+    "conditions": [
+      "Polycystic Ovary Syndrome"
+    ],
+    "interventions": [
+      "Myoinositol",
+      "Chromium",
+      "l-arginine",
+      "Letrozole 2.5mg"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06418347",
+    "brief_title": "Effect of ALA Combined With Letrozole on Polycystic Ovary Syndrome Clinical Outcome in Infertile Females",
+    "conditions": [
+      "Polycystic Ovary Syndrome",
+      "Infertility, Female"
+    ],
+    "interventions": [
+      "Alpha lipoic acid",
+      "Letrozole"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06428669",
+    "brief_title": "Effect of Nitropaste in Chest Masculinizing Surgery",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Nitro-Bid 2 % Topical Ointment"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06436560",
+    "brief_title": "Support for Transgender and Non-Binary Individuals Seeking Vaginoplasty Study",
+    "conditions": [
+      "Gender Affirmation Surgery",
+      "Perioperative Care",
+      "Transgender Health"
+    ],
+    "interventions": [
+      "STRIVE Peer Support Intervention"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06439290",
+    "brief_title": "Voice Outcome of Glottoplasty, Cricothyroid Approximation, Thyroplasty, and Chondrolaryngoplasty",
+    "conditions": [
+      "Surgery",
+      "Larynx",
+      "Transgenderism",
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Phonosurgery",
+      "Mastectomy/breast augmentation"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06443164",
+    "brief_title": "Efficacy of a Chronic Pain Treatment Prior to Gender-affirming Surgery",
+    "conditions": [
+      "Pain Catastrophizing",
+      "Pain, Chronic",
+      "Gender Identity"
+    ],
+    "interventions": [
+      "Empowered Relief",
+      "Standard of Care"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06450405",
+    "brief_title": "Androgen Effects on the Reproductive Neuroendocrine Axis",
+    "conditions": [
+      "Transgenderism",
+      "Reproductive Issues"
+    ],
+    "interventions": [
+      "Testosterone Cypionate 50 MG/ML Injectable Solution"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06470906",
+    "brief_title": "Feasibility of an Oral Intervention for Sexual Health in Transgender Men",
+    "conditions": [
+      "Vaginal Dysbiosis",
+      "Vaginal Disease",
+      "Molecular-bacterial Vaginosis"
+    ],
+    "interventions": [
+      "Probiotic Group",
+      "Placebo Group"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06482385",
+    "brief_title": "Transmasculine Quality of Life and Sexual Function at Pre and Post Gender-affirming Hormonal Therapy",
+    "conditions": [
+      "Transgender Men"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06487754",
+    "brief_title": "New-onset Chronic Pelvic Pain in Transgender People Using Testosterone Therapy: an Exploratory Qualitative Study.",
+    "conditions": [
+      "Transgender Persons",
+      "Pelvic Pain",
+      "Testosterone",
+      "Gender-Affirming Care"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06496581",
+    "brief_title": "Standard of Care +/- 177Lu-PSMA-617 In de Novo mHSPC Patients With Poor PSA Response (PEACE6-Poor Responders)",
+    "conditions": [
+      "Prostate Cancer Metastatic"
+    ],
+    "interventions": [
+      "177Lu-PMSA-617",
+      "Standard of Care"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06502353",
+    "brief_title": "Plexaa For Preconditioning: Gender Affirming Mastectomy",
+    "conditions": [
+      "Nipple Necrosis",
+      "Nipple Graft Loss"
+    ],
+    "interventions": [
+      "BLOOM43"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06515834",
+    "brief_title": "Investigating the Safety, Tolerability, Immunogenicity and Pharmacokinetics of Olamkicept in Healthy Japanese Persons",
+    "conditions": [
+      "Gastroenterology"
+    ],
+    "interventions": [
+      "FE 999301",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06530992",
+    "brief_title": "The Effect of Tucking on Semen Quality of Adult Trans Women",
+    "conditions": [
+      "Transgender",
+      "Gender Incongruence",
+      "Fertility Issues"
+    ],
+    "interventions": [
+      "tucking break"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06537765",
+    "brief_title": "Combined Effect of Therapeutic Ultrasound and Trans Cutaneous Electrical Nerve Stimulation on Endometriosis",
+    "conditions": [
+      "Endometriosis"
+    ],
+    "interventions": [
+      "Medical treatment",
+      "Therapeutic ultrasound (US)",
+      "Transcutaneous electrical nerve stimulation (TENS)"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06545721",
+    "brief_title": "Weight Cycling on Hyperandrogenemia and Insulin Resistance in Polycystic Ovary Syndrome",
+    "conditions": [
+      "Polycystic Ovary Syndrome"
+    ],
+    "interventions": [
+      "Adjusting dietary structure + exercise + behavioral intervention",
+      "Precision dietary prescription",
+      "Standard guideline-based low-energy diet"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06565663",
+    "brief_title": "MaPGAS Decision Making",
+    "conditions": [
+      "Gender Dysphoria",
+      "Gender Dysphoria, Adult",
+      "Gender Incongruence",
+      "Transgenderism",
+      "Transsexualism",
+      "Transgender Persons",
+      "Phalloplasty"
+    ],
+    "interventions": [
+      "MaPGAS Decision Aid"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06573177",
+    "brief_title": "Optimizing Individual Health Care for Young People With Gender Incongruence",
+    "conditions": [
+      "Gender Incongruence"
+    ],
+    "interventions": [
+      "Referral to the gender identity service."
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06581679",
+    "brief_title": "Adenomyosis and Pregnancy: Levonorgestrel vs. GnRH for Blastocyst Transfer",
+    "conditions": [
+      "Adenomyosis"
+    ],
+    "interventions": [
+      "Triptorelin",
+      "levonorgestrel-releasing intrauterine system",
+      "frozen embryo transfer"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06615401",
+    "brief_title": "Understanding Perceived Access and Receipt of Gender-affirming Treatments Among Transgender Veterans",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06639763",
+    "brief_title": "Erectile Aid Use in Post-phalloplasty and Post-metoidioplasty Transgender Patients",
+    "conditions": [
+      "Transgenderism",
+      "Erectile Dysfunction",
+      "Gender Dysphoria",
+      "Sexual Dysfunction"
+    ],
+    "interventions": [
+      "Questionnaire"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06639776",
+    "brief_title": "Sexual Functioning After Erection Prosthesis Placement in Post Phalloplasty Transgender Persons",
+    "conditions": [
+      "Transgenderism",
+      "Erectile Dysfunction",
+      "Prosthesis Durability",
+      "Gender Dysphoria",
+      "Sexual Dysfunction"
+    ],
+    "interventions": [
+      "Questionnaire"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06656676",
+    "brief_title": "WePrEP: Developing a PrEP Shared Decision-making Tool for Transgender Women",
+    "conditions": [
+      "HIV Prevention"
+    ],
+    "interventions": [
+      "WePrEP: A shared decision-making tool",
+      "Active comparator: CDC recommendations for discussing PrEP"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06670053",
+    "brief_title": "Puberty, Testosterone, and Brain Development",
+    "conditions": [
+      "Gender Identity",
+      "Gender Dysphoria in Adolescents and Adults",
+      "Headache",
+      "Transgender"
+    ],
+    "interventions": [
+      "Testosterone"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06710496",
+    "brief_title": "HISTOLOGICAL RESULTS IN TRANSGENDER INDIVIDUALS ASSIGNED TO FEMALES AT BIRTH UNDERGOING GENDER AFFIRMATION SURGERY AND IN TESTOSTERONE THERAPY",
+    "conditions": [
+      "Pregnancy",
+      "Smoking Behavior",
+      "Testosterone Replacement Therapy",
+      "Drugs",
+      "Comorbidities and Coexisting Conditions",
+      "Gynecological Surgery",
+      "Transgender Men",
+      "Gender Affirmation Surgery",
+      "Hormone Replacement Therapy",
+      "Gynecological Disorders"
+    ],
+    "interventions": [
+      "analysis of medical records"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06733350",
+    "brief_title": "Testosterone Replacement Therapy for the Treatment of Low Testosterone in Hypogonadal Men With Localized Prostate Cancer on Active Surveillance",
+    "conditions": [
+      "Localized Prostate Carcinoma",
+      "Stage I Prostate Cancer AJCC v8",
+      "Stage II Prostate Cancer AJCC v8",
+      "Stage III Prostate Cancer AJCC v8"
+    ],
+    "interventions": [
+      "Biopsy of Prostate",
+      "Biospecimen Collection",
+      "Magnetic Resonance Imaging",
+      "Patient Observation",
+      "Questionnaire Administration",
+      "Therapeutic Testosterone"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06733415",
+    "brief_title": "Changes in Energy Expenditure (EE) in Transsexuals Undergoing Hormonal Therapy",
+    "conditions": [
+      "Transgender",
+      "Transgender Persons, M01.777.500"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06741319",
+    "brief_title": "Behavioral and Psychosocial Characteristics of Clients Accessing Services at IHRI",
+    "conditions": [
+      "HIV"
+    ],
+    "interventions": [
+      "Demographic characteristics",
+      "Social and sexual behaviors",
+      "Psychosocial characteristics",
+      "Clinical characteristics",
+      "Referral and linkage to care for HIV-positive clients",
+      "Characteristics associated with service implementation"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06747624",
+    "brief_title": "A Crossover Clinical Trial Investigating the Effects of Geranylgeraniol (GG) Supplementation on Testosterone Levels in Healthy Men and Women Over an 18-week Period",
+    "conditions": [
+      "Wellness",
+      "Health"
+    ],
+    "interventions": [
+      "Geranylgeraniol 300 mg",
+      "Placebo"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06774053",
+    "brief_title": "Swiss ProspectivE Cohort of TRAnsgender and Gender Diverse Individuals - The SPECTRA Study",
+    "conditions": [
+      "Transgender Individuals",
+      "Gender Incongruence"
+    ],
+    "interventions": [
+      "Group A (start of GAHT)",
+      "Group B (on-going GAHT)",
+      "Group C (GAS)"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06779331",
+    "brief_title": "Phosphate Urine Excretion in Critically Ill Patients",
+    "conditions": [
+      "Critically Ill Intensive Care Unit Patients"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06807580",
+    "brief_title": "Progesterone in Gender Affirming Hormone Therapy Study",
+    "conditions": [
+      "Transgender Women"
+    ],
+    "interventions": [
+      "Placebo",
+      "Progesterone"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06816355",
+    "brief_title": "Exogenous Sex Hormones and PONV",
+    "conditions": [
+      "Postoperative Nausea and Vomiting",
+      "Sex Hormone",
+      "Transgender"
+    ],
+    "interventions": [
+      "Orchiectomy",
+      "Hysterectomy",
+      "Augmentation mammoplasty"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06844097",
+    "brief_title": "Intervention for Medical Student to Promote Cervical Cancer Screening Among Latinx Transmasculine Individuals",
+    "conditions": [
+      "Clinical Competence",
+      "Medical Education",
+      "Cervical Cancer Screening"
+    ],
+    "interventions": [
+      "Cervical Cancer Trans Inclusive Education (CC-TRAINED) Module",
+      "Disaster Preparedness Course"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06854432",
+    "brief_title": "Assessment of Biological and Biometrological Parameters in Adult Subjects with Androgenetic Alopecia",
+    "conditions": [
+      "Alopecia, Androgenetic",
+      "Healthy"
+    ],
+    "interventions": [
+      "Biometrological measurements",
+      "Biological sampling"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06854965",
+    "brief_title": "Cohort Study on Factors Associated with the Evolution of Quality of Life Among Transgender Individuals in the French Population",
+    "conditions": [
+      "Transgender Persons"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06880705",
+    "brief_title": "The Trans-Led Care Study",
+    "conditions": [
+      "Substance Abuse",
+      "Substance Addiction",
+      "Substance Use Disorder (SUD)",
+      "Substance Use (Drugs, Alcohol)",
+      "Human Immunodeficiency Virus (HIV)"
+    ],
+    "interventions": [
+      "The TLC Program"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06939257",
+    "brief_title": "Pain Outcomes Associated With Exogenous Hormone Therapy in Adults",
+    "conditions": [
+      "Pain",
+      "Gender Minority Individuals"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06953908",
+    "brief_title": "The Copenhagen Gender Identity Cohort",
+    "conditions": [
+      "Gender Identity",
+      "Gender Dysphoria, Adult",
+      "Gender Incongruence"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT06969326",
+    "brief_title": "Topical Estrogen: Brief Intervention to Improve Postoperative Experience for Transgender Men Undergoing Hysterectomy",
+    "conditions": [
+      "Postoperative Bleeding",
+      "Gender Dysphoria",
+      "Hysterectomy"
+    ],
+    "interventions": [
+      "Use of topical estradiol",
+      "No intervention"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT06987045",
+    "brief_title": "Trans and Non-binary Prostate-Specific Antigen Reference Interval Determination Study",
+    "conditions": [
+      "Prostate CA"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07005648",
+    "brief_title": "Brazilian Registry of Menopausal Health",
+    "conditions": [
+      "Menopause"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07017595",
+    "brief_title": "Gender-affirming Voice Training With Visual Feedback",
+    "conditions": [
+      "Transgender Women",
+      "Voice Alteration"
+    ],
+    "interventions": [
+      "Visual-acoustic biofeedback: experimental"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07075731",
+    "brief_title": "Cervical and Endometrial Cancer Screening in Patients Seeking Gender-Affirming Hysterectomy",
+    "conditions": [
+      "Cancer Screening",
+      "Transgender",
+      "Gender Diverse Populations"
+    ],
+    "interventions": [
+      "No intervention"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07085715",
+    "brief_title": "Pan-Viral Screening and Linkage to Care Among GBMSM and Trans Women in Spain",
+    "conditions": [
+      "HIV",
+      "Hepatitis B",
+      "Hepatitis C"
+    ],
+    "interventions": [
+      "Online self-sampling testing strategy to enhance pan-viral testing (HBV, HCV, HIV)"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07092527",
+    "brief_title": "Androgen Effects on the Reproductive Neuroendocrine Axis, 2025 Version",
+    "conditions": [
+      "Transgenderism",
+      "Reproductive Issues"
+    ],
+    "interventions": [
+      "Testosterone Cypionate 50 milligrams per millileter (mg/mL) Injectable Solution"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07128771",
+    "brief_title": "Cardiomodulatory Effects of Gender-Affirming Hormone Therapy",
+    "conditions": [
+      "Gender Incongruence",
+      "Cardiovascular Disease (CVD) Risk Factors"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07145281",
+    "brief_title": "Comparing the Effects of Sublingual Estradiol Treatment Versus Oral Estradiol With Cyproterone Acetate (CPA) Treatment on The Coagulation System in Transgender Women: A Prospective, Controlled Cohort Study",
+    "conditions": [
+      "Gender Dysphoria, Adult",
+      "Blood Coagulation",
+      "Coagulation Factors",
+      "Transgender Persons, M01.777.500",
+      "Hemostasis",
+      "Transgender Women"
+    ],
+    "interventions": [
+      "Estradiol (E2)",
+      "Cyproterone Acetate (Androcur, BAY94-8367)"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07145827",
+    "brief_title": "Effect of Metformin on Endometrial Thickness in Postmenopausal Breast Cancer Patients Receiving Tamoxifen",
+    "conditions": [
+      "Breast Cancer",
+      "Endometrial Hyperplasia and Endometrial Cancers"
+    ],
+    "interventions": [
+      "Metfomin",
+      "tamoxifen",
+      "Placebo matching Metformin"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07147166",
+    "brief_title": "Evaluating the Efficacy of Force Modulating Tissue Bridge Device in Preventing Hypertrophic Scars Following Gender-Affirming Mastectomy",
+    "conditions": [
+      "Gender Dysphoria",
+      "Mastectomy",
+      "Hypertrophic Scar"
+    ],
+    "interventions": [
+      "Brijjit\u00ae BP100-6 and BP-75",
+      "Control: Standard of care and normal wound dressing"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07148921",
+    "brief_title": "Perception of Pain During Gender Affirming Hormone Therapy",
+    "conditions": [
+      "Transgender Persons",
+      "Pain Threshold",
+      "Perception of Pain",
+      "Sex Hormones"
+    ],
+    "interventions": [
+      "Quantitative Sensory Testing",
+      "Patient Health Questionnaire 9",
+      "Hormone concentrations"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07181551",
+    "brief_title": "Forward to Quit: A Person-centered Mobile Technology Intervention for Smoking Cessation Among Transgender Adults",
+    "conditions": [
+      "Smoking Cessation"
+    ],
+    "interventions": [
+      "Forward to Quit (F2Q)"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07187947",
+    "brief_title": "Cardiovascular Health of Transgender Individuals During the Gender-affirming Pathway",
+    "conditions": [
+      "Gender Incongruence",
+      "Cardiovascular (CV) Risk",
+      "Cardiovascular Disease Risk Factor",
+      "Cardiovascular Disease Acute",
+      "Cardiovascular Health Status",
+      "Cardiovascular Disease (CVD)",
+      "Cardiovascular Disease Prevention"
+    ],
+    "interventions": [
+      "Feminizing GAHT",
+      "Masculinizing GAHT"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07194226",
+    "brief_title": "Attitudes and Decision Regret Regarding Fertility Preservation in Transgender Individuals",
+    "conditions": [
+      "Fertility Preservation in Transgender Persons"
+    ],
+    "interventions": [
+      "No intervention (observational study)"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07252687",
+    "brief_title": "The Effect of Gender-affirmative Measures on Breast Perception in Trans Men",
+    "conditions": [
+      "Transgender",
+      "Gender Dysphoria in Adolescents and Adults"
+    ],
+    "interventions": [
+      "quality of life questionnaire- iTransQoL, chest dysphoria measure"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07286123",
+    "brief_title": "Gender Affirming Vaginoplasty With Tubularized Augmented Peritoneal Cap (TAPCap) Utilizing Fish Skin Xenograft (Kerecis\u2122)",
+    "conditions": [
+      "Gender Dysphoria, Adult"
+    ],
+    "interventions": [
+      "Tubularized augmented peritoneal cap vaginoplasty",
+      "Biopsy"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07324967",
+    "brief_title": "A Standardized Counseling Approach to Preoperative Education in Transmasculine Individuals Receiving Gender-affirming Surgery",
+    "conditions": [
+      "Hysterectomy",
+      "Gender Affirming Surgery"
+    ],
+    "interventions": [
+      "Educational Handout"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07334951",
+    "brief_title": "Effect of Tvns in Obesity",
+    "conditions": [
+      "Obesity and Diabetes Mellitus, Type 2"
+    ],
+    "interventions": [
+      "Trans vagus nerve stimulation electrical device."
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07358897",
+    "brief_title": "Gender Affirming Hormone Therapy and Immune Function in Trans Individuals - The GIFT Study",
+    "conditions": [
+      "Transgender"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07394400",
+    "brief_title": "Effects of Gender-Affirming Hormone Therapy on Cardiovascular, Metabolic, and Mental Health Outcomes in Transgender Adults.",
+    "conditions": [
+      "Transgender Individuals"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07400419",
+    "brief_title": "Effects of Resistance Exercise Among TGD Individuals Initiating Estrogen-Based Gender-Affirming Hormone Therapy",
+    "conditions": [
+      "Muscle Mass and Strength"
+    ],
+    "interventions": [
+      "Resistance Exercise Program",
+      "Nutrition and Exercise Counseling"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07412509",
+    "brief_title": "Can 3D Modeling Enhance Patient Understanding, Education, and Surgical Outcomes in Gender Affirming Peritoneal Vaginoplasty?",
+    "conditions": [
+      "Vaginoplasty",
+      "Gender Dysphoria, Adult"
+    ],
+    "interventions": [
+      "Use 3D printed patient specific models for patient education"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07417787",
+    "brief_title": "Point of Care Tests in the Management of Very Early Medical Abortion",
+    "conditions": [
+      "Abortion Early"
+    ],
+    "interventions": [
+      "Blood test",
+      "Participant Questionnaire"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07448272",
+    "brief_title": "Letrozole 5 mg for 10 Days Versus Letrozole 10 mg for 5 Days for Ovarian Stimulation in PCOS",
+    "conditions": [
+      "PCOS (Polycystic Ovary Syndrome)"
+    ],
+    "interventions": [
+      "Tab letrozole 5mg for 10 days",
+      "Tabletrozole 10mg for 5 days"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07480590",
+    "brief_title": "GLOW: Gender-Affirming Care and Mental Health: A Longitudinal Study On Quality of Life, Work Life, and Healthcare Outcomes",
+    "conditions": [
+      "Gender Dysphoria, Adult"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07481942",
+    "brief_title": "Body Composition Assessment in Transgender Population.",
+    "conditions": [
+      "Transgender"
+    ],
+    "interventions": [
+      "gender affirming hormone therapy"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07509827",
+    "brief_title": "Evaluation of mHealth Intervention to Promote HIV Prevention and Overcome Stigma Among Transgender Women (EMPOW.HER)",
+    "conditions": [
+      "HIV Prevention",
+      "HIV Related Stigma",
+      "PrEP Adherence"
+    ],
+    "interventions": [
+      "Mobile Healthy Choices (mHC)+SPC",
+      "FRESH + SPC",
+      "mHC + FRESH + SPC"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07512856",
+    "brief_title": "The Implementation of a Trans-tailored Harm Reduction Service for Transgender Persons in Relation to chemsEX and Substance Use (iT-REX)",
+    "conditions": [
+      "HIV Prevention",
+      "Substance Use",
+      "Mental Health Disorders",
+      "Sexually Transmitted Infections (STIs)",
+      "Chemsex"
+    ],
+    "interventions": [
+      "Transgender-tailored Harm Reduction Service"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07516691",
+    "brief_title": "Evaluation of a New Strategy to Approach the Transgender Sex Worker Populations and Their Clients for Access to a Preventive Sexual Health System Through the ORTIF Digital Teleconsultation Solution",
+    "conditions": [
+      "HIV"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07542964",
+    "brief_title": "Transgender Analysis of Nephrological Studies Focused on Renal Metrics",
+    "conditions": [
+      "Kidney Disease",
+      "Kidney Injury",
+      "Transgender Individuals"
+    ],
+    "interventions": [
+      "P-aminohippurate clearance study",
+      "Iohexol infusion",
+      "Hyperinsulinemic clamp"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07624747",
+    "brief_title": "Brain Health in Transgender Adults",
+    "conditions": [
+      "Gender Dysphoria"
+    ],
+    "interventions": [
+      "Magnetic Resonance Imaging",
+      "Cognition and Health Tests",
+      "Optional Exercise Test"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07661823",
+    "brief_title": "QAIAx (AIhealth4U) - AI Public Health Central: Microcity-A (re Quantum AI Agency Aka AI City Hall Project, UPSTO App Nos. 64/074,526, 64/063,557, 63/903,181, 63/729,428",
+    "conditions": [
+      "Asperger's Disorder",
+      "Asperger Disorder",
+      "Autism Disorder",
+      "Autism",
+      "ADHD - Attention Deficit Disorder With Hyperactivity",
+      "ADHD",
+      "ASD",
+      "Alcohol Abuse/Dependence",
+      "Alcohol Addiction",
+      "Alcohol and Other Drug Use Disorders",
+      "Alcohol and Other Substance Use Prevention",
+      "Gambling Addiction",
+      "Gambling Disorder",
+      "Sex Abuse",
+      "Sex Behavior",
+      "Sex Crimes",
+      "Sex Disorder",
+      "Sex Disorders",
+      "Gender Dysphoria, Adult",
+      "Eating Behavior Disorders",
+      "Narcotic-Related Disorders",
+      "Narcotic Addiction",
+      "Narcissism",
+      "Psychiatric Disorder",
+      "Psychedelic Effects in Healthy Volunteers",
+      "Psychedelic Experiences",
+      "Psychedelic Drug Dependence",
+      "Marijuana Use Disorder",
+      "Marijuana Abuse and Dependence",
+      "Smoking (Tobacco) Addiction",
+      "Smoking Among Youth",
+      "Smoking Abstinence",
+      "Abstinence, Sex",
+      "Opiate Substitution Treatment",
+      "Opioid Abuse (Disorder)",
+      "Opioid Abuse and Addiction",
+      "Cocaine Abuse",
+      "MDMA ('Ecstasy')",
+      "Addiction Disorders",
+      "Homeless and Low Incomes People, Refugees",
+      "Homelessness",
+      "Reliability and Validity",
+      "Anger Problems",
+      "Child Abuse, Sexual"
+    ],
+    "interventions": [
+      "AI City Hall Project (AIhealth4u - Public Health Central)",
+      "AI City Hall Project (QAIAx Microcity A - AI Public Health Central)"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07681908",
+    "brief_title": "#TranscendentHealth: A Text Messaging Pregnancy Prevention Program for Transgender Boys",
+    "conditions": [
+      "Pregnancy (Unwanted)",
+      "Sexually Transmitted Disease (STD)",
+      "HIV Infection",
+      "Sexual Behavior"
+    ],
+    "interventions": [
+      "#TranscendentHealth",
+      "Universal Sexual Health Program"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07699159",
+    "brief_title": "Cohort Network for Adolescents and Youth With multipLe Mental Health Conditions",
+    "conditions": [
+      "Multiple Mental Health Conditions",
+      "Child Mental Health",
+      "Youth Mental Health"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07729644",
+    "brief_title": "Evaluation of State-Level Sexual and Gender Minority Laws for the Primary Prevention of Sexual and Intimate Partner Violence Among Sexual and Gender Minority Youth in the U.S.",
+    "conditions": [
+      "Sexual Violence",
+      "Intimate Partner Violence (IPV)"
+    ],
+    "interventions": [
+      "Enumerated anti-bullying state legislation",
+      "Conversion therapy state legislation",
+      "Gender-affirming care state legislation"
+    ],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07746999",
+    "brief_title": "North Jersey Community Research Initiative (NJCRI) Study on Transgender Liver Health",
+    "conditions": [
+      "HEPATITIS C (HCV)"
+    ],
+    "interventions": [],
+    "study_type": "OBSERVATIONAL"
+  },
+  {
+    "nct_id": "NCT07755059",
+    "brief_title": "Proximal Splenic Artery Embolization (PSAE) for the Treatment of Refractory Ascites in Decompensated Cirrhosis",
+    "conditions": [
+      "Ascites",
+      "Liver Cirrhosis",
+      "Hypertension, Portal"
+    ],
+    "interventions": [
+      "Proximal Splenic Artery Embolization"
+    ],
+    "study_type": "INTERVENTIONAL"
+  },
+  {
+    "nct_id": "NCT07759518",
+    "brief_title": "Letrozole High Dose (10 mg) Compared to Letrozole Low Dose( 5 mg) for Ovarian Stimulation in Infertile Women With Polycystic Ovary Syndrome",
+    "conditions": [
+      "PCOS"
+    ],
+    "interventions": [
+      "Tab.Letrozole 10 mg for 5 days",
+      "Tab.Letrozole 5mg for 5 days"
+    ],
+    "study_type": "INTERVENTIONAL"
+  }
+]

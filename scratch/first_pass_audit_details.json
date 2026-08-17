@@ -1,0 +1,2274 @@
+[
+  {
+    "nct_id": "NCT00023543",
+    "title": "Reduction of Triglycerides in Women on Hormone Replacement Therapy",
+    "conditions": [
+      "Cardiovascular Diseases",
+      "Atherosclerosis",
+      "Postmenopause",
+      "Heart Diseases"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estrogen"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT00082082",
+    "title": "A Trial of Thymalfasin in Adult Patients With Hepatocellular Carcinoma",
+    "conditions": [
+      "Carcinoma, Hepatocellular"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "transplantable",
+      "trans",
+      "transplantation"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT00188708",
+    "title": "Effect of Casodex on Tumour Hypoxia - Prostate Cancer",
+    "conditions": [
+      "Prostatic Neoplasms"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transrectal"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT00450749",
+    "title": "Lycopene in Treating Patients Undergoing Radical Prostatectomy for Prostate Cancer",
+    "conditions": [
+      "Adenocarcinoma of the Prostate",
+      "Stage I Prostate Cancer",
+      "Stage II Prostate Cancer",
+      "Stage III Prostate Cancer"
+    ],
+    "hits": [
+      "hormon",
+      "testosteron",
+      "antiandrogen"
+    ],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT00544882",
+    "title": "A Study to Evaluate Hormone Patterns and Ovarian Follicular Activity With DR-1021",
+    "conditions": [
+      "Healthy"
+    ],
+    "hits": [
+      "hormon",
+      "estradiol",
+      "estrogen"
+    ],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT00608400",
+    "title": "Effect of Dietary Conjugated Linoleic Acid (CLA) on Parathyroid Hormone in Men",
+    "conditions": [
+      "Healthy"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transient",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT00668603",
+    "title": "Comparison of Vascular Findings Between Symptomatic and Asymptomatic Postmenopausal Women Before and During Hormone Therapy (HRT)",
+    "conditions": [
+      "Postmenopausal Vasomotor Symptoms",
+      "Cardiovascular Disease"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estradiol",
+      "estrogen"
+    ],
+    "trans_words": [
+      "trans",
+      "transdermal"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT00684606",
+    "title": "Transcervical Foley Catheter With or Without Oxytocin for Induction of Labor",
+    "conditions": [
+      "Pregnancy",
+      "Induction of Labor"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "transcervical",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT00705796",
+    "title": "Influence of Administration Route of Testosterone on Male Fertility",
+    "conditions": [
+      "Hypogonadism"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "testosteron"
+    ],
+    "trans_words": [
+      "trans",
+      "transdermal"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT00711607",
+    "title": "A Trial to Assess the Pharmacokinetic Profile (e.g., Uptake, Distribution and Excretion of a Substance in the Body) of Nomegestrol Acetate (NOMAC), Estradiol (E2) and Estrone (E1) After Multiple and Single Dose Administration of the Combined Oral Contraception NOMAC-E2 (COMPLETED)(P05822)",
+    "conditions": [
+      "Healthy"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estradiol"
+    ],
+    "trans_words": [
+      "transvaginal",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT00766857",
+    "title": "Effects of Exenatide in Type 2 Diabetic Patients With Congestive Heart Failure",
+    "conditions": [
+      "Type 2 Diabetes Mellitus",
+      "Congestive Heart Failure"
+    ],
+    "hits": [
+      "hormon"
+    ],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT00789607",
+    "title": "Fiducial Localization and Individualized Radiotherapy -Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "transrectal",
+      "trans",
+      "transrectally",
+      "transperineal"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT00805701",
+    "title": "Study Assessing The Efficacy And Safety Of Avodart (Dutasteride) At Improving Urinary Symptoms In Men With Prostate Cancer Who Are Undergoing Seed Implantation",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "testosteron",
+      "antiandrogen",
+      "spironolact",
+      "cyproteron",
+      "progesteron"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT00831233",
+    "title": "Symptomatic Study Investigating Degarelix in Patients Suffering From Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT00833248",
+    "title": "Neoadjuvant Study Investigating Degarelix in Patients Suffering From Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT00866554",
+    "title": "Efficacy and Toxicity of Bicalutamide and Dutasteride vs. Standard Care for Prostate Cytoreduction for Brachytherapy",
+    "conditions": [
+      "Prostate Cancer",
+      "Erectile Dysfunction",
+      "Lower Urinary Tract Symptoms"
+    ],
+    "hits": [
+      "hormon",
+      "testosteron",
+      "antiandrogen"
+    ],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT00884273",
+    "title": "Investigation of the Effect of Degarelix in Terms of Prostate Volume Reduction in Prostate Cancer Patients",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transrectal",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT00887380",
+    "title": "STARS Breast Trial (Study of Anastrozole and Radiotherapy Sequencing)",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "hits": [
+      "hormon",
+      "estrogen",
+      "progesteron"
+    ],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT00962637",
+    "title": "Study to Evaluate the Safety and Efficacy of Androxal\u2122 Treatment in Men With Secondary Hypogonadism",
+    "conditions": [
+      "Secondary Hypogonadism"
+    ],
+    "hits": [
+      "trans",
+      "testosteron"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT00985738",
+    "title": "Role of Dutasteride in Patients Undergoing 3D Mapping Biopsy in Early Stage Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transrectal",
+      "transurethral"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT01171911",
+    "title": "Comparison of Intravenous Injection of Calcium Antagonist and Beta-blockade on Endothelial Shear Stress of Coronary Artery",
+    "conditions": [
+      "Acute Coronary Syndrome",
+      "Coronary Artery Disease"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT01354977",
+    "title": "Effect of Resveratrol on Age-related Insulin Resistance and Inflammation in Humans",
+    "conditions": [
+      "Type 2 Diabetes Mellitus",
+      "Insulin Resistance"
+    ],
+    "hits": [
+      "hormon"
+    ],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT01523483",
+    "title": "Vaginal Progesterone for Prevention of Preterm Birth After an Episode of Preterm Labor",
+    "conditions": [
+      "Preterm Birth"
+    ],
+    "hits": [
+      "trans",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transvaginal",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT01534351",
+    "title": "Comparison of Finasteride and Tamsulosin for Treatment of Benign Prostatic Hyperplasia (BPH) (MK-0906A-149 AM2)",
+    "conditions": [
+      "Benign Prostatic Hyperplasia"
+    ],
+    "hits": [
+      "trans",
+      "antiandrogen"
+    ],
+    "trans_words": [
+      "transient"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT01653925",
+    "title": "Molecular Mechanisms of Dutasteride and Dietary Interventions to Prevent Prostate Cancer and Reduce Its Progression",
+    "conditions": [
+      "Prostatic Neoplasms",
+      "Low Grade Prostate Cancer"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT01662466",
+    "title": "Effect of Testosterone Treatment on Embryo Quality",
+    "conditions": [
+      "Primary Ovarian Insufficiency",
+      "Female Infertility Due to Diminished Ovarian Reserve"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "testosteron"
+    ],
+    "trans_words": [
+      "trans",
+      "transdermal",
+      "transdermally"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT01720459",
+    "title": "Effects of Micronized Trans-resveratrol Treatment on Polycystic Ovary Syndrome (PCOS) Patients",
+    "conditions": [
+      "Polycystic Ovary Syndrome (PCOS)"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "testosteron",
+      "progesteron"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT01755182",
+    "title": "Systemic Therapy With or Without Upfront Transarterial Embolization for Inoperable Liver Metastasis of Neuroendocrine Tumors",
+    "conditions": [
+      "Neuroendocrine Tumors"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "transarterial",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT01812161",
+    "title": "Effect of Low-frequency Electroacupuncture (EA) on Polycystic Ovary Syndrome",
+    "conditions": [
+      "Polycystic Ovary Syndrome"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "testosteron",
+      "estrogen",
+      "progesteron"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT01828320",
+    "title": "Triple Vulnerability? Circadian Tendency, Sleep Deprivation and Adolescence",
+    "conditions": [
+      "Eveningness/Sleep"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "transdiagnostic"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT01858194",
+    "title": "REnal Sympathetic dEnervaTion as an a Adjunct to Catheter-based VT Ablation",
+    "conditions": [
+      "Ventricular Tachycardia"
+    ],
+    "hits": [],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT01882985",
+    "title": "Docetaxel Plus Lycopene in Castration Resistant, Chemotherapy-Na\u00efve Prostate Cancer Patients",
+    "conditions": [
+      "Adenocarcinoma of the Prostate",
+      "Recurrent Prostate Cancer",
+      "Stage I Prostate Cancer",
+      "Stage IIA Prostate Cancer",
+      "Stage IIB Prostate Cancer",
+      "Stage III Prostate Cancer"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transaminase"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT01897324",
+    "title": "IVF/ICSI Protocols in Poor Responders With Growth Hormone",
+    "conditions": [
+      "Female Infertility Due to Diminished Ovarian Reserve"
+    ],
+    "hits": [
+      "hormon"
+    ],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT01931982",
+    "title": "Effect of Glucagon-like Peptide 1 (GLP-1) on Microvascular Myocardial Function in Patients With Type 2 Diabetes.",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Microvascular Dysfunction"
+    ],
+    "hits": [],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT01999686",
+    "title": "PCOS Treatment Using DLBS3233, Metformin, and Combination of Both",
+    "conditions": [
+      "Polycystic Ovary Syndrome (PCOS)",
+      "Insulin Resistance"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "testosteron",
+      "antiandrogen",
+      "spironolact",
+      "cyproteron"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT02018497",
+    "title": "Essential Hypotension and Allostasis Registry",
+    "conditions": [
+      "Blood Pressure",
+      "Depression",
+      "Panic Attack",
+      "Fibromyalgia",
+      "POTS",
+      "Inappropriate Sinus Tachycardia",
+      "Coronary Heart Disease",
+      "Acute Coronary Syndrome (ACS)",
+      "Acute Myocardial Infarction (AMI)",
+      "Cerebrovascular Disease (CVD)",
+      "Transient Ischemic Attack (TIA)",
+      "Atrial Fibrillation",
+      "Diabetes Mellitus",
+      "Cancer",
+      "Systolic Heart Failure",
+      "Diastolic Heart Failure",
+      "Chronic Fatigue Syndrome",
+      "Syncope",
+      "Vasovagal Syncope"
+    ],
+    "hits": [
+      "trans",
+      "gender",
+      "hormon",
+      "testosteron"
+    ],
+    "trans_words": [
+      "transient",
+      "transplantation"
+    ],
+    "gender_words": [
+      "gender"
+    ],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT02060474",
+    "title": "Thyroid Hormone Analog Therapy in MCT8 Deficiency: Triac Trial Patients",
+    "conditions": [
+      "Allan-Herndon-Dudley Syndrome"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transporter",
+      "transport"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT02264743",
+    "title": "Oral Verses Patch Trial In Menopausal Women - Individualisation of Oestrogen Therapy",
+    "conditions": [
+      "Venous Thrombosis",
+      "Insulin Resistance"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estradiol",
+      "estrogen",
+      "antiandrogen"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT02378246",
+    "title": "Swedish Iodine in Pregnancy and Development in Children (SWIDDICH) Study",
+    "conditions": [
+      "Thyroid Gland; Node",
+      "Pregnancy",
+      "Cognitive Developmental Delay"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT02380027",
+    "title": "PRostate Evaluation for Clinically Important Disease: Sampling Using Image-guidance Or Not?",
+    "conditions": [
+      "Prostate Neoplasm"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "transrectal",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT02381340",
+    "title": "ACE Stapler Sub Study",
+    "conditions": [
+      "Obesity"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "trans",
+      "transportation"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT02381821",
+    "title": "Endometrial Volume and Sub-endometrial Vascularity as Predictors of In-vitro Fertilization Success",
+    "conditions": [
+      "Reproductive Techniques, Assisted"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "transvaginal",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT02396459",
+    "title": "Triac Trial II in MCT8 Deficiency Patients",
+    "conditions": [
+      "Allan-Herndon-Dudley Syndrome"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transported",
+      "transporter",
+      "transport"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT02524041",
+    "title": "Association Between Serum Periostin Levels and Cortical Porosity in Patients With Secondary Hyperparathyroidism",
+    "conditions": [
+      "Hyperparathyroidism"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "trans",
+      "transplantation"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT02551367",
+    "title": "Letrozole Versus Clomiphene Citrate for Ovulation Induction in Women With Poly Cystic Ovary Syndrome ( PCOS )",
+    "conditions": [
+      "Anovulation",
+      "Polycystic Ovary Syndrome"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transvaginal"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT02741154",
+    "title": "Role of Aromatase Inhibitor to Enhance Ovulation in Poor Responder During Induction With Short Antagonist Protocol in Cases of ICSI",
+    "conditions": [
+      "Infertility Indicated for ICSI"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT02766764",
+    "title": "Combined Dehydropeiandrosterone and Growth Hormone in Women With Expected Poor Ovarian Response Undergoing ICSI",
+    "conditions": [
+      "Subfertility"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estradiol",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transferred",
+      "transvaginal",
+      "transfer"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT02766803",
+    "title": "Effects of Simvastatin and Micronized Trans-resveratrol Treatment on Polycystic Ovary Syndrome (PCOS) Patients",
+    "conditions": [
+      "PCOS, Insulin Resistance"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "testosteron",
+      "progesteron"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT02936258",
+    "title": "PRostate Evaluation for Clinically Important Disease: MRI vs Standard Evaluation Procedures",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT02936505",
+    "title": "Clinical Study Evaluating Two Treatment Protocols for Immunosuppressive Drugs. Looking at 3-year Incidence of CLAD.",
+    "conditions": [
+      "Lung Transplantation",
+      "Allografts"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "transplantation",
+      "transplanted",
+      "pretransplant",
+      "transplant",
+      "transplants"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT03088631",
+    "title": "Metformin in Intracytoplasmic Sperm Injection Cycles",
+    "conditions": [
+      "Intracytoplasmatic Sperm Injection"
+    ],
+    "hits": [
+      "trans",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transfer"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT03230084",
+    "title": "Use of a Home-based PDG Urine Test to Confirm Ovulation",
+    "conditions": [
+      "Infertility, Female"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transvaginal",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT03259516",
+    "title": "Nivolumab With Chemotherapy in Refractory MDS",
+    "conditions": [
+      "Myelodysplastic Syndromes"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT03395574",
+    "title": "Effect of Terlipressin on Cerebral Oxygen Saturation During Liver Transplantation",
+    "conditions": [
+      "Terlipressin Adverse Reaction",
+      "Liver Transplantation"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "transcranial",
+      "transfused",
+      "transfusion",
+      "transplantation"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT03436992",
+    "title": "Estrogen and Diabetes",
+    "conditions": [
+      "Diabetes Mellitus, Type 1"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estrogen"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT03445910",
+    "title": "Intrauterine Injection of Human Chorionic Gonadotrophin and Pregnancy Rate in ICSI",
+    "conditions": [
+      "Repeated Implantation Failure"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transcribed",
+      "transfer"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT03457233",
+    "title": "The Impact of Body Weight on Reproductive Outcomes in Poor Ovarian Responders in ICSI Cycles",
+    "conditions": [
+      "Invitro Fertilization"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transferred",
+      "trans",
+      "transfer"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT03476356",
+    "title": "L-Carnitine and Clomiphene Citrate for Induction of Ovulation in Women With Polycystic Ovary Syndrome",
+    "conditions": [
+      "Polycystic Ovary Syndrome"
+    ],
+    "hits": [
+      "trans",
+      "testosteron",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transvaginal",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT03484611",
+    "title": "Prediction of Metaphase II Oocytes According to Different Levels of Serum AMH in Poor Responders Using the Antagonist Protocol",
+    "conditions": [
+      "Invitro Fertilizaion"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estrogen",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transferred",
+      "trans",
+      "transfer"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT03516747",
+    "title": "Preoperational Fine Needle Aspiration of Pathological Parathyroid Gland",
+    "conditions": [
+      "Parathyroid Adenoma",
+      "Hypercalcemia"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transcutaneously",
+      "transplant"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT03528135",
+    "title": "Project PRIDE (Promoting Resilience In Discriminatory Environments)",
+    "conditions": [
+      "Human Immunodeficiency Virus",
+      "Sexually Transmitted Infections",
+      "Anxiety",
+      "Depression",
+      "Substance Use Disorders"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "transmitted"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT03572387",
+    "title": "A Pilot Study of 5-AZA and ATRA for Prostate Cancer With PSA-only Recurrence After Local Treatment",
+    "conditions": [
+      "Prostatic Neoplasms",
+      "Prostate Neoplasms",
+      "Prostate Cancer"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT03593317",
+    "title": "Blockade of the Renin-angiotensin-aldosterone System in Patients With ARVD",
+    "conditions": [
+      "Arrhythmogenic Right Ventricular Dysplasia"
+    ],
+    "hits": [
+      "trans",
+      "spironolact"
+    ],
+    "trans_words": [
+      "trans",
+      "transplantation"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT03683043",
+    "title": "Comparative Study Between ICSI Results in Transvaginal Ultrasound Guided Embryo Transfer and Transabdominal Ultrasound Guided Embryo Transfer",
+    "conditions": [
+      "Invitro Fertilization"
+    ],
+    "hits": [
+      "trans",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transabdominal",
+      "transfers",
+      "trans",
+      "transfer",
+      "transferred",
+      "transvaginal"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT03784404",
+    "title": "Trans-vaginal Aspiration of Small Ovarian Endometrioma. Comparison of Two Different Techniques Before ICSI",
+    "conditions": [
+      "Ovarian Endometrioma"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "progesteron",
+      "gid"
+    ],
+    "trans_words": [
+      "transvaginal",
+      "trans",
+      "transfer"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT03826563",
+    "title": "Melatonin Effects on Sleep and Circadian Rhythm in Youth and Young Adults With At-risk Symptoms",
+    "conditions": [
+      "Psychosis",
+      "Sleep"
+    ],
+    "hits": [],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT03848234",
+    "title": "Estradiol Patch as add-on to Antipsychotics in Patients With Schizophrenia, Schizoaffective or Schizophreniform Disorder",
+    "conditions": [
+      "Schizophrenia",
+      "Schizoaffective Disorder",
+      "Schizophreniform Disorders"
+    ],
+    "hits": [
+      "trans",
+      "estradiol",
+      "estrogen"
+    ],
+    "trans_words": [
+      "trans",
+      "transdermal"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT03864198",
+    "title": "To Evaluate the Effect of Reveratrol,Folic Acid, Vitamin D, Vitamin B12 and B6 in Male Infertility",
+    "conditions": [
+      "Male Infertility"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "testosteron",
+      "estradiol"
+    ],
+    "trans_words": [
+      "transmitted",
+      "transrectal",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT03876145",
+    "title": "The Four Methods of Ovarian Stimulation in Patients With Polycystic Ovarian Syndrome",
+    "conditions": [
+      "Polycystic Ovary Syndrome",
+      "Ovarian Hyperstimulation Syndrome"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estradiol",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transferred"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT03878524",
+    "title": "Serial Measurements of Molecular and Architectural Responses to Therapy (SMMART) PRIME Trial",
+    "conditions": [
+      "Accelerated Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Anatomic Stage IV Breast Cancer AJCC v8",
+      "Anemia",
+      "Ann Arbor Stage III Hodgkin Lymphoma",
+      "Ann Arbor Stage III Non-Hodgkin Lymphoma",
+      "Ann Arbor Stage IV Hodgkin Lymphoma",
+      "Ann Arbor Stage IV Non-Hodgkin Lymphoma",
+      "Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative",
+      "Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Castration-Resistant Prostate Carcinoma",
+      "Chronic Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Hematopoietic and Lymphoid System Neoplasm",
+      "Locally Advanced Pancreatic Adenocarcinoma",
+      "Metastatic Breast Carcinoma",
+      "Metastatic Malignant Solid Neoplasm",
+      "Metastatic Pancreatic Adenocarcinoma",
+      "Myelodysplastic/Myeloproliferative Neoplasm With Ring Sideroblasts and Thrombocytosis",
+      "Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable",
+      "Primary Myelofibrosis",
+      "Recurrent Acute Lymphoblastic Leukemia",
+      "Recurrent Acute Myeloid Leukemia",
+      "Recurrent Chronic Lymphocytic Leukemia",
+      "Recurrent Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Recurrent Hematologic Malignancy",
+      "Recurrent Hodgkin Lymphoma",
+      "Recurrent Myelodysplastic Syndrome",
+      "Recurrent Myelodysplastic/Myeloproliferative Neoplasm",
+      "Recurrent Myeloproliferative Neoplasm",
+      "Recurrent Non-Hodgkin Lymphoma",
+      "Recurrent Plasma Cell Myeloma",
+      "Recurrent Small Lymphocytic Lymphoma",
+      "Refractory Acute Lymphoblastic Leukemia",
+      "Refractory Acute Myeloid Leukemia",
+      "Refractory Chronic Lymphocytic Leukemia",
+      "Refractory Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+      "Refractory Chronic Myelomonocytic Leukemia",
+      "Refractory Hematologic Malignancy",
+      "Refractory Hodgkin Lymphoma",
+      "Refractory Malignant Solid Neoplasm",
+      "Refractory Myelodysplastic Syndrome",
+      "Refractory Myelodysplastic/Myeloproliferative Neoplasm",
+      "Refractory Non-Hodgkin Lymphoma",
+      "Refractory Plasma Cell Myeloma",
+      "Refractory Primary Myelofibrosis",
+      "Refractory Small Lymphocytic Lymphoma",
+      "Stage II Pancreatic Cancer AJCC v8",
+      "Stage III Pancreatic Cancer AJCC v8",
+      "Stage IV Pancreatic Cancer AJCC v8",
+      "Stage IV Prostate Cancer AJCC v8",
+      "Unresectable Pancreatic Adenocarcinoma"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "aminotransferase",
+      "transaminase"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT03964779",
+    "title": "Prevalence of Thyroid Dysfunction and Anti-thyroid Antibodies in Infertile Women",
+    "conditions": [
+      "Infertility, Female"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estradiol",
+      "progesteron"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT03989778",
+    "title": "Vitamin D and Polycystic Ovarian Syndrome (PCOS)",
+    "conditions": [
+      "Infertility, Female",
+      "Infertility",
+      "Vitamin D Deficiency"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "testosteron"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT04071574",
+    "title": "Comparative Study on the Efficacy of Ovarian Stimulation Protocols on the Success Rate of ICSI in Female Infertility",
+    "conditions": [
+      "Female Infertility",
+      "Female Infertility Due to Ovulatory Disorder",
+      "Premature Ovarian Failure",
+      "Polycystic Ovary Syndrome",
+      "Female Infertility of Tubal Origin",
+      "Ectopic Pregnancy",
+      "Salpingitis",
+      "Female Infertility Due to Tubal Block",
+      "Female Infertility Due to Tubal Occlusion",
+      "Hydrosalpinx",
+      "Female Infertility - Cervical/Vaginal",
+      "Female Infertility Endocrine",
+      "Endometriosis",
+      "Fibroids",
+      "Congenital Uterine Anomaly",
+      "Infections Uterine",
+      "Female Infertility of Other Origin"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transferred",
+      "translocations"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT04093518",
+    "title": "Estradiol as add-on to Antipsychotics",
+    "conditions": [
+      "Schizophrenia",
+      "Schizoaffective Disorder",
+      "Schizophreniform Disorders"
+    ],
+    "hits": [
+      "trans",
+      "gender",
+      "estradiol",
+      "estrogen"
+    ],
+    "trans_words": [
+      "transdermal"
+    ],
+    "gender_words": [
+      "genders",
+      "gender"
+    ],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT04107480",
+    "title": "PRolaCT - Three Prolactinoma RCTs",
+    "conditions": [
+      "Prolactinoma",
+      "Prolactin-Producing Pituitary Tumor"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT04149028",
+    "title": "Platelet Rich Plasma Injection Into Ovary of Patients With Premature Ovarian Insufficiency",
+    "conditions": [
+      "Premature Ovarian Failure"
+    ],
+    "hits": [],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT04326569",
+    "title": "Copeptin in the Diagnosis of Post-operative Insipidus Diabetes After Pituitary Surgery",
+    "conditions": [
+      "Pituitary Surgery"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "trans",
+      "transsphenoidal"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT04361175",
+    "title": "Cost Effectiveness Analysis for Induction of Ovulation in the Polycystic Ovary Syndrome by Letrozole Versus Clomiphene Citrate",
+    "conditions": [
+      "Infertility"
+    ],
+    "hits": [
+      "trans",
+      "testosteron",
+      "estradiol",
+      "estrogen",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transvaginal"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT04371783",
+    "title": "A Randomized Trial Comparing the Live Birth Rate of Immediate Versus Delayed FET Following a Freeze-all Strategy",
+    "conditions": [
+      "IVF",
+      "Frozen Embryo Transfer"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transfer"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT04414748",
+    "title": "Comparison of the Euploid Rate of Blastocyst Between PPOS and GnRH Antagonist Protocol in Patients Undergoing PGT-A",
+    "conditions": [
+      "Preimplantation Genetic Testing",
+      "Progestin-primed Ovarian Stimulation",
+      "Euploid Rate",
+      "GnRH Antagonist"
+    ],
+    "hits": [],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT04414761",
+    "title": "Live Birth Rate Between PPOS and GnRH Antagonist Protocol in Patients With Anticipated High Ovarian Response",
+    "conditions": [
+      "IVF",
+      "GnRH Antagonist",
+      "PPOS"
+    ],
+    "hits": [
+      "trans",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transfer"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT04460963",
+    "title": "Role of Adrenomedullin in Leukemic Endosteal/Vascular Niches",
+    "conditions": [
+      "Acute Myeloid Leukemia"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT04511052",
+    "title": "Probiotics for Enhanced Tissue Carotenoid Status in Premenopausal Women",
+    "conditions": [
+      "Carotenoid Status",
+      "Gut Microbiome",
+      "Skin Health"
+    ],
+    "hits": [
+      "hormon"
+    ],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT04568096",
+    "title": "Combination of Chemopreventive Agents (All- Trans Retinoic Acid and Tamoxifen) as Potential Treatment for the Lung Complication of COVID-19",
+    "conditions": [
+      "the Lung Complication of COVID-19"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "trans",
+      "transplantation"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT04586348",
+    "title": "Prenatal Iodine Supplementation and Early Childhood Neurodevelopment",
+    "conditions": [
+      "Pregnancy Related",
+      "Neurodevelopmental Disorders",
+      "Nutrition Disorder, Fetal"
+    ],
+    "hits": [],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT04600986",
+    "title": "Repeated Doses of GnRH Agonist as Oocyte Triggering in Antagonist Protocol for Patients With Polycystic Ovary Syndrome",
+    "conditions": [
+      "Polycystic Ovary Syndrome"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estradiol",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transvaginal",
+      "transfer"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT04608695",
+    "title": "Ovarian Needle Puncture for Follicle Activation in IVF Patients With Diminished Ovarian Reserve",
+    "conditions": [
+      "Activation of Primordial Follicles"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estrogen"
+    ],
+    "trans_words": [
+      "transferred",
+      "trans",
+      "transfer"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT04733144",
+    "title": "Bioequivalence Study of Prednisolone and Dexamethasone",
+    "conditions": [
+      "Healthy Volunteers"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "transplant"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT04869865",
+    "title": "The Effects of a Springtime Home Cleanse on Skin, Gut, Metabolic and Mental Health",
+    "conditions": [
+      "Healthy"
+    ],
+    "hits": [
+      "trans",
+      "transition"
+    ],
+    "trans_words": [
+      "transition"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT04899193",
+    "title": "Pergoveris FD and Liquid China BE Study",
+    "conditions": [
+      "Healthy"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estradiol"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT05016349",
+    "title": "Investigating the Potential Role of a Novel Quadrate Combination Therapy Mifepristone(Antiprogestrone), Tamoxifen, Retinoic Acid and Cannabidiol ( Selective Cyp 26 Inhibitor) for Treating Early Breast Cancer.",
+    "conditions": [
+      "Breast Cancer Female"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estrogen",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transfusion",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT05019417",
+    "title": "Glycerol-Phenylbutyrate Treatment in Children With MCT Mutation (Allan-Herndon- Dudley Syndrome)",
+    "conditions": [
+      "Monocarboxylate Transporter 8 Deficiency"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "gid"
+    ],
+    "trans_words": [
+      "transport",
+      "trans",
+      "transporter",
+      "transporters",
+      "transfected"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT05153395",
+    "title": "Impact of Intranasal Insulin on Sympathetic Activity and Cerebral Vasodilation",
+    "conditions": [
+      "Healthy",
+      "Vasodilation",
+      "Insulin Resistance",
+      "Autonomic Dysfunction",
+      "Obesity"
+    ],
+    "hits": [],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT05166668",
+    "title": "Letrozole /GnRH Antagonist Protocol in Women Over 40 Years Undergoing ICSI Cycle",
+    "conditions": [
+      "Ovarian Stimulation"
+    ],
+    "hits": [
+      "hormon",
+      "testosteron",
+      "estradiol",
+      "estrogen"
+    ],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT05230979",
+    "title": "Evaluation of Common Bean Baked Snack Consumption on Subjective Satiety, Energy Intake and Glycemic Response in People With Overweight and Normal Weight",
+    "conditions": [
+      "Overweight",
+      "Healthy"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT05244694",
+    "title": "Impact of Insulin on Sympathetic Nervous System-mediated Peripheral Vasoconstriction",
+    "conditions": [
+      "Vasoconstriction",
+      "Healthy",
+      "Insulin Resistance"
+    ],
+    "hits": [],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT05369247",
+    "title": "Interval Versus Continuous Exercise During Pregnancy",
+    "conditions": [
+      "Pregnancy Related",
+      "Glucose, Low Blood",
+      "Fetal Heart Rate or Rhythm Abnormality Affecting Fetus",
+      "Fetal Blood Flow"
+    ],
+    "hits": [],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT05455398",
+    "title": "Establishment of a Trans-round Window Inner Ear Continuous Drug Delivery System for the Treatment of Severe-to-profound Sudden Sensorineural Hearing Loss",
+    "conditions": [
+      "Hearing Loss, Sudden"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT05464186",
+    "title": "Effects of Whole vs. Nonfat Milk Consumption on Body Composition in Children",
+    "conditions": [
+      "Obesity",
+      "Diabetes",
+      "Cardiovascular Diseases"
+    ],
+    "hits": [],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT05527353",
+    "title": "AMH for the Identification of PCOM in PCOS Diagnosis",
+    "conditions": [
+      "Polycystic Ovary Syndrome"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transvaginal"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT05529862",
+    "title": "Trans-RosaLEE Study: a Biomarker-directed, Translational Study",
+    "conditions": [
+      "Advanced or Metastatic Breast Cancer (BC)"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estrogen"
+    ],
+    "trans_words": [
+      "transrosalee",
+      "trans",
+      "translational"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT05587296",
+    "title": "A Study to Learn More About How Well Elinzanetant Works and How Safe it is Compared to Placebo for the Treatment of Hot Flashes Caused by Anti-cancer Therapy in Women With, or at High Risk for Developing Hormone-receptor Positive Breast Cancer",
+    "conditions": [
+      "Vasomotor Symptoms Caused by Adjuvant Endocrine Therapy in Women With, or at High Risk for Developing Hormone-receptor Positive Breast Cancer",
+      "Hot Flashes"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estrogen",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transient",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT05649943",
+    "title": "Multimodal Approach in Patients With mHSPC. Randomized Trial of APA+ADT vs APA-ADT and Local Treatment",
+    "conditions": [
+      "Metastatic Hormone-Sensitive Prostate Cancer (mHSPC)"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "antiandrogen"
+    ],
+    "trans_words": [
+      "transfusions"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT05725967",
+    "title": "Endoscopic Metabolic and Bariatric Therapies",
+    "conditions": [
+      "Obesity",
+      "Obesity, Morbid",
+      "Obesity Associated Disorder",
+      "Bariatric Surgery Candidate",
+      "Fistula, Gastric",
+      "Roux-en-y Anastomosis Site",
+      "Ulcer, Gastric",
+      "Abdominal Pain",
+      "Abdominal Obesity",
+      "Complication of Surgical Procedure",
+      "Complication of Treatment",
+      "Complication,Postoperative",
+      "Weight Gain",
+      "Weight Loss",
+      "Leak, Anastomotic",
+      "Delayed Gastric Emptying Following Procedure"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "transoral",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT05808387",
+    "title": "The Effects of Resveratrol on Sirtuins and Apoptosis Biomarkers",
+    "conditions": [
+      "Coronary Artery Disease",
+      "Menopause",
+      "Endothelial Dysfunction"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estrogen"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT05829018",
+    "title": "Elucidating the High Cardiovascular Disease Risk in South Asians",
+    "conditions": [
+      "Cardiovascular Diseases"
+    ],
+    "hits": [
+      "hormon"
+    ],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT05877235",
+    "title": "Serum Concentration of Endogenous Estrogens and Sirtuin-1 After Administration of Atorvastatin and Quercetin:",
+    "conditions": [
+      "Coronary Artery Disease",
+      "Menopause"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estradiol",
+      "estrogen"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT06298032",
+    "title": "A Study Investigating the Safety, Tolerability, Immunogenicity and Pharmacokinetics of Olamkicept in Healthy Persons",
+    "conditions": [
+      "Inflammatory Gastrointestinal Diseases"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT06332742",
+    "title": "Real-world Evaluation of Qingxin Zishen Decoction on Ovarian Reserve Function Clinical Efficacy in Patients With Decreased",
+    "conditions": [
+      "Decreased Ovarian Reserve"
+    ],
+    "hits": [
+      "estrogen",
+      "progesteron"
+    ],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT06391034",
+    "title": "Magnetic Resonance (MR) Imaging With Hyperpolarized 13C-Pyruvate +/- 13C,15N-Urea in Patients With Prostate Cancer",
+    "conditions": [
+      "Prostate Cancer"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT06403059",
+    "title": "Cervical Length and Uterocervical Angle as Predictors of Spontaneous Preterm Birth",
+    "conditions": [
+      "Preterm Pregnancy"
+    ],
+    "hits": [
+      "trans",
+      "progesteron"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT06405243",
+    "title": "Myoinositol, L-arginine and Chromium With Letrozole for Ovulation Induction in Polycystic Ovarian Syndrome Patients",
+    "conditions": [
+      "Polycystic Ovary Syndrome"
+    ],
+    "hits": [
+      "hormon",
+      "estrogen"
+    ],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT06418347",
+    "title": "Effect of ALA Combined With Letrozole on Polycystic Ovary Syndrome Clinical Outcome in Infertile Females",
+    "conditions": [
+      "Polycystic Ovary Syndrome",
+      "Infertility, Female"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "testosteron",
+      "estradiol",
+      "estrogen",
+      "progesteron"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT06496581",
+    "title": "Standard of Care +/- 177Lu-PSMA-617 In de Novo mHSPC Patients With Poor PSA Response (PEACE6-Poor Responders)",
+    "conditions": [
+      "Prostate Cancer Metastatic"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "testosteron"
+    ],
+    "trans_words": [
+      "transfusion",
+      "aminotransferase"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT06515834",
+    "title": "Investigating the Safety, Tolerability, Immunogenicity and Pharmacokinetics of Olamkicept in Healthy Japanese Persons",
+    "conditions": [
+      "Gastroenterology"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT06537765",
+    "title": "Combined Effect of Therapeutic Ultrasound and Trans Cutaneous Electrical Nerve Stimulation on Endometriosis",
+    "conditions": [
+      "Endometriosis"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transcutaneous",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT06545721",
+    "title": "Weight Cycling on Hyperandrogenemia and Insulin Resistance in Polycystic Ovary Syndrome",
+    "conditions": [
+      "Polycystic Ovary Syndrome"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estradiol",
+      "progesteron",
+      "transition"
+    ],
+    "trans_words": [
+      "trans",
+      "transcriptome",
+      "transcriptomics",
+      "transferred",
+      "transitioned"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT06581679",
+    "title": "Adenomyosis and Pregnancy: Levonorgestrel vs. GnRH for Blastocyst Transfer",
+    "conditions": [
+      "Adenomyosis"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "transferred",
+      "transfer"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT06733350",
+    "title": "Testosterone Replacement Therapy for the Treatment of Low Testosterone in Hypogonadal Men With Localized Prostate Cancer on Active Surveillance",
+    "conditions": [
+      "Localized Prostate Carcinoma",
+      "Stage I Prostate Cancer AJCC v8",
+      "Stage II Prostate Cancer AJCC v8",
+      "Stage III Prostate Cancer AJCC v8"
+    ],
+    "hits": [
+      "trans",
+      "testosteron"
+    ],
+    "trans_words": [
+      "transdermal"
+    ],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT06747624",
+    "title": "A Crossover Clinical Trial Investigating the Effects of Geranylgeraniol (GG) Supplementation on Testosterone Levels in Healthy Men and Women Over an 18-week Period",
+    "conditions": [
+      "Wellness",
+      "Health"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "testosteron"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT06779331",
+    "title": "Phosphate Urine Excretion in Critically Ill Patients",
+    "conditions": [
+      "Critically Ill Intensive Care Unit Patients"
+    ],
+    "hits": [
+      "trans",
+      "hormon"
+    ],
+    "trans_words": [
+      "trans",
+      "transporters"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT06854432",
+    "title": "Assessment of Biological and Biometrological Parameters in Adult Subjects with Androgenetic Alopecia",
+    "conditions": [
+      "Alopecia, Androgenetic",
+      "Healthy"
+    ],
+    "hits": [
+      "testosteron"
+    ],
+    "trans_words": [],
+    "gender_words": [],
+    "plausible_tgd": false
+  },
+  {
+    "nct_id": "NCT07145827",
+    "title": "Effect of Metformin on Endometrial Thickness in Postmenopausal Breast Cancer Patients Receiving Tamoxifen",
+    "conditions": [
+      "Breast Cancer",
+      "Endometrial Hyperplasia and Endometrial Cancers"
+    ],
+    "hits": [
+      "trans",
+      "hormon",
+      "estrogen"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT07334951",
+    "title": "Effect of Tvns in Obesity",
+    "conditions": [
+      "Obesity and Diabetes Mellitus, Type 2"
+    ],
+    "hits": [
+      "trans"
+    ],
+    "trans_words": [
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT07448272",
+    "title": "Letrozole 5 mg for 10 Days Versus Letrozole 10 mg for 5 Days for Ovarian Stimulation in PCOS",
+    "conditions": [
+      "PCOS (Polycystic Ovary Syndrome)"
+    ],
+    "hits": [
+      "trans",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transvaginal",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT07755059",
+    "title": "Proximal Splenic Artery Embolization (PSAE) for the Treatment of Refractory Ascites in Decompensated Cirrhosis",
+    "conditions": [
+      "Ascites",
+      "Liver Cirrhosis",
+      "Hypertension, Portal"
+    ],
+    "hits": [
+      "trans",
+      "spironolact"
+    ],
+    "trans_words": [
+      "transplant",
+      "transcatheter",
+      "trans",
+      "transplantation"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  },
+  {
+    "nct_id": "NCT07759518",
+    "title": "Letrozole High Dose (10 mg) Compared to Letrozole Low Dose( 5 mg) for Ovarian Stimulation in Infertile Women With Polycystic Ovary Syndrome",
+    "conditions": [
+      "PCOS"
+    ],
+    "hits": [
+      "trans",
+      "progesteron"
+    ],
+    "trans_words": [
+      "transvaginal",
+      "trans"
+    ],
+    "gender_words": [],
+    "plausible_tgd": true
+  }
+]
