@@ -11,6 +11,7 @@ Please see `PROTOCOL.md` for methodology, inclusion/exclusion criteria, and limi
 - `scratch/candidates_full.json` is the preserved combined universe of 351 unique candidates.
 - `data/candidate_studies.csv` preserves the earlier forced-binary keyword screening as historical metadata.
 - `data/ai_boundary_case_reviews.csv` records the seven requested record-level AI boundary-case reviews.
-- `data/screening_review.csv` is the current review-oriented dataset. Its human-screening fields are blank.
+- `data/screening_review.csv` is the current 351-record review-oriented dataset; its embedded human-screening fields have not yet been regenerated from the current adjudication layer.
+- `data/human_screening_decisions.csv` is the authoritative machine-readable layer for final human screening decisions. It currently records 13 adjudicated boundary cases, all excluded under `PROTOCOL.md`.
 
-*Note: Screening remains preliminary and AI-assisted. Most carried-forward classifications have not received record-level review, no human screening decisions have been entered, and the dataset is not ready for descriptive findings or clinical conclusions.*
+*Note: Screening is still in progress. Thirteen boundary cases now have final human decisions; the remaining candidate classifications are preliminary/AI-assisted until human verification or quality-control review is completed. The dataset is not yet ready for descriptive findings or clinical conclusions.*
