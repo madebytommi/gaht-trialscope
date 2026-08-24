@@ -1,0 +1,42 @@
+name: Build consolidated screening queue
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - data/ai_triage.csv
+      - data/sol_adversarial_audit.csv
+      - data/human_screening_decisions.csv
+      - data/raw/enrichment/enriched_studies.json
+      - scripts/build_screening_queue.py
+      - .github/workflows/build-screening-queue.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build queue
+        run: python scripts/build_screening_queue.py
+
+      - name: Commit generated queue files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/consolidated_screening_queue.csv data/likely_include_review_queue.csv data/consolidated_screening_queue_report.md
+          if git diff --cached --quiet; then
+            echo "Queue outputs are already current."
+          else
+            git commit -m "Generate consolidated human screening queue"
+            git push
+          fi
