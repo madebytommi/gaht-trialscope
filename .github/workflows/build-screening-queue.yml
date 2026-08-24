@@ -1,5 +1,6 @@
 name: Build consolidated screening queue
 
+# Rebuild whenever screening evidence or the generator changes.
 on:
   workflow_dispatch:
   push:
