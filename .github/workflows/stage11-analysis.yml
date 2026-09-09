@@ -1,0 +1,39 @@
+name: Run Stage 11 descriptive analysis
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - data/frozen/included_studies.csv
+      - scripts/analyze_stage11.py
+      - .github/workflows/stage11-analysis.yml
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run Stage 11 analysis
+        run: python scripts/analyze_stage11.py
+
+      - name: Commit Stage 11 outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/analysis/stage11_study_level.csv data/analysis/stage11_counts.csv data/analysis/stage11_summary.json data/analysis/STAGE11_REPORT.md
+          if git diff --cached --quiet; then
+            echo "Stage 11 outputs are already current."
+          else
+            git commit -m "Run Stage 11 descriptive analysis"
+            git push
+          fi
