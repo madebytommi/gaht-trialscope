@@ -1,0 +1,42 @@
+name: Freeze screened dataset
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/freeze_dataset.py
+      - .github/workflows/freeze-dataset.yml
+
+permissions:
+  contents: write
+
+jobs:
+  freeze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build and validate frozen dataset
+        env:
+          FREEZE_SOURCE_COMMIT: ${{ github.sha }}
+        run: python scripts/freeze_dataset.py
+
+      - name: Commit frozen outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/frozen/screened_studies.csv data/frozen/included_studies.csv data/frozen/manifest.json data/frozen/README.md
+          if git diff --cached --quiet; then
+            echo "Frozen outputs are already current."
+          else
+            git commit -m "Freeze authoritative screened dataset"
+            git push
+          fi
