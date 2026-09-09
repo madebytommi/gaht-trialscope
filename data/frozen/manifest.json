@@ -1,0 +1,41 @@
+{
+  "candidate_universe": 351,
+  "current_adjudications": 248,
+  "decision_basis_counts": {
+    "legacy_recorded_adjudication": 6,
+    "recorded_adjudication": 248,
+    "validated_obvious_exclude_stratum": 97
+  },
+  "final_counts": {
+    "exclude": 226,
+    "include": 125
+  },
+  "freeze_stage": 10,
+  "input_sha256": {
+    "data/ai_triage.csv": "a729a47b54be8a1c2ae922991c0435619dd8a6c364f6134f355cda6097d8b5a0",
+    "data/candidate_studies.csv": "4d4d69e63376956049e2c392dce2aed30596f9532735506b00686f17d90bf317",
+    "data/human_screening_decisions.csv": "ce7859f294b9057da9f1122a6722f4a7db9bad8e37c3938af01592d7189ef0de",
+    "data/raw/enrichment/enriched_studies.json": "57a99af330f2679abf9193b2f436506715780340800f2239c443f3fd1b8870f3",
+    "data/sol_adversarial_audit.csv": "1d208179382a700e765801ba9626d4686a8938a3a700c790061c3cbb31a52b16"
+  },
+  "legacy_recorded_adjudication_ids": [
+    "NCT00023543",
+    "NCT00082082",
+    "NCT00188708",
+    "NCT00450749",
+    "NCT00544882",
+    "NCT00608400"
+  ],
+  "legacy_recorded_adjudications": 6,
+  "low_priority_qc_sample_exclude_confirmations": 25,
+  "low_priority_qc_sample_size": 25,
+  "output_sha256": {
+    "data/frozen/included_studies.csv": "becdbebd7ade2c3669a0b691c37d40f663e069400d407f4ec2ad60332fd32bdb",
+    "data/frozen/screened_studies.csv": "47a492a2df92a0628c68822aa42926e8b4745cbd480e6944e75117c6ec729a7e"
+  },
+  "project": "GAHT TrialScope",
+  "sol_audited_obvious_excludes": 31,
+  "sol_obvious_exclude_agreements": 31,
+  "source_commit": "efd9fb619ff74dbab97e24c85dc5e266cc7adcf8",
+  "stratified_obvious_excludes": 97
+}
