@@ -1,0 +1,150 @@
+dimension,category,count,percent_of_125
+registration_year,2005,1,0.8
+registration_year,2010,2,1.6
+registration_year,2011,1,0.8
+registration_year,2014,3,2.4
+registration_year,2015,2,1.6
+registration_year,2016,2,1.6
+registration_year,2017,4,3.2
+registration_year,2018,9,7.2
+registration_year,2019,6,4.8
+registration_year,2020,20,16.0
+registration_year,2021,13,10.4
+registration_year,2022,14,11.2
+registration_year,2023,10,8.0
+registration_year,2024,15,12.0
+registration_year,2025,11,8.8
+registration_year,2026,7,5.6
+registration_year,missing,5,4.0
+study_type,OBSERVATIONAL,77,61.6
+study_type,INTERVENTIONAL,48,38.4
+overall_status,COMPLETED,50,40.0
+overall_status,RECRUITING,31,24.8
+overall_status,UNKNOWN,12,9.6
+overall_status,ACTIVE_NOT_RECRUITING,10,8.0
+overall_status,TERMINATED,8,6.4
+overall_status,NOT_YET_RECRUITING,6,4.8
+overall_status,WITHDRAWN,4,3.2
+overall_status,ENROLLING_BY_INVITATION,3,2.4
+overall_status,SUSPENDED,1,0.8
+age_group,adult_only,98,78.4
+age_group,includes_youth_upper_unspecified,12,9.6
+age_group,youth_and_adult,9,7.2
+age_group,youth_only,3,2.4
+age_group,age_not_reported,2,1.6
+age_group,age_bounds_incomplete,1,0.8
+hormone_category_multilabel,testosterone_or_androgen,50,40.0
+hormone_category_multilabel,estradiol_or_estrogen,46,36.8
+hormone_category_multilabel,gaht_unspecified,39,31.2
+hormone_category_multilabel,hormone_role_not_normalized_from_frozen_text,11,8.8
+hormone_category_multilabel,antiandrogen,9,7.2
+hormone_category_multilabel,gnrh_or_puberty_suppression,5,4.0
+hormone_category_multilabel,progesterone_or_progestin,4,3.2
+results_availability,no_results_posted,115,92.0
+results_availability,results_posted,10,8.0
+country_multilabel,United States,55,44.0
+country_multilabel,missing,11,8.8
+country_multilabel,Austria,8,6.4
+country_multilabel,France,7,5.6
+country_multilabel,Thailand,7,5.6
+country_multilabel,Denmark,5,4.0
+country_multilabel,Germany,5,4.0
+country_multilabel,Italy,5,4.0
+country_multilabel,Brazil,4,3.2
+country_multilabel,Canada,3,2.4
+country_multilabel,China,2,1.6
+country_multilabel,Israel,2,1.6
+country_multilabel,Netherlands,2,1.6
+country_multilabel,Norway,2,1.6
+country_multilabel,Peru,2,1.6
+country_multilabel,Spain,2,1.6
+country_multilabel,Sweden,2,1.6
+country_multilabel,Switzerland,2,1.6
+country_multilabel,Australia,1,0.8
+country_multilabel,Belgium,1,0.8
+country_multilabel,Mexico,1,0.8
+country_multilabel,Taiwan,1,0.8
+country_multilabel,Turkey (Türkiye),1,0.8
+country_multilabel,Uganda,1,0.8
+country_multilabel,United Kingdom,1,0.8
+lead_sponsor,"University of Colorado, Denver",9,7.2
+lead_sponsor,Medical University of Vienna,6,4.8
+lead_sponsor,"University of California, San Diego",6,4.8
+lead_sponsor,missing,5,4.0
+lead_sponsor,Medical College of Wisconsin,4,3.2
+lead_sponsor,"Central Hospital, Nancy, France",3,2.4
+lead_sponsor,Tel-Aviv Sourasky Medical Center,3,2.4
+lead_sponsor,Thai Red Cross AIDS Research Centre,3,2.4
+lead_sponsor,Chulalongkorn University,2,1.6
+lead_sponsor,Emory University,2,1.6
+lead_sponsor,IRCCS Azienda Ospedaliero-Universitaria di Bologna,2,1.6
+lead_sponsor,Johns Hopkins University,2,1.6
+lead_sponsor,Massachusetts General Hospital,2,1.6
+lead_sponsor,Mayo Clinic,2,1.6
+lead_sponsor,Odense University Hospital,2,1.6
+lead_sponsor,"Rigshospitalet, Denmark",2,1.6
+lead_sponsor,St. Louis University,2,1.6
+lead_sponsor,Unita Complessa di Ostetricia e Ginecologia,2,1.6
+lead_sponsor,"University Hospital, Bordeaux",2,1.6
+lead_sponsor,University of Washington,2,1.6
+lead_sponsor,Yale University,2,1.6
+lead_sponsor,"Amsterdam UMC, location VUmc",1,0.8
+lead_sponsor,"Asociación Civil Impacta Salud y Educación, Peru",1,0.8
+lead_sponsor,Assistance Publique - Hôpitaux de Paris,1,0.8
+lead_sponsor,CNGE Conseil,1,0.8
+lead_sponsor,Celia Bañuls,1,0.8
+lead_sponsor,Centers for Disease Control and Prevention,1,0.8
+lead_sponsor,"Charite University, Berlin, Germany",1,0.8
+lead_sponsor,Corey DeStefano,1,0.8
+lead_sponsor,Curtin University,1,0.8
+lead_sponsor,Duke University,1,0.8
+lead_sponsor,Fenway Community Health,1,0.8
+lead_sponsor,HIV Prevention Trials Network,1,0.8
+lead_sponsor,Hacettepe University,1,0.8
+lead_sponsor,Hektoen Institute for Medical Research,1,0.8
+lead_sponsor,Hospital de Clinicas de Porto Alegre,1,0.8
+lead_sponsor,Hôpital le Vinatier,1,0.8
+lead_sponsor,Imperial College London,1,0.8
+lead_sponsor,Karolinska Institutet,1,0.8
+lead_sponsor,Karolinska University Hospital,1,0.8
+lead_sponsor,King's College Hospital NHS Trust,1,0.8
+lead_sponsor,Mahidol University,1,0.8
+lead_sponsor,MaineHealth,1,0.8
+lead_sponsor,Makerere University,1,0.8
+lead_sponsor,Maple Leaf Research,1,0.8
+lead_sponsor,Marianne Andersen,1,0.8
+lead_sponsor,Max-Planck-Institute of Psychiatry,1,0.8
+lead_sponsor,Medical University Innsbruck,1,0.8
+lead_sponsor,Medical University of Graz,1,0.8
+lead_sponsor,Milagros Rocha Barajas,1,0.8
+lead_sponsor,National Institute of Allergy and Infectious Diseases (NIAID),1,0.8
+lead_sponsor,National Taiwan University,1,0.8
+lead_sponsor,Oregon Health and Science University,1,0.8
+lead_sponsor,Oswaldo Cruz Foundation,1,0.8
+lead_sponsor,Peking University Third Hospital,1,0.8
+lead_sponsor,"Public Health Foundation Enterprises, Inc.",1,0.8
+lead_sponsor,RWTH Aachen University,1,0.8
+lead_sponsor,Riverside University Health System Medical Center,1,0.8
+lead_sponsor,Stanford University,1,0.8
+lead_sponsor,The University of Texas Health Science Center at San Antonio,1,0.8
+lead_sponsor,Thomas Jefferson University,1,0.8
+lead_sponsor,"University Hospital, Akershus",1,0.8
+lead_sponsor,"University Hospital, Basel, Switzerland",1,0.8
+lead_sponsor,"University Hospital, Ghent",1,0.8
+lead_sponsor,"University Hospital, Grenoble",1,0.8
+lead_sponsor,University of Alabama at Birmingham,1,0.8
+lead_sponsor,University of British Columbia,1,0.8
+lead_sponsor,University of Calgary,1,0.8
+lead_sponsor,"University of California, Los Angeles",1,0.8
+lead_sponsor,"University of California, San Francisco",1,0.8
+lead_sponsor,University of Leipzig,1,0.8
+lead_sponsor,University of Nebraska,1,0.8
+lead_sponsor,"University of North Carolina, Chapel Hill",1,0.8
+lead_sponsor,University of Pittsburgh,1,0.8
+lead_sponsor,University of Sao Paulo,1,0.8
+lead_sponsor,"University of Wisconsin, Madison",1,0.8
+lead_sponsor,Universitätsklinikum Hamburg-Eppendorf,1,0.8
+lead_sponsor,VA Office of Research and Development,1,0.8
+lead_sponsor,Walter Reed National Military Medical Center,1,0.8
+lead_sponsor,Washington University School of Medicine,1,0.8
+lead_sponsor,Xiamen University,1,0.8
