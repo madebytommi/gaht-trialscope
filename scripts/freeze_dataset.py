@@ -2,10 +2,10 @@
 """Freeze the GAHT TrialScope screened candidate universe.
 
 This script performs deterministic data plumbing only. It does not create new
-scientific screening judgments. Recorded adjudications take precedence. Any
-candidate without a recorded adjudication may be finalized only when the Flash
-triage classified it as an obvious exclude, and only after the predefined
-stratified exclusion-QC checks pass.
+scientific screening judgments. Current recorded adjudications take precedence;
+legacy record-level decisions preserved in the Flash triage layer are retained
+explicitly; remaining records may be finalized only from the validated
+obvious-exclude stratum.
 """
 
 import csv
@@ -31,35 +31,18 @@ MANIFEST_FILE = FROZEN / "manifest.json"
 REPORT_FILE = FROZEN / "README.md"
 
 EXPECTED_CANDIDATES = 351
-EXPECTED_RECORDED_ADJUDICATIONS = 254
-EXPECTED_UNADJUDICATED_OBVIOUS_EXCLUDES = 97
+EXPECTED_CURRENT_ADJUDICATIONS = 248
+EXPECTED_LEGACY_ADJUDICATIONS = 6
+EXPECTED_STRATIFIED_OBVIOUS_EXCLUDES = 97
 EXPECTED_OBVIOUS_EXCLUDE_SOL_AUDIT = 31
 
 LOW_PRIORITY_QC_SAMPLE = {
-    "NCT00962637",
-    "NCT01662466",
-    "NCT02060474",
-    "NCT02381821",
-    "NCT02551367",
-    "NCT02741154",
-    "NCT02766803",
-    "NCT03230084",
-    "NCT03516747",
-    "NCT03528135",
-    "NCT03593317",
-    "NCT04107480",
-    "NCT04586348",
-    "NCT05019417",
-    "NCT05244694",
-    "NCT05369247",
-    "NCT05587296",
-    "NCT05649943",
-    "NCT05829018",
-    "NCT05853120",
-    "NCT06391034",
-    "NCT06405243",
-    "NCT06418347",
-    "NCT06747624",
+    "NCT00962637", "NCT01662466", "NCT02060474", "NCT02381821",
+    "NCT02551367", "NCT02741154", "NCT02766803", "NCT03230084",
+    "NCT03516747", "NCT03528135", "NCT03593317", "NCT04107480",
+    "NCT04586348", "NCT05019417", "NCT05244694", "NCT05369247",
+    "NCT05587296", "NCT05649943", "NCT05829018", "NCT05853120",
+    "NCT06391034", "NCT06405243", "NCT06418347", "NCT06747624",
     "NCT06779331",
 }
 
@@ -142,9 +125,9 @@ def validate_inputs(candidates, flash, sol, adjudications, registry):
         raise ValueError("Sol audit contains IDs outside the candidate universe")
     if not set(adjudications).issubset(candidate_ids):
         raise ValueError("Recorded adjudications contain IDs outside candidate universe")
-    if len(adjudications) != EXPECTED_RECORDED_ADJUDICATIONS:
+    if len(adjudications) != EXPECTED_CURRENT_ADJUDICATIONS:
         raise ValueError(
-            f"Expected {EXPECTED_RECORDED_ADJUDICATIONS} recorded adjudications, "
+            f"Expected {EXPECTED_CURRENT_ADJUDICATIONS} current adjudications, "
             f"found {len(adjudications)}"
         )
 
@@ -154,17 +137,36 @@ def validate_inputs(candidates, flash, sol, adjudications, registry):
         if clean(row.get("human_screening")).lower() not in {"include", "exclude"}
     }
     if invalid:
-        raise ValueError(f"Invalid recorded adjudication values: {invalid}")
+        raise ValueError(f"Invalid adjudication values: {invalid}")
 
-    unadjudicated = candidate_ids - set(adjudications)
-    if len(unadjudicated) != EXPECTED_UNADJUDICATED_OBVIOUS_EXCLUDES:
+    legacy = {}
+    for nct_id in candidate_ids - set(adjudications):
+        decision = clean(flash[nct_id].get("human_decision_existing")).lower()
+        if decision in {"include", "exclude"}:
+            legacy[nct_id] = decision
+
+    if len(legacy) != EXPECTED_LEGACY_ADJUDICATIONS:
         raise ValueError(
-            f"Expected {EXPECTED_UNADJUDICATED_OBVIOUS_EXCLUDES} unadjudicated "
-            f"obvious excludes, found {len(unadjudicated)}"
+            f"Expected {EXPECTED_LEGACY_ADJUDICATIONS} legacy decisions, found "
+            f"{len(legacy)}: {sorted(legacy)}"
+        )
+    bad_legacy = {
+        nct_id: decision
+        for nct_id, decision in legacy.items()
+        if decision != "exclude" or clean(flash[nct_id].get("ai_triage")) != "obvious_exclude"
+    }
+    if bad_legacy:
+        raise ValueError(f"Unexpected legacy decision(s): {bad_legacy}")
+
+    stratified = candidate_ids - set(adjudications) - set(legacy)
+    if len(stratified) != EXPECTED_STRATIFIED_OBVIOUS_EXCLUDES:
+        raise ValueError(
+            f"Expected {EXPECTED_STRATIFIED_OBVIOUS_EXCLUDES} stratified obvious "
+            f"excludes, found {len(stratified)}"
         )
     non_obvious = sorted(
         nct_id
-        for nct_id in unadjudicated
+        for nct_id in stratified
         if clean(flash[nct_id].get("ai_triage")) != "obvious_exclude"
     )
     if non_obvious:
@@ -174,11 +176,10 @@ def validate_inputs(candidates, flash, sol, adjudications, registry):
         )
 
     if len(LOW_PRIORITY_QC_SAMPLE) != 25:
-        raise ValueError("Low-priority QC sample constant must contain 25 unique IDs")
-    missing_sample = sorted(LOW_PRIORITY_QC_SAMPLE - candidate_ids)
-    if missing_sample:
-        raise ValueError(f"QC sample IDs missing from candidate universe: {missing_sample}")
+        raise ValueError("Low-priority QC sample must contain 25 unique IDs")
     for nct_id in sorted(LOW_PRIORITY_QC_SAMPLE):
+        if nct_id not in candidate_ids:
+            raise ValueError(f"QC sample ID missing from candidate universe: {nct_id}")
         if clean(flash[nct_id].get("ai_triage")) != "obvious_exclude":
             raise ValueError(f"QC sample {nct_id} is not Flash obvious_exclude")
         decision = clean(adjudications.get(nct_id, {}).get("human_screening")).lower()
@@ -204,36 +205,20 @@ def validate_inputs(candidates, flash, sol, adjudications, registry):
             + ", ".join(sorted(disagreements))
         )
 
-    return unadjudicated, sol_obvious
+    return legacy, stratified, sol_obvious
 
 
 FIELDNAMES = [
-    "nct_id",
-    "final_screening",
-    "decision_basis",
-    "adjudication_reason",
-    "brief_title",
-    "study_type",
-    "overall_status",
-    "start_date",
-    "study_first_post_date",
-    "registry_last_update_post_date",
-    "enrollment",
-    "lead_sponsor",
-    "interventions",
-    "countries",
-    "has_results",
-    "minimum_age",
-    "maximum_age",
-    "sex",
-    "conditions",
-    "flash_triage",
-    "flash_confidence",
-    "sol_audit",
+    "nct_id", "final_screening", "decision_basis", "adjudication_reason",
+    "brief_title", "study_type", "overall_status", "start_date",
+    "study_first_post_date", "registry_last_update_post_date", "enrollment",
+    "lead_sponsor", "interventions", "countries", "has_results",
+    "minimum_age", "maximum_age", "sex", "conditions", "flash_triage",
+    "flash_confidence", "sol_audit",
 ]
 
 
-def build_rows(candidates, flash, sol, adjudications, registry):
+def build_rows(candidates, flash, sol, adjudications, registry, legacy):
     rows = []
     for nct_id in sorted(candidates):
         candidate = candidates[nct_id]
@@ -246,6 +231,13 @@ def build_rows(candidates, flash, sol, adjudications, registry):
             final = clean(adjudication.get("human_screening")).lower()
             basis = "recorded_adjudication"
             reason = clean(adjudication.get("human_screening_reason"))
+        elif nct_id in legacy:
+            final = legacy[nct_id]
+            basis = "legacy_recorded_adjudication"
+            reason = (
+                "Legacy record-level exclusion preserved in ai_triage.csv "
+                "human_decision_existing; retained explicitly during freeze reconciliation."
+            )
         else:
             final = "exclude"
             basis = "validated_obvious_exclude_stratum"
@@ -255,32 +247,30 @@ def build_rows(candidates, flash, sol, adjudications, registry):
                 "showed no obvious-exclude reversals."
             )
 
-        rows.append(
-            {
-                "nct_id": nct_id,
-                "final_screening": final,
-                "decision_basis": basis,
-                "adjudication_reason": reason,
-                "brief_title": clean(candidate.get("brief_title")),
-                "study_type": clean(candidate.get("study_type")),
-                "overall_status": clean(candidate.get("overall_status")),
-                "start_date": clean(candidate.get("start_date")),
-                "study_first_post_date": clean(candidate.get("study_first_post_date")),
-                "registry_last_update_post_date": reg["registry_last_update_post_date"],
-                "enrollment": clean(candidate.get("enrollment")),
-                "lead_sponsor": clean(candidate.get("lead_sponsor")),
-                "interventions": clean(candidate.get("interventions")),
-                "countries": clean(candidate.get("countries")),
-                "has_results": clean(candidate.get("has_results")),
-                "minimum_age": reg["minimum_age"],
-                "maximum_age": reg["maximum_age"],
-                "sex": reg["sex"],
-                "conditions": reg["conditions"],
-                "flash_triage": clean(flash_row.get("ai_triage")),
-                "flash_confidence": clean(flash_row.get("confidence")),
-                "sol_audit": clean(sol_row.get("sol_audit")),
-            }
-        )
+        rows.append({
+            "nct_id": nct_id,
+            "final_screening": final,
+            "decision_basis": basis,
+            "adjudication_reason": reason,
+            "brief_title": clean(candidate.get("brief_title")),
+            "study_type": clean(candidate.get("study_type")),
+            "overall_status": clean(candidate.get("overall_status")),
+            "start_date": clean(candidate.get("start_date")),
+            "study_first_post_date": clean(candidate.get("study_first_post_date")),
+            "registry_last_update_post_date": reg["registry_last_update_post_date"],
+            "enrollment": clean(candidate.get("enrollment")),
+            "lead_sponsor": clean(candidate.get("lead_sponsor")),
+            "interventions": clean(candidate.get("interventions")),
+            "countries": clean(candidate.get("countries")),
+            "has_results": clean(candidate.get("has_results")),
+            "minimum_age": reg["minimum_age"],
+            "maximum_age": reg["maximum_age"],
+            "sex": reg["sex"],
+            "conditions": reg["conditions"],
+            "flash_triage": clean(flash_row.get("ai_triage")),
+            "flash_confidence": clean(flash_row.get("confidence")),
+            "sol_audit": clean(sol_row.get("sol_audit")),
+        })
     return rows
 
 
@@ -298,10 +288,10 @@ def main():
     adjudications = load_csv(ADJUDICATION_FILE)
     registry = load_registry()
 
-    unadjudicated, sol_obvious = validate_inputs(
+    legacy, stratified, sol_obvious = validate_inputs(
         candidates, flash, sol, adjudications, registry
     )
-    rows = build_rows(candidates, flash, sol, adjudications, registry)
+    rows = build_rows(candidates, flash, sol, adjudications, registry, legacy)
 
     if len(rows) != EXPECTED_CANDIDATES:
         raise ValueError("Frozen row count does not equal candidate universe")
@@ -311,8 +301,12 @@ def main():
         raise ValueError("Final decision counts do not sum to candidate universe")
     if set(final_counts) - {"include", "exclude"}:
         raise ValueError(f"Unexpected final decision(s): {sorted(final_counts)}")
-    if basis_counts["validated_obvious_exclude_stratum"] != EXPECTED_UNADJUDICATED_OBVIOUS_EXCLUDES:
-        raise ValueError("Unexpected count of stratified-QC exclusions")
+    if basis_counts["recorded_adjudication"] != EXPECTED_CURRENT_ADJUDICATIONS:
+        raise ValueError("Unexpected current adjudication count in frozen rows")
+    if basis_counts["legacy_recorded_adjudication"] != EXPECTED_LEGACY_ADJUDICATIONS:
+        raise ValueError("Unexpected legacy adjudication count in frozen rows")
+    if basis_counts["validated_obvious_exclude_stratum"] != EXPECTED_STRATIFIED_OBVIOUS_EXCLUDES:
+        raise ValueError("Unexpected stratified obvious-exclude count in frozen rows")
 
     FROZEN.mkdir(parents=True, exist_ok=True)
     write_csv(SCREENED_FILE, rows)
@@ -322,13 +316,7 @@ def main():
     source_commit = clean(os.environ.get("FREEZE_SOURCE_COMMIT") or os.environ.get("GITHUB_SHA"))
     input_hashes = {
         str(path.relative_to(ROOT)): sha256(path)
-        for path in [
-            CANDIDATE_FILE,
-            FLASH_FILE,
-            SOL_FILE,
-            ADJUDICATION_FILE,
-            ENRICHED_FILE,
-        ]
+        for path in [CANDIDATE_FILE, FLASH_FILE, SOL_FILE, ADJUDICATION_FILE, ENRICHED_FILE]
     }
     output_hashes = {
         str(SCREENED_FILE.relative_to(ROOT)): sha256(SCREENED_FILE),
@@ -342,8 +330,10 @@ def main():
         "candidate_universe": EXPECTED_CANDIDATES,
         "final_counts": dict(sorted(final_counts.items())),
         "decision_basis_counts": dict(sorted(basis_counts.items())),
-        "recorded_adjudications": len(adjudications),
-        "unadjudicated_obvious_excludes": len(unadjudicated),
+        "current_adjudications": len(adjudications),
+        "legacy_recorded_adjudications": len(legacy),
+        "legacy_recorded_adjudication_ids": sorted(legacy),
+        "stratified_obvious_excludes": len(stratified),
         "low_priority_qc_sample_size": len(LOW_PRIORITY_QC_SAMPLE),
         "low_priority_qc_sample_exclude_confirmations": len(LOW_PRIORITY_QC_SAMPLE),
         "sol_audited_obvious_excludes": len(sol_obvious),
@@ -351,16 +341,62 @@ def main():
         "input_sha256": input_hashes,
         "output_sha256": output_hashes,
     }
-    MANIFEST_FILE.write_text(json.dumps(manifest, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    MANIFEST_FILE.write_text(
+        json.dumps(manifest, indent=2, sort_keys=True) + "\n", encoding="utf-8"
+    )
 
-    report = f"""# GAHT TrialScope — Frozen Screened Dataset\n\nStage 10 freezes the screened candidate universe used for downstream descriptive analysis. The build is deterministic and generated by `scripts/freeze_dataset.py`.\n\n## Freeze result\n\n- Candidate universe: **{EXPECTED_CANDIDATES} unique NCT IDs**\n- Final included studies: **{final_counts['include']}**\n- Final excluded studies: **{final_counts['exclude']}**\n- Recorded adjudications applied: **{len(adjudications)}**\n- Obvious excludes finalized through the validated stratified-QC rule: **{len(unadjudicated)}**\n- Low-priority obvious-exclude QC sample: **25/25 confirmed exclude; 0 reversals**\n- Sol obvious-exclude audit: **{len(sol_obvious)}/{len(sol_obvious)} agreed obvious exclude**\n- Unresolved non-obvious records: **0**\n- Duplicate candidate IDs: **0**\n- Candidate / Flash / enriched-registry universe mismatch: **0**\n\n## Authoritative files\n\n- `screened_studies.csv` — all {EXPECTED_CANDIDATES} candidates with one final screening state and decision provenance.\n- `included_studies.csv` — the {final_counts['include']} final included studies for Stage 11 descriptive analysis.\n- `manifest.json` — source commit, counts, and SHA-256 hashes for reproducibility.\n\n## Decision precedence\n\n1. A recorded adjudication in `data/human_screening_decisions.csv` determines the final state when present.\n2. A candidate without a recorded adjudication may only be finalized as excluded if Flash classified it `obvious_exclude`.\n3. That lower-risk stratum is retained under the predefined validation design: 31 Sol-audited obvious excludes all agreed, and the 25-study low-priority QC sample produced 25 exclusions, 0 reversals, and 0 unresolved cases.\n4. Any unadjudicated record outside `obvious_exclude` causes the freeze build to fail.\n\n## Provenance language\n\nThe frozen dataset uses **`recorded_adjudication`** as a neutral provenance label for rows sourced from `human_screening_decisions.csv`. It does not relabel the 97 unreviewed obvious-exclude records as individually human-verified. Those rows are explicitly labeled **`validated_obvious_exclude_stratum`**. This preserves the distinction required by the protocol between individual adjudication and stratified exclusion QC.\n\n## Source snapshot\n\nSource commit: `{source_commit or 'not supplied'}`\n\nExact input and output SHA-256 hashes are recorded in `manifest.json`.\n"""
+    report = f"""# GAHT TrialScope — Frozen Screened Dataset
+
+Stage 10 freezes the screened candidate universe used for downstream descriptive analysis. The build is deterministic and generated by `scripts/freeze_dataset.py`.
+
+## Freeze result
+
+- Candidate universe: **{EXPECTED_CANDIDATES} unique NCT IDs**
+- Final included studies: **{final_counts['include']}**
+- Final excluded studies: **{final_counts['exclude']}**
+- Current adjudication-file records applied: **{len(adjudications)}**
+- Legacy record-level exclusions reconciled from `ai_triage.csv`: **{len(legacy)}**
+- Total record-level decisions represented: **{len(adjudications) + len(legacy)}**
+- Obvious excludes finalized through the validated stratified-QC rule: **{len(stratified)}**
+- Low-priority obvious-exclude QC sample: **25/25 confirmed exclude; 0 reversals**
+- Sol obvious-exclude audit: **{len(sol_obvious)}/{len(sol_obvious)} agreed obvious exclude**
+- Unresolved non-obvious records: **0**
+- Duplicate candidate IDs: **0**
+- Candidate / Flash / enriched-registry universe mismatch: **0**
+
+## Authoritative files
+
+- `screened_studies.csv` — all {EXPECTED_CANDIDATES} candidates with one final screening state and decision provenance.
+- `included_studies.csv` — the {final_counts['include']} final included studies for Stage 11 descriptive analysis.
+- `manifest.json` — source commit, counts, legacy reconciliation IDs, and SHA-256 hashes for reproducibility.
+
+## Decision precedence
+
+1. A current recorded adjudication in `data/human_screening_decisions.csv` determines the final state when present.
+2. Six older record-level exclusions preserved in `data/ai_triage.csv` as `human_decision_existing` are retained explicitly as `legacy_recorded_adjudication` rather than silently discarded.
+3. A candidate with neither source of record-level adjudication may only be finalized as excluded if Flash classified it `obvious_exclude`.
+4. That lower-risk stratum is retained under the predefined validation design: 31 Sol-audited obvious excludes all agreed, and the 25-study low-priority QC sample produced 25 exclusions, 0 reversals, and 0 unresolved cases.
+5. Any unadjudicated record outside `obvious_exclude` causes the freeze build to fail.
+
+## Provenance language
+
+The frozen dataset uses neutral provenance labels. It does **not** label the {len(stratified)} stratified-QC exclusions as individually human-verified. This preserves the protocol distinction between record-level adjudication and validated exclusion-stratum handling.
+
+## Source snapshot
+
+Source commit: `{source_commit or 'not supplied'}`
+
+Exact input and output SHA-256 hashes are recorded in `manifest.json`.
+"""
     REPORT_FILE.write_text(report, encoding="utf-8")
 
     print(
         f"Freeze passed: {EXPECTED_CANDIDATES} candidates -> "
         f"{final_counts['include']} include / {final_counts['exclude']} exclude; "
-        f"{len(unadjudicated)} stratified-QC obvious excludes."
+        f"{len(adjudications)} current adjudications + {len(legacy)} legacy; "
+        f"{len(stratified)} stratified obvious excludes."
     )
+    print("Legacy reconciled IDs: " + ", ".join(sorted(legacy)))
 
 
 if __name__ == "__main__":
